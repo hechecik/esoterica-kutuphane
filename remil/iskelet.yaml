@@ -45,6 +45,15 @@ bolumler:
     - "Seni temsil eden hane birinci hanedir; orada {sekil} var."
     - "Soranın hanesinde {sekil} duruyor. Bu, senin bugünkü hâlini anlatır."
     - "Birinci haneye, yani sana bakınca {sekil} görünüyor."
+  soran_baska:
+    - "Bu fal {kisi} için bakıldı; onu temsil eden hane tablonun {hane|si}. Orada {sekil} var."
+    - "{kisi|in} hanesi {hane}; bu hanede {sekil} duruyor. Onun bugünkü hâlini bu şekil anlatır."
+    - "Fal başkası için: {kisi} tablonun {hane|si}nde, {sekil} olarak görünüyor."
+    - "Soran sen olsan da soru {kisi} için; onun hanesi {hane}, şekli {sekil}."
+  soru_baska:
+    - "Onun için sorunun hanesi döndürülünce tablonun {hane|si}ne düşüyor; orada {sekil} var."
+    - "{kisi|in} sorusu {hane|de} yaşar; bu hanede {sekil} duruyor."
+    - "Döndürülmüş tabloda soru hanesi {hane}: {sekil}."
   soru:
     - "Sorunun hanesi {soru_hane}; orada {sekil} var."
     - "Sorduğun şey {soru_hane}de yaşar. Bu hanede {sekil} duruyor."
