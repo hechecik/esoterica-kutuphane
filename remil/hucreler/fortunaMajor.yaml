@@ -1,0 +1,124 @@
+kaynak: ilm-i remil geleneği; metin özgün
+lang: tr
+key: fortunaMajor
+haneler:
+  1:
+    olumlu:
+      - "Soran, Nusretü'd-dâhil'in gücüyle duruyor: kendi ayakları üzerinde, sağlam ve kararlı."
+      - "Birinci hanede Nusretü'd-dâhil, kendi gücüyle kazanan ve bunu hak eden birini gösteriyor."
+    notr:
+      - "Soranın hanesinde Nusretü'd-dâhil var; kişi şu an güçlü, ama bu güç yavaş işliyor."
+      - "Nusretü'd-dâhil birinci hanede: soran kalıcı olanı istiyor, geçici olana bakmıyor."
+    temkinli:
+      - "Soran Nusretü'd-dâhil gibi: güçlü ama ağır; harekete geçmesi zaman alıyor."
+      - "Birinci hanede Nusretü'd-dâhil, kendine fazla güvenme riskini anlatır."
+  2:
+    olumlu:
+      - "Para hanesinde Nusretü'd-dâhil: en iyi mali şekil; kazanç büyük, kalıcı ve hak edilmiş."
+      - "Mal hanesinde Nusretü'd-dâhil sağlam bir birikim ve uzun vadeli bolluk anlatır."
+    notr:
+      - "İkinci hanede Nusretü'd-dâhil var; para yavaş ama emin geliyor."
+      - "Mal hanesinde Nusretü'd-dâhil: kaynak sağlam, akış ağır."
+    temkinli:
+      - "Para hanesinde Nusretü'd-dâhil kazancın geç geleceğini söyler; sabırsız olan erken satar."
+      - "Nusretü'd-dâhil ikinci hanede: büyük para büyük sorumluluk."
+  3:
+    olumlu:
+      - "Haber hanesinde Nusretü'd-dâhil: gelen haber büyük ve hayırlı; kardeşler güçlü bir destek."
+      - "Üçüncü hanede Nusretü'd-dâhil yakın çevreden gelen sağlam bir yardımı anlatır."
+    notr:
+      - "Kardeşler hanesinde Nusretü'd-dâhil var; iletişim ağır ama değerli."
+      - "Üçüncü hanede Nusretü'd-dâhil: haber gecikir ama iyi gelir."
+    temkinli:
+      - "Haber hanesinde Nusretü'd-dâhil büyük haberin geç geldiğini uyarır; acele etme."
+      - "Nusretü'd-dâhil üçüncü hanede: kardeşle ilişki iyi ama hantal."
+  4:
+    olumlu:
+      - "Ev hanesinde Nusretü'd-dâhil: ev sağlam, aile güçlü, işin sonu büyük bir kazanç."
+      - "İşin sonu hanesinde Nusretü'd-dâhil meselenin kalıcı bir başarıyla kapanacağını söyler."
+    notr:
+      - "Dördüncü hanede Nusretü'd-dâhil var; evde güçlü bir figür, köklü bir düzen."
+      - "Ev hanesinde Nusretü'd-dâhil: mülk, toprak, kalıcı bir yer."
+    temkinli:
+      - "Ev hanesinde Nusretü'd-dâhil evin ağırlığını, kökten kopamamayı anlatabilir."
+      - "Nusretü'd-dâhil dördüncü hanede: sonuç iyi ama yavaş gelir."
+  5:
+    olumlu:
+      - "Aşk hanesinde Nusretü'd-dâhil: sağlam, kalıcı, güçlü bir sevgi."
+      - "Beşinci hanede Nusretü'd-dâhil çocuklardan gelen gurur ve büyük bir keyif anlatır."
+    notr:
+      - "Keyif hanesinde Nusretü'd-dâhil var; aşk ciddi, eğlence ağır."
+      - "Beşinci hanede Nusretü'd-dâhil: uzun vadeli bir bağ."
+    temkinli:
+      - "Aşk hanesinde Nusretü'd-dâhil ağır ve yavaş yaklaşan bir aşkı anlatır; sabırsızlık bozar."
+      - "Nusretü'd-dâhil beşinci hanede: keyif ciddiyete yenik düşebilir."
+  6:
+    olumlu:
+      - "Sağlık ve iş hanesinde Nusretü'd-dâhil: beden güçlü, günlük iş verimli ve sağlam."
+      - "Altıncı hanede Nusretü'd-dâhil iyi çalışanları ve kalıcı bir sağlığı anlatır."
+    notr:
+      - "Hizmet hanesinde Nusretü'd-dâhil var; işler ağır ama düzgün."
+      - "Altıncı hanede Nusretü'd-dâhil: güçlü bir yardımcı."
+    temkinli:
+      - "Sağlık hanesinde Nusretü'd-dâhil ağırlığı ve yavaşlığı uyarır; kesin söz hekimindir."
+      - "Nusretü'd-dâhil altıncı hanede: iş yükü büyük."
+  7:
+    olumlu:
+      - "Eş hanesinde Nusretü'd-dâhil: karşı taraf güçlü, güvenilir, kalıcı."
+      - "Yedinci hanede Nusretü'd-dâhil sağlam bir evlilik ya da güçlü bir ortaklık anlatır."
+    notr:
+      - "Karşı taraf hanesinde Nusretü'd-dâhil var; eş ya da ortak ağır ve kararlı."
+      - "Yedinci hanede Nusretü'd-dâhil: karşıdaki kişi güçlü bir rakip ya da güçlü bir dost."
+    temkinli:
+      - "Eş hanesinde Nusretü'd-dâhil, rakibin güçlü olduğunu uyarır; karşı tarafı küçümseme."
+      - "Nusretü'd-dâhil yedinci hanede: ortak baskın olabilir."
+  8:
+    olumlu:
+      - "Kriz hanesinde Nusretü'd-dâhil: zorluk güçle aşılır; miras ya da ortak para büyük."
+      - "Sekizinci hanede Nusretü'd-dâhil krizden güçlenerek çıkmayı anlatır."
+    notr:
+      - "Dönüşüm hanesinde Nusretü'd-dâhil var; kriz ağır, çözüm sağlam."
+      - "Sekizinci hanede Nusretü'd-dâhil: büyük bir borç ya da büyük bir miras."
+    temkinli:
+      - "Kriz hanesinde Nusretü'd-dâhil krizin uzun süreceğini uyarır; dayanıklılık gerekir."
+      - "Nusretü'd-dâhil sekizinci hanede: ortak paranın ağırlığı."
+  9:
+    olumlu:
+      - "Uzak yol ve ilim hanesinde Nusretü'd-dâhil: sınav kendi gücüyle kazanılır; yolculuk büyük ve hayırlı."
+      - "Dokuzuncu hanede Nusretü'd-dâhil sağlam bir eğitimi ve kalıcı bir öğrenmeyi anlatır."
+    notr:
+      - "İlim hanesinde Nusretü'd-dâhil var; sınav ağır, başarı kalıcı."
+      - "Dokuzuncu hanede Nusretü'd-dâhil: uzak yerde sağlam bir yer."
+    temkinli:
+      - "Sınav hanesinde Nusretü'd-dâhil yavaş ilerleyen bir hazırlığı uyarır; vakit erken başlamak ister."
+      - "Nusretü'd-dâhil dokuzuncu hanede: yol uzun, yük ağır."
+  10:
+    olumlu:
+      - "Kariyer hanesinde Nusretü'd-dâhil: kariyer için en iyi şekil; itibar büyük, yükseliş kalıcı."
+      - "Onuncu hanede Nusretü'd-dâhil kendi gücüyle kazanılan bir makamı anlatır."
+    notr:
+      - "İş ve itibar hanesinde Nusretü'd-dâhil var; kariyer sağlam, otorite güçlü."
+      - "Onuncu hanede Nusretü'd-dâhil: büyük bir kurum, büyük bir sorumluluk."
+    temkinli:
+      - "Kariyer hanesinde Nusretü'd-dâhil yükselişin yavaş olduğunu uyarır; kestirme yok."
+      - "Nusretü'd-dâhil onuncu hanede: itibar büyüdükçe yük artar."
+  11:
+    olumlu:
+      - "Dostlar hanesinde Nusretü'd-dâhil: güçlü dostlar, sağlam destek, gerçekleşen umutlar."
+      - "On birinci hanede Nusretü'd-dâhil umutların kalıcı biçimde gerçekleşeceğini söyler."
+    notr:
+      - "Umutlar hanesinde Nusretü'd-dâhil var; dost çevresi güçlü, planlar büyük."
+      - "On birinci hanede Nusretü'd-dâhil: nüfuzlu bir dost."
+    temkinli:
+      - "Dostlar hanesinde Nusretü'd-dâhil büyük dostların büyük beklentisini uyarır."
+      - "Nusretü'd-dâhil on birinci hanede: umut büyük, zaman uzun."
+  12:
+    olumlu:
+      - "Gizli şeyler hanesinde Nusretü'd-dâhil: içte güç, gizli bir dayanak."
+      - "On ikinci hanede Nusretü'd-dâhil sessiz ama güçlü bir koruyucuyu anlatır."
+    notr:
+      - "Gizli hanede Nusretü'd-dâhil var; içte ağır bir düşünce, saklı bir güç."
+      - "On ikinci hanede Nusretü'd-dâhil: gizli kalan büyük bir kaynak."
+    temkinli:
+      - "Gizli düşman hanesinde Nusretü'd-dâhil güçlü ve sabırlı bir rakibi uyarır."
+      - "Nusretü'd-dâhil on ikinci hanede: kişinin kendi ağırlığı, hareketsizliği gizli engeli."

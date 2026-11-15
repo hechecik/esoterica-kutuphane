@@ -1,0 +1,124 @@
+kaynak: ilm-i remil geleneği; metin özgün
+lang: tr
+key: caputDraconis
+haneler:
+  1:
+    olumlu:
+      - "Soran, Atebe-i dâhil'in eşiğinde duruyor: yeni bir dönemin başında, umutlu, kapıdan içeri adım atmaya hazır."
+      - "Birinci hanede Atebe-i dâhil, hayatında bir başlangıç yaşayan ve bunu kabul eden birini gösteriyor."
+    notr:
+      - "Soranın hanesinde Atebe-i dâhil var; kişi şu an bir giriş noktasında, henüz içeride değil."
+      - "Atebe-i dâhil birinci hanede: soran bir davet almış."
+    temkinli:
+      - "Soran Atebe-i dâhil gibi: başlangıcın heyecanı sonunu düşündürmeyebilir."
+      - "Birinci hanede Atebe-i dâhil tek başına iş bitirmez; yanındaki şekle bak."
+  2:
+    olumlu:
+      - "Para hanesinde Atebe-i dâhil: yeni bir gelir kapısı açılıyor; başlangıç bereketli."
+      - "Mal hanesinde Atebe-i dâhil ekilen tohumun ilk yeşermesini anlatır."
+    notr:
+      - "İkinci hanede Atebe-i dâhil var; para konusu başlangıçta, henüz meyve yok."
+      - "Mal hanesinde Atebe-i dâhil: yeni bir kaynak."
+    temkinli:
+      - "Para hanesinde Atebe-i dâhil, girişin kolay çıkışın zor olduğu yatırımları uyarıyor."
+      - "Atebe-i dâhil ikinci hanede: kazanç henüz uzakta."
+  3:
+    olumlu:
+      - "Haber hanesinde Atebe-i dâhil: haber yeni bir dönem başlatır; kardeşlerle yeni bir sayfa."
+      - "Üçüncü hanede Atebe-i dâhil hayırlı bir ilk temas anlatır."
+    notr:
+      - "Kardeşler hanesinde Atebe-i dâhil var; iletişim başlıyor, kısa yol açılıyor."
+      - "Üçüncü hanede Atebe-i dâhil: bir davet mektubu."
+    temkinli:
+      - "Haber hanesinde Atebe-i dâhil henüz netleşmemiş bir haberi uyarır."
+      - "Atebe-i dâhil üçüncü hanede: sadece giriş, sonrası belirsiz."
+  4:
+    olumlu:
+      - "Ev hanesinde Atebe-i dâhil: yeni bir ev, yeni bir üye; işin sonu yeni bir başlangıç."
+      - "İşin sonu hanesinde Atebe-i dâhil meselenin kapanırken yeni bir kapı açacağını söyler."
+    notr:
+      - "Dördüncü hanede Atebe-i dâhil var; evde bir giriş, köklerde yenilenme."
+      - "Ev hanesinde Atebe-i dâhil: eve biri geliyor."
+    temkinli:
+      - "Ev hanesinde Atebe-i dâhil eve giren yabancı etkiyi uyarır."
+      - "Atebe-i dâhil dördüncü hanede: sonuç gelir ama yeni bir yük de gelir."
+  5:
+    olumlu:
+      - "Aşk hanesinde Atebe-i dâhil: yeni bir aşk, bir hamilelik, bir başlangıç."
+      - "Beşinci hanede Atebe-i dâhil keyfin yeni bir kapıdan girdiğini anlatır."
+    notr:
+      - "Keyif hanesinde Atebe-i dâhil var; aşk başlıyor, eğlence yeni."
+      - "Beşinci hanede Atebe-i dâhil: ilk buluşma."
+    temkinli:
+      - "Aşk hanesinde Atebe-i dâhil çok erken bağlanmayı uyarır; kapıdan girdin diye evi tanımış olmazsın."
+      - "Atebe-i dâhil beşinci hanede: keyif henüz tomurcukta."
+  6:
+    olumlu:
+      - "Sağlık ve iş hanesinde Atebe-i dâhil: iyileşme başlıyor, yeni bir iş düzeni kuruluyor."
+      - "Altıncı hanede Atebe-i dâhil yeni bir çalışanı ya da yeni bir alışkanlığı anlatır."
+    notr:
+      - "Hizmet hanesinde Atebe-i dâhil var; işler yeni, sağlık toparlanmada."
+      - "Altıncı hanede Atebe-i dâhil: iş yerinde bir giriş."
+    temkinli:
+      - "Sağlık hanesinde Atebe-i dâhil yeni başlayan bir rahatsızlığı erken fark etmeyi hatırlatır; kesin söz hekimindir."
+      - "Atebe-i dâhil altıncı hanede: düzen henüz oturmamış."
+  7:
+    olumlu:
+      - "Eş hanesinde Atebe-i dâhil: karşı taraf yeni bir dönem açıyor; evlilik için hayırlı giriş."
+      - "Yedinci hanede Atebe-i dâhil yeni bir ortak ya da yeni bir eş anlatır."
+    notr:
+      - "Karşı taraf hanesinde Atebe-i dâhil var; eş ya da ortak kapıda."
+      - "Yedinci hanede Atebe-i dâhil: karşıdaki kişi yeni."
+    temkinli:
+      - "Eş hanesinde Atebe-i dâhil henüz tanınmayan bir karşı tarafı uyarır."
+      - "Atebe-i dâhil yedinci hanede: yeni rakip."
+  8:
+    olumlu:
+      - "Kriz hanesinde Atebe-i dâhil: krizden sonra yeni bir başlangıç; miras yeni bir kapı açar."
+      - "Sekizinci hanede Atebe-i dâhil dönüşümün girişini anlatır."
+    notr:
+      - "Dönüşüm hanesinde Atebe-i dâhil var; kriz yeni başlıyor."
+      - "Sekizinci hanede Atebe-i dâhil: ortak paraya giriş."
+    temkinli:
+      - "Kriz hanesinde Atebe-i dâhil yeni bir borca girişi uyarır."
+      - "Atebe-i dâhil sekizinci hanede: giriş kolay, çıkış zor."
+  9:
+    olumlu:
+      - "Uzak yol ve ilim hanesinde Atebe-i dâhil: yeni bir eğitim, yeni bir yolculuk; sınav bir kapı açar."
+      - "Dokuzuncu hanede Atebe-i dâhil yeni bir dünyaya girişi anlatır."
+    notr:
+      - "İlim hanesinde Atebe-i dâhil var; eğitim başlıyor, yol açılıyor."
+      - "Dokuzuncu hanede Atebe-i dâhil: uzak yerde yeni bir dönem."
+    temkinli:
+      - "Sınav hanesinde Atebe-i dâhil sınavı son değil başlangıç olarak görmeyi hatırlatır."
+      - "Atebe-i dâhil dokuzuncu hanede: yol yeni, harita yok."
+  10:
+    olumlu:
+      - "Kariyer hanesinde Atebe-i dâhil: yeni bir iş, yeni bir görev, yeni bir makam."
+      - "Onuncu hanede Atebe-i dâhil itibarın yeni bir sayfasını anlatır."
+    notr:
+      - "İş ve itibar hanesinde Atebe-i dâhil var; kariyer başlangıçta."
+      - "Onuncu hanede Atebe-i dâhil: yeni bir üst."
+    temkinli:
+      - "Kariyer hanesinde Atebe-i dâhil yeni işin ilk aylarının zorluğunu uyarır."
+      - "Atebe-i dâhil onuncu hanede: kapı açık, merdiven uzun."
+  11:
+    olumlu:
+      - "Dostlar hanesinde Atebe-i dâhil: yeni dostlar, yeni umutlar, yeni bir çevre."
+      - "On birinci hanede Atebe-i dâhil dileğin yeni bir kapıdan gireceğini söyler."
+    notr:
+      - "Umutlar hanesinde Atebe-i dâhil var; dost çevresi yenileniyor."
+      - "On birinci hanede Atebe-i dâhil: bir gruba giriş."
+    temkinli:
+      - "Dostlar hanesinde Atebe-i dâhil henüz sınanmamış dostlukları uyarır."
+      - "Atebe-i dâhil on birinci hanede: umut yeni, dayanak yok."
+  12:
+    olumlu:
+      - "Gizli şeyler hanesinde Atebe-i dâhil: içteki kapı açılıyor; gizli bir destek giriyor."
+      - "On ikinci hanede Atebe-i dâhil kapalı yerden yeni bir yola girişi anlatır."
+    notr:
+      - "Gizli hanede Atebe-i dâhil var; içte yeni bir düşünce."
+      - "On ikinci hanede Atebe-i dâhil: gizli bir başlangıç."
+    temkinli:
+      - "Gizli düşman hanesinde Atebe-i dâhil yeni ortaya çıkan bir rakibi uyarır."
+      - "Atebe-i dâhil on ikinci hanede: kişi eşikte bekliyor, içeri girmeli."

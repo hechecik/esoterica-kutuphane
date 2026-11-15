@@ -1,0 +1,124 @@
+kaynak: ilm-i remil geleneği; metin özgün
+lang: tr
+key: rubeus
+haneler:
+  1:
+    olumlu:
+      - "Soran, Humre'nin ateşiyle duruyor: tutkulu, güçlü, yerinde duramayan bir enerji."
+      - "Birinci hanede Humre, güçlü arzuları olan ve bunları saklamayan birini gösteriyor."
+    notr:
+      - "Soranın hanesinde Humre var; kişi şu an gergin, öfkeli ya da aşırı istekli."
+      - "Humre birinci hanede: soranın içinde bir yangın var, neye yöneleceği belli değil."
+    temkinli:
+      - "Soran Humre gibi: öfke ve arzu aklın önüne geçebilir; bu soruyu sakinken yeniden düşünmeli."
+      - "Birinci hanede Humre, gelenekte 'tabloyu bozan' şekildir; soru kötü niyetle ya da karışık kafayla sorulmuş olabilir."
+  2:
+    olumlu:
+      - "Para hanesinde Humre: kazanç tutkuyla, yoğun çalışmayla gelir."
+      - "Mal hanesinde Humre hızlı ve bol bir para akışı anlatır."
+    notr:
+      - "İkinci hanede Humre var; para konusu gergin ve hareketli."
+      - "Mal hanesinde Humre: kazanç yüksek, harcama da."
+    temkinli:
+      - "Para hanesinde Humre israfı, kumarı ve zevk için kaybedilen parayı uyarıyor."
+      - "Humre ikinci hanede: mal yüzünden bir kavga, bir hile riski."
+  3:
+    olumlu:
+      - "Haber hanesinde Humre: gelen haber heyecan verici, sıcak."
+      - "Üçüncü hanede Humre kardeşlerle tutkulu bir bağ anlatır."
+    notr:
+      - "Kardeşler hanesinde Humre var; yazışmalar sert, kısa yollar hareketli."
+      - "Üçüncü hanede Humre: çevrede bir dedikodu ateşi."
+    temkinli:
+      - "Haber hanesinde Humre kavgaya dönüşen sözleri ve yalan haberi uyarır."
+      - "Humre üçüncü hanede: kardeş ya da komşuyla öfkeli bir çatışma."
+  4:
+    olumlu:
+      - "Ev hanesinde Humre: evde sıcaklık, tutku ve canlılık."
+      - "İşin sonu hanesinde Humre meselenin yoğun bir hamleyle kapanacağını söylüyor."
+    notr:
+      - "Dördüncü hanede Humre var; evde ateşli bir figür, gergin bir hava."
+      - "Ev hanesinde Humre: köklerde bir sır ya da bir öfke."
+    temkinli:
+      - "Ev hanesinde Humre huzursuzluk ve kavgayı anlatır; evde ateş yanıyor, dikkat."
+      - "Humre dördüncü hanede: işin sonu sert ve karmaşık olabilir."
+  5:
+    olumlu:
+      - "Aşk hanesinde Humre: tutkulu, bedensel, yoğun bir çekim."
+      - "Beşinci hanede Humre keyfin dorukta olduğu bir dönemi anlatır."
+    notr:
+      - "Keyif hanesinde Humre var; aşk ateşli, eğlence aşırı."
+      - "Beşinci hanede Humre: arzu yüksek, sadakat sorgulanır."
+    temkinli:
+      - "Aşk hanesinde Humre kıskançlığı, aldatmayı ve zevk uğruna yapılan hataları uyarır."
+      - "Humre beşinci hanede: keyif için aşırılık, sonrasında pişmanlık."
+  6:
+    olumlu:
+      - "Sağlık ve iş hanesinde Humre: beden güçlü, günlük iş tutkuyla yapılıyor."
+      - "Altıncı hanede Humre yoğun ama verimli bir çalışma temposu anlatır."
+    notr:
+      - "Hizmet hanesinde Humre var; iş yerinde gerginlik, bedende hararet."
+      - "Altıncı hanede Humre: çalışanlar arasında öfke."
+    temkinli:
+      - "Sağlık hanesinde Humre ateşli hâlleri, iltihabı ve aşırılıktan gelen yorgunluğu uyarır; kesin söz hekimindir."
+      - "Humre altıncı hanede: günlük işte kavga, alışkanlıklarda aşırılık."
+  7:
+    olumlu:
+      - "Eş hanesinde Humre: karşı taraf tutkulu, güçlü, istekli."
+      - "Yedinci hanede Humre ateşli bir ortaklık anlatır."
+    notr:
+      - "Karşı taraf hanesinde Humre var; eş ya da ortak öfkeli, istekleri yüksek."
+      - "Yedinci hanede Humre: karşıdaki kişi arzu ve öfkeyle hareket ediyor."
+    temkinli:
+      - "Eş hanesinde Humre, karşı tarafın hilesini ya da sadakatsizliğini uyarır."
+      - "Humre yedinci hanede: rakip tehlikeli, ortak güvenilmez olabilir."
+  8:
+    olumlu:
+      - "Kriz hanesinde Humre: zorluk tutkuyla aşılır; kayıp yerine kazanç gelebilir."
+      - "Sekizinci hanede Humre dönüşümün güçlü ve kesin olacağını anlatır."
+    notr:
+      - "Dönüşüm hanesinde Humre var; kriz ateşli, kayıp ve kazanç iç içe."
+      - "Sekizinci hanede Humre: ortak para için bir yangın."
+    temkinli:
+      - "Kriz hanesinde Humre, öfkenin krizi büyüteceğini ve kaybı derinleştireceğini uyarır."
+      - "Humre sekizinci hanede: borç, hile ve kavga aynı yerde."
+  9:
+    olumlu:
+      - "Uzak yol ve ilim hanesinde Humre: yolculuk heyecanlı, öğrenme tutkulu."
+      - "Dokuzuncu hanede Humre bir davanın ateşiyle yürüyen birini anlatır."
+    notr:
+      - "İlim hanesinde Humre var; sınav gergin, yol hareketli."
+      - "Dokuzuncu hanede Humre: uzak yerde bir tutku, bir kavga."
+    temkinli:
+      - "Sınav hanesinde Humre paniği ve sinirden gelen hatayı uyarır."
+      - "Humre dokuzuncu hanede: yolda tehlike, inançta aşırılık."
+  10:
+    olumlu:
+      - "Kariyer hanesinde Humre: tutkuyla kazanılan bir güç, dikkat çeken bir başarı."
+      - "Onuncu hanede Humre kişinin göze çarptığı bir dönemi anlatır."
+    notr:
+      - "İş ve itibar hanesinde Humre var; kariyer gergin, otorite sert."
+      - "Onuncu hanede Humre: üstlerle öfkeli bir ilişki."
+    temkinli:
+      - "Kariyer hanesinde Humre skandalı, öfkeyle kaybedilen itibarı uyarır."
+      - "Humre onuncu hanede: güç için yapılan hile geri döner."
+  11:
+    olumlu:
+      - "Dostlar hanesinde Humre: arkadaşlar coşkulu, destek ateşli."
+      - "On birinci hanede Humre umutların tutkuyla kovalanacağını söyler."
+    notr:
+      - "Umutlar hanesinde Humre var; dost çevresi hareketli, planlar aşırı."
+      - "On birinci hanede Humre: tutkulu bir dost, gergin bir çevre."
+    temkinli:
+      - "Dostlar hanesinde Humre arkadaşlar arasında kavga ve ihaneti uyarır."
+      - "Humre on birinci hanede: umut arzuya dönüşmüş, ölçü kaçmış."
+  12:
+    olumlu:
+      - "Gizli şeyler hanesinde Humre: içteki ateş gizli bir güç kaynağı."
+      - "On ikinci hanede Humre saklı bir tutkuyu, gizli bir enerjiyi anlatır."
+    notr:
+      - "Gizli hanede Humre var; içte öfke, bastırılmış arzu."
+      - "On ikinci hanede Humre: gizli bir ilişki ya da saklı bir yangın."
+    temkinli:
+      - "Gizli düşman hanesinde Humre arkadan gelen bir ihaneti ve öfkeli bir düşmanı uyarır."
+      - "Humre on ikinci hanede: kişinin kendi öfkesi ve alışkanlıkları gizli düşmanı."

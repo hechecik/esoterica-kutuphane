@@ -1,0 +1,124 @@
+kaynak: ilm-i remil geleneği; metin özgün
+lang: tr
+key: albus
+haneler:
+  1:
+    olumlu:
+      - "Soran, Beyâz'ın sükûnetiyle duruyor: aklı berrak, niyeti temiz, acelesi yok."
+      - "Birinci hanede Beyâz, düşünerek hareket eden ve sabırla bekleyebilen birini gösteriyor."
+    notr:
+      - "Soranın hanesinde Beyâz var; kişi şu an sessiz, düşünceli ve biraz çekingen."
+      - "Beyâz birinci hanede: soran gözlemliyor, henüz harekete geçmemiş."
+    temkinli:
+      - "Soran Beyâz gibi: çok düşünüp az yapıyor olabilir; bilgelik hareketsizliğe dönüşmemeli."
+      - "Birinci hanede Beyâz, enerjisi düşük ama aklı yerinde bir hâli anlatır."
+  2:
+    olumlu:
+      - "Para hanesinde Beyâz: kazanç akılla, bilgiyle ve düzenli çalışmayla gelir."
+      - "Mal hanesinde Beyâz yavaş ama sağlam biriken bir kaynağı anlatır."
+    notr:
+      - "İkinci hanede Beyâz var; para konusu hesaplı ve sakin."
+      - "Mal hanesinde Beyâz: kazanç orta, harcama ölçülü."
+    temkinli:
+      - "Para hanesinde Beyâz fazla temkinli davranıp fırsatı kaçırmayı uyarıyor."
+      - "Beyâz ikinci hanede: kazanç var ama yavaş; sabırsızlık zarar verir."
+  3:
+    olumlu:
+      - "Haber hanesinde Beyâz: gelen haber açık, yazılı ve güvenilir."
+      - "Üçüncü hanede Beyâz, kardeşlerle sakin bir anlaşma ve düzgün bir iletişim anlatır."
+    notr:
+      - "Kardeşler hanesinde Beyâz var; yazışmalar net, kısa yollar sessiz."
+      - "Üçüncü hanede Beyâz: haber gecikebilir ama geldiğinde doğrudur."
+    temkinli:
+      - "Haber hanesinde Beyâz soğuk bir yazışmayı ya da duygusuz bir cevabı anlatabilir."
+      - "Beyâz üçüncü hanede: çevreyle iletişim mesafeli."
+  4:
+    olumlu:
+      - "Ev hanesinde Beyâz: ev sakin, düzenli ve huzurlu; işin sonu temiz."
+      - "İşin sonu hanesinde Beyâz, meselenin akılla ve sessizce çözüleceğini söyler."
+    notr:
+      - "Dördüncü hanede Beyâz var; evde yaşlı ya da bilge bir figür öne çıkıyor."
+      - "Ev hanesinde Beyâz: kökler durgun, düzen değişmiyor."
+    temkinli:
+      - "Ev hanesinde Beyâz soğukluk ve sessiz bir mesafe anlatabilir."
+      - "Beyâz dördüncü hanede: işin sonu gelir ama geç gelir."
+  5:
+    olumlu:
+      - "Aşk hanesinde Beyâz: sevgi sakin, derin ve sadık; keyif ince."
+      - "Beşinci hanede Beyâz akıl yoluyla gelen bir yakınlık, sohbetle kurulan bir bağ anlatır."
+    notr:
+      - "Keyif hanesinde Beyâz var; aşk durgun, eğlence sessiz."
+      - "Beşinci hanede Beyâz: bir çocuk ya da öğrenci konusu."
+    temkinli:
+      - "Aşk hanesinde Beyâz tutkusuz bir ilişkiyi ya da fazla ölçülü bir kalbi anlatabilir."
+      - "Beyâz beşinci hanede: keyif ertelenmiş, aşk düşünceye boğulmuş."
+  6:
+    olumlu:
+      - "Sağlık ve iş hanesinde Beyâz: beden dinlenmiş, günlük iş düzenli."
+      - "Altıncı hanede Beyâz iyileşmeyi, sakin bir çalışma düzenini anlatır."
+    notr:
+      - "Hizmet hanesinde Beyâz var; işler yavaş ama düzgün ilerliyor."
+      - "Altıncı hanede Beyâz: çalışanlar sessiz, sağlık dengede."
+    temkinli:
+      - "Sağlık hanesinde Beyâz düşük enerjiyi ve halsizliği uyarır; kesin söz hekimindir."
+      - "Beyâz altıncı hanede: günlük işte durgunluk, verim düşük."
+  7:
+    olumlu:
+      - "Eş hanesinde Beyâz: karşı taraf sakin, dürüst ve barışçıl."
+      - "Yedinci hanede Beyâz uzlaşmaya açık bir ortak ve düşünceli bir eş anlatır."
+    notr:
+      - "Karşı taraf hanesinde Beyâz var; eş ya da ortak sessiz ve mesafeli."
+      - "Yedinci hanede Beyâz: karşıdaki kişi önce dinliyor, sonra konuşuyor."
+    temkinli:
+      - "Eş hanesinde Beyâz soğuk bir karşı tarafı ya da ilgisiz bir ortağı anlatabilir."
+      - "Beyâz yedinci hanede: rakip sessiz ama hesaplı."
+  8:
+    olumlu:
+      - "Kriz hanesinde Beyâz: zorluk sakin kafayla geçer; korku akılla dağılır."
+      - "Sekizinci hanede Beyâz borç ya da miras konusunda düzgün bir çözüm anlatır."
+    notr:
+      - "Dönüşüm hanesinde Beyâz var; kriz sessiz, çözüm yavaş."
+      - "Sekizinci hanede Beyâz: ortak para için belgelerle çalışmak gerek."
+    temkinli:
+      - "Kriz hanesinde Beyâz sorunun sessizce büyümesini uyarır; görünmüyor diye yok değil."
+      - "Beyâz sekizinci hanede: korku içe atılmış, konuşulmamış."
+  9:
+    olumlu:
+      - "Uzak yol ve ilim hanesinde Beyâz: sınav için en iyi şekil; akıl açık, bilgi yerinde."
+      - "Dokuzuncu hanede Beyâz sakin bir yolculuk ve başarılı bir öğrenme anlatır."
+    notr:
+      - "İlim hanesinde Beyâz var; eğitim düzenli, yol sessiz."
+      - "Dokuzuncu hanede Beyâz: uzak yerde bir bilge, bir öğretmen."
+    temkinli:
+      - "Sınav hanesinde Beyâz aşırı titizliği uyarır; her soruda takılmak zaman yer."
+      - "Beyâz dokuzuncu hanede: yolculuk ertelenebilir, karar ağır."
+  10:
+    olumlu:
+      - "Kariyer hanesinde Beyâz: itibar bilgiyle kazanılır; kişi güvenilir bulunur."
+      - "Onuncu hanede Beyâz danışmanlık, öğretme ya da yazıyla gelen bir yükseliş anlatır."
+    notr:
+      - "İş ve itibar hanesinde Beyâz var; kariyer sakin, üstler ölçülü."
+      - "Onuncu hanede Beyâz: otorite sessiz ama adil."
+    temkinli:
+      - "Kariyer hanesinde Beyâz fazla geri durmayı uyarır; görünmeyen çalışan terfi almaz."
+      - "Beyâz onuncu hanede: yükseliş yavaş, sabır ister."
+  11:
+    olumlu:
+      - "Dostlar hanesinde Beyâz: arkadaşlar akıllı, destek sessiz ama sağlam."
+      - "On birinci hanede Beyâz umutların düşünerek ve planlayarak gerçekleşeceğini söyler."
+    notr:
+      - "Umutlar hanesinde Beyâz var; dost çevresi sakin, planlar uzun vadeli."
+      - "On birinci hanede Beyâz: bilge bir dost, az ama öz bir çevre."
+    temkinli:
+      - "Dostlar hanesinde Beyâz mesafeli arkadaşlıkları ve geç gelen desteği anlatabilir."
+      - "Beyâz on birinci hanede: umut var ama kımıldamıyor."
+  12:
+    olumlu:
+      - "Gizli şeyler hanesinde Beyâz: içte huzur, sessiz bir bilgelik."
+      - "On ikinci hanede Beyâz gizli bir dostu, sessiz bir koruyucuyu anlatır."
+    notr:
+      - "Gizli hanede Beyâz var; içte durgunluk, kapalı bir düşünce."
+      - "On ikinci hanede Beyâz: yalnız geçen sessiz saatler."
+    temkinli:
+      - "Gizli düşman hanesinde Beyâz sessiz ve hesaplı bir rakibi uyarır."
+      - "Beyâz on ikinci hanede: kişinin kendi tereddüdü en gizli engeli."

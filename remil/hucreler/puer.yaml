@@ -1,0 +1,124 @@
+kaynak: ilm-i remil geleneği; metin özgün
+lang: tr
+key: puer
+haneler:
+  1:
+    olumlu:
+      - "Soran, Cevdele'nin cesaretiyle duruyor: harekete hazır, enerjisi yerinde, korkusu az."
+      - "Birinci hanede Cevdele, kendi gücüne güvenen ve ilk adımı atmaktan çekinmeyen birini gösteriyor."
+    notr:
+      - "Soranın hanesinde Cevdele var; kişi şu an aceleci, atak ve biraz da sabırsız."
+      - "Cevdele birinci hanede: soranın içinde bir mücadele isteği var, nereye yöneleceği henüz belli değil."
+    temkinli:
+      - "Soran Cevdele gibi: önce yapıp sonra düşünüyor; bu soruda da acele etme ihtimali yüksek."
+      - "Birinci hanede Cevdele kırgınlığa açık bir hâl anlatır; cesaret var ama sabır ince."
+  2:
+    olumlu:
+      - "Para hanesinde Cevdele: kazanç kendi çabayla, hızlı bir hamleyle gelir."
+      - "Cevdele mal hanesinde girişken bir kazanç anlatır; cesur bir adım cebi doldurur."
+    notr:
+      - "İkinci hanede Cevdele var; para hızlı geliyor, hızlı gidiyor."
+      - "Mal hanesinde Cevdele, kazanç için mücadele gerektiğini söylüyor."
+    temkinli:
+      - "Para hanesinde Cevdele düşünmeden yapılan harcamaları ve riskli girişimleri uyarıyor."
+      - "Cevdele ikinci hanede: aceleyle verilen bir mali karar kayba dönüşebilir."
+  3:
+    olumlu:
+      - "Haber hanesinde Cevdele: beklenen haber hızlı ve net gelir."
+      - "Üçüncü hanede Cevdele kardeşlerden ya da yakın çevreden atak bir destek anlatır."
+    notr:
+      - "Kardeşler hanesinde Cevdele var; kısa yollar hareketli, yazışmalar sert."
+      - "Üçüncü hanede Cevdele: çevreden gelen söz keskin, haber ani."
+    temkinli:
+      - "Haber hanesinde Cevdele tartışma ve kırıcı söz anlatır; ağızdan çıkan geri alınmaz."
+      - "Cevdele üçüncü hanede: kardeş ya da komşuyla bir çatışma yakın."
+  4:
+    olumlu:
+      - "Ev hanesinde Cevdele: evde bir hareket, bir yenilenme, yerinden kalkan bir enerji."
+      - "İşin sonu hanesinde Cevdele, meselenin cesur bir hamleyle kapanacağını söylüyor."
+    notr:
+      - "Dördüncü hanede Cevdele var; evde genç ve atak bir figür öne çıkıyor."
+      - "Ev ve kökler hanesinde Cevdele: aile içinde bir meydan okuma."
+    temkinli:
+      - "Ev hanesinde Cevdele huzursuzluk anlatır; evde sesler yükselebilir."
+      - "Cevdele dördüncü hanede: işin sonu kavgayla ya da ani bir kararla gelebilir."
+  5:
+    olumlu:
+      - "Aşk ve keyif hanesinde Cevdele: tutkulu, ateşli, cesur bir çekim."
+      - "Beşinci hanede Cevdele, keyif için cesaretle atılan bir adımı över."
+    notr:
+      - "Keyif hanesinde Cevdele var; eğlence hareketli, aşk hızlı."
+      - "Beşinci hanede Cevdele: genç bir aşk, bir rekabet, bir oyun."
+    temkinli:
+      - "Aşk hanesinde Cevdele kıskançlık ve acele ilan anlatır; kalp hızlı, dil hızlı."
+      - "Cevdele beşinci hanede: keyif için alınan risk pahalıya patlayabilir."
+  6:
+    olumlu:
+      - "Sağlık ve iş hanesinde Cevdele: beden güçlü, günlük iş hızlı akar."
+      - "Altıncı hanede Cevdele enerjik bir çalışma temposu anlatır."
+    notr:
+      - "Hizmet hanesinde Cevdele var; günlük işlerde acele, bedende hareket."
+      - "Altıncı hanede Cevdele: çalışanlar ya da iş arkadaşları arasında rekabet."
+    temkinli:
+      - "Sağlık hanesinde Cevdele ani hâlleri ve dikkatsizlikten gelen kazayı uyarır; kesin söz hekimindir."
+      - "Cevdele altıncı hanede: günlük işte bir çatışma, yorgunluğa dönüşen acele."
+  7:
+    olumlu:
+      - "Eş hanesinde Cevdele: karşı taraf cesur, girişken ve ateşli."
+      - "Yedinci hanede Cevdele karşıdaki kişinin ilk adımı atacağını söyler."
+    notr:
+      - "Karşı taraf hanesinde Cevdele var; eş ya da ortak atak, sabırsız."
+      - "Yedinci hanede Cevdele: karşıdaki kişi genç ya da genç ruhlu bir savaşçı."
+    temkinli:
+      - "Eş hanesinde Cevdele tartışmaya ve rekabete açık bir karşı taraf anlatır."
+      - "Cevdele yedinci hanede: rakip hızlı ve sert; ortak kırıcı olabilir."
+  8:
+    olumlu:
+      - "Kriz hanesinde Cevdele: zorluk cesaretle aşılır, korku hamleyle yenilir."
+      - "Sekizinci hanede Cevdele borç ya da miras konusunda cesur bir çözüm anlatır."
+    notr:
+      - "Dönüşüm hanesinde Cevdele var; kriz hareketli, çözüm mücadeleli."
+      - "Sekizinci hanede Cevdele: ortak para için bir çekişme."
+    temkinli:
+      - "Kriz hanesinde Cevdele düşünmeden atılan adımın yeni bir kriz doğurabileceğini uyarır."
+      - "Cevdele sekizinci hanede: borç konusunda kavga, kayıp riski."
+  9:
+    olumlu:
+      - "Uzak yol ve ilim hanesinde Cevdele: yolculuk hızlı, sınav mücadeleyle kazanılır."
+      - "Dokuzuncu hanede Cevdele cesur bir öğrenme ve atak bir yolculuk anlatır."
+    notr:
+      - "İlim hanesinde Cevdele var; sınav bir savaş gibi, yol hareketli."
+      - "Dokuzuncu hanede Cevdele: uzak yerde bir meydan okuma."
+    temkinli:
+      - "Sınav hanesinde Cevdele dikkatsizlik hatasını uyarır; soru yarım okunur, cevap yanlış verilir."
+      - "Cevdele dokuzuncu hanede: yolda acele, inançta sertlik."
+  10:
+    olumlu:
+      - "Kariyer hanesinde Cevdele: öne çıkış, terfi, rekabetin kazanılması."
+      - "Onuncu hanede Cevdele cesaretle elde edilen bir itibar anlatır."
+    notr:
+      - "İş ve itibar hanesinde Cevdele var; kariyer hareketli, otorite sert."
+      - "Onuncu hanede Cevdele: üstlerle bir güç çekişmesi."
+    temkinli:
+      - "Kariyer hanesinde Cevdele üstlerle çatışmayı ve aceleyle yakılan köprüleri uyarır."
+      - "Cevdele onuncu hanede: itibar için alınan risk geri tepebilir."
+  11:
+    olumlu:
+      - "Dostlar hanesinde Cevdele: arkadaşlar cesur, destek hızlı ve sözsüz."
+      - "On birinci hanede Cevdele umutların hamleyle gerçekleşeceğini söyler."
+    notr:
+      - "Umutlar hanesinde Cevdele var; dost çevresi hareketli, planlar atak."
+      - "On birinci hanede Cevdele: genç bir dost, ateşli bir destek."
+    temkinli:
+      - "Dostlar hanesinde Cevdele arkadaşlar arasında rekabet ve kırgınlık anlatır."
+      - "Cevdele on birinci hanede: umut aceleyle kovalanınca kaçar."
+  12:
+    olumlu:
+      - "Gizli şeyler hanesinde Cevdele: içteki korku cesaretle yenilir."
+      - "On ikinci hanede Cevdele gizli bir enerjiyi, saklı bir gücü anlatır."
+    notr:
+      - "Gizli hanede Cevdele var; içte bir huzursuzluk, sessiz bir mücadele."
+      - "On ikinci hanede Cevdele: görünmeyen bir rakip ya da içte bir savaş."
+    temkinli:
+      - "Gizli düşman hanesinde Cevdele arkadan gelen sert bir hamleyi uyarır."
+      - "Cevdele on ikinci hanede: kendi öfkesi kişinin en gizli düşmanı."

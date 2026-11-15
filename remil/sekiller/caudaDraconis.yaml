@@ -1,0 +1,87 @@
+kaynak: ilm-i remil geleneği ve kamu malı klasikler; metin özgün
+lang: tr
+key: caudaDraconis
+ad: Atebe-i hâric
+latin: Cauda Draconis
+anlam: Ejderin kuyruğu, dış eşik
+temalar: { bitis: 3, cikis: 3, birakma: 3, kayip: 2, donusum: 2, kurtulma: 2, tehlike: 1 }
+portre:
+  - "Atebe-i hâric, tek, tek, tek, çift: üst üç basamağı dolu, ayağı açık bir çıkış kapısı."
+  - "Bu şekil ejderin kuyruğudur; Ay'ın güney düğümünü, yani bir şeyden çıkılan eşiği anlatır."
+  - "Atebe-i hâric kapıdan dışarı adım atmaktır: bitiş, çıkış, bir dönemin son günü."
+  - "Gelenekte zor bir şekil sayılır; ama her çıkış bir kurtuluştur, her bitiş bir yük bırakmadır."
+  - "Dış eşik, geride bırakılan şeydir; arkaya bakmadan geçilen kapı."
+  - "Bu şekil hasadı anlatır: ağaçtan düşen meyve, biten mevsim, kapanan defter."
+  - "Atebe-i hâric ayrılıkların, bitirişlerin ve bırakmaların şeklidir."
+  - "Ejderin kuyruğu iniştir; yukarıdan aşağı doğru bir hareket, bir çıkış."
+  - "Bu şekil çoğunlukla 'bitiyor' der; bitenin ne olduğu soruya göre değişir."
+  - "Dış eşik aynı zamanda bir kurtuluştur: bağlayan şey çözülür, kapı arkadan kapanır."
+  - "Atebe-i hâric'te kayıp var, ama tutulması gerekmeyen şeyin kaybı."
+  - "Kapının öte tarafı: veda, hafifleme ve yeni bir yolun başı."
+hakim:
+  genel:
+    - "Hâkim Atebe-i hâric: Mesele bir bitiştir; bir kapı kapanıyor, bir dönem sona eriyor. Zor ama temizleyici."
+    - "Dış eşik hâkim olmuş; soru bir şeyin sonunda duruyor. Bırakılması gereken bırakılmalı."
+    - "Hâkim olarak ejderin kuyruğu, çıkış hükmüdür: bir şeyden çıkılır, geriye dönülmez."
+    - "Bu hükümde işin sonu belirleyicidir; başlangıç için değil, bitiriş için uygun bir zaman."
+    - "Atebe-i hâric hükmü 'bitir ve bırak' der; tutmaya çalışmak yorar."
+  ask:
+    - "Gönül sorusunda dış eşik hâkimi bir bağın bittiğini ya da bir dönemin kapandığını anlatır; acı ama hafifletici."
+    - "Aşkta ejderin kuyruğu: kapı kapanıyor. Bazen ilişki biter, bazen sadece eski hâli biter."
+    - "Kalp meselesinde Atebe-i hâric, bırakmayı öğrenmeyi söyler; tutulan şey zaten gitmiş."
+    - "Aşk sorusunda bu hüküm yeni bir başlangıç için uygun değildir; önce eskisi kapanmalı."
+  is:
+    - "İş sorusunda dış eşik hâkimi bir görevden, bir yerden ya da bir işten çıkışı anlatır."
+    - "Kariyerde ejderin kuyruğu: bir dönem bitiyor; istifa, bitiş, yön değişikliği."
+    - "İşte Atebe-i hâric: mevcut işin sonu, ama yeni yolun ilk gerekli adımı."
+    - "İş için bu hüküm 'çık' der; çıkış korkutucu, kalış daha yorucu."
+  para:
+    - "Para sorusunda dış eşik hâkimi bir harcamayı, bir kaybı ya da bir yükten kurtuluşu anlatır."
+    - "Maddi konuda ejderin kuyruğu: bir borç kapanır, bir kaynak biter; defter temizlenir."
+    - "Atebe-i hâric para için 'bırak' der; batan işe para eklenmez."
+    - "Kazanç sorusunda bu hüküm olumsuzdur; ama kaybın sonu da kayıptır, yani biter."
+  yolculuk:
+    - "Yolculuk sorusunda dış eşik hâkimi bir yerden ayrılışı anlatır; gidiş olur, dönüş zor."
+    - "Ejderin kuyruğu yolculukta 'çık' der; bulunduğun yer bitti, yol seni çağırıyor."
+    - "Seyahat sorusunda bu hüküm ayrılığı onaylar, ama yolda dikkat ister."
+    - "Yol için Atebe-i hâric: geride bırakılan bir yer, kapanan bir kapı, uzun bir veda."
+  sinav:
+    - "Sınav sorusunda dış eşik hâkimi bir dönemin kapandığını anlatır; sınav ya son perdedir ya da yolun değiştiği yer."
+    - "Ejderin kuyruğu sınavda 'bitir' der; bu sınavdan sonra eski düzen kalmaz."
+    - "İlim sorusunda bu hüküm karışıktır: bir şey tamamlanır, ama bir şey de bırakılır."
+    - "Sınav için Atebe-i hâric: son hamle, bitiş, kapanan defter."
+  saglik:
+    - "Sağlık sorusunda dış eşik hâkimi bir sıkıntının bitişini ya da bir alışkanlığın bırakılmasını anlatır. Kesin söz hekimindir."
+    - "Ejderin kuyruğu sağlıkta 'bırak' der: bırakılacak bir şey var, ve bırakınca hafifler."
+    - "Beden sorusunda bu hüküm dikkat ister; yorulan şey dinlenmeli."
+    - "Sağlık için Atebe-i hâric: bir dönemin sonu, yeni bir düzenin zorunluluğu."
+  aile:
+    - "Aile sorusunda dış eşik hâkimi evden bir ayrılışı, bir vedayı ya da eski bir düzenin bitişini anlatır."
+    - "Ejderin kuyruğu aile konusunda zordur: biri gider, bir şey kapanır."
+    - "Ev için bu hüküm bir taşınma, bir ayrılık ya da bir dönemin bitişidir."
+    - "Aile sorusunda Atebe-i hâric: bırakılan ev, bitirilen tartışma, kapanan kapı."
+  kayip:
+    - "Kayıp eşya sorusunda dış eşik hâkimi eşyanın çıkışa yakın olduğunu söyler: kapı dışı, bahçe, yol."
+    - "Ejderin kuyruğu kayıpta umut vermez; eşya gitmiş ya da başkasının elinde."
+    - "Kaybolan şey için bu hüküm 'dışarıda' der; evin içinde değil, çıkılan yerde."
+    - "Kayıp için Atebe-i hâric: bırakıldığı yerde kalmamış; bırak, yenisini al."
+tanik_sag:
+  - "Sağ tanık Atebe-i hâric: bu soru bir bitişten doğmuş; geçmişte bir kapı kapanmış."
+  - "Geçmişi anlatan tanıkta ejderin kuyruğu var; soran yakın zamanda bir şey bırakmış."
+  - "Sağ tanıkta dış eşik: meselenin kökü bir ayrılıkta ya da bir kayıpta."
+  - "Sağ tanık olarak Atebe-i hâric, geride bırakılmış bir dönemi söyler."
+tanik_sol:
+  - "Sol tanık Atebe-i hâric: önünde bir çıkış var; mesele bir bitişle sonuçlanacak."
+  - "Geleceği anlatan tanıkta ejderin kuyruğu var; ilerisi bir vedaya açılıyor."
+  - "Sol tanıkta dış eşik: bırakma, kurtulma, kapanış."
+  - "Sol tanık olarak Atebe-i hâric, sonun yaklaştığını ve bunun gerekli olduğunu söyler."
+uzlastirici:
+  - "Uzlaştırıcı Atebe-i hâric: uzun vadede bu mesele biter ve geride kalır; iyi ki bitecek."
+  - "Son söz olarak ejderin kuyruğu: iş kapanır, yük bırakılır, yol hafifler."
+  - "Uzlaştırıcıda dış eşik, zamanla bırakmanın doğru olduğunun anlaşılacağını söyler."
+  - "Uzun vadede Atebe-i hâric: ayrılık, hafifleme, yeni bir sayfanın zorunluluğu."
+ogut:
+  - "Biten şeyi tutma; bırakınca eller yeni şey tutabilir."
+  - "Kapıyı çarpmadan kapat, ama kapat."
+  - "Veda acıtır, oyalama daha çok acıtır."
+  - "Çıkış kapısı da bir kapıdır; arkasında yol var."

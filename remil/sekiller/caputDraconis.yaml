@@ -1,0 +1,87 @@
+kaynak: ilm-i remil geleneği ve kamu malı klasikler; metin özgün
+lang: tr
+key: caputDraconis
+ad: Atebe-i dâhil
+latin: Caput Draconis
+anlam: Ejderin başı, iç eşik
+temalar: { baslangic: 3, giris: 3, umut: 2, destek: 2, bereket: 2, sabir: 1, yenilik: 2 }
+portre:
+  - "Atebe-i dâhil, çift, tek, tek, tek: alt üç basamağı dolu, başı açık bir kapı eşiği."
+  - "Bu şekil ejderin başıdır; Ay'ın kuzey düğümünü, yani bir şeyin içine girilen eşiği anlatır."
+  - "Atebe-i dâhil kapıdan içeri adım atmaktır: başlangıç, giriş, yeni bir dönemin ilk günü."
+  - "Gelenekte iyi sayılır, ama tek başına iş bitirmez; yanındaki şekle göre renk alır."
+  - "İç eşik, umutla açılan bir kapıdır; arkasında ne olduğu henüz belli değildir, ama kapı açıktır."
+  - "Bu şekil tohumu anlatır: küçük, sessiz, ama içinde bütün ağaç var."
+  - "Atebe-i dâhil sabırlı başlangıçların, yavaş yavaş kurulan işlerin şeklidir."
+  - "Ejderin başı yükseliştir; aşağıdan yukarı doğru bir hareket, bir giriş."
+  - "Bu şekil çoğunlukla iyi haber getirir, ama hızlı değil; eşikten geçmek zaman alır."
+  - "İç eşik aynı zamanda bir davettir: biri seni çağırıyor, bir kapı sana açılıyor."
+  - "Atebe-i dâhil'de bereket var, ama hazır bereket değil; ekilen tohumun bereketi."
+  - "Kapının bu tarafı: niyet, hazırlık ve ilk adım."
+hakim:
+  genel:
+    - "Hâkim Atebe-i dâhil: Mesele bir başlangıçtır; kapı açılıyor, içeri giriliyor. Sonuç zamanla ve sabırla gelir."
+    - "İç eşik hâkim olmuş; soru yeni bir dönemin başında duruyor. Umut var, acele yok."
+    - "Hâkim olarak ejderin başı, giriş hükmüdür: bir şeye adım atılır, geri dönüş yoktur."
+    - "Bu hükümde işin başı iyidir; sonu için yanındaki tanıklara bakılır."
+    - "Atebe-i dâhil hükmü iyi bir başlangıcı onaylar, ama 'sonunu kendin yazacaksın' der."
+  ask:
+    - "Gönül sorusunda iç eşik hâkimi, yeni bir bağın ya da bir ilişkide yeni bir dönemin başladığını anlatır."
+    - "Aşkta ejderin başı: kapı açılıyor, biri içeri davet ediyor. Yavaş gir, ama gir."
+    - "Kalp meselesinde Atebe-i dâhil, henüz adı konmamış bir yakınlığı söyler; tohum atılmış."
+    - "Aşk sorusunda bu hüküm umutludur; acele etmeden, kapıyı zorlamadan ilerlemek gerekir."
+  is:
+    - "İş sorusunda iç eşik hâkimi yeni bir göreve, yeni bir yere ya da yeni bir işe girişi anlatır."
+    - "Kariyerde ejderin başı: başvuru kabul görür, kapı açılır; ama ilk aylar sabır ister."
+    - "İşte Atebe-i dâhil: başlangıç iyi, kuruluş sağlam; meyve zamanla."
+    - "İş için bu hüküm 'gir' der; girdikten sonra işi büyütmek senin elinde."
+  para:
+    - "Para sorusunda iç eşik hâkimi yeni bir gelir kapısını ya da yatırımın başlangıcını anlatır."
+    - "Maddi konuda ejderin başı: küçük başlayan, zamanla büyüyen bir kazanç."
+    - "Atebe-i dâhil para için 'ek' der; bugün ekilen yarın toplanır, bugün harcanan yarın aranır."
+    - "Kazanç sorusunda bu hüküm, yeni bir kaynağın henüz açılmakta olduğunu söyler."
+  yolculuk:
+    - "Yolculuk sorusunda iç eşik hâkimi yola çıkışı, gidilen yere adım atmayı anlatır; gidiş olur."
+    - "Ejderin başı yolculukta 'eşikten geç' der; yeni bir yere girilir, yerleşmek zaman alır."
+    - "Seyahat sorusunda bu hüküm olumludur; başlangıç hazırlığı iyi yapılmalı."
+    - "Yol için Atebe-i dâhil: gidilen yerde yeni bir dönem açılır."
+  sinav:
+    - "Sınav sorusunda iç eşik hâkimi bir kapıdan geçişi anlatır; sınav bir başlangıçtır, bitiş değil."
+    - "Ejderin başı sınavda umut verir; çalışmanın tohumu meyvesini verir."
+    - "İlim sorusunda bu hüküm yeni bir öğrenme dönemine girişi söyler."
+    - "Sınav için Atebe-i dâhil: kapı açılır, içeri girilir; sonrası yeni bir yol."
+  saglik:
+    - "Sağlık sorusunda iç eşik hâkimi toparlanmanın başlangıcını anlatır; iyileşme yavaş ama sağlam."
+    - "Ejderin başı sağlıkta yeni bir alışkanlığın, yeni bir düzenin başlangıcını över."
+    - "Beden sorusunda bu hüküm umutludur; kesin söz her zaman hekimindir."
+    - "Sağlık için Atebe-i dâhil: başlangıç iyi, sabır şart."
+  aile:
+    - "Aile sorusunda iç eşik hâkimi eve yeni bir üyenin, yeni bir düzenin ya da yeni bir başlangıcın girdiğini anlatır."
+    - "Ejderin başı aile konusunda bereketli bir eşiktir: bir doğum, bir birleşme, yeni bir ev."
+    - "Ev için bu hüküm olumludur; kapı açılıyor, içeri iyi şeyler giriyor."
+    - "Aile sorusunda Atebe-i dâhil: yeni bir dönem, yeni bir sorumluluk."
+  kayip:
+    - "Kayıp eşya sorusunda iç eşik hâkimi, eşyanın bir girişe yakın olduğunu söyler: kapı önü, antre, eşik."
+    - "Ejderin başı kayıpta umut verir; eşya bulunur, ama aranırken sabır gerekir."
+    - "Kaybolan şey için bu hüküm 'içeride' der; dışarıda değil, girilen yerde."
+    - "Kayıp için Atebe-i dâhil: yeni girilen bir yer, yeni alınan bir çanta, ilk konulan yer."
+tanik_sag:
+  - "Sağ tanık Atebe-i dâhil: bu soru yeni bir başlangıçtan doğmuş; geçmişte bir kapı açılmış."
+  - "Geçmişi anlatan tanıkta ejderin başı var; soran yakın zamanda bir eşikten geçmiş."
+  - "Sağ tanıkta iç eşik: meselenin kökü umutlu bir girişte."
+  - "Sağ tanık olarak Atebe-i dâhil, iyi niyetle atılmış bir ilk adımı söyler."
+tanik_sol:
+  - "Sol tanık Atebe-i dâhil: önünde yeni bir kapı var; mesele bir başlangıçla sonuçlanacak."
+  - "Geleceği anlatan tanıkta ejderin başı var; ilerisi yeni bir dönem."
+  - "Sol tanıkta iç eşik: giriş, kabul, davet."
+  - "Sol tanık olarak Atebe-i dâhil, bitişin aslında bir başlangıç olduğunu söyler."
+uzlastirici:
+  - "Uzlaştırıcı Atebe-i dâhil: uzun vadede yeni bir kapı açılır; bu mesele başka bir başlangıca tohum olur."
+  - "Son söz olarak ejderin başı: iş bitince yeni bir iş başlar, ve bu iyidir."
+  - "Uzlaştırıcıda iç eşik, zamanla bereketin geleceğini söyler; ekilen toplanır."
+  - "Uzun vadede Atebe-i dâhil: büyüme, giriş, yeni bir dönem."
+ogut:
+  - "Kapı açıldıysa gir; eşikte beklemek kapıyı kapatır."
+  - "Küçük başla, sabırla büyüt."
+  - "Başlangıçta atılan adım sonu belirler; ilk adımı özenle at."
+  - "Bu bir davettir; davete kibirle değil, merakla git."

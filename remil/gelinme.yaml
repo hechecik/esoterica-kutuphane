@@ -1,0 +1,28 @@
+kaynak: "ilm-i remil geleneği (perfection kuralları: occupation, conjunction, mutation, translation); metin özgün"
+lang: tr
+# {soru_hane}: soru hanesinin adı (örn. "dokuzuncu hane"), {sekil}: ortak şekil adı, {araci}: aracı şekil
+isgal:
+  - "Tabloda en güçlü işaret var: {sekil} hem seni temsil eden birinci hanede hem de {soru_hane}de duruyor. Gelenekte buna işgal denir; soran ile soru aynı şekli taşıyor. İş olur, hem de doğrudan, kendi elinle."
+  - "Birinci hane ile {soru_hane} aynı şekli paylaşıyor: {sekil}. Bu, soranın sorunun tam içinde olduğu anlamına gelir. Cevap evet, ve aracıya gerek yok."
+  - "Sen ile sorduğun şey aynı dili konuşuyor; ikisinde de {sekil} var. Remilde bundan daha net bir evet yoktur."
+  - "{sekil|i} hem senin hanende hem {soru_hane}de görmek, işin senin alanın olduğunu söyler. Mesele seninle birleşmiş; sonuç kendi emeğinle gelir."
+kavusma:
+  - "Tabloda kavuşma var: {sekil} {soru_hane}nin hemen yanına geçmiş. Soran ile soru yan yana gelmiş; iş olur, ama bir adım atmak gerekir."
+  - "Senin şeklin sorunun kapısına kadar yürümüş. Gelenekte buna kavuşma denir: sonuç gelir, çünkü taraflar birbirine ulaşıyor."
+  - "{sekil} ile soru hanesi komşu olmuş. Bu, meselenin seninle buluşacağını söyler; aradaki mesafe tek adım."
+  - "Kavuşma işareti: {sekil} {soru_hane}ye bitişik duruyor. Evet, ama yanına gitmen gerekiyor; o sana gelmeyecek."
+mutasyon:
+  - "Tabloda mutasyon var: senin şeklin ve sorunun şekli, kendi hanelerinde değil, tablonun başka bir yerinde yan yana gelmiş. İş olur, ama beklenmedik bir yerden, beklenmedik bir biçimde."
+  - "Soran ile soru başka bir köşede buluşuyor; gelenekte buna mutasyon denir. Sonuç gelir, fakat planladığın yoldan değil."
+  - "İki şekil kendi evlerinden çıkıp bir başka hanede karşılaşmış. Mesele olumlu sonuçlanır, ama şekil değiştirerek."
+  - "Mutasyon işareti şunu söyler: aradığını aradığın yerde değil, hiç ummadığın bir yerde bulacaksın."
+nakil:
+  - "Tabloda nakil var: {araci} hem senin hanenin hem de {soru_hane}nin yanında duruyor. Üçüncü bir şey seni soruya bağlıyor; iş bir aracıyla, bir vesileyle olur."
+  - "Soran ile soruyu birbirine {araci} bağlıyor; gelenekte buna nakil denir. Sonuç gelir, ama doğrudan değil, araya giren bir kişi ya da olay sayesinde."
+  - "Senin ile sorduğun şey arasında bir köprü var: {araci}. Cevap evet, köprüyü kullanırsan."
+  - "Nakil işareti: {araci} iki hanenin de komşusu. Bu, meselenin bir aracı eliyle çözüleceğini söyler; aracı kim, {araci|in} anlamına bak."
+yok:
+  - "Tabloda seni temsil eden şekil ile sorunun şekli hiçbir yerde buluşmuyor. Gelenekte buna gelinme yok denir: mesele kendi hâline bırakılırsa olmaz. Bu bir kapanış değil, bir uyarıdır; iş kendiliğinden gelmez, çaba ister."
+  - "Birinci hane ile {soru_hane} birbirinden uzak duruyor; aralarında ne kavuşma ne nakil var. Sorulan şey bugünkü hâliyle gerçekleşmiyor; koşullar değişmeden sonuç değişmez."
+  - "Soran ile soru aynı tabloda ama ayrı dünyalarda. Bu durumda hâkime ve tanıklara bakılır: onlar yumuşaksa iş zor ama imkânsız değil; sertse başka bir yol aranmalı."
+  - "Gelinme yok. Bu, 'hayır' demekten çok 'bu şekilde değil' demektir. Soruyu başka türlü sormak ya da başka bir yoldan gitmek gerekebilir."

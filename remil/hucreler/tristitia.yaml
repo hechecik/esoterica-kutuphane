@@ -1,0 +1,124 @@
+kaynak: ilm-i remil geleneği; metin özgün
+lang: tr
+key: tristitia
+haneler:
+  1:
+    olumlu:
+      - "Soran, İnkîs'in derinliğiyle duruyor: ciddi, sabırlı, temel atan, kalıcı olanı arayan."
+      - "Birinci hanede İnkîs, ağır ama sağlam yürüyen ve bitirdiği işi bırakmayan birini gösteriyor."
+    notr:
+      - "Soranın hanesinde İnkîs var; kişi şu an ağır, düşünceli, biraz kederli."
+      - "İnkîs birinci hanede: soran yere bakıyor, aşağıya kök salıyor."
+    temkinli:
+      - "Soran İnkîs gibi: keder ve ağırlık kişiyi yerine mıhlamış olabilir; kalkmak zor."
+      - "Birinci hanede İnkîs karamsarlığı ve yalnızlığı anlatır."
+  2:
+    olumlu:
+      - "Para hanesinde İnkîs: kazanç yavaş ama kalıcı; toprak, inşaat, uzun vadeli yatırım hayırlı."
+      - "Mal hanesinde İnkîs sabırla kurulan bir birikimi anlatır."
+    notr:
+      - "İkinci hanede İnkîs var; para konusu ağır, akış yavaş."
+      - "Mal hanesinde İnkîs: kaynak sabit, büyümüyor."
+    temkinli:
+      - "Para hanesinde İnkîs darlığı ve uzun süren mali sıkıntıyı uyarıyor."
+      - "İnkîs ikinci hanede: para gömülü, dolaşmıyor."
+  3:
+    olumlu:
+      - "Haber hanesinde İnkîs: haber ciddi ama sağlam; kardeşlerle derin bir bağ."
+      - "Üçüncü hanede İnkîs ağırbaşlı bir iletişimi anlatır."
+    notr:
+      - "Kardeşler hanesinde İnkîs var; iletişim az, haber geç."
+      - "Üçüncü hanede İnkîs: kısa yol ağır geçiyor."
+    temkinli:
+      - "Haber hanesinde İnkîs üzücü bir haberi ya da uzun bir sessizliği uyarır."
+      - "İnkîs üçüncü hanede: kardeşle kırgınlık."
+  4:
+    olumlu:
+      - "Ev hanesinde İnkîs: ev için iyi; temel sağlam, kökler derin, mülk kalıcı."
+      - "İşin sonu hanesinde İnkîs meselenin sağlam ve kalıcı biçimde kapanacağını söyler."
+    notr:
+      - "Dördüncü hanede İnkîs var; evde ağır bir hava, köklerde eski bir yük."
+      - "Ev hanesinde İnkîs: toprak, mezar, eski bir ev."
+    temkinli:
+      - "Ev hanesinde İnkîs evde kederi ve ağırlığı uyarır."
+      - "İnkîs dördüncü hanede: işin sonu geç ve zor gelir."
+  5:
+    olumlu:
+      - "Aşk hanesinde İnkîs: ciddi, derin, sadık bir sevgi; hafif değil ama kalıcı."
+      - "Beşinci hanede İnkîs keyfin derinlikte bulunduğunu söyler."
+    notr:
+      - "Keyif hanesinde İnkîs var; aşk ağır, eğlence az."
+      - "Beşinci hanede İnkîs: çocuk ya da sevgili konusunda bir sorumluluk."
+    temkinli:
+      - "Aşk hanesinde İnkîs kederli bir aşkı, soğumuş bir keyfi uyarır."
+      - "İnkîs beşinci hanede: eğlence yok, yük var."
+  6:
+    olumlu:
+      - "Sağlık ve iş hanesinde İnkîs: iş sağlam, beden dayanıklı; yavaş ama güvenli."
+      - "Altıncı hanede İnkîs sadık ve ciddi çalışanları anlatır."
+    notr:
+      - "Hizmet hanesinde İnkîs var; işler ağır, sağlık durgun."
+      - "Altıncı hanede İnkîs: kronik ve uzun süren bir düzen."
+    temkinli:
+      - "Sağlık hanesinde İnkîs uzun süren halsizliği ve kemik, eklem ağırlığını uyarır; kesin söz hekimindir."
+      - "İnkîs altıncı hanede: iş yük olmuş."
+  7:
+    olumlu:
+      - "Eş hanesinde İnkîs: karşı taraf ciddi, sadık, güvenilir."
+      - "Yedinci hanede İnkîs kalıcı ama ağır bir ortaklığı anlatır."
+    notr:
+      - "Karşı taraf hanesinde İnkîs var; eş ya da ortak kederli ya da ağır."
+      - "Yedinci hanede İnkîs: karşıdaki kişi yavaş karar veriyor."
+    temkinli:
+      - "Eş hanesinde İnkîs soğuk ve kapalı bir karşı tarafı uyarır."
+      - "İnkîs yedinci hanede: rakip inatçı, ortak yorgun."
+  8:
+    olumlu:
+      - "Kriz hanesinde İnkîs: kriz derin ama sonunda temel olur; miras topraktan."
+      - "Sekizinci hanede İnkîs dönüşümün sabırla tamamlanacağını anlatır."
+    notr:
+      - "Dönüşüm hanesinde İnkîs var; kriz ağır, uzun."
+      - "Sekizinci hanede İnkîs: eski bir borç, eski bir keder."
+    temkinli:
+      - "Kriz hanesinde İnkîs uzun süren bir kederi ve derin bir kaybı uyarır."
+      - "İnkîs sekizinci hanede: korku yerleşmiş."
+  9:
+    olumlu:
+      - "Uzak yol ve ilim hanesinde İnkîs: sınav sabırla kazanılır; derin bilgi, sağlam inanç."
+      - "Dokuzuncu hanede İnkîs ciddi bir eğitimi ve kalıcı bir öğrenmeyi anlatır."
+    notr:
+      - "İlim hanesinde İnkîs var; eğitim ağır, yol yavaş."
+      - "Dokuzuncu hanede İnkîs: uzak yerde bir zorluk."
+    temkinli:
+      - "Sınav hanesinde İnkîs yorgun ve karamsar bir hazırlığı uyarır; kederle çalışılmaz."
+      - "İnkîs dokuzuncu hanede: yolculuk ertelenir."
+  10:
+    olumlu:
+      - "Kariyer hanesinde İnkîs: itibar sabırla kurulur; inşaat, toprak, uzun soluklu işler hayırlı."
+      - "Onuncu hanede İnkîs yavaş ama sağlam bir yükselişi anlatır."
+    notr:
+      - "İş ve itibar hanesinde İnkîs var; kariyer ağır, otorite sert."
+      - "Onuncu hanede İnkîs: üstler ciddi."
+    temkinli:
+      - "Kariyer hanesinde İnkîs tıkanmayı ve geciken terfiyi uyarır."
+      - "İnkîs onuncu hanede: itibar ağır bir yük olmuş."
+  11:
+    olumlu:
+      - "Dostlar hanesinde İnkîs: az ama sadık dostlar; umutlar sabırla gerçekleşir."
+      - "On birinci hanede İnkîs eski ve güvenilir bir dostu anlatır."
+    notr:
+      - "Umutlar hanesinde İnkîs var; dost çevresi dar, planlar uzun."
+      - "On birinci hanede İnkîs: yaşlı bir dost, ağır bir destek."
+    temkinli:
+      - "Dostlar hanesinde İnkîs yalnızlığı ve umutsuzluğu uyarır."
+      - "İnkîs on birinci hanede: umut gömülü."
+  12:
+    olumlu:
+      - "Gizli şeyler hanesinde İnkîs: içteki derinlik güç kaynağı; sessiz bir sabır."
+      - "On ikinci hanede İnkîs yalnızlıkta olgunlaşmayı anlatır."
+    notr:
+      - "Gizli hanede İnkîs var; içte keder, konuşulmayan bir yük."
+      - "On ikinci hanede İnkîs: kapalı bir yerde uzun bir bekleyiş."
+    temkinli:
+      - "Gizli düşman hanesinde İnkîs sessiz ve inatçı bir rakibi uyarır."
+      - "İnkîs on ikinci hanede: kişinin kendi kederi gizli düşmanı; destek almalı."

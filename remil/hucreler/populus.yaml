@@ -1,0 +1,124 @@
+kaynak: ilm-i remil geleneği; metin özgün
+lang: tr
+key: populus
+haneler:
+  1:
+    olumlu:
+      - "Soran, Cemaat gibi: çevresiyle birlikte, yalnız değil, kalabalığın içinde güçlü."
+      - "Birinci hanede Cemaat, başkalarıyla uyum içinde hareket eden birini gösteriyor."
+    notr:
+      - "Soranın hanesinde Cemaat var; kişi şu an çevresinin etkisinde, kendi yönü belirsiz."
+      - "Cemaat birinci hanede: soran bekliyor, ortamın ne diyeceğine bakıyor."
+    temkinli:
+      - "Soran Cemaat gibi: kalabalığın içinde kendi sesini kaybetmiş olabilir."
+      - "Birinci hanede Cemaat edilgen bir hâli anlatır; karar başkalarına bırakılmış."
+  2:
+    olumlu:
+      - "Para hanesinde Cemaat: kazanç topluluktan, ortak işten ya da kalabalık bir müşteriden gelir."
+      - "Mal hanesinde Cemaat çok kişiden gelen küçük akışları anlatır."
+    notr:
+      - "İkinci hanede Cemaat var; para başkalarına bağlı, kendi başına durmuyor."
+      - "Mal hanesinde Cemaat: kazanç ortalama, herkesinki kadar."
+    temkinli:
+      - "Para hanesinde Cemaat herkesle beraber kaybetmeyi uyarıyor; sürü nereye giderse."
+      - "Cemaat ikinci hanede: para dağılır, kimde kaldığı belli olmaz."
+  3:
+    olumlu:
+      - "Haber hanesinde Cemaat: haber herkesin ağzında; kardeşler, komşular hep birlikte."
+      - "Üçüncü hanede Cemaat kalabalık bir çevre ve bol iletişim anlatır."
+    notr:
+      - "Kardeşler hanesinde Cemaat var; yazışmalar çok, içerik belirsiz."
+      - "Üçüncü hanede Cemaat: ortak bir toplantı, kalabalık bir sohbet."
+    temkinli:
+      - "Haber hanesinde Cemaat dedikoduyu ve kulaktan kulağa değişen bilgiyi uyarır."
+      - "Cemaat üçüncü hanede: çok ses var, net söz yok."
+  4:
+    olumlu:
+      - "Ev hanesinde Cemaat: kalabalık, sıcak ve misafirli bir ev; işin sonu herkesin katılımıyla."
+      - "İşin sonu hanesinde Cemaat meselenin ortak bir kararla kapanacağını söyler."
+    notr:
+      - "Dördüncü hanede Cemaat var; evde çok kişi, kökler geniş."
+      - "Ev hanesinde Cemaat: aile toplanıyor."
+    temkinli:
+      - "Ev hanesinde Cemaat herkesin karıştığı, kimsenin karar vermediği bir ev düzenini anlatabilir."
+      - "Cemaat dördüncü hanede: işin sonu kalabalıkta kaybolabilir."
+  5:
+    olumlu:
+      - "Aşk hanesinde Cemaat: aşk bir kalabalıkta bulunur; eğlence toplulukla."
+      - "Beşinci hanede Cemaat çocuklarla ya da arkadaşlarla neşeli bir dönemi anlatır."
+    notr:
+      - "Keyif hanesinde Cemaat var; aşk ortamda, keyif toplulukta."
+      - "Beşinci hanede Cemaat: bir kutlama, bir düğün, kalabalık bir eğlence."
+    temkinli:
+      - "Aşk hanesinde Cemaat ilişkiye karışan üçüncü kişileri ve çevre baskısını uyarır."
+      - "Cemaat beşinci hanede: keyif kalabalıkta, yakınlık yok."
+  6:
+    olumlu:
+      - "Sağlık ve iş hanesinde Cemaat: iş yerinde iyi bir ekip, bedende denge."
+      - "Altıncı hanede Cemaat çalışanlarla uyumu anlatır."
+    notr:
+      - "Hizmet hanesinde Cemaat var; günlük iş kalabalık, sağlık ortalama."
+      - "Altıncı hanede Cemaat: çok çalışan, az karar."
+    temkinli:
+      - "Sağlık hanesinde Cemaat bulaşan ve yayılan hâlleri, ortamdan gelen yorgunluğu uyarır; kesin söz hekimindir."
+      - "Cemaat altıncı hanede: işte herkes var, sorumluluk kimsede değil."
+  7:
+    olumlu:
+      - "Eş hanesinde Cemaat: karşı taraf uyumlu, çevresiyle barışık."
+      - "Yedinci hanede Cemaat toplum tarafından onaylanan bir ortaklığı anlatır."
+    notr:
+      - "Karşı taraf hanesinde Cemaat var; eş ya da ortak çevresinin sözüyle hareket ediyor."
+      - "Yedinci hanede Cemaat: karşıda tek kişi değil, bir grup."
+    temkinli:
+      - "Eş hanesinde Cemaat, karşı tarafın kendi kararı olmadığını, ailesinin ya da çevresinin konuştuğunu uyarır."
+      - "Cemaat yedinci hanede: rakip kalabalık."
+  8:
+    olumlu:
+      - "Kriz hanesinde Cemaat: zorluk paylaşılınca hafifler; yalnız değilsin."
+      - "Sekizinci hanede Cemaat ortak bir çözümü anlatır."
+    notr:
+      - "Dönüşüm hanesinde Cemaat var; kriz herkesi ilgilendiriyor."
+      - "Sekizinci hanede Cemaat: miras ya da borç çok kişi arasında."
+    temkinli:
+      - "Kriz hanesinde Cemaat herkesin etkilendiği ama kimsenin çözmediği bir sorunu uyarır."
+      - "Cemaat sekizinci hanede: ortak paradan herkes pay istiyor."
+  9:
+    olumlu:
+      - "Uzak yol ve ilim hanesinde Cemaat: toplu bir yolculuk, birlikte öğrenme."
+      - "Dokuzuncu hanede Cemaat grup hâlinde geçilen bir sınavı anlatır."
+    notr:
+      - "İlim hanesinde Cemaat var; sınav kalabalık, yol ortak."
+      - "Dokuzuncu hanede Cemaat: ortak inanç, toplu bir hareket."
+    temkinli:
+      - "Sınav hanesinde Cemaat herkesin yaptığını yapmayı uyarır; sürü hâlinde çalışılmaz."
+      - "Cemaat dokuzuncu hanede: yol kalabalık, yön belirsiz."
+  10:
+    olumlu:
+      - "Kariyer hanesinde Cemaat: halkın sevdiği bir itibar; topluluk önünde bir iş."
+      - "Onuncu hanede Cemaat ekip çalışmasıyla gelen bir yükselişi anlatır."
+    notr:
+      - "İş ve itibar hanesinde Cemaat var; kariyer kalabalıkta, otorite dağınık."
+      - "Onuncu hanede Cemaat: kurum büyük, kişi küçük."
+    temkinli:
+      - "Kariyer hanesinde Cemaat kalabalıkta kaybolmayı uyarır; ayrışmadan yükseliş olmaz."
+      - "Cemaat onuncu hanede: herkes aynı şeyi istiyor."
+  11:
+    olumlu:
+      - "Dostlar hanesinde Cemaat: dostlar için en iyi şekil; çevre geniş, destek bol."
+      - "On birinci hanede Cemaat umutların bir toplulukla gerçekleşeceğini söyler."
+    notr:
+      - "Umutlar hanesinde Cemaat var; dost çevresi kalabalık, planlar ortak."
+      - "On birinci hanede Cemaat: bir dernek, bir grup, bir topluluk."
+    temkinli:
+      - "Dostlar hanesinde Cemaat çok tanıdık az dost durumunu uyarır."
+      - "Cemaat on birinci hanede: umutlar başkalarına bağlı."
+  12:
+    olumlu:
+      - "Gizli şeyler hanesinde Cemaat: içteki sıkıntı paylaşılınca geçer."
+      - "On ikinci hanede Cemaat sessiz destekçileri anlatır."
+    notr:
+      - "Gizli hanede Cemaat var; içte bir kalabalık, çok ses."
+      - "On ikinci hanede Cemaat: gizli bir topluluk, konuşulmayan bir ortaklık."
+    temkinli:
+      - "Gizli düşman hanesinde Cemaat arkadan konuşan bir kalabalığı uyarır."
+      - "Cemaat on ikinci hanede: kişinin kendi zihni kalabalık; dinlenmeli."

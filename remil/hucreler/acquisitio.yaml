@@ -1,0 +1,124 @@
+kaynak: ilm-i remil geleneği; metin özgün
+lang: tr
+key: acquisitio
+haneler:
+  1:
+    olumlu:
+      - "Soran, Kabz-ı dâhil'in bereketiyle duruyor: eli dolu, kazanmaya hazır, talihi açık."
+      - "Birinci hanede Kabz-ı dâhil, istediğini elde eden ve tutmayı bilen birini gösteriyor."
+    notr:
+      - "Soranın hanesinde Kabz-ı dâhil var; kişi şu an kazanç odaklı, bir şey elde etmek istiyor."
+      - "Kabz-ı dâhil birinci hanede: soran toplamakta, biriktirmekte."
+    temkinli:
+      - "Soran Kabz-ı dâhil gibi: elde etme isteği doymuyor olabilir; neyin yeter olduğuna bakmalı."
+      - "Birinci hanede Kabz-ı dâhil açgözlülük riskini anlatır."
+  2:
+    olumlu:
+      - "Para hanesinde Kabz-ı dâhil: kazanç için en iyi yerlerden biri; para geliyor, elde kalıyor."
+      - "Mal hanesinde Kabz-ı dâhil kârlı bir iş ve artan bir birikim anlatır."
+    notr:
+      - "İkinci hanede Kabz-ı dâhil var; para konusu olumlu, kazanç yolda."
+      - "Mal hanesinde Kabz-ı dâhil: elde edilen şey elde kalıyor."
+    temkinli:
+      - "Para hanesinde Kabz-ı dâhil biriktirme uğruna cimriliği uyarıyor."
+      - "Kabz-ı dâhil ikinci hanede: kazanç var, paylaşım yok."
+  3:
+    olumlu:
+      - "Haber hanesinde Kabz-ı dâhil: beklenen cevap olumlu; kardeşlerden bir kazanç."
+      - "Üçüncü hanede Kabz-ı dâhil kısa bir yolculuktan kârla dönmeyi anlatır."
+    notr:
+      - "Kardeşler hanesinde Kabz-ı dâhil var; iletişim verimli, haber faydalı."
+      - "Üçüncü hanede Kabz-ı dâhil: çevreden gelen bir teklif."
+    temkinli:
+      - "Haber hanesinde Kabz-ı dâhil çıkar için kurulan ilişkileri uyarır."
+      - "Kabz-ı dâhil üçüncü hanede: kardeşler arasında mal konusu."
+  4:
+    olumlu:
+      - "Ev hanesinde Kabz-ı dâhil: ev alınır, mülk büyür; işin sonu kârlı."
+      - "İşin sonu hanesinde Kabz-ı dâhil meselenin kazançla kapanacağını söyler."
+    notr:
+      - "Dördüncü hanede Kabz-ı dâhil var; evde bir kazanç, köklerde bir mülk."
+      - "Ev hanesinde Kabz-ı dâhil: miras ya da aile malı konusu."
+    temkinli:
+      - "Ev hanesinde Kabz-ı dâhil aile içinde mal kavgasını uyarır."
+      - "Kabz-ı dâhil dördüncü hanede: işin sonu kârlı ama herkes için değil."
+  5:
+    olumlu:
+      - "Aşk hanesinde Kabz-ı dâhil: sevilen kişi elde edilir; keyif bol, çocuk hayırlı."
+      - "Beşinci hanede Kabz-ı dâhil kazanç getiren bir keyfi, bereketli bir dönemi anlatır."
+    notr:
+      - "Keyif hanesinde Kabz-ı dâhil var; aşk sahiplenici, eğlence masraflı."
+      - "Beşinci hanede Kabz-ı dâhil: bir hediye, bir kazanç, bir doğum."
+    temkinli:
+      - "Aşk hanesinde Kabz-ı dâhil sahiplenmeyi ve aşkı mülk gibi görmeyi uyarır."
+      - "Kabz-ı dâhil beşinci hanede: keyif parayla ölçülüyor."
+  6:
+    olumlu:
+      - "Sağlık ve iş hanesinde Kabz-ı dâhil: iş kârlı, beden güç topluyor."
+      - "Altıncı hanede Kabz-ı dâhil verimli çalışanları ve iyileşmeyi anlatır."
+    notr:
+      - "Hizmet hanesinde Kabz-ı dâhil var; işler kazançlı, sağlık dengede."
+      - "Altıncı hanede Kabz-ı dâhil: küçük işlerden birikim."
+    temkinli:
+      - "Sağlık hanesinde Kabz-ı dâhil kilo ve birikimi uyarır; kesin söz hekimindir."
+      - "Kabz-ı dâhil altıncı hanede: iş kazançlı ama yorucu."
+  7:
+    olumlu:
+      - "Eş hanesinde Kabz-ı dâhil: karşı taraf bereketli, cömert, kazançlı."
+      - "Yedinci hanede Kabz-ı dâhil kârlı bir ortaklığı ve varlıklı bir eşi anlatır."
+    notr:
+      - "Karşı taraf hanesinde Kabz-ı dâhil var; eş ya da ortak kazanç odaklı."
+      - "Yedinci hanede Kabz-ı dâhil: karşıdaki kişi bir şey elde etmek istiyor."
+    temkinli:
+      - "Eş hanesinde Kabz-ı dâhil, karşı tarafın çıkar peşinde olabileceğini uyarır."
+      - "Kabz-ı dâhil yedinci hanede: rakip kazanıyor."
+  8:
+    olumlu:
+      - "Kriz hanesinde Kabz-ı dâhil: miras gelir, borç kapanır, krizden kazanç çıkar."
+      - "Sekizinci hanede Kabz-ı dâhil ortak paradan hayırlı bir pay anlatır."
+    notr:
+      - "Dönüşüm hanesinde Kabz-ı dâhil var; kriz kazanca dönüşebilir."
+      - "Sekizinci hanede Kabz-ı dâhil: başkasının parası konu."
+    temkinli:
+      - "Kriz hanesinde Kabz-ı dâhil krizden kâr etmenin bedelini uyarır."
+      - "Kabz-ı dâhil sekizinci hanede: borç büyüyor olabilir."
+  9:
+    olumlu:
+      - "Uzak yol ve ilim hanesinde Kabz-ı dâhil: yolculuk kârlı, sınav kazanılır, bilgi elde edilir."
+      - "Dokuzuncu hanede Kabz-ı dâhil uzaktan gelen bir kazancı anlatır."
+    notr:
+      - "İlim hanesinde Kabz-ı dâhil var; eğitim faydalı, yol verimli."
+      - "Dokuzuncu hanede Kabz-ı dâhil: uzakta bir fırsat."
+    temkinli:
+      - "Sınav hanesinde Kabz-ı dâhil sonuca kilitlenip öğrenmeyi unutmayı uyarır."
+      - "Kabz-ı dâhil dokuzuncu hanede: yolculuk masraflı."
+  10:
+    olumlu:
+      - "Kariyer hanesinde Kabz-ı dâhil: terfi, zam, kazançlı bir makam."
+      - "Onuncu hanede Kabz-ı dâhil itibarın kazançla birlikte büyüdüğünü anlatır."
+    notr:
+      - "İş ve itibar hanesinde Kabz-ı dâhil var; kariyer kârlı, otorite hesaplı."
+      - "Onuncu hanede Kabz-ı dâhil: üstler kazanç bekliyor."
+    temkinli:
+      - "Kariyer hanesinde Kabz-ı dâhil para için itibardan ödün vermeyi uyarır."
+      - "Kabz-ı dâhil onuncu hanede: hırs görünüyor."
+  11:
+    olumlu:
+      - "Dostlar hanesinde Kabz-ı dâhil: dostlardan kazanç, umutların gerçekleşmesi."
+      - "On birinci hanede Kabz-ı dâhil dileğin yerine geleceğini söyler."
+    notr:
+      - "Umutlar hanesinde Kabz-ı dâhil var; dost çevresi faydalı, planlar kazanç odaklı."
+      - "On birinci hanede Kabz-ı dâhil: çıkar ortaklığı."
+    temkinli:
+      - "Dostlar hanesinde Kabz-ı dâhil çıkara dayalı arkadaşlıkları uyarır."
+      - "Kabz-ı dâhil on birinci hanede: umut parayla karışmış."
+  12:
+    olumlu:
+      - "Gizli şeyler hanesinde Kabz-ı dâhil: gizli bir kazanç, saklı bir kaynak."
+      - "On ikinci hanede Kabz-ı dâhil içteki sıkıntının kazanca dönüşeceğini anlatır."
+    notr:
+      - "Gizli hanede Kabz-ı dâhil var; saklı bir birikim, gizli bir hesap."
+      - "On ikinci hanede Kabz-ı dâhil: kimsenin bilmediği bir kazanç."
+    temkinli:
+      - "Gizli düşman hanesinde Kabz-ı dâhil çıkar için arkadan iş çeviren birini uyarır."
+      - "Kabz-ı dâhil on ikinci hanede: kişinin kendi hırsı gizli engeli."

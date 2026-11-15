@@ -1,0 +1,31 @@
+# Derleme betiğinin (esoterica/tools/build-content.mjs) denetlediği şema ve alt sınırlar.
+# Alt sınırların altında kalan dosya derlemeyi UYARIYLA geçer, hata vermez.
+lang: tr
+remil:
+  sekil:
+    zorunlu: [key, ad, latin, anlam, temalar, portre, hakim, tanik_sag, tanik_sol, uzlastirici, ogut]
+    hakim_konular: [genel, ask, is, para, yolculuk, sinav, saglik, aile, kayip]
+    alt_sinir:
+      portre: 8
+      hakim_genel: 4
+      hakim_konu: 3
+      tanik_sag: 3
+      tanik_sol: 3
+      uzlastirici: 3
+      ogut: 3
+  hucre:
+    tonlar: [olumlu, notr, temkinli]
+    alt_sinir:
+      ton: 2        # ilk sürüm; hedef 4 (toplam 12 varyant)
+  haneler:
+    sayi: 12
+    alt_sinir:
+      cerceve: 3
+yasak_kelimeler:
+  # Korkutucu kehanet yasağı: bu kelimeler hücre ve hâkim metinlerinde geçerse derleme uyarır.
+  - "öleceksin"
+  - "ölecek"
+  - "kaza geçireceksin"
+  - "hasta olacaksın"
+  - "kanser"
+  - "felç"

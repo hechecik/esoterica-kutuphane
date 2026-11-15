@@ -1,0 +1,124 @@
+kaynak: ilm-i remil geleneği; metin özgün
+lang: tr
+key: caudaDraconis
+haneler:
+  1:
+    olumlu:
+      - "Soran, Atebe-i hâric'in eşiğinde duruyor: bir dönemi bitiriyor, yükünü bırakıyor, hafifliyor."
+      - "Birinci hanede Atebe-i hâric, bir şeyi kapatıp yoluna devam etmeye hazır birini gösteriyor."
+    notr:
+      - "Soranın hanesinde Atebe-i hâric var; kişi şu an bir çıkışın ortasında, bir şeyden ayrılıyor."
+      - "Atebe-i hâric birinci hanede: soran bir kapıyı arkasından kapatıyor."
+    temkinli:
+      - "Soran Atebe-i hâric gibi: bitiş kişiyi yormuş; dinlenmeden yeni işe girmemeli."
+      - "Birinci hanede Atebe-i hâric, gelenekte soruyu zorlaştıran şekildir; soran dağınık ya da vedada."
+  2:
+    olumlu:
+      - "Para hanesinde Atebe-i hâric: bir borç bitiyor, bir yük gidiyor; defter temizleniyor."
+      - "Mal hanesinde Atebe-i hâric gereksiz harcamanın bitişini anlatır."
+    notr:
+      - "İkinci hanede Atebe-i hâric var; para çıkıyor, kaynak kapanıyor."
+      - "Mal hanesinde Atebe-i hâric: bir gelir sona eriyor."
+    temkinli:
+      - "Para hanesinde Atebe-i hâric kaybı ve kapanan kaynağı uyarıyor."
+      - "Atebe-i hâric ikinci hanede: kayıp eşya geri gelmez."
+  3:
+    olumlu:
+      - "Haber hanesinde Atebe-i hâric: eski bir mesele kapanıyor; kardeşlerle bir tartışma bitiyor."
+      - "Üçüncü hanede Atebe-i hâric vedalaşmayı ve kapanan bir sayfayı anlatır."
+    notr:
+      - "Kardeşler hanesinde Atebe-i hâric var; iletişim bitiyor, kısa yol kapanıyor."
+      - "Üçüncü hanede Atebe-i hâric: son bir mesaj."
+    temkinli:
+      - "Haber hanesinde Atebe-i hâric kötü haberi ve kopan iletişimi uyarır."
+      - "Atebe-i hâric üçüncü hanede: kardeşten ayrılık."
+  4:
+    olumlu:
+      - "Ev hanesinde Atebe-i hâric: eski evden çıkış, eski yükten kurtuluş; işin sonu kesin bir bitiş."
+      - "İşin sonu hanesinde Atebe-i hâric meselenin kapanacağını, geride kalacağını söyler."
+    notr:
+      - "Dördüncü hanede Atebe-i hâric var; evde bir ayrılış, köklerde bir kopuş."
+      - "Ev hanesinde Atebe-i hâric: taşınma."
+    temkinli:
+      - "Ev hanesinde Atebe-i hâric evde ayrılığı ve dağılmayı uyarır."
+      - "Atebe-i hâric dördüncü hanede: sonuç bir bitiş, bir kayıp."
+  5:
+    olumlu:
+      - "Aşk hanesinde Atebe-i hâric: biten bir aşk yeni bir aşka yer açar; eski keyif gider, yenisi gelir."
+      - "Beşinci hanede Atebe-i hâric bir dönemin tamamlandığını anlatır."
+    notr:
+      - "Keyif hanesinde Atebe-i hâric var; aşk bitiyor, eğlence sona eriyor."
+      - "Beşinci hanede Atebe-i hâric: bir ayrılık."
+    temkinli:
+      - "Aşk hanesinde Atebe-i hâric ayrılığı ve çocukla ilgili bir üzüntüyü uyarır."
+      - "Atebe-i hâric beşinci hanede: keyif gitmiş."
+  6:
+    olumlu:
+      - "Sağlık ve iş hanesinde Atebe-i hâric: hastalık bitiyor, zararlı düzen bırakılıyor."
+      - "Altıncı hanede Atebe-i hâric yorucu bir işten çıkışı anlatır."
+    notr:
+      - "Hizmet hanesinde Atebe-i hâric var; işler bitiyor, sağlık değişiyor."
+      - "Altıncı hanede Atebe-i hâric: bir çalışan ayrılıyor."
+    temkinli:
+      - "Sağlık hanesinde Atebe-i hâric güç kaybını ve dikkat gerektiren bir dönemi uyarır; kesin söz hekimindir."
+      - "Atebe-i hâric altıncı hanede: iş kaybı."
+  7:
+    olumlu:
+      - "Eş hanesinde Atebe-i hâric: zararlı bir ilişki bitiyor; rakip çekiliyor."
+      - "Yedinci hanede Atebe-i hâric bir ortaklığın tamamlanıp kapandığını anlatır."
+    notr:
+      - "Karşı taraf hanesinde Atebe-i hâric var; eş ya da ortak gidiyor."
+      - "Yedinci hanede Atebe-i hâric: karşıdaki kişi bir dönemi bitiriyor."
+    temkinli:
+      - "Eş hanesinde Atebe-i hâric ayrılığı ve ortağın çekilmesini uyarır."
+      - "Atebe-i hâric yedinci hanede: ilişki kapanıyor."
+  8:
+    olumlu:
+      - "Kriz hanesinde Atebe-i hâric: kriz bitiyor; korku çıkıp gidiyor; borç kapanıyor."
+      - "Sekizinci hanede Atebe-i hâric dönüşümün tamamlandığını anlatır."
+    notr:
+      - "Dönüşüm hanesinde Atebe-i hâric var; bir şey sona eriyor."
+      - "Sekizinci hanede Atebe-i hâric: ortak para bitiyor."
+    temkinli:
+      - "Kriz hanesinde Atebe-i hâric derin bir kaybı ve zorlu bir bitişi uyarır."
+      - "Atebe-i hâric sekizinci hanede: çıkış ağır."
+  9:
+    olumlu:
+      - "Uzak yol ve ilim hanesinde Atebe-i hâric: bir eğitim tamamlanıyor; yolculuk bir dönemi bitiriyor."
+      - "Dokuzuncu hanede Atebe-i hâric eski inançtan çıkışı anlatır."
+    notr:
+      - "İlim hanesinde Atebe-i hâric var; sınav bir bitiş, yol bir ayrılış."
+      - "Dokuzuncu hanede Atebe-i hâric: uzak yerden dönüş ya da uzak yere veda."
+    temkinli:
+      - "Sınav hanesinde Atebe-i hâric sınavın sonucunun bir kapı kapatabileceğini uyarır; başka kapılar var."
+      - "Atebe-i hâric dokuzuncu hanede: yolculuk iptal."
+  10:
+    olumlu:
+      - "Kariyer hanesinde Atebe-i hâric: yorucu bir görev bitiyor; yön değişiyor, hafifleme geliyor."
+      - "Onuncu hanede Atebe-i hâric bir kariyer döneminin tamamlandığını anlatır."
+    notr:
+      - "İş ve itibar hanesinde Atebe-i hâric var; kariyer kapanıyor, otorite değişiyor."
+      - "Onuncu hanede Atebe-i hâric: bir üst gidiyor."
+    temkinli:
+      - "Kariyer hanesinde Atebe-i hâric işten ayrılmayı ve itibar kaybını uyarır."
+      - "Atebe-i hâric onuncu hanede: bu iş bitti."
+  11:
+    olumlu:
+      - "Dostlar hanesinde Atebe-i hâric: sahte dostlar gidiyor; boş umut bırakılıyor."
+      - "On birinci hanede Atebe-i hâric çevrenin sadeleştiğini anlatır."
+    notr:
+      - "Umutlar hanesinde Atebe-i hâric var; dost çevresi dağılıyor."
+      - "On birinci hanede Atebe-i hâric: bir dost vedalaşıyor."
+    temkinli:
+      - "Dostlar hanesinde Atebe-i hâric dost kaybını ve umut kırıklığını uyarır."
+      - "Atebe-i hâric on birinci hanede: umut kapanıyor."
+  12:
+    olumlu:
+      - "Gizli şeyler hanesinde Atebe-i hâric: gizli düşman çıkıp gidiyor; içteki sıkıntı bitiyor."
+      - "On ikinci hanede Atebe-i hâric kapalı yerden çıkışı ve kurtuluşu anlatır."
+    notr:
+      - "Gizli hanede Atebe-i hâric var; içte bir veda, bir bırakış."
+      - "On ikinci hanede Atebe-i hâric: gizli bir bitiş."
+    temkinli:
+      - "Gizli düşman hanesinde Atebe-i hâric giderken zarar veren birini uyarır."
+      - "Atebe-i hâric on ikinci hanede: kişi bırakması gerekeni bırakmalı."

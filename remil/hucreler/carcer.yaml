@@ -1,0 +1,124 @@
+kaynak: ilm-i remil geleneği; metin özgün
+lang: tr
+key: carcer
+haneler:
+  1:
+    olumlu:
+      - "Soran, Ukle'nin kararlılığıyla duruyor: sınırını bilen, disiplinli, dağılmayan."
+      - "Birinci hanede Ukle, bir şeye bağlanmış ve bağını koruyan birini gösteriyor."
+    notr:
+      - "Soranın hanesinde Ukle var; kişi şu an sıkışmış, bağlı, yerinden kımıldayamıyor."
+      - "Ukle birinci hanede: soran bir kapalı alanın içinde."
+    temkinli:
+      - "Soran Ukle gibi: kendini hapsetmiş olabilir; duvar dışarıda değil içeride."
+      - "Birinci hanede Ukle tıkanmışlığı ve çaresizlik hissini anlatır."
+  2:
+    olumlu:
+      - "Para hanesinde Ukle: para korunur, birikim kilit altında, kaybolmaz."
+      - "Mal hanesinde Ukle disiplinli bir bütçeyi anlatır."
+    notr:
+      - "İkinci hanede Ukle var; para bağlı, hareket edemiyor."
+      - "Mal hanesinde Ukle: kaynak kilitli."
+    temkinli:
+      - "Para hanesinde Ukle darlığı, bloke parayı ve borç kıskacını uyarıyor."
+      - "Ukle ikinci hanede: kayıp eşya kapalı bir yerde."
+  3:
+    olumlu:
+      - "Haber hanesinde Ukle: sır tutulur; kardeşlerle bağ sağlam."
+      - "Üçüncü hanede Ukle kapalı ama güvenilir bir iletişimi anlatır."
+    notr:
+      - "Kardeşler hanesinde Ukle var; haber tutuluyor, kısa yol kapalı."
+      - "Üçüncü hanede Ukle: bir mektup çekmecede."
+    temkinli:
+      - "Haber hanesinde Ukle gecikmeyi ve engellenen iletişimi uyarır."
+      - "Ukle üçüncü hanede: kardeşle kopukluk."
+  4:
+    olumlu:
+      - "Ev hanesinde Ukle: ev güvenli, korunaklı; işin sonu sağlam bir sınırla."
+      - "İşin sonu hanesinde Ukle meselenin kesin bir kararla kapanacağını söyler."
+    notr:
+      - "Dördüncü hanede Ukle var; evde kapalılık, köklerde bir bağ."
+      - "Ev hanesinde Ukle: evden çıkılamıyor."
+    temkinli:
+      - "Ev hanesinde Ukle evde sıkışmışlığı ve aileye bağlı kalmayı uyarır."
+      - "Ukle dördüncü hanede: işin sonu tıkanabilir."
+  5:
+    olumlu:
+      - "Aşk hanesinde Ukle: bağlılık, sadakat, uzun süreli bir bağ."
+      - "Beşinci hanede Ukle korunan bir keyfi ve sahiplenilen bir sevgiyi anlatır."
+    notr:
+      - "Keyif hanesinde Ukle var; aşk bağlı, eğlence kısıtlı."
+      - "Beşinci hanede Ukle: bir ilişki kilitlenmiş."
+    temkinli:
+      - "Aşk hanesinde Ukle boğucu bağı, kıskançlığı ve kısıtlanmayı uyarır."
+      - "Ukle beşinci hanede: keyfe yer yok."
+  6:
+    olumlu:
+      - "Sağlık ve iş hanesinde Ukle: disiplinli bir düzen; beden dinlenmeye alınmış."
+      - "Altıncı hanede Ukle düzenli ve sınırlı bir çalışma biçimini anlatır."
+    notr:
+      - "Hizmet hanesinde Ukle var; işler yavaş, sağlık kısıtlı."
+      - "Altıncı hanede Ukle: çalışanlar bağlı."
+    temkinli:
+      - "Sağlık hanesinde Ukle tıkanıklığı, hareketsizliği ve uzun süren bir rahatsızlığı uyarır; kesin söz hekimindir."
+      - "Ukle altıncı hanede: iş bir hapishane olmuş."
+  7:
+    olumlu:
+      - "Eş hanesinde Ukle: karşı taraf sadık, bağlı, kararlı."
+      - "Yedinci hanede Ukle sağlam bir sözleşmeyi ve kalıcı bir bağı anlatır."
+    notr:
+      - "Karşı taraf hanesinde Ukle var; eş ya da ortak kapalı, hareketsiz."
+      - "Yedinci hanede Ukle: karşıdaki kişi sıkışmış."
+    temkinli:
+      - "Eş hanesinde Ukle kısıtlayıcı bir ortağı ve boğucu bir ilişkiyi uyarır."
+      - "Ukle yedinci hanede: rakip kuşatıyor."
+  8:
+    olumlu:
+      - "Kriz hanesinde Ukle: kriz sınırlanır, korku kontrol altında; borç yapılandırılır."
+      - "Sekizinci hanede Ukle tehlikenin duvarlar arkasında tutulduğunu anlatır."
+    notr:
+      - "Dönüşüm hanesinde Ukle var; kriz kilitli, çözüm bekliyor."
+      - "Sekizinci hanede Ukle: ortak para bloke."
+    temkinli:
+      - "Kriz hanesinde Ukle çıkışsızlığı ve borç kıskacını uyarır."
+      - "Ukle sekizinci hanede: korku içe hapsedilmiş."
+  9:
+    olumlu:
+      - "Uzak yol ve ilim hanesinde Ukle: sınav için disiplin, kapalı odada çalışma hayırlı."
+      - "Dokuzuncu hanede Ukle sağlam bir inancı ve odaklı bir öğrenmeyi anlatır."
+    notr:
+      - "İlim hanesinde Ukle var; eğitim kısıtlı, yol kapalı."
+      - "Dokuzuncu hanede Ukle: yolculuk engellenmiş."
+    temkinli:
+      - "Sınav hanesinde Ukle dar görüşlü çalışmayı ve sınav günü panikle donup kalmayı uyarır."
+      - "Ukle dokuzuncu hanede: yol kapalı, bekle."
+  10:
+    olumlu:
+      - "Kariyer hanesinde Ukle: konum korunur, pozisyon sağlam; disiplin itibar getirir."
+      - "Onuncu hanede Ukle kurumsal ve kalıcı bir yeri anlatır."
+    notr:
+      - "İş ve itibar hanesinde Ukle var; kariyer sabit, otorite katı."
+      - "Onuncu hanede Ukle: üstler sınır çiziyor."
+    temkinli:
+      - "Kariyer hanesinde Ukle tıkanmış bir kariyeri ve ilerlemeyen bir konumu uyarır."
+      - "Ukle onuncu hanede: itibar bir kafese dönüşmüş."
+  11:
+    olumlu:
+      - "Dostlar hanesinde Ukle: dar ama sadık bir çevre; umutlar korunuyor."
+      - "On birinci hanede Ukle vefalı bir dostu anlatır."
+    notr:
+      - "Umutlar hanesinde Ukle var; dost çevresi kapalı, planlar bekliyor."
+      - "On birinci hanede Ukle: umut kilit altında."
+    temkinli:
+      - "Dostlar hanesinde Ukle yalnızlığı ve kısıtlayan arkadaşlıkları uyarır."
+      - "Ukle on birinci hanede: umut engellenmiş."
+  12:
+    olumlu:
+      - "Gizli şeyler hanesinde Ukle: gizli düşman etkisiz, kapalı yerde korunma."
+      - "On ikinci hanede Ukle içe dönük bir disiplinin gücünü anlatır."
+    notr:
+      - "Gizli hanede Ukle var; içte kapalılık, konuşulmayan bir bağ."
+      - "On ikinci hanede Ukle: kapalı bir yer, bir hastane, bir inziva."
+    temkinli:
+      - "Gizli düşman hanesinde Ukle gizli bir engeli ve kişiyi kuşatan bir durumu uyarır."
+      - "Ukle on ikinci hanede: kişi kendi korkularının esiri; kapı içeriden açılır."

@@ -1,0 +1,124 @@
+kaynak: ilm-i remil geleneği; metin özgün
+lang: tr
+key: via
+haneler:
+  1:
+    olumlu:
+      - "Soran, Tarîk gibi yolda: hareket hâlinde, değişime açık, bir yerden bir yere geçiyor."
+      - "Birinci hanede Tarîk, durmayan ve yeni bir yola girmeye hazır birini gösteriyor."
+    notr:
+      - "Soranın hanesinde Tarîk var; kişi şu an bir geçişin ortasında, yerleşmemiş."
+      - "Tarîk birinci hanede: soranın hayatı akıyor, sabit bir nokta yok."
+    temkinli:
+      - "Soran Tarîk gibi: hep yolda olmak yorucu; nereye gittiğini bilmeden yürüyor olabilir."
+      - "Birinci hanede Tarîk kararsız bir geçiş hâlini, yalnız bir yolu anlatır."
+  2:
+    olumlu:
+      - "Para hanesinde Tarîk: para akıyor, gelir yoldan ya da hareketten geliyor."
+      - "Mal hanesinde Tarîk yeni bir kaynağa geçişi anlatır."
+    notr:
+      - "İkinci hanede Tarîk var; para geliyor ve gidiyor, birikmiyor."
+      - "Mal hanesinde Tarîk: kazanç değişken, kaynak hareket hâlinde."
+    temkinli:
+      - "Para hanesinde Tarîk elde tutulamayan bir geliri uyarıyor; akan su birikmez."
+      - "Tarîk ikinci hanede: eşya yoldan gidebilir, para yolda harcanır."
+  3:
+    olumlu:
+      - "Haber hanesinde Tarîk: haber yolda, kısa yolculuk hayırlı."
+      - "Üçüncü hanede Tarîk kardeşlerle bir yolculuk ya da bir taşınma anlatır."
+    notr:
+      - "Kardeşler hanesinde Tarîk var; iletişim hareketli, kısa yollar sık."
+      - "Üçüncü hanede Tarîk: haber geliyor, ama gelirken değişiyor."
+    temkinli:
+      - "Haber hanesinde Tarîk ulaşmayan mesajı ve kaybolan haberi uyarır."
+      - "Tarîk üçüncü hanede: kardeşten uzaklaşma."
+  4:
+    olumlu:
+      - "Ev hanesinde Tarîk: taşınma, yeni bir ev, kökleri değiştirme; işin sonu bir yola çıkış."
+      - "İşin sonu hanesinde Tarîk meselenin bir değişimle ve hareketle kapanacağını söyler."
+    notr:
+      - "Dördüncü hanede Tarîk var; ev geçici, kökler oynak."
+      - "Ev hanesinde Tarîk: evde biri gidiyor ya da geliyor."
+    temkinli:
+      - "Ev hanesinde Tarîk yerleşememeyi ve huzursuz bir ev düzenini anlatır."
+      - "Tarîk dördüncü hanede: işin sonu belirsiz bir yola açılıyor."
+  5:
+    olumlu:
+      - "Aşk hanesinde Tarîk: aşk yolda bulunur; bir yolculukta bir karşılaşma."
+      - "Beşinci hanede Tarîk keyfin seyahatte olduğunu söyler."
+    notr:
+      - "Keyif hanesinde Tarîk var; aşk hareketli, bağlılık gevşek."
+      - "Beşinci hanede Tarîk: çocukla ya da sevgiliyle ilgili bir yolculuk."
+    temkinli:
+      - "Aşk hanesinde Tarîk uzaklaşmayı ve tek başına yola düşmeyi anlatabilir."
+      - "Tarîk beşinci hanede: keyif yolda kalıyor, aşk bir yerde durmuyor."
+  6:
+    olumlu:
+      - "Sağlık ve iş hanesinde Tarîk: hastalık geçer, iş değişir ve rahatlar."
+      - "Altıncı hanede Tarîk günlük düzende hayırlı bir değişimi anlatır."
+    notr:
+      - "Hizmet hanesinde Tarîk var; işler hareketli, beden yolda."
+      - "Altıncı hanede Tarîk: iş yerinde bir gidiş-geliş."
+    temkinli:
+      - "Sağlık hanesinde Tarîk yorgunluğu ve yolda bozulan düzeni uyarır; kesin söz hekimindir."
+      - "Tarîk altıncı hanede: çalışanlar değişiyor, düzen oturmuyor."
+  7:
+    olumlu:
+      - "Eş hanesinde Tarîk: karşı taraf geliyor; uzaktan bir ortak, yoldan bir eş."
+      - "Yedinci hanede Tarîk ilişkide hayırlı bir değişimi anlatır."
+    notr:
+      - "Karşı taraf hanesinde Tarîk var; eş ya da ortak hareket hâlinde."
+      - "Yedinci hanede Tarîk: karşıdaki kişi yolcu, geçici ya da uzakta."
+    temkinli:
+      - "Eş hanesinde Tarîk ayrılığı, karşı tarafın gidişini anlatabilir."
+      - "Tarîk yedinci hanede: ortak bağlanmıyor, rakip yer değiştiriyor."
+  8:
+    olumlu:
+      - "Kriz hanesinde Tarîk: zorluk geçer, korku yolda kalır."
+      - "Sekizinci hanede Tarîk kayıptan sonra yeni bir yola çıkışı anlatır."
+    notr:
+      - "Dönüşüm hanesinde Tarîk var; kriz akıp gidiyor."
+      - "Sekizinci hanede Tarîk: ortak para hareket hâlinde."
+    temkinli:
+      - "Kriz hanesinde Tarîk çözülmeden geçilen sorunları uyarır; yol sorunu götürmez, erteler."
+      - "Tarîk sekizinci hanede: borç yolda büyür."
+  9:
+    olumlu:
+      - "Uzak yol hanesinde Tarîk: yolculuk için en iyi şekil; gidiş olur, yol açık."
+      - "Dokuzuncu hanede Tarîk uzak bir yere hayırlı bir gidişi ve yeni bir öğrenmeyi anlatır."
+    notr:
+      - "İlim hanesinde Tarîk var; eğitim bir geçiş, sınav bir basamak."
+      - "Dokuzuncu hanede Tarîk: uzun bir yol, değişen bir inanç."
+    temkinli:
+      - "Sınav hanesinde Tarîk sınavın tek başına bitiş olmadığını, ardından yeni bir aşamanın geldiğini söyler."
+      - "Tarîk dokuzuncu hanede: yol uzun ve yalnız."
+  10:
+    olumlu:
+      - "Kariyer hanesinde Tarîk: iş değişikliği hayırlı; yeni bir yol açılıyor."
+      - "Onuncu hanede Tarîk kariyerde hareket ve ilerleme anlatır."
+    notr:
+      - "İş ve itibar hanesinde Tarîk var; kariyer yolda, otorite değişiyor."
+      - "Onuncu hanede Tarîk: iş için yolculuk ya da yer değişikliği."
+    temkinli:
+      - "Kariyer hanesinde Tarîk sabit bir yere varamamayı uyarır; sürekli değişim itibar kurmaz."
+      - "Tarîk onuncu hanede: üst değişiyor, zemin kayıyor."
+  11:
+    olumlu:
+      - "Dostlar hanesinde Tarîk: yoldan gelen dostlar, seyahatte kurulan bağlar."
+      - "On birinci hanede Tarîk umutların hareketle gerçekleşeceğini söyler."
+    notr:
+      - "Umutlar hanesinde Tarîk var; dost çevresi değişiyor, planlar akışta."
+      - "On birinci hanede Tarîk: uzakta bir dost, yolda bir umut."
+    temkinli:
+      - "Dostlar hanesinde Tarîk uzaklaşan arkadaşları ve dağılan çevreyi anlatabilir."
+      - "Tarîk on birinci hanede: umut yolda kalmış, hedef kaymış."
+  12:
+    olumlu:
+      - "Gizli şeyler hanesinde Tarîk: içteki sıkıntı geçiyor, kapalı yerden çıkış var."
+      - "On ikinci hanede Tarîk gizli bir engelin aşıldığını anlatır."
+    notr:
+      - "Gizli hanede Tarîk var; içte bir yolculuk, sessiz bir değişim."
+      - "On ikinci hanede Tarîk: yalnız bir yol, kimseye söylenmeyen bir karar."
+    temkinli:
+      - "Gizli düşman hanesinde Tarîk görünmeyen bir yolcuyu, arkadan dolaşan bir engeli uyarır."
+      - "Tarîk on ikinci hanede: kişi kendinden kaçıyor olabilir."

@@ -1,0 +1,124 @@
+kaynak: ilm-i remil geleneği; metin özgün
+lang: tr
+key: laetitia
+haneler:
+  1:
+    olumlu:
+      - "Soran, Lihyan'ın neşesiyle duruyor: umutlu, yüzü gülen, yukarı bakan."
+      - "Birinci hanede Lihyan, iyimserliğiyle etrafını da taşıyan birini gösteriyor."
+    notr:
+      - "Soranın hanesinde Lihyan var; kişi şu an keyifli, beklentisi yüksek."
+      - "Lihyan birinci hanede: soran iyi bir şey bekliyor."
+    temkinli:
+      - "Soran Lihyan gibi: neşe gerçeği örtebilir; umut hesap değildir."
+      - "Birinci hanede Lihyan ayakları yerden kesilmiş bir iyimserliği anlatır."
+  2:
+    olumlu:
+      - "Para hanesinde Lihyan: kazanç sevinçle gelir; beklenen para hayırlı."
+      - "Mal hanesinde Lihyan ferah bir dönemi, rahat bir bütçeyi anlatır."
+    notr:
+      - "İkinci hanede Lihyan var; para konusu umutlu, hesap hafif."
+      - "Mal hanesinde Lihyan: harcama keyif için."
+    temkinli:
+      - "Para hanesinde Lihyan neşeyle yapılan hesapsız harcamayı uyarıyor."
+      - "Lihyan ikinci hanede: kazanç beklenen kadar büyük olmayabilir."
+  3:
+    olumlu:
+      - "Haber hanesinde Lihyan: haber iyi, müjde yolda; kardeşlerle neşe."
+      - "Üçüncü hanede Lihyan keyifli bir sohbeti ve sevinçli bir kısa yolculuğu anlatır."
+    notr:
+      - "Kardeşler hanesinde Lihyan var; iletişim sıcak, haber hafif."
+      - "Üçüncü hanede Lihyan: bir kutlama haberi."
+    temkinli:
+      - "Haber hanesinde Lihyan abartılı müjdeyi uyarır; sevinçle söylenen her şey doğru değil."
+      - "Lihyan üçüncü hanede: boş vaat."
+  4:
+    olumlu:
+      - "Ev hanesinde Lihyan: ev neşeli, aile mutlu; işin sonu sevinçli."
+      - "İşin sonu hanesinde Lihyan meselenin güzel bir sonuçla kapanacağını söyler."
+    notr:
+      - "Dördüncü hanede Lihyan var; evde bir kutlama, köklerde huzur."
+      - "Ev hanesinde Lihyan: yüksek bir ev, ferah bir yer."
+    temkinli:
+      - "Ev hanesinde Lihyan sevincin kısa sürebileceğini uyarır."
+      - "Lihyan dördüncü hanede: işin sonu iyi görünür ama temeli kontrol et."
+  5:
+    olumlu:
+      - "Aşk hanesinde Lihyan: aşk için en güzel şekillerden biri; sevinç, kavuşma, çocuk müjdesi."
+      - "Beşinci hanede Lihyan keyfin ve yaratıcılığın coştuğu bir dönemi anlatır."
+    notr:
+      - "Keyif hanesinde Lihyan var; aşk neşeli, eğlence bol."
+      - "Beşinci hanede Lihyan: bir doğum, bir düğün, bir bayram."
+    temkinli:
+      - "Aşk hanesinde Lihyan balayı havasının gerçeği örtmesini uyarır."
+      - "Lihyan beşinci hanede: keyif aşırıya kaçabilir."
+  6:
+    olumlu:
+      - "Sağlık ve iş hanesinde Lihyan: hastalık geçer, iş ortamı neşeli."
+      - "Altıncı hanede Lihyan iyileşmeyi ve hafiflemeyi anlatır."
+    notr:
+      - "Hizmet hanesinde Lihyan var; işler keyifli, sağlık iyi."
+      - "Altıncı hanede Lihyan: iş yerinde güzel bir haber."
+    temkinli:
+      - "Sağlık hanesinde Lihyan ihmali ve 'nasılsa iyiyim' rahatlığını uyarır; kesin söz hekimindir."
+      - "Lihyan altıncı hanede: iş keyifli ama verim düşük."
+  7:
+    olumlu:
+      - "Eş hanesinde Lihyan: karşı taraf neşeli, iyimser, sevecen."
+      - "Yedinci hanede Lihyan mutlu bir birlikteliği ve iyi niyetli bir ortağı anlatır."
+    notr:
+      - "Karşı taraf hanesinde Lihyan var; eş ya da ortak keyifli, hafif."
+      - "Yedinci hanede Lihyan: karşıdaki kişi umut dolu."
+    temkinli:
+      - "Eş hanesinde Lihyan ciddiyetsiz bir ortağı ya da yüzeysel bir bağı uyarır."
+      - "Lihyan yedinci hanede: rakip neşeli, yani rahat."
+  8:
+    olumlu:
+      - "Kriz hanesinde Lihyan: korku dağılır, kriz hafif geçer, miras hayırlı."
+      - "Sekizinci hanede Lihyan karanlıktan sonra gelen sabahı anlatır."
+    notr:
+      - "Dönüşüm hanesinde Lihyan var; kriz hafif, dönüşüm umutlu."
+      - "Sekizinci hanede Lihyan: ortak paradan sevindirici bir haber."
+    temkinli:
+      - "Kriz hanesinde Lihyan tehlikeyi hafife almayı uyarır."
+      - "Lihyan sekizinci hanede: borç neşeyle unutulmuş."
+  9:
+    olumlu:
+      - "Uzak yol ve ilim hanesinde Lihyan: yolculuk keyifli, sınav sevinçle biter."
+      - "Dokuzuncu hanede Lihyan inancın ve öğrenmenin neşesini anlatır."
+    notr:
+      - "İlim hanesinde Lihyan var; eğitim zevkli, yol güzel."
+      - "Dokuzuncu hanede Lihyan: uzakta bir kutlama."
+    temkinli:
+      - "Sınav hanesinde Lihyan fazla iyimser bir hazırlığı uyarır; neşe çalışmanın yerini tutmaz."
+      - "Lihyan dokuzuncu hanede: yol güzel ama hedef hafif."
+  10:
+    olumlu:
+      - "Kariyer hanesinde Lihyan: yükseliş sevinçli, itibar parlak, tanınma yolda."
+      - "Onuncu hanede Lihyan beğenilen ve alkışlanan bir başarıyı anlatır."
+    notr:
+      - "İş ve itibar hanesinde Lihyan var; kariyer hafif, otorite neşeli."
+      - "Onuncu hanede Lihyan: üstlerden iyi haber."
+    temkinli:
+      - "Kariyer hanesinde Lihyan gösterişin işin önüne geçmesini uyarır."
+      - "Lihyan onuncu hanede: itibar parlak ama zemin ince."
+  11:
+    olumlu:
+      - "Dostlar hanesinde Lihyan: dostlar neşeli, umutlar gerçekleşiyor."
+      - "On birinci hanede Lihyan dileğin sevinçle yerine geleceğini söyler."
+    notr:
+      - "Umutlar hanesinde Lihyan var; dost çevresi keyifli, planlar iyimser."
+      - "On birinci hanede Lihyan: bir kutlama, bir buluşma."
+    temkinli:
+      - "Dostlar hanesinde Lihyan sadece eğlencede var olan arkadaşları uyarır."
+      - "Lihyan on birinci hanede: umut yüksek, plan yok."
+  12:
+    olumlu:
+      - "Gizli şeyler hanesinde Lihyan: içteki sıkıntı dağılıyor; gizli bir sevinç var."
+      - "On ikinci hanede Lihyan kapalı yerde bile neşeyi bulan bir ruhu anlatır."
+    notr:
+      - "Gizli hanede Lihyan var; içte bir umut, söylenmemiş bir sevinç."
+      - "On ikinci hanede Lihyan: gizli bir mutluluk."
+    temkinli:
+      - "Gizli düşman hanesinde Lihyan güler yüzlü bir rakibi uyarır."
+      - "Lihyan on ikinci hanede: kişi kendi iyimserliğiyle kendini kandırabilir."

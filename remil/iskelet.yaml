@@ -1,0 +1,76 @@
+kaynak: Esoterica anlatı iskeleti; metin özgün
+lang: tr
+# Yorum motoru şu sırayla bölümler kurar. Her bölümün giriş cümleleri burada,
+# içerik cümleleri şekil ve hücre dosyalarından gelir.
+# Değişkenler: {hakim} {sag} {sol} {uzlastirici} {soru_hane} {konu} {sekil}
+bolumler:
+  acilis:
+    genel:
+      - "Kum düzleşti, noktalar yerine oturdu. Tablo şöyle konuşuyor."
+      - "On altı satır, dört ana şekil, bir hâkim. Başlayalım."
+      - "Çizgiler saymadan atıldı, şekiller kendiliğinden doğdu. Şimdi okuma zamanı."
+      - "Tablo kuruldu. Önce hükme, sonra senin hanene, sonra sorunun hanesine bakacağız."
+      - "Remil, kumda doğan bir cevaptır. Bu kumun söylediği şu."
+      - "Noktalar düştü, şekiller belirdi. Hâkim yerini aldı."
+    ask:
+      - "Gönül sorusu için tablo kuruldu; kalbin hanesi ve karşı tarafın hanesi okunacak."
+      - "Aşk sorularında remil yedinci ve beşinci haneye bakar. Tablo hazır."
+    is:
+      - "İş ve kariyer için tablo kuruldu; onuncu ve altıncı hane okunacak."
+      - "Kariyer sorularında remil onuncu haneye, yani itibar ve makama bakar."
+    para:
+      - "Para sorusu için tablo kuruldu; ikinci ve sekizinci hane okunacak."
+    yolculuk:
+      - "Yolculuk sorusu için tablo kuruldu; dokuzuncu hane, uzak yolun hanesi, okunacak."
+    sinav:
+      - "Sınav sorusu için tablo kuruldu; dokuzuncu hane ilim, onuncu hane sonuç."
+    saglik:
+      - "Sağlık sorusu için tablo kuruldu; altıncı hane beden, birinci hane kişi. Fal hekimin yerine geçmez; bunu baştan söyleyelim."
+    aile:
+      - "Aile sorusu için tablo kuruldu; dördüncü hane ev, üçüncü hane kardeşler."
+    kayip:
+      - "Kayıp eşya için tablo kuruldu; ikinci hane eşya, dördüncü hane yer."
+  hakim:
+    - "Hüküm: {hakim}."
+    - "Tablonun hâkimi {hakim}; son sözü o söyler."
+    - "On beşinci şekil, yani hâkim, {hakim} olarak çıktı."
+    - "Hâkim {hakim}. Bütün tablo bu şeklin gölgesinde okunur."
+  taniklar:
+    - "Hâkim iki tanıktan doğar: sağda {sag}, solda {sol}. Sağ tanık geçmişi ve senin tarafını, sol tanık geleceği ve karşı tarafı anlatır."
+    - "Tanıklara bakalım. Sağ tanık {sag}: nereden gelindi. Sol tanık {sol}: nereye gidiliyor."
+    - "Sağ tanık {sag}, sol tanık {sol}. Hâkim bu ikisinin toplamıdır; biri olmadan öteki anlaşılmaz."
+    - "Hükmün nasıl geldiğini tanıklar söyler: {sag} geçmişte, {sol} gelecekte."
+  soran:
+    - "Şimdi sana bakalım. Birinci hane, soranın hanesi: {sekil}."
+    - "Seni temsil eden hane birinci hanedir; orada {sekil} var."
+    - "Soranın hanesinde {sekil} duruyor. Bu, senin bugünkü hâlini anlatır."
+    - "Birinci haneye, yani sana bakınca {sekil} görünüyor."
+  soru:
+    - "Sorunun hanesi {soru_hane}; orada {sekil} var."
+    - "Sorduğun şey {soru_hane}de yaşar. Bu hanede {sekil} duruyor."
+    - "Şimdi meselenin kendisine: {soru_hane}, şekil {sekil}."
+    - "{soru_hane|de} {sekil} var; sorunun cevabı buradan okunur."
+  gelinme:
+    - "Soran ile soru buluşuyor mu? Bu, remilde 'gelinme' sorusudur."
+    - "Şimdi asıl soru: sen ile sorduğun şey tabloda bir araya geliyor mu?"
+    - "Gelinmeye bakalım; iş olup olmayacağını bu söyler."
+  vurgu:
+    - "{sekil} tabloda {n} kez geçiyor. Tekrarlanan şekil bağıran şekildir; mesajı yoğun."
+    - "Dikkat: {sekil} {n} kez çıkmış. Remilde tekrar, vurgu demektir."
+    - "{sekil|in} tabloda {n} kez görünmesi bu temayı güçlendiriyor."
+  uzlastirici:
+    - "Son olarak uzlaştırıcı, on altıncı şekil: {uzlastirici}. Uzun vadeyi ve meselenin sende bırakacağı izi anlatır."
+    - "Uzlaştırıcı {uzlastirici}. Hâkim bugünü söyler, uzlaştırıcı yarını."
+    - "Hâkim ile senin şeklinin toplamı uzlaştırıcıdır: {uzlastirici}. Bu, işin sana nasıl döneceğini söyler."
+  ogut:
+    - "Öğüt:"
+    - "Tablonun öğüdü şu:"
+    - "Kum son olarak şunu söylüyor:"
+    - "Bir cümleyle:"
+  kapanis:
+    - "Remil karar vermez, gösterir. Karar senin."
+    - "Fal bir aynadır; aynaya bakan kişi hep sensin."
+    - "Bu tablo bugünün tablosudur. Yarın başka kum, başka nokta."
+    - "Söz bitti, kum silinir. Gerisi senin elinde."
+    - "Şekiller konuştu; dinleyen de, seçen de sensin."
+    - "Aynı soruyu bugün yeniden sorma; kum aynı güne iki kez cevap vermez."

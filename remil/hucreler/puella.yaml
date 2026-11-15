@@ -1,0 +1,124 @@
+kaynak: ilm-i remil geleneği; metin özgün
+lang: tr
+key: puella
+haneler:
+  1:
+    olumlu:
+      - "Soran, Nakiyyü'l-hadd'in zarafetiyle duruyor: uyumlu, sevimli, barışçıl."
+      - "Birinci hanede Nakiyyü'l-hadd, çevresiyle iyi geçinen ve güzelliği seven birini gösteriyor."
+    notr:
+      - "Soranın hanesinde Nakiyyü'l-hadd var; kişi yumuşak, uzlaşmacı ve biraz kararsız."
+      - "Nakiyyü'l-hadd birinci hanede: soran şu an hoşnut edilmek istiyor."
+    temkinli:
+      - "Soran Nakiyyü'l-hadd gibi: herkesi memnun etmeye çalışırken kendini unutabilir."
+      - "Birinci hanede Nakiyyü'l-hadd, kararsızlığın ve etkiye açıklığın hâlini anlatır."
+  2:
+    olumlu:
+      - "Para hanesinde Nakiyyü'l-hadd: kazanç güzellik, sanat ya da iyi ilişkiler yoluyla gelir."
+      - "Mal hanesinde Nakiyyü'l-hadd hoş bir rahatlık, küçük ama tatlı bir bolluk anlatır."
+    notr:
+      - "İkinci hanede Nakiyyü'l-hadd var; para keyif için harcanıyor."
+      - "Mal hanesinde Nakiyyü'l-hadd: kazanç orta, harcama zarif."
+    temkinli:
+      - "Para hanesinde Nakiyyü'l-hadd süs ve gösteriş harcamalarını uyarıyor."
+      - "Nakiyyü'l-hadd ikinci hanede: tatlı dille para kaybedilebilir."
+  3:
+    olumlu:
+      - "Haber hanesinde Nakiyyü'l-hadd: gelen haber tatlı, yazışma nazik."
+      - "Üçüncü hanede Nakiyyü'l-hadd kardeşlerle uyum ve hoş bir sohbet anlatır."
+    notr:
+      - "Kardeşler hanesinde Nakiyyü'l-hadd var; kısa yollar keyifli, iletişim yumuşak."
+      - "Üçüncü hanede Nakiyyü'l-hadd: çevreden gelen söz kibar ama belirsiz."
+    temkinli:
+      - "Haber hanesinde Nakiyyü'l-hadd, güzel sözün ardında net bir bilgi olmayabileceğini söyler."
+      - "Nakiyyü'l-hadd üçüncü hanede: dedikodu tatlı dille yayılır."
+  4:
+    olumlu:
+      - "Ev hanesinde Nakiyyü'l-hadd: ev huzurlu, güzel, misafire açık."
+      - "İşin sonu hanesinde Nakiyyü'l-hadd meselenin uzlaşmayla ve hoş bir şekilde kapanacağını söyler."
+    notr:
+      - "Dördüncü hanede Nakiyyü'l-hadd var; evde kadınsı bir düzen, bakımlı bir ortam."
+      - "Ev hanesinde Nakiyyü'l-hadd: köklerde bir yumuşaklık."
+    temkinli:
+      - "Ev hanesinde Nakiyyü'l-hadd kararsız bir ev düzeni anlatır; kimse 'hayır' demiyor."
+      - "Nakiyyü'l-hadd dördüncü hanede: işin sonu tatlı ama belirsiz kalabilir."
+  5:
+    olumlu:
+      - "Aşk hanesinde Nakiyyü'l-hadd: sevgi dolu, nazik, karşılıklı bir çekim."
+      - "Beşinci hanede Nakiyyü'l-hadd keyif, flört ve hoş bir sürpriz anlatır."
+    notr:
+      - "Keyif hanesinde Nakiyyü'l-hadd var; aşk yumuşak, eğlence zarif."
+      - "Beşinci hanede Nakiyyü'l-hadd: bir çocuk ya da genç bir kadın konusu."
+    temkinli:
+      - "Aşk hanesinde Nakiyyü'l-hadd, hoşa gitme isteğinin aşkla karıştırılabileceğini uyarır."
+      - "Nakiyyü'l-hadd beşinci hanede: keyif için kararsızlık, flört için belirsizlik."
+  6:
+    olumlu:
+      - "Sağlık ve iş hanesinde Nakiyyü'l-hadd: beden dengede, iş ortamı uyumlu."
+      - "Altıncı hanede Nakiyyü'l-hadd iyi geçinilen çalışanlar ve rahat bir günlük düzen anlatır."
+    notr:
+      - "Hizmet hanesinde Nakiyyü'l-hadd var; günlük işlerde nezaket, bedende yumuşaklık."
+      - "Altıncı hanede Nakiyyü'l-hadd: iş yerinde hoş bir yardımcı."
+    temkinli:
+      - "Sağlık hanesinde Nakiyyü'l-hadd gevşekliği ve ihmali uyarır; kesin söz hekimindir."
+      - "Nakiyyü'l-hadd altıncı hanede: işte iyi geçinmek için verimden fedakârlık."
+  7:
+    olumlu:
+      - "Eş hanesinde Nakiyyü'l-hadd: karşı taraf sevecen, uzlaşmacı, iyi niyetli."
+      - "Yedinci hanede Nakiyyü'l-hadd barışçıl bir ortaklık ve uyumlu bir eş anlatır."
+    notr:
+      - "Karşı taraf hanesinde Nakiyyü'l-hadd var; eş ya da ortak nazik ve kararsız."
+      - "Yedinci hanede Nakiyyü'l-hadd: karşıdaki kişi hoşa gitmek istiyor."
+    temkinli:
+      - "Eş hanesinde Nakiyyü'l-hadd, karşı tarafın 'evet' derken aslında karar vermediğini söyleyebilir."
+      - "Nakiyyü'l-hadd yedinci hanede: rakip tatlı dilli, ortak kaypak olabilir."
+  8:
+    olumlu:
+      - "Kriz hanesinde Nakiyyü'l-hadd: zorluk yumuşak bir şekilde geçer, korku dağılır."
+      - "Sekizinci hanede Nakiyyü'l-hadd borç ya da miras konusunda uzlaşma anlatır."
+    notr:
+      - "Dönüşüm hanesinde Nakiyyü'l-hadd var; kriz hafif, çözüm nazik."
+      - "Sekizinci hanede Nakiyyü'l-hadd: ortak para için tatlı bir pazarlık."
+    temkinli:
+      - "Kriz hanesinde Nakiyyü'l-hadd, sorunun güzel sözlerle örtülüp çözülmemesini uyarır."
+      - "Nakiyyü'l-hadd sekizinci hanede: borç konusunda gevşeklik."
+  9:
+    olumlu:
+      - "Uzak yol ve ilim hanesinde Nakiyyü'l-hadd: yolculuk keyifli, öğrenme zevkli."
+      - "Dokuzuncu hanede Nakiyyü'l-hadd hoş bir seyahat ve sanatla ilgili bir eğitim anlatır."
+    notr:
+      - "İlim hanesinde Nakiyyü'l-hadd var; sınav yumuşak, yol rahat."
+      - "Dokuzuncu hanede Nakiyyü'l-hadd: uzak yerde hoş bir karşılaşma."
+    temkinli:
+      - "Sınav hanesinde Nakiyyü'l-hadd disiplinsiz çalışmayı uyarır; keyif çalışmayı yutabilir."
+      - "Nakiyyü'l-hadd dokuzuncu hanede: yol güzel, hedef belirsiz."
+  10:
+    olumlu:
+      - "Kariyer hanesinde Nakiyyü'l-hadd: itibar sevilerek kazanılır; insanlar kişiyi tutuyor."
+      - "Onuncu hanede Nakiyyü'l-hadd sanat, güzellik ya da insan ilişkileri üzerinden bir yükseliş anlatır."
+    notr:
+      - "İş ve itibar hanesinde Nakiyyü'l-hadd var; kariyer uyumlu, üstler nazik."
+      - "Onuncu hanede Nakiyyü'l-hadd: otorite yumuşak, yön belirsiz."
+    temkinli:
+      - "Kariyer hanesinde Nakiyyü'l-hadd 'herkes sevsin' isteğinin kararı zayıflatabileceğini uyarır."
+      - "Nakiyyü'l-hadd onuncu hanede: itibar hoş ama hedef dağınık."
+  11:
+    olumlu:
+      - "Dostlar hanesinde Nakiyyü'l-hadd: arkadaşlar sıcak, destek içten."
+      - "On birinci hanede Nakiyyü'l-hadd umutların dostlar sayesinde yeşereceğini söyler."
+    notr:
+      - "Umutlar hanesinde Nakiyyü'l-hadd var; dost çevresi keyifli, planlar yumuşak."
+      - "On birinci hanede Nakiyyü'l-hadd: bir kadın dost ya da sanatçı bir çevre."
+    temkinli:
+      - "Dostlar hanesinde Nakiyyü'l-hadd, hoş sohbetin somut desteğe dönüşmeyebileceğini uyarır."
+      - "Nakiyyü'l-hadd on birinci hanede: umutlar tatlı, adımlar belirsiz."
+  12:
+    olumlu:
+      - "Gizli şeyler hanesinde Nakiyyü'l-hadd: içte huzur, saklı bir sevgi."
+      - "On ikinci hanede Nakiyyü'l-hadd gizli bir yardımseveri anlatır."
+    notr:
+      - "Gizli hanede Nakiyyü'l-hadd var; içte yumuşak bir özlem."
+      - "On ikinci hanede Nakiyyü'l-hadd: gizli bir ilişki ya da saklı bir hoşlanma."
+    temkinli:
+      - "Gizli düşman hanesinde Nakiyyü'l-hadd tatlı dille yaklaşan bir riyakârı uyarır."
+      - "Nakiyyü'l-hadd on ikinci hanede: kendi gevşekliği kişinin gizli engeli."

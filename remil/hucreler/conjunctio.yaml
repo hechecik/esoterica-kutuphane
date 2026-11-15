@@ -1,0 +1,124 @@
+kaynak: ilm-i remil geleneği; metin özgün
+lang: tr
+key: conjunctio
+haneler:
+  1:
+    olumlu:
+      - "Soran, İçtimâ'nın bağlayıcılığıyla duruyor: insanları ve parçaları bir araya getiren, köprü kuran."
+      - "Birinci hanede İçtimâ, ilişkilerle büyüyen ve yalnız kalmayan birini gösteriyor."
+    notr:
+      - "Soranın hanesinde İçtimâ var; kişi şu an bir buluşmanın, bir birleşmenin ortasında."
+      - "İçtimâ birinci hanede: soranın kaderi başkalarıyla düğümlenmiş."
+    temkinli:
+      - "Soran İçtimâ gibi: her şeyi bağlarken kendi yönünü yitirebilir."
+      - "Birinci hanede İçtimâ tek başına iş bitirmeyen, yanındakine göre renk alan bir hâli anlatır."
+  2:
+    olumlu:
+      - "Para hanesinde İçtimâ: kazanç ortaklıkla, aracılıkla ve ilişkiler sayesinde gelir."
+      - "Mal hanesinde İçtimâ iki kaynağın birleşmesiyle oluşan bir geliri anlatır."
+    notr:
+      - "İkinci hanede İçtimâ var; para başkalarıyla bağlantılı."
+      - "Mal hanesinde İçtimâ: bir sözleşme, bir ortak hesap."
+    temkinli:
+      - "Para hanesinde İçtimâ karmaşık ortaklıkları ve bağlı paraları uyarıyor."
+      - "İçtimâ ikinci hanede: kazanç başkasının imzasına bağlı."
+  3:
+    olumlu:
+      - "Haber hanesinde İçtimâ: iletişim için en iyi şekil; haber bağlanır, buluşma olur."
+      - "Üçüncü hanede İçtimâ kardeşlerle kavuşmayı ve verimli bir yazışmayı anlatır."
+    notr:
+      - "Kardeşler hanesinde İçtimâ var; iletişim yoğun, kısa yollar birleştiriyor."
+      - "Üçüncü hanede İçtimâ: bir toplantı, bir sözleşme."
+    temkinli:
+      - "Haber hanesinde İçtimâ fazla aracıyı ve karışan mesajı uyarır."
+      - "İçtimâ üçüncü hanede: bağlantı var, netlik yok."
+  4:
+    olumlu:
+      - "Ev hanesinde İçtimâ: aile bir araya geliyor; işin sonu bir birleşmeyle, bir anlaşmayla."
+      - "İşin sonu hanesinde İçtimâ meselenin iki tarafın buluşmasıyla kapanacağını söyler."
+    notr:
+      - "Dördüncü hanede İçtimâ var; evde bir birleşme, köklerde bir bağ."
+      - "Ev hanesinde İçtimâ: iki ailenin karışması."
+    temkinli:
+      - "Ev hanesinde İçtimâ evde karmaşık ilişkileri uyarır."
+      - "İçtimâ dördüncü hanede: işin sonu başkalarına bağlı."
+  5:
+    olumlu:
+      - "Aşk hanesinde İçtimâ: kavuşma, bağlanma, iki kalbin buluşması."
+      - "Beşinci hanede İçtimâ aşk için iyi bir birleşmeyi ve keyifli bir ortaklığı anlatır."
+    notr:
+      - "Keyif hanesinde İçtimâ var; aşk bağlayıcı, eğlence ortak."
+      - "Beşinci hanede İçtimâ: bir ilişki düğümleniyor."
+    temkinli:
+      - "Aşk hanesinde İçtimâ karmaşık bağları ve üçgen ilişkileri uyarır."
+      - "İçtimâ beşinci hanede: keyif başkalarına bağlı."
+  6:
+    olumlu:
+      - "Sağlık ve iş hanesinde İçtimâ: iş yerinde iyi bir işbirliği; beden dengede."
+      - "Altıncı hanede İçtimâ uyumlu çalışanları ve ortak çalışmayı anlatır."
+    notr:
+      - "Hizmet hanesinde İçtimâ var; işler bağlantılı, sağlık ilişkilere bağlı."
+      - "Altıncı hanede İçtimâ: iş yerinde bir ortaklık."
+    temkinli:
+      - "Sağlık hanesinde İçtimâ bulaşmayı ve iç içe geçen sıkıntıları uyarır; kesin söz hekimindir."
+      - "İçtimâ altıncı hanede: işte herkes birbirine bağımlı."
+  7:
+    olumlu:
+      - "Eş hanesinde İçtimâ: evlilik, ortaklık, sözleşme için en iyi yer; kavuşma olur."
+      - "Yedinci hanede İçtimâ karşı tarafla kurulan sağlam bir bağı anlatır."
+    notr:
+      - "Karşı taraf hanesinde İçtimâ var; eş ya da ortak bağlanmak istiyor."
+      - "Yedinci hanede İçtimâ: karşıdaki kişi bir aracıyla geliyor."
+    temkinli:
+      - "Eş hanesinde İçtimâ, karşı tarafın başkalarıyla da bağlı olduğunu uyarır."
+      - "İçtimâ yedinci hanede: rakip de ortak oluyor."
+  8:
+    olumlu:
+      - "Kriz hanesinde İçtimâ: kriz işbirliğiyle çözülür; miras paylaşılır."
+      - "Sekizinci hanede İçtimâ zor bir dönüşümün birlikte aşıldığını anlatır."
+    notr:
+      - "Dönüşüm hanesinde İçtimâ var; kriz birkaç kişiyi bağlıyor."
+      - "Sekizinci hanede İçtimâ: ortak para, ortak borç."
+    temkinli:
+      - "Kriz hanesinde İçtimâ başkasının krizine bağlanmayı uyarır."
+      - "İçtimâ sekizinci hanede: borçlar birbirine düğümlenmiş."
+  9:
+    olumlu:
+      - "Uzak yol ve ilim hanesinde İçtimâ: yolculukta buluşma; sınav için birlikte çalışmak hayırlı."
+      - "Dokuzuncu hanede İçtimâ bilgilerin birbirine bağlanmasını ve bütünü görmeyi anlatır."
+    notr:
+      - "İlim hanesinde İçtimâ var; eğitim ortak, yol bağlantılı."
+      - "Dokuzuncu hanede İçtimâ: uzak yerde bir kavuşma."
+    temkinli:
+      - "Sınav hanesinde İçtimâ başkalarına fazla bağımlı bir hazırlığı uyarır."
+      - "İçtimâ dokuzuncu hanede: yol aktarmalı."
+  10:
+    olumlu:
+      - "Kariyer hanesinde İçtimâ: ortaklık, anlaşma, bağlantı sayesinde yükseliş."
+      - "Onuncu hanede İçtimâ itibarın ilişkilerle büyüdüğünü anlatır."
+    notr:
+      - "İş ve itibar hanesinde İçtimâ var; kariyer bağlantılara bağlı."
+      - "Onuncu hanede İçtimâ: bir sözleşme, bir birleşme."
+    temkinli:
+      - "Kariyer hanesinde İçtimâ bağımlı bir konumu uyarır; kendi ayakları üzerinde durmak gerek."
+      - "İçtimâ onuncu hanede: itibar başkasının itibarına bağlı."
+  11:
+    olumlu:
+      - "Dostlar hanesinde İçtimâ: dostlar buluşuyor; umutlar ortaklıkla gerçekleşiyor."
+      - "On birinci hanede İçtimâ dayanışmayı ve ortak bir hedefi anlatır."
+    notr:
+      - "Umutlar hanesinde İçtimâ var; dost çevresi bağlantılı, planlar ortak."
+      - "On birinci hanede İçtimâ: bir ağ, bir topluluk."
+    temkinli:
+      - "Dostlar hanesinde İçtimâ karışık ilişkileri ve çıkar ağlarını uyarır."
+      - "İçtimâ on birinci hanede: umut başkalarının elinde."
+  12:
+    olumlu:
+      - "Gizli şeyler hanesinde İçtimâ: gizli bir ittifak, saklı bir destek."
+      - "On ikinci hanede İçtimâ içteki parçaların birleşmesini anlatır."
+    notr:
+      - "Gizli hanede İçtimâ var; gizli bir ilişki, saklı bir bağ."
+      - "On ikinci hanede İçtimâ: kapalı kapılar ardında bir anlaşma."
+    temkinli:
+      - "Gizli düşman hanesinde İçtimâ kişiye karşı birleşen rakipleri uyarır."
+      - "İçtimâ on ikinci hanede: kişi kendi bağlarının esiri."

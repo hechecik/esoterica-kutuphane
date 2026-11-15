@@ -1,0 +1,40 @@
+kaynak: Esoterica ortak sözlük; metin özgün
+lang: tr
+# Tartma sonucuna göre bağlayıcı cümleler. Motor bölümler arasında bunları serpiştirir.
+baglac:
+  destek:
+    - "Bu, az önceki işareti güçlendiriyor."
+    - "Aynı yönde ikinci bir işaret."
+    - "Tablo burada kendini tekrar ediyor; mesaj net."
+    - "Bir önceki şekille aynı dili konuşuyor."
+  celiski:
+    - "Burada bir gerilim var; bir yan hız istiyor, öteki yan sabır."
+    - "Tablo tek sesli değil; iki şekil birbirine karşı konuşuyor."
+    - "Bu işaret öncekiyle çelişiyor. Remilde çelişki yalan değil, iki gerçeğin yan yana durmasıdır."
+    - "İki farklı ses var; hangisinin baskın çıkacağını hâkim söyler."
+  gecis:
+    - "Şimdi başka bir köşeye bakalım."
+    - "Tablonun geri kalanı şunu ekliyor."
+    - "Bir de şu var."
+    - "Devam edelim."
+yogunluk:
+  cok_guclu:
+    - "Bu tabloda neredeyse başka hiçbir şey konuşmuyor; tek bir tema her yerde."
+    - "İşaret o kadar yoğun ki, yorumun geri kalanı bunun gölgesinde."
+  guclu:
+    - "Tema belirgin; tablo bunu birkaç yerden söylüyor."
+    - "Bu baskın bir işaret."
+  orta:
+    - "Tema var ama baskın değil; yanındakilere göre okunmalı."
+  zayif:
+    - "Bu zayıf bir işaret; dikkate al, ama kararını buna dayandırma."
+    - "Hafif bir vurgu; arka planda duruyor."
+zaman:
+  hizli:
+    - "Zamanlama: hızlı. Gün ve hafta ölçeği."
+    - "Bu şekiller çabuk konuşur; sonuç yakın."
+  orta:
+    - "Zamanlama: orta vade. Haftalar, belki birkaç ay."
+  yavas:
+    - "Zamanlama: yavaş. Aylar, hatta mevsimler."
+    - "Bu şekiller ağırdır; sabır ister, sonuç geç gelir."

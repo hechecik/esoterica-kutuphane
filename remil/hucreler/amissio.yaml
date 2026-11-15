@@ -1,0 +1,124 @@
+kaynak: ilm-i remil geleneği; metin özgün
+lang: tr
+key: amissio
+haneler:
+  1:
+    olumlu:
+      - "Soran, Kabz-ı hâric'in hafifliğiyle duruyor: bırakmayı bilen, yükten kurtulmuş, özgür."
+      - "Birinci hanede Kabz-ı hâric, elinden çıkanı tutmayıp yoluna devam eden birini gösteriyor."
+    notr:
+      - "Soranın hanesinde Kabz-ı hâric var; kişi şu an bir şey kaybetmiş ya da kaybetmekten korkuyor."
+      - "Kabz-ı hâric birinci hanede: soranın elinde bir şey azalıyor."
+    temkinli:
+      - "Soran Kabz-ı hâric gibi: elindekini tutamıyor; kayıp dışarıda değil, tutuşta olabilir."
+      - "Birinci hanede Kabz-ı hâric dağınıklığı ve kaybı anlatır."
+  2:
+    olumlu:
+      - "Para hanesinde Kabz-ı hâric: harcama var ama hayırlı; borç ödenir, yük hafifler."
+      - "Mal hanesinde Kabz-ı hâric gereksiz şeylerden kurtulmayı anlatır."
+    notr:
+      - "İkinci hanede Kabz-ı hâric var; para gidiyor, elde kalmıyor."
+      - "Mal hanesinde Kabz-ı hâric: harcama kazancı aşıyor."
+    temkinli:
+      - "Para hanesinde Kabz-ı hâric kaybı, hırsızlığı ve kötü yatırımı uyarıyor."
+      - "Kabz-ı hâric ikinci hanede: kayıp eşya için kötü işaret."
+  3:
+    olumlu:
+      - "Haber hanesinde Kabz-ı hâric: kötü haber gelmez, gelen haber yük bırakır."
+      - "Üçüncü hanede Kabz-ı hâric kardeşlerle bir meseleyi kapatmayı anlatır."
+    notr:
+      - "Kardeşler hanesinde Kabz-ı hâric var; iletişim kopuk, haber eksik."
+      - "Üçüncü hanede Kabz-ı hâric: kısa yolda bir kayıp."
+    temkinli:
+      - "Haber hanesinde Kabz-ı hâric kaybolan mesajı ve yanlış anlaşılan sözü uyarır."
+      - "Kabz-ı hâric üçüncü hanede: kardeşle uzaklaşma."
+  4:
+    olumlu:
+      - "Ev hanesinde Kabz-ı hâric: eski bir yükten kurtuluş; işin sonu hafifleme."
+      - "İşin sonu hanesinde Kabz-ı hâric meselenin bir vazgeçişle ama rahatlamayla kapanacağını söyler."
+    notr:
+      - "Dördüncü hanede Kabz-ı hâric var; evde bir eksilme, köklerde bir kopuş."
+      - "Ev hanesinde Kabz-ı hâric: ev satılıyor ya da terk ediliyor."
+    temkinli:
+      - "Ev hanesinde Kabz-ı hâric evde kaybı ve dağılmayı uyarır."
+      - "Kabz-ı hâric dördüncü hanede: işin sonu kayıpla gelebilir."
+  5:
+    olumlu:
+      - "Aşk hanesinde Kabz-ı hâric: aşk için paradoksal olarak iyi; kendini vermek kazançtır."
+      - "Beşinci hanede Kabz-ı hâric kendinden geçen, karşılıksız seven bir kalbi anlatır."
+    notr:
+      - "Keyif hanesinde Kabz-ı hâric var; aşk veriyor, keyif harcıyor."
+      - "Beşinci hanede Kabz-ı hâric: bir ayrılık ya da bir bırakış."
+    temkinli:
+      - "Aşk hanesinde Kabz-ı hâric karşılıksız sevgiyi ve keyif için kaybı uyarır."
+      - "Kabz-ı hâric beşinci hanede: çocuk ya da sevgili uzaklaşıyor."
+  6:
+    olumlu:
+      - "Sağlık ve iş hanesinde Kabz-ı hâric: hastalık gider, zararlı alışkanlık bırakılır."
+      - "Altıncı hanede Kabz-ı hâric yükün hafiflediği bir dönemi anlatır."
+    notr:
+      - "Hizmet hanesinde Kabz-ı hâric var; işler azalıyor, enerji düşüyor."
+      - "Altıncı hanede Kabz-ı hâric: bir çalışan gidiyor."
+    temkinli:
+      - "Sağlık hanesinde Kabz-ı hâric güç kaybını ve ihmali uyarır; kesin söz hekimindir."
+      - "Kabz-ı hâric altıncı hanede: iş kaybı riski."
+  7:
+    olumlu:
+      - "Eş hanesinde Kabz-ı hâric: karşı taraf kaybediyor; rakip zayıflıyor."
+      - "Yedinci hanede Kabz-ı hâric zararlı bir ortaklıktan kurtuluşu anlatır."
+    notr:
+      - "Karşı taraf hanesinde Kabz-ı hâric var; eş ya da ortak uzaklaşıyor."
+      - "Yedinci hanede Kabz-ı hâric: karşıdaki kişi bir şey kaybetmiş."
+    temkinli:
+      - "Eş hanesinde Kabz-ı hâric ayrılığı ve ortağın kaybını uyarır."
+      - "Kabz-ı hâric yedinci hanede: ilişki elden kayıyor."
+  8:
+    olumlu:
+      - "Kriz hanesinde Kabz-ı hâric: korku dağılır, borç kapanır, eski yük gider."
+      - "Sekizinci hanede Kabz-ı hâric kaybedilenin aslında yük olduğunu anlatır."
+    notr:
+      - "Dönüşüm hanesinde Kabz-ı hâric var; kriz bir şeyi götürüyor."
+      - "Sekizinci hanede Kabz-ı hâric: miras ya da ortak para azalıyor."
+    temkinli:
+      - "Kriz hanesinde Kabz-ı hâric derin bir kaybı ve mali çöküşü uyarır."
+      - "Kabz-ı hâric sekizinci hanede: borç ödenmiyor, kayıp büyüyor."
+  9:
+    olumlu:
+      - "Uzak yol hanesinde Kabz-ı hâric: yolculukta yük bırakılır; eski inanç gider, yeni gelir."
+      - "Dokuzuncu hanede Kabz-ı hâric sınav için 'geride kalanı unut, öne bak' der."
+    notr:
+      - "İlim hanesinde Kabz-ı hâric var; sınav bir şey götürüyor, yol bir şey alıyor."
+      - "Dokuzuncu hanede Kabz-ı hâric: uzakta bir kayıp."
+    temkinli:
+      - "Sınav hanesinde Kabz-ı hâric puan kaybını ve dikkatsizliği uyarır."
+      - "Kabz-ı hâric dokuzuncu hanede: yolda eşya kaybı, yolculuk masrafı."
+  10:
+    olumlu:
+      - "Kariyer hanesinde Kabz-ı hâric: ağır bir sorumluluktan kurtuluş; itibar için küçük bir bedel."
+      - "Onuncu hanede Kabz-ı hâric yük bırakılınca gelen hafifliği anlatır."
+    notr:
+      - "İş ve itibar hanesinde Kabz-ı hâric var; kariyer geriliyor, otorite azalıyor."
+      - "Onuncu hanede Kabz-ı hâric: bir görev elden gidiyor."
+    temkinli:
+      - "Kariyer hanesinde Kabz-ı hâric işten çıkarılmayı ve itibar kaybını uyarır."
+      - "Kabz-ı hâric onuncu hanede: üstler desteklerini çekiyor."
+  11:
+    olumlu:
+      - "Dostlar hanesinde Kabz-ı hâric: zararlı dostlardan kurtuluş, boş umutlardan arınma."
+      - "On birinci hanede Kabz-ı hâric gerçek dostun ayrılınca belli olduğunu söyler."
+    notr:
+      - "Umutlar hanesinde Kabz-ı hâric var; dost çevresi azalıyor, planlar dağılıyor."
+      - "On birinci hanede Kabz-ı hâric: bir dost gidiyor."
+    temkinli:
+      - "Dostlar hanesinde Kabz-ı hâric umut kırıklığını ve dost kaybını uyarır."
+      - "Kabz-ı hâric on birinci hanede: destek çekiliyor."
+  12:
+    olumlu:
+      - "Gizli şeyler hanesinde Kabz-ı hâric: gizli düşman kaybediyor; içteki sıkıntı gidiyor."
+      - "On ikinci hanede Kabz-ı hâric kapalı bir yerden kurtuluşu anlatır."
+    notr:
+      - "Gizli hanede Kabz-ı hâric var; içte bir boşluk, bir eksilme."
+      - "On ikinci hanede Kabz-ı hâric: saklı bir kayıp."
+    temkinli:
+      - "Gizli düşman hanesinde Kabz-ı hâric gizlice yapılan bir hırsızlığı ya da kaybı uyarır."
+      - "Kabz-ı hâric on ikinci hanede: kişi kendi kendini tüketiyor olabilir."

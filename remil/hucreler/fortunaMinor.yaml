@@ -1,0 +1,124 @@
+kaynak: ilm-i remil geleneği; metin özgün
+lang: tr
+key: fortunaMinor
+haneler:
+  1:
+    olumlu:
+      - "Soran, Nusretü'l-hâric'in hızıyla duruyor: çabuk, çevik, fırsatı gören."
+      - "Birinci hanede Nusretü'l-hâric, dışarıdan gelen yardımı kabul etmeyi bilen birini gösteriyor."
+    notr:
+      - "Soranın hanesinde Nusretü'l-hâric var; kişi şu an hızlı ama dayanağı dışarıda."
+      - "Nusretü'l-hâric birinci hanede: soran başkalarının desteğine yaslanıyor."
+    temkinli:
+      - "Soran Nusretü'l-hâric gibi: hızlı başlayıp çabuk bırakma eğilimi var."
+      - "Birinci hanede Nusretü'l-hâric geçici bir gücü, ödünç alınmış bir enerjiyi anlatır."
+  2:
+    olumlu:
+      - "Para hanesinde Nusretü'l-hâric: kazanç hızlı ve dışarıdan gelir; bir fırsat, bir yardım."
+      - "Mal hanesinde Nusretü'l-hâric beklenmedik ama hoş bir gelir anlatır."
+    notr:
+      - "İkinci hanede Nusretü'l-hâric var; para çabuk geliyor, çabuk gidiyor."
+      - "Mal hanesinde Nusretü'l-hâric: kazanç başkasına bağlı."
+    temkinli:
+      - "Para hanesinde Nusretü'l-hâric fırsatın kısa ömürlü olduğunu uyarıyor; gelince tut."
+      - "Nusretü'l-hâric ikinci hanede: kazanç var, kalıcılık yok."
+  3:
+    olumlu:
+      - "Haber hanesinde Nusretü'l-hâric: haber hızlı gelir, kardeşlerden destek çabuk."
+      - "Üçüncü hanede Nusretü'l-hâric kısa ve hayırlı bir yolculuğu anlatır."
+    notr:
+      - "Kardeşler hanesinde Nusretü'l-hâric var; iletişim hızlı, kısa yollar sık."
+      - "Üçüncü hanede Nusretü'l-hâric: haber geldi geçti."
+    temkinli:
+      - "Haber hanesinde Nusretü'l-hâric aceleyle verilen cevabı uyarır."
+      - "Nusretü'l-hâric üçüncü hanede: destek geçici."
+  4:
+    olumlu:
+      - "Ev hanesinde Nusretü'l-hâric: ev konusunda dışarıdan yardım; işin sonu hızlı ve iyi."
+      - "İşin sonu hanesinde Nusretü'l-hâric meselenin bir yardımla çabucak kapanacağını söyler."
+    notr:
+      - "Dördüncü hanede Nusretü'l-hâric var; ev hareketli, kökler hafif."
+      - "Ev hanesinde Nusretü'l-hâric: geçici bir yerleşim."
+    temkinli:
+      - "Ev hanesinde Nusretü'l-hâric kalıcı bir yuva kuramamayı anlatabilir."
+      - "Nusretü'l-hâric dördüncü hanede: işin sonu iyi ama kısa ömürlü."
+  5:
+    olumlu:
+      - "Aşk hanesinde Nusretü'l-hâric: hızlı gelen bir aşk, hoş bir sürpriz, dışarıdan bir çekim."
+      - "Beşinci hanede Nusretü'l-hâric keyifli ve hareketli bir dönemi anlatır."
+    notr:
+      - "Keyif hanesinde Nusretü'l-hâric var; aşk çabuk, eğlence hızlı."
+      - "Beşinci hanede Nusretü'l-hâric: kısa bir macera."
+    temkinli:
+      - "Aşk hanesinde Nusretü'l-hâric çabuk alevlenip sönen bağı uyarır."
+      - "Nusretü'l-hâric beşinci hanede: keyif var, derinlik yok."
+  6:
+    olumlu:
+      - "Sağlık ve iş hanesinde Nusretü'l-hâric: hastalık çabuk geçer; iş hızlı akar."
+      - "Altıncı hanede Nusretü'l-hâric dışarıdan gelen bir yardımcı anlatır."
+    notr:
+      - "Hizmet hanesinde Nusretü'l-hâric var; işler hızlı, sağlık değişken."
+      - "Altıncı hanede Nusretü'l-hâric: geçici bir çalışan."
+    temkinli:
+      - "Sağlık hanesinde Nusretü'l-hâric çabuk toparlanıp çabuk yorulmayı uyarır; kesin söz hekimindir."
+      - "Nusretü'l-hâric altıncı hanede: iş düzeni oturmuyor."
+  7:
+    olumlu:
+      - "Eş hanesinde Nusretü'l-hâric: karşı taraf yardımsever, hızlı, iyi niyetli."
+      - "Yedinci hanede Nusretü'l-hâric dışarıdan gelen hayırlı bir ortağı anlatır."
+    notr:
+      - "Karşı taraf hanesinde Nusretü'l-hâric var; eş ya da ortak hareketli, bağlılığı hafif."
+      - "Yedinci hanede Nusretü'l-hâric: karşıdaki kişi çabuk karar veriyor."
+    temkinli:
+      - "Eş hanesinde Nusretü'l-hâric geçici bir ortaklığı, kalıcı olmayan bir bağı uyarır."
+      - "Nusretü'l-hâric yedinci hanede: rakip hızlı, ortak değişken."
+  8:
+    olumlu:
+      - "Kriz hanesinde Nusretü'l-hâric: kriz çabuk geçer; yardım tam zamanında gelir."
+      - "Sekizinci hanede Nusretü'l-hâric beklenmedik bir kurtuluşu anlatır."
+    notr:
+      - "Dönüşüm hanesinde Nusretü'l-hâric var; kriz kısa, çözüm dışarıdan."
+      - "Sekizinci hanede Nusretü'l-hâric: ortak para hızla el değiştiriyor."
+    temkinli:
+      - "Kriz hanesinde Nusretü'l-hâric geçici çözümü uyarır; yara sarılır ama iyileşmez."
+      - "Nusretü'l-hâric sekizinci hanede: yardım gelir ama bedeli olur."
+  9:
+    olumlu:
+      - "Uzak yol ve ilim hanesinde Nusretü'l-hâric: yolculuk hızlı ve hayırlı; sınav bir yardımla geçilir."
+      - "Dokuzuncu hanede Nusretü'l-hâric fırsatın uzakta olduğunu ve çabuk yakalanması gerektiğini söyler."
+    notr:
+      - "İlim hanesinde Nusretü'l-hâric var; sınav kısa, yol hızlı."
+      - "Dokuzuncu hanede Nusretü'l-hâric: dışarıdan bir öğretmen, bir aracı."
+    temkinli:
+      - "Sınav hanesinde Nusretü'l-hâric çabuk gelen fırsatın çabuk kaçacağını uyarır."
+      - "Nusretü'l-hâric dokuzuncu hanede: yolculuk kısa, yerleşme zor."
+  10:
+    olumlu:
+      - "Kariyer hanesinde Nusretü'l-hâric: hızlı bir yükseliş, bir tanıdık sayesinde açılan kapı."
+      - "Onuncu hanede Nusretü'l-hâric dışarıdan destekle gelen bir makamı anlatır."
+    notr:
+      - "İş ve itibar hanesinde Nusretü'l-hâric var; kariyer hareketli, otorite değişken."
+      - "Onuncu hanede Nusretü'l-hâric: başkasının gölgesinde bir başarı."
+    temkinli:
+      - "Kariyer hanesinde Nusretü'l-hâric hızlı gelen itibarın hızlı gidebileceğini uyarır."
+      - "Nusretü'l-hâric onuncu hanede: kapı açılır ama uzun süre açık kalmaz."
+  11:
+    olumlu:
+      - "Dostlar hanesinde Nusretü'l-hâric: dostlar için çok iyi; yardım hızlı, destek içten."
+      - "On birinci hanede Nusretü'l-hâric umutların bir dost aracılığıyla gerçekleşeceğini söyler."
+    notr:
+      - "Umutlar hanesinde Nusretü'l-hâric var; dost çevresi hareketli, planlar kısa vadeli."
+      - "On birinci hanede Nusretü'l-hâric: yeni bir dost, hızlı bir destek."
+    temkinli:
+      - "Dostlar hanesinde Nusretü'l-hâric geçici dostlukları uyarır."
+      - "Nusretü'l-hâric on birinci hanede: umut başkalarına bağlı."
+  12:
+    olumlu:
+      - "Gizli şeyler hanesinde Nusretü'l-hâric: içteki sıkıntı çabuk geçer; gizli bir yardım var."
+      - "On ikinci hanede Nusretü'l-hâric görünmeyen bir destekçiyi anlatır."
+    notr:
+      - "Gizli hanede Nusretü'l-hâric var; içte hareket, geçici bir sıkıntı."
+      - "On ikinci hanede Nusretü'l-hâric: kapalı bir yerden çabuk çıkış."
+    temkinli:
+      - "Gizli düşman hanesinde Nusretü'l-hâric hızlı hareket eden bir rakibi uyarır."
+      - "Nusretü'l-hâric on ikinci hanede: kişinin kendi acelesi gizli engeli."
