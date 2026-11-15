@@ -1,0 +1,87 @@
+kaynak: ilm-i remil geleneği ve kamu malı klasikler; metin özgün
+lang: tr
+key: fortunaMajor
+ad: Nusretü'd-dâhil
+latin: Fortuna Major
+anlam: Büyük talih
+temalar: { basari: 3, ic_guc: 3, kalicilik: 2, sabir: 2, otorite: 1, koruma: 2 }
+portre:
+  - "Nusretü'd-dâhil, 'içeriden gelen zafer'dir: güç kişinin kendi köklerinden yükselir."
+  - "Bu şekil Güneş'in öğle vaktidir; yavaş yükselir ama parladığında uzun süre parlar."
+  - "Dört noktalı sağlam bir taban üstünde iki tek nokta: temeli olan başarı."
+  - "Nusretü'd-dâhil acele etmez. Başlangıçta zor, sonrasında kalıcı olan işleri anlatır."
+  - "Büyük talih dışarıdan gelen bir hediye değil, içeride biriken bir kudrettir."
+  - "Bu şekil koruyucu bir kalkandır; zorlukla karşılaşsa bile kişi sağlam kalır."
+  - "Gelenekte en hayırlı şekillerden sayılır; ama hızlı değil, derindir."
+  - "Nusretü'd-dâhil, kendi değerini bilen ve kendi gücüyle ayakta duran kişiyi anlatır."
+  - "Bu şekil 'kazanılan' değil 'hak edilen' başarıyı gösterir."
+  - "Toprağa bağlı bir ateştir büyük talih: sıcak, güvenilir, uzun ömürlü."
+  - "Nusretü'd-dâhil zorluğu inkâr etmez; zorluğun içinden çıkılacağını söyler."
+  - "Bu şekilde kalıcılık var; bugün elde edilen yarın da elde kalır."
+hakim:
+  genel:
+    - "Hâkim Nusretü'd-dâhil: Sonuç hayırlı ve kalıcı. Başlangıç ağır olabilir ama iş sağlam zemine oturacak."
+    - "Büyük talih hâkim olmuş; bu, soranın kendi gücüyle, sabırla ve kök salarak kazanacağı anlamına gelir."
+    - "Hâkim olarak Nusretü'd-dâhil, en güçlü olumlu hükümlerden biridir: iş olur ve olduğu gibi kalır."
+    - "Bu hükümde dışarıdan yardım beklenmez, çünkü gerekmez; güç içeride."
+    - "Nusretü'd-dâhil hükmü yavaş ama kesin bir başarı anlatır. Acele edilmezse mesele kendi ağırlığıyla yerine oturur."
+  ask:
+    - "Gönül sorusunda Nusretü'd-dâhil hâkimi, sağlam ve kalıcı bir bağ anlatır; aceleyle değil, güvenle büyüyen bir ilişki."
+    - "Aşkta büyük talih hâkimse, mesele köklü ve ciddi; evlilik, uzun birliktelik, derinleşen bağ."
+    - "Kalp meselesinde Nusretü'd-dâhil: karşılıklı güç ve saygı; yavaş başlayan ama bırakmayan bir sevgi."
+    - "Aşk sorusunda bu hüküm, iç güvenden doğan bir sevgiyi gösterir; ihtiyaçtan değil, tercihten."
+  is:
+    - "İş sorusunda Nusretü'd-dâhil hâkimi, sağlam bir kariyer ve kalıcı başarı anlatır; terfi, kurumda kök salma, itibar."
+    - "Kariyerde büyük talih hâkimse, kişi kendi emeğiyle yükselir ve yükseldiği yerde kalır."
+    - "İşte Nusretü'd-dâhil: otorite kazanma, sorumluluğun artması, uzun vadeli pozisyon."
+    - "İş için bu hüküm 'yavaş ama sağlam' der; başlangıç zorluğu sonun güvencesidir."
+  para:
+    - "Para sorusunda Nusretü'd-dâhil hâkimi, kalıcı kazanç ve birikim anlatır; mülk, toprak, uzun vadeli yatırım."
+    - "Maddi konuda büyük talih hâkimse, kazanç tek seferlik değil, düzenli ve güvenlidir."
+    - "Nusretü'd-dâhil parayı kök salan bir ağaç gibi büyütür: yavaş, ama her mevsim meyve verir."
+    - "Kazanç sorusunda bu hüküm, kendi emeğiyle kazanılan ve korunan bir servet gösterir."
+  yolculuk:
+    - "Yolculuk sorusunda Nusretü'd-dâhil hâkimi, gidişin hayırlı ama yavaş olduğunu söyler; yerleşmek amaçlı, kalıcı bir yolculuk."
+    - "Büyük talih yolculukta 'ev kurmaya gidiş'i anlatır; geçici gezi değil, kök salma."
+    - "Seyahat sorusunda bu hüküm olumlu ama ağırdır: hazırlık uzun sürer, varış sağlam olur."
+    - "Yol için Nusretü'd-dâhil: güvenli gidiş, iyi karşılanma, gidilen yerde tutunma."
+  sinav:
+    - "Sınav sorusunda Nusretü'd-dâhil hâkimi, kalıcı ve hak edilmiş bir başarı anlatır; emek sonuç veriyor."
+    - "Büyük talih sınavda 'sağlam bilgi' demektir; şans değil, birikim kazandırır."
+    - "İlim sorusunda bu hüküm, uzun soluklu ve ciddi bir başarıyı gösterir; derece, kabul, unvan."
+    - "Sınav için Nusretü'd-dâhil: hazırlık ağır, sonuç güvenli."
+  saglik:
+    - "Sağlık sorusunda Nusretü'd-dâhil hâkimi, bedenin kendi gücüyle toparlanacağını söyler; dayanıklılık ve iyileşme."
+    - "Büyük talih sağlıkta direnç anlatır; süreç yavaş olsa bile yön iyidir. Kesin söz hekimindir."
+    - "Beden sorusunda bu hüküm, güçlü bir bünye ve kalıcı bir düzelme gösterir."
+    - "Sağlık için Nusretü'd-dâhil: içeriden gelen iyileşme, sabırla korunan denge."
+  aile:
+    - "Aile sorusunda Nusretü'd-dâhil hâkimi, köklü ve güçlü bir yuvayı anlatır; ev sağlam, bağlar derin."
+    - "Büyük talih aile konusunda birliği ve korunmayı gösterir; aile bir kale gibidir."
+    - "Ev için bu hüküm, mülk ve miras açısından hayırlıdır; aile toprağa bağlanır."
+    - "Aile sorusunda Nusretü'd-dâhil: ağır başlı bir huzur, kuşaklar arası destek."
+  kayip:
+    - "Kayıp eşya sorusunda Nusretü'd-dâhil hâkimi, eşyanın evde ve güvende olduğunu söyler; bulunur ve uzun süre elde kalır."
+    - "Büyük talih kayıpta 'yerinde duruyor' demektir; sağlam, kapalı, değerli bir yerde."
+    - "Kaybolan şey için bu hüküm olumludur: eşya zarar görmemiş, geri gelecek."
+    - "Kayıp için Nusretü'd-dâhil: güneş gören bir yer, evin ana odası, kıymetli eşyaların durduğu köşe."
+tanik_sag:
+  - "Sağ tanık Nusretü'd-dâhil: bu soruya sağlam bir zeminden, kendi gücüyle gelinmiş."
+  - "Geçmişi anlatan tanıkta büyük talih var; soranın arkası kuvvetli, kökleri derin."
+  - "Sağ tanıkta Nusretü'd-dâhil: geride bırakılan bir başarı ya da kazanılmış bir güven var."
+  - "Sağ tanık olarak büyük talih, soranın kendi emeğiyle buraya kadar geldiğini söyler."
+tanik_sol:
+  - "Sol tanık Nusretü'd-dâhil: önünde sağlam ve hayırlı bir sonuç var; yavaş ama kalıcı."
+  - "Geleceği anlatan tanıkta büyük talih var; iş olgunlaşıp kök salacak."
+  - "Sol tanıkta Nusretü'd-dâhil: sonuç güvenli, itibar ve kazanç getiren."
+  - "Sol tanık olarak büyük talih, meselenin sağlam bir limana ulaşacağını söyler."
+uzlastirici:
+  - "Uzlaştırıcı Nusretü'd-dâhil: uzun vadede her şey yerine oturur ve kalıcı olur."
+  - "Son söz olarak büyük talih: bugünkü zorluk yarının temeli."
+  - "Uzlaştırıcıda Nusretü'd-dâhil, meselenin sonunda güç ve güven kazandıracağını söyler."
+  - "Uzun vadede büyük talih: kök salmış, korunan, hak edilmiş bir yer."
+ogut:
+  - "Acele etme; bu iş yavaş yükselen cinsten."
+  - "Kendi gücüne yaslan, dışarıdan onay bekleme."
+  - "Temeli sağlam at; üstüne ne koyarsan kalıcı olur."
+  - "Zorluk başlangıçta; sabreden kazanır."

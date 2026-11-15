@@ -1,0 +1,87 @@
+kaynak: ilm-i remil geleneği ve kamu malı klasikler; metin özgün
+lang: tr
+key: rubeus
+ad: Humre
+latin: Rubeus
+anlam: Kırmızı
+temalar: { tutku: 3, ofke: 2, karmasa: 3, tehlike: 2, dürtü: 3, gizli_sey: 1, tutkunun_golgesi: 2 }
+portre:
+  - "Humre, çift, tek, çift, çift: ters çevrilmiş bir kadeh, dökülen bir sıvı; kırmızının şekli."
+  - "Bu şekil Mars'ın akrep burcundaki yüzüdür: tutkulu, karanlık, yoğun."
+  - "Humre gelenekte en dikkat gerektiren şekildir; eski ustalar onu ilk hanede görünce tabloyu yeniden kurdururmuş."
+  - "Kırmızı şekli dürtüyü, öfkeyi, aşırılığı ve kontrolden çıkan arzuyu anlatır."
+  - "Humre'nin gücü inkâr edilemez; ama bu güç kolay yönetilmez."
+  - "Bu şekil bedenin ve kanın işaretidir: iştah, ateş, taşkınlık."
+  - "Humre bazen bir sırrı, bazen bir aldatmayı, bazen de bastırılmış bir isteği gösterir."
+  - "Kırmızı, uyarı rengidir; şekil 'dur ve bak' der."
+  - "Humre'de karmaşa var: duygular birbirine karışmış, düşünce bulanık."
+  - "Bu şekil yıkıcı olabildiği kadar dönüştürücüdür; ateş temizler de."
+  - "Humre'nin olumlu yüzü tutkudur: işe, aşka, davaya tüm benliğiyle sarılan kişi."
+  - "Dökülen bir kadeh, kızaran bir yüz, bastırılmış bir çığlık: Humre."
+hakim:
+  genel:
+    - "Hâkim Humre: Mesele karışık ve yoğun. Öfke, dürtü ya da gizli bir şey işin içinde. Temkin ve soğukkanlılık gerekir."
+    - "Kırmızı şekli hâkim olmuş; sonuç tutkuya bağlı ve tutku kontrol edilmezse zarar verir."
+    - "Hâkim olarak Humre, uyarı hükmüdür: bu işte görünenden fazlası var."
+    - "Bu hükümde net bir evet yok; bulanık bir 'dikkat' var."
+    - "Humre hükmü taşkınlık anlatır; sakinleşmeden karar verilmemeli."
+  ask:
+    - "Gönül sorusunda Humre hâkimi yoğun bir tutku anlatır; çekim güçlü ama sağlıksız olabilir: kıskançlık, aldatma, bağımlılık."
+    - "Aşkta kırmızı şekli hâkimse, duygular taşıyor; ya büyük bir aşk ya büyük bir kavga."
+    - "Kalp meselesinde Humre: gizli bir şey var; konuşulmayan bir istek ya da saklanan bir ilişki."
+    - "Aşk sorusunda bu hüküm, tutkunun yönetilmesi gerektiğini söyler; aksi hâlde yakar."
+  is:
+    - "İş sorusunda Humre hâkimi karmaşa ve çatışma anlatır; dedikodu, gizli rekabet, öfkeli bir ortam."
+    - "Kariyerde kırmızı şekli hâkimse, duygular işi yönetiyor; mesafe almak gerekir."
+    - "İşte Humre: ani kararlar, kavga, belki bir sırrın ortaya çıkması."
+    - "İş için bu hüküm temkinlidir; tutku işe yarar ama öfke yaramaz."
+  para:
+    - "Para sorusunda Humre hâkimi savurganlık ve dürtüsel harcama anlatır; para keyfe ve öfkeye gider."
+    - "Maddi konuda kırmızı şekli hâkimse, şüpheli bir teklif ya da gizli bir masraf olabilir."
+    - "Humre para için 'dur' der: bu dönemde karar verme, imza atma."
+    - "Kazanç sorusunda bu hüküm olumsuzdur; eldekini korumak öncelik."
+  yolculuk:
+    - "Yolculuk sorusunda Humre hâkimi karışık ve riskli bir yol anlatır; öfke, tartışma, dikkatsizlik."
+    - "Kırmızı şekli yolculukta 'ertele' der; şartlar olgunlaşmamış."
+    - "Seyahat sorusunda bu hüküm temkinlidir; gidilecekse soğukkanlı ve hazırlıklı gidilmeli."
+    - "Yol için Humre: sıcak, kalabalık, gergin bir yolculuk."
+  sinav:
+    - "Sınav sorusunda Humre hâkimi dağınıklık ve heyecan anlatır; bilgi var ama kontrol yok."
+    - "Kırmızı şekli sınavda 'sakinleş' der; panik en büyük düşman."
+    - "İlim sorusunda bu hüküm karışıktır: tutkuyla çalışılmış, ama düzensiz."
+    - "Sınav için Humre: sonuç duyguya bağlı; sakin girilirse geçer, taşkın girilirse zorlanır."
+  saglik:
+    - "Sağlık sorusunda Humre hâkimi ateş, iltihap ve kan dolaşımıyla ilgili hâller anlatır; aşırılıktan kaçınmak gerekir. Kesin söz hekimindir."
+    - "Kırmızı şekli sağlıkta taşkınlık gösterir; beden sınırlarını hatırlatıyor."
+    - "Beden sorusunda bu hüküm uyarıcıdır; bir hekime danışmak isabetli olur."
+    - "Sağlık için Humre: sakinleş, aşırıyı bırak, bedeni dinle."
+  aile:
+    - "Aile sorusunda Humre hâkimi öfke ve gizli bir gerilim anlatır; konuşulmayan şeyler kaynıyor."
+    - "Kırmızı şekli aile konusunda bir sırrı ya da bir kavgayı gösterir."
+    - "Ev için bu hüküm temkinlidir: soğukkanlı kalmak, kapıyı çarpmamak gerekir."
+    - "Aile sorusunda Humre: tutkulu bağlar, ama sağlıksız bir dinamik olabilir."
+  kayip:
+    - "Kayıp eşya sorusunda Humre hâkimi, eşyanın alınmış ya da saklanmış olabileceğini söyler; kaybın arkasında bir el var."
+    - "Kırmızı şekli kayıpta 'sıcak ve kırmızı bir yer' der: mutfak, ocak yanı, kırmızı bir çanta ya da kutu."
+    - "Kaybolan şey için bu hüküm olumsuzdur; eşya zarar görmüş ya da kasıtlı alınmış olabilir."
+    - "Kayıp için Humre: aramadan önce sakinleş; öfkeyle arayan bulamaz."
+tanik_sag:
+  - "Sağ tanık Humre: bu soruya bir öfkeyle, bir tutkuyla ya da gizli bir meseleyle gelinmiş."
+  - "Geçmişi anlatan tanıkta kırmızı şekli var; soranın arkasında karışık ve yoğun bir dönem duruyor."
+  - "Sağ tanıkta Humre: soranın tarafı taşkın, kırgın ya da bir şey saklıyor."
+  - "Sağ tanık olarak kırmızı şekli, geçmişte yaşanan bir taşkınlığı söyler."
+tanik_sol:
+  - "Sol tanık Humre: önünde karışık ve gergin bir dönem var; soğukkanlılık gerekecek."
+  - "Geleceği anlatan tanıkta kırmızı şekli var; iş tutkuyla ya da öfkeyle sınanacak."
+  - "Sol tanıkta Humre: gizli bir şey ortaya çıkabilir; hazırlıklı ol."
+  - "Sol tanık olarak kırmızı şekli, meselenin ateşten geçeceğini söyler."
+uzlastirici:
+  - "Uzlaştırıcı Humre: uzun vadede tutku sürer; yönetilirse dönüştürür, yönetilmezse yıpratır."
+  - "Son söz olarak kırmızı şekli: bu mesele soğumadan kapanmaz."
+  - "Uzlaştırıcıda Humre, zamanla ateşin ya söneceğini ya da her şeyi dönüştüreceğini söyler."
+  - "Uzun vadede kırmızı şekli: yoğunluk, arınma, bedel."
+ogut:
+  - "Karar vermeden önce soğu; sıcakken verilen karar yanlış olur."
+  - "Tutkuyu bir işe yönelt; boşta kalırsa kavgaya dönüşür."
+  - "Sakladığın şeyi kendine itiraf et; açığa çıkmadan önce."
+  - "Bu dönemde imza atma, söz verme, kapı çarpma."

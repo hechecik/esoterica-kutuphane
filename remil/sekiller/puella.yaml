@@ -1,0 +1,87 @@
+kaynak: ilm-i remil geleneği ve kamu malı klasikler; metin özgün
+lang: tr
+key: puella
+ad: Nakiyyü'l-hadd
+latin: Puella
+anlam: Kız
+temalar: { uyum: 3, guzellik: 2, nezaket: 3, hoslanma: 2, degiskenlik: 1, baris: 2, kabul: 2 }
+portre:
+  - "Nakiyyü'l-hadd, 'yanağı temiz olan'dır: güzellik, incelik ve hoşluk şekli."
+  - "Bu şekil Venüs'ün terazi burcundaki yüzüdür: denge, zarafet, uzlaşı."
+  - "Tek, çift, tek, tek: başı ve ayakları ince, beli geniş; bir kadın silueti gibi okunur."
+  - "Nakiyyü'l-hadd kabul eder, yumuşatır, barıştırır; kavgayı sevmez."
+  - "Gelenekte hoş ve olumlu sayılır; ama kararsızlığı ve gelip geçiciliğiyle de bilinir."
+  - "Bu şekil hoşlanmanın, beğenilmenin ve güzel geçinmenin şeklidir."
+  - "Nakiyyü'l-hadd'de ferahlık vardır; mesele yumuşak bir dille çözülür."
+  - "Kız şekli şefkati anlatır; sert köşeleri yuvarlar, gerginliği eritir."
+  - "Bu şekil 'kibarca evet' der; ama sabitliği zayıftır, rüzgârla yön değiştirebilir."
+  - "Nakiyyü'l-hadd sanatın, müziğin, güzel sözün ve iyi niyetin işaretidir."
+  - "Uzlaşmacı bir şekildir; taraflar arasında köprü kurar."
+  - "Açan bir çiçek, gülen bir yüz, yumuşak bir cevap: Nakiyyü'l-hadd."
+hakim:
+  genel:
+    - "Hâkim Nakiyyü'l-hadd: Sonuç hoş ve uyumlu. Mesele yumuşak bir şekilde, gönül rahatlığıyla çözülür."
+    - "Kız şekli hâkim olmuş; iş güzel gider, insanlar birbirine iyi davranır."
+    - "Hâkim olarak Nakiyyü'l-hadd nezaketin hükmüdür: sertlik işe yaramaz, incelik yarar."
+    - "Bu hükümde evet var, ama kesinlik az: hoş bir sonuç, sabit olmayan bir zemin."
+    - "Nakiyyü'l-hadd hükmü barışı ve beğeniyi anlatır; mesele güzellikle kapanır."
+  ask:
+    - "Gönül sorusunda Nakiyyü'l-hadd hâkimi en hoş cevaplardandır: karşılıklı hoşlanma, uyum, nezaket."
+    - "Aşkta kız şekli hâkimse, sevgi var ve güzel ifade ediliyor; evlilik ve birliktelik için hayırlıdır."
+    - "Kalp meselesinde Nakiyyü'l-hadd: beğenilme, yakınlık, yumuşak bir çekim. Kararsızlık tek gölge."
+    - "Aşk sorusunda bu hüküm, ilişkinin zarif ve dengeli olduğunu söyler; sertleştirmeden korumak gerekir."
+  is:
+    - "İş sorusunda Nakiyyü'l-hadd hâkimi uyumlu bir ortam anlatır: iyi ilişkiler, beğenilen iş, nazik bir çözüm."
+    - "Kariyerde kız şekli hâkimse, başarı insanlarla iyi geçinerek gelir; diplomasi kazandırır."
+    - "İşte Nakiyyü'l-hadd: sanat, tasarım, iletişim, hizmet; güzel görünen ve güzel yapılan işler."
+    - "İş için bu hüküm olumludur; ancak net karar gerektiren konularda kararsızlık riski taşır."
+  para:
+    - "Para sorusunda Nakiyyü'l-hadd hâkimi hoş ama mütevazı bir kazanç anlatır; güzellik, sanat ve ilişkilerden gelen gelir."
+    - "Maddi konuda kız şekli hâkimse, para var ama keyfe gider; denge gerekir."
+    - "Nakiyyü'l-hadd para için 'rahat' der; büyük bir zenginlik değil, güzel bir yeterlilik."
+    - "Kazanç sorusunda bu hüküm olumludur ve yumuşaktır; sert pazarlık yerine iyi ilişki kazandırır."
+  yolculuk:
+    - "Yolculuk sorusunda Nakiyyü'l-hadd hâkimi keyifli ve rahat bir yol anlatır; güzel yerler, iyi karşılanma."
+    - "Kız şekli yolculukta hoş bir gidiş gösterir; belki bir sevgili ya da dost ziyareti."
+    - "Seyahat sorusunda bu hüküm olumludur; yol yumuşak, konaklama rahat."
+    - "Yol için Nakiyyü'l-hadd: zarif bir yolculuk, güzel bir dönüş."
+  sinav:
+    - "Sınav sorusunda Nakiyyü'l-hadd hâkimi olumlu bir sonuç anlatır; özellikle sözel, sanatsal ve iletişime dayalı sınavlarda."
+    - "Kız şekli sınavda 'hoş geçer' der; sert bir rekabet değil, uyumlu bir başarı."
+    - "İlim sorusunda bu hüküm nazik bir evettir; kararsızlığa dikkat, cevabı ilk seçilen doğrudur."
+    - "Sınav için Nakiyyü'l-hadd: sonuç tatmin edici, süreç yumuşak."
+  saglik:
+    - "Sağlık sorusunda Nakiyyü'l-hadd hâkimi denge ve rahatlama anlatır; beden yumuşak bir iyileşme içinde. Kesin söz hekimindir."
+    - "Kız şekli sağlıkta hafif ve geçici hâlleri gösterir; ciddi bir ağırlık yok."
+    - "Beden sorusunda bu hüküm olumludur; dinlenme ve güzel şeyler iyi gelir."
+    - "Sağlık için Nakiyyü'l-hadd: huzur, denge, nazik bakım."
+  aile:
+    - "Aile sorusunda Nakiyyü'l-hadd hâkimi barış ve uyum anlatır; ev yumuşak, bağlar sıcak."
+    - "Kız şekli aile konusunda bir kadının ya da bir kızın rolünü öne çıkarır; şefkat çözüm getirir."
+    - "Ev için bu hüküm olumludur: anlaşmazlık tatlıya bağlanır."
+    - "Aile sorusunda Nakiyyü'l-hadd: güzel bir haber, bir kutlama ya da bir barışma."
+  kayip:
+    - "Kayıp eşya sorusunda Nakiyyü'l-hadd hâkimi, eşyanın güzel ve bakımlı bir yerde olduğunu söyler: giysiler, süs eşyaları, aynanın yanı."
+    - "Kız şekli kayıpta 'bir kadının yanında' ya da 'kadınlara ait bir yerde' der."
+    - "Kaybolan şey için bu hüküm olumludur: eşya bulunur, zarar görmemiştir."
+    - "Kayıp için Nakiyyü'l-hadd: yatak odası, dolap, çanta, hoş kokulu bir yer."
+tanik_sag:
+  - "Sağ tanık Nakiyyü'l-hadd: bu soruya bir hoşlanmayla, bir uyumla ya da bir kadın aracılığıyla gelinmiş."
+  - "Geçmişi anlatan tanıkta kız şekli var; soranın arkasında güzel bir ilişki ya da bir nezaket duruyor."
+  - "Sağ tanıkta Nakiyyü'l-hadd: soranın tarafı yumuşak, uzlaşmacı ve biraz kararsız."
+  - "Sağ tanık olarak kız şekli, geçmişin bu soruyu sevgiyle doğurduğunu söyler."
+tanik_sol:
+  - "Sol tanık Nakiyyü'l-hadd: önünde uyumlu ve hoş bir sonuç var."
+  - "Geleceği anlatan tanıkta kız şekli var; iş barışla ve beğeniyle biter."
+  - "Sol tanıkta Nakiyyü'l-hadd: ilerisi zarif; sertlik gerekmeyecek."
+  - "Sol tanık olarak kız şekli, meselenin güzel bir uzlaşıya varacağını söyler."
+uzlastirici:
+  - "Uzlaştırıcı Nakiyyü'l-hadd: uzun vadede uyum kalır; mesele hoş bir anıya dönüşür."
+  - "Son söz olarak kız şekli: ne olursa olsun nezaket korunur."
+  - "Uzlaştırıcıda Nakiyyü'l-hadd, zamanla ilişkilerin yumuşayacağını söyler."
+  - "Uzun vadede kız şekli: denge, güzellik, barış."
+ogut:
+  - "Nazik ol; bu dönemde incelik güçten etkili."
+  - "Kararsız kaldığında ilk hissettiğine güven."
+  - "Güzel olanı koru, ama sırf güzel diye her şeye evet deme."
+  - "Köprü kur; iki tarafı da dinle."

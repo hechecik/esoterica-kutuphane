@@ -1,0 +1,87 @@
+kaynak: ilm-i remil geleneği ve kamu malı klasikler; metin özgün
+lang: tr
+key: fortunaMinor
+ad: Nusretü'l-hâric
+latin: Fortuna Minor
+anlam: Küçük talih
+temalar: { hiz: 3, yardim: 3, gecicilik: 2, firsat: 3, dis_destek: 2, aceleci: 1 }
+portre:
+  - "Nusretü'l-hâric, 'dışarıdan gelen zafer'dir: güç kişinin kendisinden değil, çevresinden gelir."
+  - "Bu şekil Güneş'in batış saatidir; parlak ama kısa, güzel ama geçici."
+  - "İki tek noktanın altında sağlam bir çift taban: hızlı yükselip yerleşmek isteyen bir başarı."
+  - "Küçük talih aceleyi sever; fırsat kapıyı bir kez çalar, uzun süre beklemez."
+  - "Nusretü'l-hâric yardımın şeklidir: bir kişi, bir tesadüf, bir kapı açılır."
+  - "Bu şekil 'olur' der, 'ama çabuk ol' diye ekler."
+  - "Gelenekte hayırlı sayılır; ancak kalıcılığı değil, çabukluğu övülür."
+  - "Nusretü'l-hâric koruma altında ilerlemeyi anlatır; kişi tek başına değildir."
+  - "Hızla gelen ve hızla geçen her şey bu şeklin alanındadır: kısa fırsat, anlık şans."
+  - "Küçük talih, başkalarının desteğiyle kazanılan ve dikkat edilmezse elden kaçan başarıdır."
+  - "Bu şekil ateş gibidir: ısıtır, aydınlatır, ama beslenmezse söner."
+  - "Nusretü'l-hâric, kaçış ve kurtuluş şeklidir de: zor bir durumdan hızla çıkış."
+hakim:
+  genel:
+    - "Hâkim Nusretü'l-hâric: Sonuç olumlu, ama dışarıdan gelen bir yardımla ve çabuk. Kapı açılınca geçilmeli."
+    - "Küçük talih hâkim olmuş; mesele iyi sonuçlanır, fakat kendi başına değil, bir vesileyle. Ve uzun sürmez."
+    - "Hâkim olarak Nusretü'l-hâric temkinli bir evettir: iş olur, ama kalıcı kılmak ayrı çaba ister."
+    - "Bu hükümde fırsat var, süre yok. Geldiğinde bekletme."
+    - "Nusretü'l-hâric hükmü hızlı başarı anlatır; kapının ne kadar açık kalacağı tanıklara bağlı."
+  ask:
+    - "Gönül sorusunda Nusretü'l-hâric hâkimi hızlı bir yakınlaşma anlatır; aracı bir kişi ya da tesadüf işin içinde."
+    - "Aşkta küçük talih hâkimse, ilişki çabuk başlar ve parlar; derinleşmesi için ayrıca emek gerekir."
+    - "Kalp meselesinde Nusretü'l-hâric: tanıştırılma, dışarıdan bir destek, beklenmedik bir yakınlık."
+    - "Aşk sorusunda bu hüküm olumludur ama uyarır: alevi besle, yoksa söner."
+  is:
+    - "İş sorusunda Nusretü'l-hâric hâkimi, bir fırsatın ya da teklifin dışarıdan geldiğini söyler; referans, tanıdık, şans."
+    - "Kariyerde küçük talih hâkimse, kapı açılır ama hızlı karar ister; uzun düşünenin fırsatı kaçar."
+    - "İşte Nusretü'l-hâric: geçici görev, kısa süreli parlak proje, yardımla alınan pozisyon."
+    - "İş için bu hüküm, bir büyüğün ya da üstün desteğiyle gelen başarıyı anlatır."
+  para:
+    - "Para sorusunda Nusretü'l-hâric hâkimi, hızlı ve dışarıdan gelen bir kazanç anlatır; ama birikim için uygun değil."
+    - "Maddi konuda küçük talih hâkimse, para gelir ve çabuk gider; tutmak için ayrı bir plan gerekir."
+    - "Nusretü'l-hâric parayı hediye, prim ya da yardım olarak getirir; düzenli gelir olarak değil."
+    - "Kazanç sorusunda bu hüküm 'şimdi' der; fırsat anlıktır."
+  yolculuk:
+    - "Yolculuk sorusunda Nusretü'l-hâric hâkimi, yolun açılacağını söyler; dışarıdan bir destekle ve hızlı."
+    - "Küçük talih yolculukta çabuk gidiş ve belki çabuk dönüş anlatır; kısa, verimli, yardımla."
+    - "Seyahat sorusunda bu hüküm olumludur: biri yol gösterir, kapı açılır, hareket hızlanır."
+    - "Yol için Nusretü'l-hâric: fırsat kaçırılmazsa gidiş olur; ertelenirse kapanabilir."
+  sinav:
+    - "Sınav sorusunda Nusretü'l-hâric hâkimi başarı anlatır; ama şans ve dış destek payı büyük, bilgi tek başına yetmemiş olabilir."
+    - "Küçük talih sınavda 'geçer' der; sonrasında konumu korumak için çalışmayı bırakmamak gerekir."
+    - "İlim sorusunda bu hüküm, bir hocanın, bir arkadaşın ya da bir kaynağın yardımıyla gelen başarıyı gösterir."
+    - "Sınav için Nusretü'l-hâric: hızlı ve olumlu sonuç, kalıcılık için takip şart."
+  saglik:
+    - "Sağlık sorusunda Nusretü'l-hâric hâkimi hızlı toparlanma anlatır; dışarıdan bir destekle, bir hekim ya da bir ilaçla. Kesin söz hekimindir."
+    - "Küçük talih sağlıkta iyileşmeyi gösterir, ama nüks uyarısıyla: düzelme hızlı, koruma ayrı iş."
+    - "Beden sorusunda bu hüküm olumludur; yardım yakında ve etkili."
+    - "Sağlık için Nusretü'l-hâric: geçici bir sıkıntıdan hızla çıkış."
+  aile:
+    - "Aile sorusunda Nusretü'l-hâric hâkimi, dışarıdan gelen bir yardımla düzelen bir ev anlatır; bir akraba, bir dost araya girer."
+    - "Küçük talih aile konusunda hızlı bir yumuşama gösterir; ama kalıcı barış için konuşmak gerekir."
+    - "Ev için bu hüküm olumludur: beklenmedik bir destek, hızlı bir çözüm."
+    - "Aile sorusunda Nusretü'l-hâric: sıkıntı geçici, çıkış yakın."
+  kayip:
+    - "Kayıp eşya sorusunda Nusretü'l-hâric hâkimi, eşyanın bir başkasının yardımıyla ve kısa sürede bulunacağını söyler."
+    - "Küçük talih kayıpta 'çabuk ara' der; zaman geçtikçe iz silinir."
+    - "Kaybolan şey için bu hüküm olumludur: eşya dışarıda ama ulaşılabilir, biri görmüş olabilir."
+    - "Kayıp için Nusretü'l-hâric: ışıklı, açık, geçilen bir yer; soran bulur."
+tanik_sag:
+  - "Sağ tanık Nusretü'l-hâric: bu soruya hızlı bir gelişmeyle, bir yardımla ya da bir fırsatla gelinmiş."
+  - "Geçmişi anlatan tanıkta küçük talih var; soranın tarafı destekli ama aceleci."
+  - "Sağ tanıkta Nusretü'l-hâric: geride bir şans, bir kapı, belki de kaçırılan bir fırsat var."
+  - "Sağ tanık olarak küçük talih, soranın buraya başkalarının eliyle ve hızla geldiğini söyler."
+tanik_sol:
+  - "Sol tanık Nusretü'l-hâric: önünde dışarıdan gelen bir yardım ve hızlı bir sonuç var."
+  - "Geleceği anlatan tanıkta küçük talih var; iş çabuk ve olumlu biter, ama kalıcılık ayrı mesele."
+  - "Sol tanıkta Nusretü'l-hâric: fırsat yakında; geldiğinde bekletilmemeli."
+  - "Sol tanık olarak küçük talih, çıkış kapısının açılacağını söyler."
+uzlastirici:
+  - "Uzlaştırıcı Nusretü'l-hâric: uzun vadede yardım sürer, ama mesele kalıcı olmaktan çok dönemsel kalır."
+  - "Son söz olarak küçük talih: kazanılanı korumak kazanmaktan zordur."
+  - "Uzlaştırıcıda Nusretü'l-hâric, zamanla yeni fırsatların da geleceğini söyler; bu son değil."
+  - "Uzun vadede küçük talih: hareketli, destekli, parlak ama geçici dönemler."
+ogut:
+  - "Fırsat geldiğinde tereddüt etme; bu şekil bekleyeni sevmez."
+  - "Yardımı kabul et, ama tek dayanak yapma."
+  - "Hızlı kazandığını yavaş harca."
+  - "Kapı açıldıysa geç; açık kalacağını varsayma."

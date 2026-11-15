@@ -1,0 +1,87 @@
+kaynak: ilm-i remil geleneği ve kamu malı klasikler; metin özgün
+lang: tr
+key: acquisitio
+ad: Kabz-ı dâhil
+latin: Acquisitio
+anlam: Kazanç
+temalar: { kazanc: 3, bolluk: 3, elde_etme: 3, buyume: 2, acgozluluk: 1, bereket: 2 }
+portre:
+  - "Kabz-ı dâhil 'içeri alma'dır: iki açık el, iki dolu kese; şekil kazancı anlatır."
+  - "Bu şekil Jüpiter'in cömertliğidir: genişleme, bolluk, elde etme."
+  - "Çift, tek, çift, tek: alıp vermeyen, alıp biriktiren bir ritim."
+  - "Kabz-ı dâhil, aranılanın bulunduğunu ve istenenin ele geçtiğini söyler."
+  - "Gelenekte en bereketli şekillerden biridir; para, bilgi, dost, ne aranıyorsa gelir."
+  - "Bu şekil büyümeyi anlatır; küçük bir şey büyür, az olan çoğalır."
+  - "Kabz-ı dâhil'de bir doygunluk da vardır: eller doludur, yer kalmamış olabilir."
+  - "Kazanç şekli her zaman paraya işaret etmez; bazen kazanılan bir ders, bir insan, bir fırsattır."
+  - "Jüpiter'in yay burcundaki yüzüdür: uzağa atılan okun hedefi bulması."
+  - "Bu şekil 'elde edeceksin' der; soru, elde edilenin sana iyi gelip gelmeyeceğidir."
+  - "Kabz-ı dâhil toplamayı, biriktirmeyi, içeri almayı anlatır; dışarı vermeyi değil."
+  - "Bolluğun şeklidir; ama bolluk bazen ağırlık da getirir."
+hakim:
+  genel:
+    - "Hâkim Kabz-ı dâhil: Aranan bulunur, istenen elde edilir. Sonuç kazançlı ve bereketli."
+    - "Kazanç hâkim olmuş; mesele soranın lehine ve eline bir şey geçecek şekilde kapanır."
+    - "Hâkim olarak Kabz-ı dâhil, elde etmenin ve büyümenin hükmüdür: ne istiyorsan ona yaklaşıyorsun."
+    - "Bu hüküm 'alırsın' der; ne alacağın haneye bağlı, ama elin boş kalmaz."
+    - "Kabz-ı dâhil hükmü genişleme anlatır: iş büyür, çevre büyür, imkân büyür."
+  ask:
+    - "Gönül sorusunda Kabz-ı dâhil hâkimi, aranan kişinin ya da bağın kazanılacağını söyler; karşılık var."
+    - "Aşkta kazanç hâkimse, sevgi büyür ve ilişki genişler; birlikte kurulan bir şey var."
+    - "Kalp meselesinde Kabz-ı dâhil: elde etme, kavuşma, bağın pekişmesi."
+    - "Aşk sorusunda bu hüküm cömerttir; ama sahiplenme duygusunun bağı boğmamasına dikkat etmeli."
+  is:
+    - "İş sorusunda Kabz-ı dâhil hâkimi, kazançlı bir sonuç anlatır: iş alınır, sözleşme imzalanır, pozisyon elde edilir."
+    - "Kariyerde kazanç hâkimse, çaba karşılık bulur ve kazanç büyür."
+    - "İşte Kabz-ı dâhil: genişleyen sorumluluk, artan gelir, yeni müşteri ya da ortak."
+    - "İş için bu hüküm bereketlidir; fırsatlar çoğalır, seçim yapmak gerekebilir."
+  para:
+    - "Para sorusunda Kabz-ı dâhil hâkimi en doğrudan olumlu cevaptır: para gelir, birikim büyür."
+    - "Maddi konuda kazanç hâkimse, borç ödenir, alacak tahsil edilir, kese dolar."
+    - "Kabz-ı dâhil para için 'evet' der; dikkat edilecek tek şey, gelen bolluğun savurganlığa dönüşmemesi."
+    - "Kazanç sorusunda bu hüküm, elde edilen ve elde kalan bir kazancı anlatır."
+  yolculuk:
+    - "Yolculuk sorusunda Kabz-ı dâhil hâkimi, yolun kazançlı olduğunu söyler; gidilen yerden eli dolu dönülür."
+    - "Kazanç yolculukta 'amaç gerçekleşir' demektir: iş için gidiliyorsa iş olur, bir şey almak için gidiliyorsa alınır."
+    - "Seyahat sorusunda bu hüküm olumludur; yol açık ve verimli."
+    - "Yol için Kabz-ı dâhil: yolculuk bir şey kazandırır; para, ilişki, bilgi."
+  sinav:
+    - "Sınav sorusunda Kabz-ı dâhil hâkimi başarıyı gösterir; aranan derece, puan ya da kabul elde edilir."
+    - "Kazanç sınavda 'bilgi elde edilmiş' demektir; emeğin karşılığı alınacak."
+    - "İlim sorusunda bu hüküm hayırlıdır: öğrenilen kalır, sınav geçilir, kapı açılır."
+    - "Sınav için Kabz-ı dâhil: hedefe ulaşma, istenen sonucun alınması."
+  saglik:
+    - "Sağlık sorusunda Kabz-ı dâhil hâkimi, gücün geri kazanıldığını söyler; iyileşme ve toparlanma. Kesin söz hekimindir."
+    - "Kazanç sağlıkta iştah ve güç anlatır; beden alır, biriktirir, güçlenir. Aşırıya kaçmamak gerekir."
+    - "Beden sorusunda bu hüküm olumludur: iyileşme süreci kazanç gibi işler, her gün bir adım."
+    - "Sağlık için Kabz-ı dâhil: kuvvet kazanma, kilo ve enerji dengesi, bolluk."
+  aile:
+    - "Aile sorusunda Kabz-ı dâhil hâkimi, aileye katılan bir şeyi anlatır: yeni bir üye, yeni bir ev, artan bereket."
+    - "Kazanç aile konusunda genişlemeyi gösterir; sofra büyür, ev dolar."
+    - "Ev için bu hüküm olumludur: mülk edinme, miras, aile içinde kazanç."
+    - "Aile sorusunda Kabz-ı dâhil: bağlar pekişir, aileye bir şey eklenir."
+  kayip:
+    - "Kayıp eşya sorusunda Kabz-ı dâhil hâkimi, eşyanın geri alınacağını söyler; kazanç şekli kaybı bulma şeklidir."
+    - "Kazanç kayıpta 'elde edilir' demektir: eşya bulunur ya da yerine daha iyisi gelir."
+    - "Kaybolan şey için bu hüküm en olumlulardandır; eşya evin içinde, eşyaların arasında."
+    - "Kayıp için Kabz-ı dâhil: toplanan, biriktirilen eşyaların yanında; dolap, çekmece, kutu."
+tanik_sag:
+  - "Sağ tanık Kabz-ı dâhil: bu soruya bir kazançla, bir edinimle gelinmiş; soranın elinde zaten bir şey var."
+  - "Geçmişi anlatan tanıkta kazanç var; sorunun arkasında elde edilmiş bir güç ya da birikim duruyor."
+  - "Sağ tanıkta Kabz-ı dâhil: soranın tarafı dolu, hazırlıklı ve bereketli."
+  - "Sağ tanık olarak kazanç, geçmişte alınanların şimdi işe yarayacağını söyler."
+tanik_sol:
+  - "Sol tanık Kabz-ı dâhil: önünde bir kazanç, bir elde etme var; sonuç eli dolu bırakır."
+  - "Geleceği anlatan tanıkta kazanç var; iş kârlı ve verimli biter."
+  - "Sol tanıkta Kabz-ı dâhil: aranan bulunacak, istenen gelecek."
+  - "Sol tanık olarak kazanç, meselenin soranın lehine büyüyeceğini söyler."
+uzlastirici:
+  - "Uzlaştırıcı Kabz-ı dâhil: uzun vadede bereket sürer, kazanılan elde kalır."
+  - "Son söz olarak kazanç: bu mesele büyüyerek kapanır."
+  - "Uzlaştırıcıda Kabz-ı dâhil, zamanla daha fazlasının geleceğini söyler."
+  - "Uzun vadede kazanç: birikim, genişleme, doygunluk."
+ogut:
+  - "Gelen bolluğu düzenle; eller doluyken yeni şeyler düşer."
+  - "Kazandığını paylaşmayı unutma; şekil içeri almayı anlatır, dengesi vermektedir."
+  - "Fırsatlar çoğaldığında seçici ol."
+  - "Elde ettiğin şeyin seni ağırlaştırmasına izin verme."

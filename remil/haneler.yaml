@@ -1,0 +1,114 @@
+kaynak: >
+  Hane anlamları Batı ve Osmanlı remil geleneğinde ortaktır (astrolojik 12 ev düzeni).
+  Kamu malı klasikler (Agrippa'ya atfedilen "Of Geomancy", Cattan "The Geomancie") ve
+  ilm-i remil geleneği esas alınmış, metin özgün yazılmıştır.
+lang: tr
+haneler:
+  1:
+    ad: Soran
+    kisa: kişi, beden, niyet
+    konular: [kendi, beden, karakter, baslangic, niyet]
+    cerceve:
+      - "{sekil}, soranın kendisini anlatır: şu anki hâlini, gücünü ve bu soruya nasıl yaklaştığını."
+      - "Birinci hane soranındır. Burada {sekil} durmak, sorunun sahibinin iç dünyasını ve bedenini gösterir."
+      - "Tablonun ilk hanesinde {sekil} var; bu, sorunun bugünkü sahibini resmeder."
+      - "Sorunun sahibi {sekil|le} temsil ediliyor: niyeti, enerjisi ve bugünkü ruh hâli buradan okunur."
+  2:
+    ad: Mal
+    kisa: para, kazanç, eşya, kaynaklar
+    konular: [para, kazanc, esya, kaynak, deger]
+    cerceve:
+      - "İkinci hane kazancın, paranın ve sahip olunan şeylerin hanesidir; burada {sekil} var."
+      - "{sekil}, mal ve kazanç hanesine düşmüş; maddi kaynaklar bu şeklin diliyle konuşuyor."
+      - "Para ve değerler hanesinde {sekil} görünüyor."
+      - "Cebin, kazancın ve kaybolan eşyanın hanesi: {sekil}."
+  3:
+    ad: Kardeşler
+    kisa: kardeş, komşu, haber, kısa yol
+    konular: [kardes, komsu, haber, yazi, kisa_yolculuk, iletisim]
+    cerceve:
+      - "Üçüncü hane kardeşlerin, komşuların, haberlerin ve kısa yolların hanesidir; burada {sekil} var."
+      - "Haber ve yazışma hanesine {sekil} düşmüş."
+      - "{sekil}, kardeş ve yakın çevre hanesinde duruyor."
+      - "Kısa yolların ve gelen giden haberlerin hanesi {sekil|le} işaretli."
+  4:
+    ad: Ev ve kökler
+    kisa: ev, aile, baba, toprak, işin sonu
+    konular: [ev, aile, baba, toprak, mulk, son, gizli_sey]
+    cerceve:
+      - "Dördüncü hane evin, ailenin, köklerin ve her işin sonunun hanesidir; burada {sekil} var."
+      - "{sekil}, ev ve aile hanesine düşmüş; işin nereye varacağı da buradan okunur."
+      - "Kökler, mülk ve işin sonu: bu hanede {sekil} duruyor."
+      - "Ev hanesinde {sekil}; hem yuvayı hem de sorunun nihai sonucunu anlatır."
+  5:
+    ad: Çocuklar ve keyif
+    kisa: çocuk, aşk, keyif, yaratıcılık, haber
+    konular: [cocuk, ask, keyif, yaraticilik, eglence, hamilelik, elci]
+    cerceve:
+      - "Beşinci hane çocukların, aşkın, keyfin ve yaratıcılığın hanesidir; burada {sekil} var."
+      - "{sekil}, keyif ve gönül işleri hanesinde duruyor."
+      - "Çocuklar, eğlence ve kalbin heyecanları: bu hanede {sekil} görünüyor."
+      - "Gönül ve yaratıcılık hanesine {sekil} düşmüş."
+  6:
+    ad: Hizmet ve sağlık
+    kisa: günlük iş, sağlık, çalışanlar, küçük hayvanlar
+    konular: [gunluk_is, saglik, calisan, rutin, kucuk_hayvan, yorgunluk]
+    cerceve:
+      - "Altıncı hane günlük işin, bedenin dayanıklılığının ve hizmet edenlerin hanesidir; burada {sekil} var."
+      - "{sekil}, rutin ve sağlık hanesine düşmüş."
+      - "Gündelik yükler, çalışma düzeni ve beden: bu hanede {sekil} duruyor."
+      - "Hizmet ve sağlık hanesinde {sekil} görünüyor."
+  7:
+    ad: Eş ve karşı taraf
+    kisa: eş, sevgili, ortak, rakip, karşıdaki kişi
+    konular: [es, sevgili, ortak, rakip, karsi_taraf, evlilik, anlasma]
+    cerceve:
+      - "Yedinci hane eşin, sevgilinin, ortağın ve karşıdaki kişinin hanesidir; burada {sekil} var."
+      - "{sekil}, karşı taraf hanesine düşmüş; bu soru kimle ilgiliyse o kişi böyle görünüyor."
+      - "Eş, ortak ya da rakip: yedinci hanede {sekil} duruyor."
+      - "Karşındaki kişinin hanesinde {sekil} var."
+  8:
+    ad: Kriz ve dönüşüm
+    kisa: ölüm-dirim, kayıp, borç, miras, korku, dönüşüm
+    konular: [kriz, kayip, borc, miras, korku, donusum, baskasinin_parasi]
+    cerceve:
+      - "Sekizinci hane krizlerin, borçların, mirasın ve büyük dönüşümlerin hanesidir; burada {sekil} var."
+      - "{sekil}, dönüşüm ve kayıp hanesine düşmüş."
+      - "Korkuların, borçların ve bitip yeniden başlayan şeylerin hanesinde {sekil} görünüyor."
+      - "Kriz hanesinde {sekil} duruyor; burası hem korkuyu hem de arınmayı anlatır."
+  9:
+    ad: Uzak yol ve ilim
+    kisa: uzak yolculuk, eğitim, sınav, inanç, hayal
+    konular: [yolculuk, egitim, sinav, ilim, inanc, hayal, uzak]
+    cerceve:
+      - "Dokuzuncu hane uzak yolların, ilmin, sınavların ve inancın hanesidir; burada {sekil} var."
+      - "{sekil}, yolculuk ve ilim hanesine düşmüş."
+      - "Uzak yol, eğitim ve hayaller: bu hanede {sekil} duruyor."
+      - "İlim ve yolculuk hanesinde {sekil} görünüyor."
+  10:
+    ad: Kariyer ve itibar
+    kisa: iş, kariyer, unvan, anne, otorite, sonuç
+    konular: [kariyer, itibar, unvan, anne, otorite, basari, sonuc]
+    cerceve:
+      - "Onuncu hane kariyerin, itibarın, unvanın ve otoritenin hanesidir; burada {sekil} var."
+      - "{sekil}, kariyer ve itibar hanesine düşmüş; sonucun dışarıdan nasıl görüneceğini anlatır."
+      - "Mesleğin, adın ve yetki sahiplerinin hanesinde {sekil} duruyor."
+      - "Kariyer hanesinde {sekil} görünüyor."
+  11:
+    ad: Dostlar ve umutlar
+    kisa: arkadaşlar, destek, umutlar, dilekler
+    konular: [dost, destek, umut, dilek, topluluk, kazanilan]
+    cerceve:
+      - "On birinci hane dostların, desteklerin ve umutların hanesidir; burada {sekil} var."
+      - "{sekil}, dostlar ve umutlar hanesine düşmüş."
+      - "Arkadaşlar, çevre desteği ve dileklerin hanesinde {sekil} duruyor."
+      - "Umutların hanesinde {sekil} görünüyor."
+  12:
+    ad: Gizli şeyler
+    kisa: gizli düşman, iç sıkıntı, kapalı yerler, kendini bitirme
+    konular: [gizli, dusman, ic_sikinti, kapali_yer, yalnizlik, birakma]
+    cerceve:
+      - "On ikinci hane gizli şeylerin, iç sıkıntıların ve kapalı kapıların hanesidir; burada {sekil} var."
+      - "{sekil}, gizli şeyler hanesine düşmüş."
+      - "Görünmeyen engeller, içten içe taşınan yükler: bu hanede {sekil} duruyor."
+      - "Gizli şeyler hanesinde {sekil} görünüyor."

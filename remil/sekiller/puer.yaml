@@ -1,0 +1,87 @@
+kaynak: ilm-i remil geleneği ve kamu malı klasikler; metin özgün
+lang: tr
+key: puer
+ad: Cevdele
+latin: Puer
+anlam: Oğlan
+temalar: { cesaret: 3, acele: 3, mucadele: 3, enerji: 2, kirginlik: 1, dusuncesizlik: 2, baslangic: 2 }
+portre:
+  - "Cevdele, tek, tek, çift, tek: başı dik, omzu geniş, kılıcı belde bir genç savaşçı."
+  - "Bu şekil Mars'ın koç burcundaki yüzüdür: atak, cesur, sabırsız."
+  - "Cevdele önce yapar, sonra düşünür; enerjisi büyük, sabrı azdır."
+  - "Gelenekte kararsız bir şekildir: iyi niyetli ama kırıcı, cesur ama düşüncesiz."
+  - "Oğlan şekli mücadeleyi, rekabeti ve atılganlığı anlatır."
+  - "Cevdele'nin gücü harekete geçmesindedir; bekleyemez, dayanamaz, atılır."
+  - "Bu şekil savaş, spor, girişim ve her türlü cesaret isteyen işte öne çıkar."
+  - "Cevdele tutkuyu da anlatır: ani, yoğun, bazen kavgacı bir çekim."
+  - "Oğlan şeklinde bir ham güç var; yönlendirilirse zafer, yönlendirilmezse kırgınlık getirir."
+  - "Cevdele 'şimdi' der, 'sonra' demez; sabırlı işler için zor bir şekildir."
+  - "Bu şekil gençliğin, başlangıcın ve ilk adımın ateşidir."
+  - "Kılıç, koşu, meydan okuma, ilk hamle: Cevdele."
+hakim:
+  genel:
+    - "Hâkim Cevdele: Sonuç mücadeleyle gelir; enerji yüksek ama acele hata yaptırır. Cesaret gerekli, dikkat şart."
+    - "Oğlan şekli hâkim olmuş; mesele savaşarak ilerler. Kazanmak mümkün, yara almadan değil."
+    - "Hâkim olarak Cevdele, atılganlığın hükmüdür: harekete geç, ama düşünerek."
+    - "Bu hükümde hız var, sabır yok; acele kararlar sonucu belirler."
+    - "Cevdele hükmü kavga ve rekabet anlatır; kişi kendi gücüyle öne çıkar, ama kırıcı olmamalı."
+  ask:
+    - "Gönül sorusunda Cevdele hâkimi ateşli bir çekim anlatır; tutku büyük, sabır az, kavga yakın."
+    - "Aşkta oğlan şekli hâkimse, biri çok hızlı gidiyor; karşı taraf nefes almak isteyebilir."
+    - "Kalp meselesinde Cevdele: ani başlayan, yoğun yaşanan, sert dalgalı bir bağ."
+    - "Aşk sorusunda bu hüküm, cesur bir adımı över ama düşüncesizliği uyarır."
+  is:
+    - "İş sorusunda Cevdele hâkimi rekabet ve girişim anlatır; cesaret ödüllendirilir, acele cezalandırılır."
+    - "Kariyerde oğlan şekli hâkimse, kişi öne çıkıyor; ama çatışma da yakın."
+    - "İşte Cevdele: yeni girişim, zorlu müzakere, hızlı karar. Planla, sonra atıl."
+    - "İş için bu hüküm mücadeleyle gelen başarıyı gösterir; tek uyarı kırıcı olmamak."
+  para:
+    - "Para sorusunda Cevdele hâkimi hızlı ve riskli hareketler anlatır; kazanç mümkün, kayıp da."
+    - "Maddi konuda oğlan şekli hâkimse, acele harcama ve düşünmeden alınan risk uyarısı var."
+    - "Cevdele para için 'cesur ama dikkatli' der: girişim kazandırabilir, kumar kaybettirir."
+    - "Kazanç sorusunda bu hüküm, kendi çabasıyla kazanan ama tutamayan kişiyi anlatır."
+  yolculuk:
+    - "Yolculuk sorusunda Cevdele hâkimi hızlı ve hareketli bir gidiş anlatır; acele hazırlık, dikkatsizlik riski."
+    - "Oğlan şekli yolculukta 'git' der; ama yolda sabırsızlık ve tartışma olabilir."
+    - "Seyahat sorusunda bu hüküm olumludur; hazırlık ve dikkat ihmal edilmemeli."
+    - "Yol için Cevdele: hızlı araç, kısa sürede varış, yolda küçük bir gerginlik."
+  sinav:
+    - "Sınav sorusunda Cevdele hâkimi mücadeleyle gelen başarıyı anlatır; enerji var, dikkatsizlik tehlikesi de."
+    - "Oğlan şekli sınavda 'soruları sonuna kadar oku' der; acele hata yaptırır."
+    - "İlim sorusunda bu hüküm, savaşçı bir çalışma temposunu över; ama düzen ister."
+    - "Sınav için Cevdele: kazanmak için savaş, ama aceleyle değil."
+  saglik:
+    - "Sağlık sorusunda Cevdele hâkimi yüksek enerji ve ani hâller anlatır: ateş, iltihap, baş, kaza riski. Kesin söz hekimindir."
+    - "Oğlan şekli sağlıkta hızlı toparlanma gösterir; ama dikkatsizlik yeni sıkıntı getirir."
+    - "Beden sorusunda bu hüküm güçlüdür; enerjiyi doğru kullanmak gerekir."
+    - "Sağlık için Cevdele: hareket iyi gelir, acele zarar verir."
+  aile:
+    - "Aile sorusunda Cevdele hâkimi gerginlik ve tartışma anlatır; sesler yükselir, kalpler kırılabilir."
+    - "Oğlan şekli aile konusunda genç bir erkeğin ya da atak bir üyenin rolünü öne çıkarır."
+    - "Ev için bu hüküm hareketli ama çatışmalıdır; soğukkanlılık gerekir."
+    - "Aile sorusunda Cevdele: cesur bir adım, belki bir ayrılık, belki bir savunma."
+  kayip:
+    - "Kayıp eşya sorusunda Cevdele hâkimi, eşyanın aceleyle bırakıldığı bir yerde olduğunu söyler; hareket hâlinde, spor ya da araç."
+    - "Oğlan şekli kayıpta 'hızlı ara' der; eşya kırılmış ya da zarar görmüş olabilir."
+    - "Kaybolan şey için bu hüküm karışıktır: bulunabilir ama zedelenmiş hâlde."
+    - "Kayıp için Cevdele: ateşe ya da metale yakın bir yer, mutfak, atölye, araç."
+tanik_sag:
+  - "Sağ tanık Cevdele: bu soruya bir kavgayla, bir cesaretle ya da aceleyle gelinmiş."
+  - "Geçmişi anlatan tanıkta oğlan şekli var; soranın arkasında bir mücadele duruyor."
+  - "Sağ tanıkta Cevdele: soranın tarafı ateşli, atılgan ve kırgın olabilir."
+  - "Sağ tanık olarak oğlan şekli, geçmişte atılan hızlı bir adımı söyler."
+tanik_sol:
+  - "Sol tanık Cevdele: önünde bir mücadele var; sonuç savaşarak gelecek."
+  - "Geleceği anlatan tanıkta oğlan şekli var; ilerisi hareketli, belki çatışmalı."
+  - "Sol tanıkta Cevdele: hızlı gelişmeler, cesaret isteyen bir an."
+  - "Sol tanık olarak oğlan şekli, meselenin bir hamleyle sonuçlanacağını söyler."
+uzlastirici:
+  - "Uzlaştırıcı Cevdele: uzun vadede enerji sürer; mesele yeni mücadelelere kapı açar."
+  - "Son söz olarak oğlan şekli: bu iş bitince başka bir savaş başlar."
+  - "Uzlaştırıcıda Cevdele, zamanla cesaretin ödüllendirileceğini ama aceleciliğin bedel ödeteceğini söyler."
+  - "Uzun vadede oğlan şekli: hareket, rekabet, genç bir ateş."
+ogut:
+  - "Önce düşün, sonra atıl; bu şeklin tek zayıflığı sırayı karıştırmasıdır."
+  - "Enerjini bir hedefe yönelt; dağılırsa kırıcı olur."
+  - "Kavga kazandırmaz, kararlılık kazandırır."
+  - "Soruları sonuna kadar oku, kapıyı çarpmadan kapat."

@@ -1,0 +1,87 @@
+kaynak: ilm-i remil geleneği ve kamu malı klasikler; metin özgün
+lang: tr
+key: laetitia
+ad: Lihyan
+latin: Laetitia
+anlam: Sevinç
+temalar: { sevinc: 3, yukselme: 3, umut: 2, hafiflik: 2, gecicilik: 1, saglik: 1, iyimserlik: 2 }
+portre:
+  - "Lihyan, tek bir nokta üstünde yükselen geniş bir taban: sevinç şeklidir, kule gibi yukarı bakar."
+  - "Bu şekil Jüpiter'in balık burcundaki yüzüdür: cömert, neşeli, iyimser."
+  - "Gelenekte 'sakal' anlamına gelen adıyla olgunluğu, keyfi ve rahatlığı anlatır."
+  - "Lihyan yukarı doğru genişler; küçük bir başlangıçtan büyüyen bir mutluluk."
+  - "Bu şekil iyi haberin, kahkahanın ve hafifleyen omuzların şeklidir."
+  - "Lihyan'ın sevinci ağır değildir; uçar, dağılır, çevreye yayılır."
+  - "Kuleye benzer bu şekil, yüksek yerleri, yükselişi ve görünürlüğü de anlatır."
+  - "Sevinç şekli acıyı inkâr etmez; acının içinden çıkan neşeyi söyler."
+  - "Lihyan sağlıkla, bereketle ve uzun ömürle ilişkilendirilir."
+  - "Bu şekil 'gülümse' der; mesele düşündüğünden hafiftir."
+  - "Lihyan'da bir uçuculuk var: sevinç hızlı gelir, tutulmazsa hızlı gider."
+  - "Yükselen bir kuş, açılan bir pencere, ferahlayan bir göğüs: Lihyan."
+hakim:
+  genel:
+    - "Hâkim Lihyan: Sonuç hayırlı ve ferah. Mesele soranın yüzünü güldürecek şekilde kapanır."
+    - "Sevinç hâkim olmuş; iş iyi gider, haber güzel gelir, yük hafifler."
+    - "Hâkim olarak Lihyan, umudun ve yükselişin hükmüdür: endişe yersiz."
+    - "Bu hükümde iyimserlik haklı çıkar; mesele beklenenden kolay çözülür."
+    - "Lihyan hükmü neşe anlatır; ama neşe hafif olduğu için korunması da ayrı bir iş."
+  ask:
+    - "Gönül sorusunda Lihyan hâkimi mutlu bir bağ anlatır; sevgi karşılıklı, ortam neşeli."
+    - "Aşkta sevinç hâkimse, ilişki iyi gidiyor ya da iyi gidecek; kutlama, evlilik, kavuşma."
+    - "Kalp meselesinde Lihyan: hafiflik, gülümseme, umut. Derinlik zamanla gelir."
+    - "Aşk sorusunda bu hüküm en güzel cevaplardandır: sevinç paylaşılıyor."
+  is:
+    - "İş sorusunda Lihyan hâkimi yükseliş ve iyi haber anlatır: terfi, takdir, keyifli bir proje."
+    - "Kariyerde sevinç hâkimse, iş ortamı rahatlar ve başarı görünür olur."
+    - "İşte Lihyan: iyi haber, yüksek mevki, çevrenin beğenisi."
+    - "İş için bu hüküm olumludur; tek uyarı, rahatlığın gevşekliğe dönüşmemesi."
+  para:
+    - "Para sorusunda Lihyan hâkimi rahatlama anlatır; sıkıntı hafifler, bolluk görünür."
+    - "Maddi konuda sevinç hâkimse, kazanç keyifle gelir; ama keyifle de gidebilir."
+    - "Lihyan para için 'ferahlık' der; borcun kapanması, beklenmedik bir gelir."
+    - "Kazanç sorusunda bu hüküm olumludur; dengeyi korumak soranın işi."
+  yolculuk:
+    - "Yolculuk sorusunda Lihyan hâkimi güzel bir yol anlatır; keyifli, güvenli, hafif."
+    - "Sevinç yolculukta 'git' der; gidilen yer sevindirir, dönüş de mutlu olur."
+    - "Seyahat sorusunda bu hüküm en olumlulardandır; yükseklik, geniş manzara, neşeli yol arkadaşları."
+    - "Yol için Lihyan: yolculuk iyi gelir; ruha da bedene de."
+  sinav:
+    - "Sınav sorusunda Lihyan hâkimi iyi haber anlatır; sonuç sevindirir."
+    - "Sevinç sınavda başarı ve rahatlama gösterir; endişe büyük olsa da sonuç hafif."
+    - "İlim sorusunda bu hüküm yükselişi anlatır: derece, geçiş, kutlama."
+    - "Sınav için Lihyan: beklenen haber iyi; ama hafife almak sonucu riske atar."
+  saglik:
+    - "Sağlık sorusunda Lihyan hâkimi iyileşme ve ferahlama anlatır; beden hafifler. Kesin söz hekimindir."
+    - "Sevinç sağlıkta canlılık ve iyi moral gösterir; ruh hâli bedeni taşır."
+    - "Beden sorusunda bu hüküm olumludur; düzelme hızlı ve belirgin."
+    - "Sağlık için Lihyan: nefes açılır, yük hafifler, sabah daha iyi başlar."
+  aile:
+    - "Aile sorusunda Lihyan hâkimi neşeli bir ev anlatır: kutlama, doğum, iyi haber, barış."
+    - "Sevinç aile konusunda bir araya gelişi ve paylaşılan mutluluğu gösterir."
+    - "Ev için bu hüküm olumludur; sıkıntı dağılır, gülüş geri gelir."
+    - "Aile sorusunda Lihyan: bir yükseliş, bir kutlama, bir ferahlık."
+  kayip:
+    - "Kayıp eşya sorusunda Lihyan hâkimi iyi haber verir: eşya bulunur, hem de sevinçle."
+    - "Sevinç kayıpta 'yüksek yer' der: raf, üst kat, dolabın üstü, asılı bir yer."
+    - "Kaybolan şey için bu hüküm olumludur; bulunduğunda bir gülümseme getirir."
+    - "Kayıp için Lihyan: eşya zarar görmemiş; yukarıda ve göz önünde bir yerde."
+tanik_sag:
+  - "Sağ tanık Lihyan: bu soruya bir sevinçle, bir iyi haberle ya da umutla gelinmiş."
+  - "Geçmişi anlatan tanıkta sevinç var; soranın arkasında mutlu bir dönem duruyor."
+  - "Sağ tanıkta Lihyan: soranın tarafı iyimser, hafif ve umutlu."
+  - "Sağ tanık olarak sevinç, geçmişin bu soruyu ferah bir yerden doğurduğunu söyler."
+tanik_sol:
+  - "Sol tanık Lihyan: önünde iyi bir haber ve bir yükseliş var."
+  - "Geleceği anlatan tanıkta sevinç var; iş güzel biter, yüzler güler."
+  - "Sol tanıkta Lihyan: sonuç ferah, umut yerinde."
+  - "Sol tanık olarak sevinç, meselenin mutlu bir noktaya varacağını söyler."
+uzlastirici:
+  - "Uzlaştırıcı Lihyan: uzun vadede neşe kalır; bu mesele güzel bir anı olur."
+  - "Son söz olarak sevinç: ne olursa olsun, yük hafifler."
+  - "Uzlaştırıcıda Lihyan, zamanla her şeyin yerli yerine ve ferah bir düzene oturacağını söyler."
+  - "Uzun vadede sevinç: yükseliş, görünürlük, iyi hatıra."
+ogut:
+  - "Sevinci paylaş; bu şekil yayıldıkça büyür."
+  - "Rahatlık iyidir, gevşeklik değil; işi bitirmeden kutlama."
+  - "Yukarı bak; mesele göründüğünden hafif."
+  - "Güzel haberi beklerken küçük işleri bitir."

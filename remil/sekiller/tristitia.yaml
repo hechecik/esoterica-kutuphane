@@ -1,0 +1,87 @@
+kaynak: ilm-i remil geleneği ve kamu malı klasikler; metin özgün
+lang: tr
+key: tristitia
+ad: İnkîs
+latin: Tristitia
+anlam: Keder
+temalar: { agirlik: 3, sabir: 3, derinlik: 2, gecikme: 2, temel: 2, yalnizlik: 1, kalicilik: 2 }
+portre:
+  - "İnkîs, geniş bir tabanın altında tek bir nokta: aşağı bakan bir kazık, toprağa inen bir temel."
+  - "Bu şekil Satürn'ün kova burcundaki yüzüdür: ağır, sabırlı, dürüst."
+  - "Gelenekte 'baş aşağı' anlamına gelen adıyla kederi, düşüşü ve yavaşlamayı anlatır."
+  - "İnkîs aşağı doğru derinleşir; sevincin tersine kök salar, yükselmez."
+  - "Bu şekil hüznün, ağırlığın ve gecikmenin şeklidir; ama aynı zamanda temelin."
+  - "İnkîs'in ağırlığı boşuna değildir; yapılan iş kalıcı olur."
+  - "Kazığa benzer bu şekil, bir yere sabitlenmeyi, kalmayı, dayanmayı da anlatır."
+  - "Keder şekli umutsuzluğu değil, ciddiyeti söyler: iş hafife alınacak gibi değil."
+  - "İnkîs yavaştır; onunla gelen her şey gecikerek ve sağlamlaşarak gelir."
+  - "Bu şekil 'ağırdan al' der; hızlı hareket edenin ayağı kayar."
+  - "İnkîs'te bir yalnızlık var: taşınan yük başkasıyla paylaşılmaz."
+  - "Derin kazılan bir kuyu, uzun bir kış, sabırla atılan bir temel: İnkîs."
+hakim:
+  genel:
+    - "Hâkim İnkîs: Mesele ağır ve yavaş ilerler. Hemen sonuç beklemek yorar; sabreden sağlam bir zemin bulur."
+    - "Keder hâkim olmuş; iş kolay değil, gecikmeli ve emek isteyen. Ama kurulan şey kalıcı olur."
+    - "Hâkim olarak İnkîs, ağırlık hükmüdür: aceleyle olmaz, sabırla belki."
+    - "Bu hükümde parlak bir evet yok; ciddi bir 'çalışırsan' var."
+    - "İnkîs hükmü hüzün ve gecikme anlatır; ancak derinleşen işlerin yüzeydekilerden uzun yaşadığını da hatırlatır."
+  ask:
+    - "Gönül sorusunda İnkîs hâkimi ağır bir dönem anlatır: hüzün, mesafe, bekleyiş. Bağ varsa derindir ama sessiz."
+    - "Aşkta keder hâkimse, ilişki yük taşıyor; konuşulmamış şeyler, taşınan bir ağırlık var."
+    - "Kalp meselesinde İnkîs: sabır ve sadakat; parlaklık yok, ama kalıcılık mümkün."
+    - "Aşk sorusunda bu hüküm, hafif hevesler için olumsuz, ciddi bağlar için ağır ama sağlamdır."
+  is:
+    - "İş sorusunda İnkîs hâkimi gecikme ve ağır sorumluluk anlatır; terfi ve karar yavaş gelir."
+    - "Kariyerde keder hâkimse, iş yorucu ve görünmez bir dönemde; emek birikir, karşılığı sonra gelir."
+    - "İşte İnkîs: temel atma, uzun vadeli yapı, hemen görünmeyen çalışma."
+    - "İş için bu hüküm ağırdır; ancak toprakla, inşaatla, madenle ilgili işler için uygundur."
+  para:
+    - "Para sorusunda İnkîs hâkimi sıkışıklık ve gecikme anlatır; para yavaş gelir, zor gider."
+    - "Maddi konuda keder hâkimse, birikim var ama akış yok; tutumluluk dönemi."
+    - "İnkîs para için 'ağır ol' der: borç alma, büyük harcama yapma, sabırla biriktir."
+    - "Kazanç sorusunda bu hüküm olumsuz görünür; ama sabırlı birikim için uygundur."
+  yolculuk:
+    - "Yolculuk sorusunda İnkîs hâkimi gecikme ve zorluk anlatır; yol ağır, hazırlık uzun."
+    - "Keder yolculukta 'kal' der: gidişin zamanı değil ya da gidiş hüzünlü olacak."
+    - "Seyahat sorusunda bu hüküm olumsuzdur; ertelemek yorulmaktan iyidir."
+    - "Yol için İnkîs: ağır yük, yavaş araç, uzun bekleyiş."
+  sinav:
+    - "Sınav sorusunda İnkîs hâkimi ağır bir hazırlık ve geciken sonuç anlatır; emek çok, ödül yavaş."
+    - "Keder sınavda 'derinleş' der: yüzeysel çalışma bu hükümde kaybeder, sabırlı çalışma kazanır."
+    - "İlim sorusunda bu hüküm temkinlidir: bu seferki sınav zorlayıcı, ama öğrenilen kalıcı."
+    - "Sınav için İnkîs: sonuç hemen gelmez; sabır ve disiplin gerekir."
+  saglik:
+    - "Sağlık sorusunda İnkîs hâkimi yavaş bir süreç anlatır; iyileşme gecikmeli, dinlenme şart. Kesin söz hekimindir."
+    - "Keder sağlıkta ağırlık ve yorgunluk gösterir; kemikler, eklemler, kronik hâller."
+    - "Beden sorusunda bu hüküm sabır ister; düzelme yavaş ama sağlam olabilir."
+    - "Sağlık için İnkîs: dinlen, yükü azalt, uzun vadeli bak."
+  aile:
+    - "Aile sorusunda İnkîs hâkimi ağır bir ev havası anlatır: hüzün, sessizlik, taşınan bir yük."
+    - "Keder aile konusunda derin ama ifade edilmemiş bağları gösterir; konuşmak gerekir."
+    - "Ev için bu hüküm sabır ister; mesele kısa sürede çözülmez."
+    - "Aile sorusunda İnkîs: kalıcı yapı, ağır sorumluluk, kuşaklar arası yük."
+  kayip:
+    - "Kayıp eşya sorusunda İnkîs hâkimi, eşyanın aşağıda, altta ya da gömülü bir yerde olduğunu söyler; bulunması zor."
+    - "Keder kayıpta 'derinde' der: yerin altı, dolabın dibi, eşyaların en altı."
+    - "Kaybolan şey için bu hüküm temkinlidir: bulunabilir ama uzun aramayla."
+    - "Kayıp için İnkîs: karanlık, kapalı, ağır bir yer; zemin kat, bodrum, kutu dibi."
+tanik_sag:
+  - "Sağ tanık İnkîs: bu soruya ağır bir dönemden, bir kederden ya da uzun bir bekleyişten gelinmiş."
+  - "Geçmişi anlatan tanıkta keder var; soranın arkasında taşınan bir yük duruyor."
+  - "Sağ tanıkta İnkîs: soranın tarafı yorgun, sabırlı ve derin."
+  - "Sağ tanık olarak keder, geçmişte atılan ağır bir temeli söyler."
+tanik_sol:
+  - "Sol tanık İnkîs: önünde ağır ve yavaş bir süreç var; sonuç gecikir ama kök salar."
+  - "Geleceği anlatan tanıkta keder var; iş kolay bitmez, sabır ister."
+  - "Sol tanıkta İnkîs: ilerisi ciddi; hafif bir sonuç bekleyen hayal kırıklığına uğrar."
+  - "Sol tanık olarak keder, meselenin ağırlaşarak olgunlaşacağını söyler."
+uzlastirici:
+  - "Uzlaştırıcı İnkîs: uzun vadede iş ağırlaşır ve sağlamlaşır; yüzeysel olan dökülür, temel kalır."
+  - "Son söz olarak keder: bu mesele sabırla ve sessizce olgunlaşır."
+  - "Uzlaştırıcıda İnkîs, zamanla yükün temele dönüşeceğini söyler."
+  - "Uzun vadede keder: kalıcı, ağır, dayanıklı bir yapı."
+ogut:
+  - "Yavaşla; bu dönemde hız düşmandır."
+  - "Yükü paylaş; İnkîs yalnız taşımayı sever ama gerekmez."
+  - "Temeli derin at; sonra yükselmek kolaylaşır."
+  - "Hüznü inkâr etme, ona bir yer ver ve yürümeye devam et."

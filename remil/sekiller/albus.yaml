@@ -1,0 +1,87 @@
+kaynak: ilm-i remil geleneği ve kamu malı klasikler; metin özgün
+lang: tr
+key: albus
+ad: Beyâz
+latin: Albus
+anlam: Beyaz
+temalar: { berraklik: 3, sukunet: 3, bilgelik: 2, iletisim: 2, yavaslik: 2, baris: 2, dusunce: 3 }
+portre:
+  - "Beyâz, çift, çift, tek, çift: geniş bir kap, içinde tek bir damla; berrak suyun şekli."
+  - "Bu şekil Merkür'ün ikizler burcundaki yüzüdür: düşünce, konuşma, berraklık."
+  - "Beyâz sakinliğin, akılcılığın ve temiz niyetin şeklidir."
+  - "Gelenekte hayırlı sayılır; özellikle düşünce, danışma ve barış isteyen işlerde."
+  - "Beyaz şekli gürültüyü sevmez; sessiz bir odada çözülen mesele gibidir."
+  - "Beyâz'da bir yavaşlık da vardır: düşünür, tartar, sonra konuşur."
+  - "Bu şekil bilgelerin, danışmanların, öğretmenlerin ve iyi dinleyenlerin işaretidir."
+  - "Beyaz, saflığı anlatır; niyet temiz, yol açık, kalp sakin."
+  - "Beyâz'ın bir gölgesi vardır: fazla düşünmek, harekete geçememek."
+  - "Bu şekil 'önce anla' der; anlamadan yapılan iş bu hükümde kaybeder."
+  - "Berrak bir su, temiz bir sayfa, sakin bir sabah: Beyâz."
+  - "Beyaz şekli zihnin ışığıdır; karanlık meseleye aydınlık getirir."
+hakim:
+  genel:
+    - "Hâkim Beyâz: Sonuç sakin, berrak ve hayırlı. Mesele düşünerek ve konuşarak çözülür; acele yok."
+    - "Beyaz şekli hâkim olmuş; iş yavaş ama temiz ilerler, sonuç huzurludur."
+    - "Hâkim olarak Beyâz, aklın hükmüdür: danış, dinle, anla, sonra karar ver."
+    - "Bu hükümde parlak bir zafer yok, derin bir huzur var."
+    - "Beyâz hükmü barış ve berraklık anlatır; karmaşa dağılır, görüş netleşir."
+  ask:
+    - "Gönül sorusunda Beyâz hâkimi sakin ve anlayışlı bir bağ anlatır; tutkudan çok dostluk ve huzur."
+    - "Aşkta beyaz şekli hâkimse, ilişki konuşarak ve anlayarak ilerler; ateş düşük, güven yüksek."
+    - "Kalp meselesinde Beyâz: temiz niyet, sessiz sevgi, uzun sohbetler. Heyecan arayan az bulur."
+    - "Aşk sorusunda bu hüküm olumludur; özellikle barışma ve anlaşma için."
+  is:
+    - "İş sorusunda Beyâz hâkimi düşünce ve iletişim işlerinde başarı anlatır: yazı, danışmanlık, eğitim, analiz."
+    - "Kariyerde beyaz şekli hâkimse, akıl ve sakinlik öne çıkarır; gürültü yapmadan yükselme."
+    - "İşte Beyâz: iyi bir plan, net bir anlaşma, temiz bir iletişim."
+    - "İş için bu hüküm olumludur; tek uyarı, düşünmenin eyleme dönüşmesi gerektiği."
+  para:
+    - "Para sorusunda Beyâz hâkimi düzenli, hesaplı ve temiz bir maddi durum anlatır; büyük değil, berrak."
+    - "Maddi konuda beyaz şekli hâkimse, kazanç bilgiden ve iletişimden gelir."
+    - "Beyâz para için 'hesapla' der: planlı birikim, düşünülmüş harcama."
+    - "Kazanç sorusunda bu hüküm olumludur ama mütevazıdır; zenginlikten çok yeterlilik."
+  yolculuk:
+    - "Yolculuk sorusunda Beyâz hâkimi sakin ve güvenli bir yol anlatır; iyi planlanmış, sorunsuz."
+    - "Beyaz şekli yolculukta 'git' der; yol açık, hava temiz, iletişim kolay."
+    - "Seyahat sorusunda bu hüküm olumludur; özellikle öğrenme ve görüşme amaçlı yolculuklar için."
+    - "Yol için Beyâz: huzurlu gidiş, düşünceli dönüş."
+  sinav:
+    - "Sınav sorusunda Beyâz hâkimi en uygun hükümlerdendir: zihin açık, bilgi berrak, sonuç olumlu."
+    - "Beyaz şekli sınavda 'anlayarak çalış' der; ezber değil kavrayış kazandırır."
+    - "İlim sorusunda bu hüküm Merkür'ün desteğini gösterir: öğrenme kolay, ifade net."
+    - "Sınav için Beyâz: sakin bir sınav günü, huzurlu bir sonuç."
+  saglik:
+    - "Sağlık sorusunda Beyâz hâkimi sakin bir toparlanma anlatır; endişe yersiz, süreç temiz. Kesin söz hekimindir."
+    - "Beyaz şekli sağlıkta zihin ve sinir sistemini öne çıkarır; dinlenme ve sessizlik iyi gelir."
+    - "Beden sorusunda bu hüküm olumludur; düzelme yavaş ama kesin."
+    - "Sağlık için Beyâz: berrak düşünce, temiz hava, düzenli uyku."
+  aile:
+    - "Aile sorusunda Beyâz hâkimi huzurlu bir ev anlatır; sorunlar konuşularak çözülür."
+    - "Beyaz şekli aile konusunda barış ve anlayış gösterir; sessiz ama sıcak bir yuva."
+    - "Ev için bu hüküm olumludur: gerginlik dağılır, akıl öne geçer."
+    - "Aile sorusunda Beyâz: bir bilgenin ya da sakin bir büyüğün sözü yol gösterir."
+  kayip:
+    - "Kayıp eşya sorusunda Beyâz hâkimi, eşyanın temiz ve açık bir yerde olduğunu söyler: masa üstü, kâğıtların arası, beyaz eşya yanı."
+    - "Beyaz şekli kayıpta 'düşün' der: eşya nereye bırakıldıysa oradadır; hafıza bulur."
+    - "Kaybolan şey için bu hüküm olumludur; eşya zarar görmemiş, sakin bir yerde."
+    - "Kayıp için Beyâz: kitaplar, kâğıtlar, çalışma masası, aydınlık bir köşe."
+tanik_sag:
+  - "Sağ tanık Beyâz: bu soruya düşünerek, sakin bir yerden ve temiz bir niyetle gelinmiş."
+  - "Geçmişi anlatan tanıkta beyaz şekli var; soranın arkasında bir danışma, bir konuşma ya da bir anlayış duruyor."
+  - "Sağ tanıkta Beyâz: soranın tarafı sakin, berrak ve iyi niyetli."
+  - "Sağ tanık olarak beyaz şekli, geçmişin bu soruyu akılla hazırladığını söyler."
+tanik_sol:
+  - "Sol tanık Beyâz: önünde sakin ve berrak bir sonuç var; iş konuşarak biter."
+  - "Geleceği anlatan tanıkta beyaz şekli var; ilerisi huzurlu ve anlaşılır."
+  - "Sol tanıkta Beyâz: karmaşa dağılacak, görüş netleşecek."
+  - "Sol tanık olarak beyaz şekli, meselenin akılla ve barışla kapanacağını söyler."
+uzlastirici:
+  - "Uzlaştırıcı Beyâz: uzun vadede huzur kalır; mesele anlaşılmış ve sindirilmiş olur."
+  - "Son söz olarak beyaz şekli: zihin açık, sonuç berrak."
+  - "Uzlaştırıcıda Beyâz, zamanla her şeyin yerine oturacağını ve anlam kazanacağını söyler."
+  - "Uzun vadede beyaz şekli: sakinlik, bilgi, temiz bir sayfa."
+ogut:
+  - "Önce anla, sonra yap; ama anladıktan sonra yapmayı unutma."
+  - "Danış; bu dönemde iyi bir sohbet bir karardan değerli."
+  - "Gürültüden uzak dur; mesele sessizlikte çözülüyor."
+  - "Temiz bir sayfa aç; eski hesapları zihnine taşıma."

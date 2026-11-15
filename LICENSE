@@ -1,0 +1,13 @@
+Esoterica Kütüphane
+
+1. Yorum metinleri ve veri dosyaları (*.yaml, *.json, *.md içindeki metinler):
+   Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+   https://creativecommons.org/licenses/by-nc-sa/4.0/
+   Atıf: "Esoterica Kütüphane — github.com/hechecik/esoterica-kutuphane"
+
+2. Şema tanımları ve betikler (*.mjs, *.js, *.schema.*): MIT License
+   https://opensource.org/license/mit
+
+Bu kütüphane, kamu malı klasik kaynaklardan (ör. 16. ve 17. yüzyıl remil metinleri,
+James Legge'in I Ching çevirisi, Project Gutenberg'deki fincan sembol sözlükleri)
+anlam düzeyinde yararlanır; metinler Türkçe olarak özgün yazılmıştır.

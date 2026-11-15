@@ -1,0 +1,87 @@
+kaynak: ilm-i remil geleneği ve kamu malı klasikler; metin özgün
+lang: tr
+key: amissio
+ad: Kabz-ı hâric
+latin: Amissio
+anlam: Kayıp
+temalar: { kayip: 3, birakma: 3, hafifleme: 2, harcama: 2, ozgurluk: 1, elden_cikma: 3 }
+portre:
+  - "Kabz-ı hâric 'dışarı verme'dir: açılan eller, boşalan keseler; şekil kaybı anlatır."
+  - "Bu şekil Venüs'ün boğa burcundaki yüzüdür: keyif için harcanan, sevgi için verilen."
+  - "Tek, çift, tek, çift: elden çıkan, dışarı akan bir ritim."
+  - "Kabz-ı hâric kayıp şeklidir; ama her kayıp bir yük değil, bazen bir hafiflemedir."
+  - "Gelenekte talihsiz sayılır; yine de bırakılması gereken şeyler için en doğru şekildir."
+  - "Bu şekil 'elinden gidecek' der; neyin gideceği haneye bağlı."
+  - "Kabz-ı hâric'te bir cömertlik de vardır: tutmayan, veren, dağıtan el."
+  - "Kayıp şekli bazen bir ilişkinin, bazen bir alışkanlığın, bazen de bir korkunun elden çıkmasını anlatır."
+  - "Bu şekil tutmaya çalıştıkça kaçan şeyleri gösterir; bırakmak kaybı azaltır."
+  - "Kabz-ı hâric, Kabz-ı dâhil'in aynadaki yansımasıdır: içeri alanın karşısında dışarı veren."
+  - "Boşalan bir kap, rahatlayan bir omuz: kayıpla hafifleme bu şekilde yan yanadır."
+  - "Bu şekil 'ne aradığını ve ne kaybettiğini' sormaya davet eder."
+hakim:
+  genel:
+    - "Hâkim Kabz-ı hâric: Bir şey elden çıkacak. Aranan bulunmaz, tutulmak istenen gider. Ama hafifleme de bu kaybın içinde."
+    - "Kayıp hâkim olmuş; mesele soranın beklediği gibi elinde kalmaz. Yine de her kayıp bir yer açar."
+    - "Hâkim olarak Kabz-ı hâric, bırakma hükmüdür: tutmaya çalışmak yormaktan başka işe yaramaz."
+    - "Bu hükümde 'olmaz' var; ama olmamasının neyi serbest bıraktığına da bakılmalı."
+    - "Kabz-ı hâric hükmü harcamayı, dağılmayı, elden çıkmayı anlatır. Kurtulmak istenen bir şey varsa haber iyidir."
+  ask:
+    - "Gönül sorusunda Kabz-ı hâric hâkimi uzaklaşma anlatır: biri geri çekiliyor ya da bağ gevşiyor."
+    - "Aşkta kayıp hâkimse, tutmaya çalışmak işe yaramaz; bırakılan şey belki başka biçimde döner, belki dönmez."
+    - "Kalp meselesinde Kabz-ı hâric: karşılıksızlık, ayrılık ya da tükenen bir heves. Ama yük de hafifler."
+    - "Aşk sorusunda bu hüküm, istenmeyen bir ilişkinin bitmesi söz konusuysa kurtuluştur."
+  is:
+    - "İş sorusunda Kabz-ı hâric hâkimi, bir pozisyonun, bir projenin ya da bir müşterinin elden çıkacağını söyler."
+    - "Kariyerde kayıp hâkimse, mevcut düzen çözülüyor; bu bazen kötü bir işten kurtuluştur."
+    - "İşte Kabz-ı hâric: masraf, zarar, elden kaçan fırsat; ama aynı zamanda bir yükten kurtulma."
+    - "İş için bu hüküm 'tutma, bırak' der; direnmek kaybı büyütür."
+  para:
+    - "Para sorusunda Kabz-ı hâric hâkimi harcama ve kayıp anlatır; para gider, alacak gecikir."
+    - "Maddi konuda kayıp hâkimse, yatırım ya da borç için doğru zaman değil; keseyi sıkı tut."
+    - "Kabz-ı hâric para için 'gidiyor' der; ama bazen bu, borcun ödenmesi ve rahatlamadır."
+    - "Kazanç sorusunda bu hüküm olumsuzdur; eldekini korumak kazanmaktan öncelikli."
+  yolculuk:
+    - "Yolculuk sorusunda Kabz-ı hâric hâkimi, yolda bir şeyin kaybolabileceğini ya da yolculuğun beklendiği gibi olmayacağını söyler."
+    - "Kayıp yolculukta masraf, gecikme ve elden çıkan plan anlatır; hafif seyahat etmek gerekir."
+    - "Seyahat sorusunda bu hüküm temkin ister: eşyalara dikkat, planlara esneklik."
+    - "Yol için Kabz-ı hâric: gidiş olabilir ama bir bedelle; bir şey geride kalır."
+  sinav:
+    - "Sınav sorusunda Kabz-ı hâric hâkimi, beklenen sonucun elden kaçabileceğini söyler; eksik hazırlık ya da şanssızlık."
+    - "Kayıp sınavda 'bu kez olmayabilir' der; ama her sınav bir sonrakinin hazırlığıdır."
+    - "İlim sorusunda bu hüküm, bilginin dağıldığını ya da odağın kaybolduğunu anlatır; toparlanmak gerekir."
+    - "Sınav için Kabz-ı hâric: istenen puan bu seferlik uzak; strateji değişmeli."
+  saglik:
+    - "Sağlık sorusunda Kabz-ı hâric hâkimi, bedenin güç kaybettiğini ya da bir şeyin atılması gerektiğini anlatır. Kesin söz hekimindir."
+    - "Kayıp sağlıkta zayıflama ve yorgunluk gösterir; ama zararlı bir şeyden kurtulma da olabilir."
+    - "Beden sorusunda bu hüküm dinlenme ve bırakma ister: yükü azalt."
+    - "Sağlık için Kabz-ı hâric: eksilen bir şey var; onu yerine koymak için hekime danış."
+  aile:
+    - "Aile sorusunda Kabz-ı hâric hâkimi, evden bir şeyin ya da birinin uzaklaşacağını söyler; ayrılık, taşınma, gevşeyen bağ."
+    - "Kayıp aile konusunda bir kaybın yasını ya da bir alışkanlığın bırakılmasını anlatır."
+    - "Ev için bu hüküm masraf ve elden çıkan mülk gösterir; tutunmak yerine düzenlemek gerekir."
+    - "Aile sorusunda Kabz-ı hâric: bağlar sınanıyor; neyin bırakılacağı konuşulmalı."
+  kayip:
+    - "Kayıp eşya sorusunda Kabz-ı hâric hâkimi, eşyanın geri dönmeyeceğini söyler; kayıp şekli kaybı onaylar."
+    - "Kayıp hükmü kayıp için 'gitmiş' der: eşya başkasının eline geçmiş ya da harcanmış olabilir."
+    - "Kaybolan şey için bu hüküm olumsuzdur; aramaktan çok yerine koymayı düşünmek gerekir."
+    - "Kayıp için Kabz-ı hâric: eşya elden çıkmış; vazgeçmek aramaktan hafifletir."
+tanik_sag:
+  - "Sağ tanık Kabz-ı hâric: bu soruya bir kayıpla, bir ayrılıkla ya da bir harcamayla gelinmiş."
+  - "Geçmişi anlatan tanıkta kayıp var; soranın arkasında elden çıkan bir şey duruyor."
+  - "Sağ tanıkta Kabz-ı hâric: soranın tarafı boşalmış, yorgun ama hafiflemiş."
+  - "Sağ tanık olarak kayıp, soranın buraya bir şeyi bırakarak geldiğini söyler."
+tanik_sol:
+  - "Sol tanık Kabz-ı hâric: önünde bir elden çıkma var; sonuç tutmakla değil bırakmakla gelecek."
+  - "Geleceği anlatan tanıkta kayıp var; iş beklendiği gibi elde kalmaz."
+  - "Sol tanıkta Kabz-ı hâric: masraf, ayrılık ya da vazgeçiş; ama sonrasında ferahlık."
+  - "Sol tanık olarak kayıp, meselenin bir şey vererek kapanacağını söyler."
+uzlastirici:
+  - "Uzlaştırıcı Kabz-ı hâric: uzun vadede bırakılan şey arkada kalır ve yük hafifler."
+  - "Son söz olarak kayıp: bu mesele tutularak değil, bırakılarak biter."
+  - "Uzlaştırıcıda Kabz-ı hâric, zamanla kaybın anlam kazanacağını söyler."
+  - "Uzun vadede kayıp: boşalan yer başka bir şeyle dolar."
+ogut:
+  - "Tutmaya çalıştığın şeyi bir an bırak; kaybın büyüklüğünü o zaman görürsün."
+  - "Harcamayı ertele; bu dönemde para ve enerji dışarı akıyor."
+  - "Bir şey gidiyorsa arkasından koşma, yerini düzenle."
+  - "Kayıp hafifleme de olabilir; neyin gittiğine değil, neyin kaldığına bak."

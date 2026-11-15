@@ -1,0 +1,87 @@
+kaynak: ilm-i remil geleneği ve kamu malı klasikler; metin özgün
+lang: tr
+key: carcer
+ad: Ukle
+latin: Carcer
+anlam: Hapis
+temalar: { kisitlama: 3, bag: 3, sabir: 2, koruma: 2, tikanma: 3, disiplin: 2, yalnizlik: 1 }
+portre:
+  - "Ukle, tek, çift, çift, tek: kapalı bir halka, bir düğüm, bir duvarla çevrili avlu."
+  - "Bu şekil Satürn'ün oğlak burcundaki yüzüdür: sınır, disiplin, sabır."
+  - "Gelenekte 'düğüm' anlamına gelen adıyla bağlanmayı ve kısıtlanmayı anlatır."
+  - "Ukle hapis şeklidir; ama hapis bazen koruma, bazen tutsaklık, bazen de inzivadır."
+  - "Bu şekil 'şimdi değil' der: kapı kapalı, zaman olgun değil."
+  - "Ukle'nin olumlu yüzü sağlamlıktır: bir yere bağlanan dağılmaz."
+  - "Hapis şekli gecikme, engel ve tıkanma anlatır; ama sınır, odak da getirir."
+  - "Ukle bağlılığı da gösterir: bir söze, bir kişiye, bir yere bağlı olmak."
+  - "Bu şekil yalnızlığın ve kapalı kapıların işaretidir; dışarıdan gelen yardım zor girer."
+  - "Ukle'de bir sabır dersi var: kilitli kapı zorla açılmaz, anahtarla açılır."
+  - "Duvar, kilit, düğüm, sözleşme, hücre: Ukle."
+  - "Kapalı olan şey korunmuştur da; bu şekil neyi tuttuğunu sormaya davet eder."
+hakim:
+  genel:
+    - "Hâkim Ukle: Mesele tıkanmış ya da bağlanmış. Sonuç gecikir, kapı şimdilik kapalı. Sabır ve disiplin gerekir."
+    - "Hapis şekli hâkim olmuş; iş kısıtlı, hareket alanı dar. Ama bağ sağlam, kaybolma yok."
+    - "Hâkim olarak Ukle, sınır hükmüdür: zorlamak işe yaramaz, beklemek ve plan yapmak yarar."
+    - "Bu hükümde 'şimdi olmaz' var; 'hiç olmaz' yok. Zamanı bekle."
+    - "Ukle hükmü bağlanma anlatır; bazen bir taahhüt, bazen bir tutsaklık. Hangisi olduğu haneye bağlı."
+  ask:
+    - "Gönül sorusunda Ukle hâkimi güçlü bir bağ anlatır; sadakat ve taahhüt var, ama hareket alanı dar."
+    - "Aşkta hapis şekli hâkimse, ilişki ya çok bağlı ya da çok sıkışık; biri kendini kısıtlanmış hissediyor olabilir."
+    - "Kalp meselesinde Ukle: beklemede olan bir ilişki, bir engel, bir söz."
+    - "Aşk sorusunda bu hüküm, evlilik gibi bağlar için sağlamdır; yeni başlangıçlar içinse kapalı kapı."
+  is:
+    - "İş sorusunda Ukle hâkimi tıkanma ve gecikme anlatır; terfi, karar ya da yeni iş şimdilik kilitli."
+    - "Kariyerde hapis şekli hâkimse, kişi mevcut yerine bağlı; değişim zor, ama konum güvende."
+    - "İşte Ukle: sözleşmeye bağlılık, rutin, disiplin. Hareket isteyen için bunaltıcı."
+    - "İş için bu hüküm sabır ister; kapı kapalıysa anahtarı bulmak gerekir, kırmak değil."
+  para:
+    - "Para sorusunda Ukle hâkimi kısıtlılık anlatır; para bağlı, harcanamıyor ya da gelmiyor."
+    - "Maddi konuda hapis şekli hâkimse, birikim güvende ama akış tıkalı; borç ya da bloke."
+    - "Ukle para için 'sıkı tut' der: bu dönemde para dışarı çıkmaz, içeri de zor girer."
+    - "Kazanç sorusunda bu hüküm olumsuz görünür; ama koruma ve biriktirme için uygundur."
+  yolculuk:
+    - "Yolculuk sorusunda Ukle hâkimi engel ve gecikme anlatır; yol kapalı, izin yok, hareket kısıtlı."
+    - "Hapis şekli yolculukta 'kal' der; şartlar izin vermiyor."
+    - "Seyahat sorusunda bu hüküm olumsuzdur; plan ertelenmeli ya da yeniden kurulmalı."
+    - "Yol için Ukle: sınırda bekleyiş, iptal, kapanan kapı."
+  sinav:
+    - "Sınav sorusunda Ukle hâkimi disiplinli ama sıkışık bir hazırlık anlatır; kapalı odada çalışma, dar zaman."
+    - "Hapis şekli sınavda 'sınırını bil' der: sınav baskısı yüksek, hareket alanı dar; ama odak güçlü."
+    - "İlim sorusunda bu hüküm temkinlidir: sonuç gecikebilir ya da beklenen puan tutmayabilir; sebat şart."
+    - "Sınav için Ukle: sınav bir kapıdır; bu sefer açılmazsa anahtar bir sonrakinde."
+  saglik:
+    - "Sağlık sorusunda Ukle hâkimi kısıtlanma ve ağır süreç anlatır; dinlenme ve disiplin gerekir. Kesin söz hekimindir."
+    - "Hapis şekli sağlıkta kemikler, eklemler ve kronik hâlleri öne çıkarır; sabır ister."
+    - "Beden sorusunda bu hüküm temkinlidir; tedaviye bağlı kalmak düzelmeyi hızlandırır."
+    - "Sağlık için Ukle: sınırlarını kabul et; beden şimdi koruma istiyor."
+  aile:
+    - "Aile sorusunda Ukle hâkimi sıkı ama bunaltıcı bağlar anlatır; sadakat var, nefes yok."
+    - "Hapis şekli aile konusunda bir engel ya da bir kısıtlama gösterir; biri kendini tutsak hissediyor."
+    - "Ev için bu hüküm sağlam ama kapalıdır; kapıyı açmak için konuşmak gerekir."
+    - "Aile sorusunda Ukle: koruma ve kısıtlama iç içe; sınırları yeniden çizmek gerek."
+  kayip:
+    - "Kayıp eşya sorusunda Ukle hâkimi, eşyanın kapalı ve kilitli bir yerde olduğunu söyler: kasa, kilitli dolap, kutu, çekmece."
+    - "Hapis şekli kayıpta 'kapalı' der: eşya kilit altında, belki başkasının elinde ve geri alınması zor."
+    - "Kaybolan şey için bu hüküm karışıktır: eşya korunmuş ama ulaşılması zor."
+    - "Kayıp için Ukle: duvar dibi, köşe, kapalı bir kap, dar bir aralık."
+tanik_sag:
+  - "Sağ tanık Ukle: bu soruya bir kısıtlamayla, bir engelle ya da bir bağlılıkla gelinmiş."
+  - "Geçmişi anlatan tanıkta hapis şekli var; soranın arkasında bir tıkanma ya da bir taahhüt duruyor."
+  - "Sağ tanıkta Ukle: soranın tarafı sıkışmış, sabırlı ve bağlı."
+  - "Sağ tanık olarak hapis şekli, geçmişte kapanan bir kapıyı söyler."
+tanik_sol:
+  - "Sol tanık Ukle: önünde bir gecikme ya da bir bağlanma var; sonuç sabırla gelecek."
+  - "Geleceği anlatan tanıkta hapis şekli var; iş kısıtlı bir dönemden geçecek."
+  - "Sol tanıkta Ukle: kapı şimdilik kapalı; anahtar zamanda."
+  - "Sol tanık olarak hapis şekli, meselenin bir sınır içinde kalacağını söyler."
+uzlastirici:
+  - "Uzlaştırıcı Ukle: uzun vadede bağ sürer; mesele bir taahhüde dönüşür."
+  - "Son söz olarak hapis şekli: bu iş kapalı kalır ya da sağlam bir sözle bağlanır."
+  - "Uzlaştırıcıda Ukle, zamanla sınırların korumaya dönüşeceğini söyler."
+  - "Uzun vadede hapis şekli: disiplin, sabır, kalıcı bir çerçeve."
+ogut:
+  - "Kilitli kapıyı zorlama; anahtarı ara."
+  - "Sınırını kabul et, içinde ne yapabileceğine bak."
+  - "Bu dönemde yeni söz verme; eski sözleri tut."
+  - "Yalnızlık seçildiğinde inziva, dayatıldığında hapistir; hangisi olduğuna sen karar ver."

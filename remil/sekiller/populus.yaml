@@ -1,0 +1,87 @@
+kaynak: ilm-i remil geleneği ve kamu malı klasikler; metin özgün
+lang: tr
+key: populus
+ad: Cemaat
+latin: Populus
+anlam: Topluluk
+temalar: { topluluk: 3, edilgenlik: 2, yansima: 2, kalabalik: 2, beklemek: 2, belirsizlik: 1 }
+portre:
+  - "Cemaat sekiz noktadan oluşur: çift çift dizilmiş bir kalabalık, tek bir yüz yok."
+  - "Bu şekil toplulukları, insan yığınlarını ve 'herkes ne derse' hâlini anlatır."
+  - "Cemaat bir aynadır; kendi başına bir şey söylemez, yanındaki şekli yansıtır."
+  - "Ay'ın durgun yüzüdür Cemaat: suya düşen ışık gibi, olan biteni alır ve geri verir."
+  - "Bu şekilde eylem yok, tepki var. Kalabalık hareket etmez, hareket ettirilir."
+  - "Cemaat sorunun etrafında çok kişi olduğunu, kararın tek bir elde olmadığını söyler."
+  - "Sekiz noktalı bu sessiz şekil, bekleyişi ve ortak kaderi temsil eder."
+  - "Cemaat'te güç sayıdadır; ama kalabalığın yönü olmaz, rüzgâr ne yöne eserse oraya gider."
+  - "Bu şekil kimi zaman 'herkes seninle', kimi zaman 'herkes seni izliyor' demektir."
+  - "Cemaat çoğalmayı, birikmeyi ve toplanmayı anlatır; tek başına ne iyi ne kötüdür."
+  - "Durgun bir göl gibidir Cemaat: içine ne atılırsa onun halkalarını gösterir."
+  - "Bu şekil, meselenin kişisel değil ortak olduğunu söyler; sen de kalabalığın bir parçasısın."
+hakim:
+  genel:
+    - "Hâkim Cemaat: Sonuç kalabalığa, çevreye ve başkalarının tutumuna bağlı. Tek başına karar vermiyorsun."
+    - "Cemaat hükmü yansıtıcıdır; soruya verilen cevap, etrafındaki insanların cevabıdır. Onlar ne derse o olur."
+    - "Hâkim olarak Cemaat sabırlı bir bekleyiş ister: olaylar kendi toplu ağırlığıyla yürüyecek."
+    - "Cemaat hükmünde sonuç belirsiz ama kalabalık; çok kişi, çok ses, çok görüş var. Kendi sesini ayırmak gerekecek."
+    - "Bu hükümde iş çevreye emanet: insanların desteğini alırsan yürür, almazsan durur."
+  ask:
+    - "Gönül sorusunda Cemaat hâkimi, ilişkinin etrafındaki insanlara işaret eder: aile, arkadaşlar, herkesin fikri var."
+    - "Aşkta kalabalık hâkimse ilişki iki kişinin değil, çevrenin konusu olmuş; baş başa kalmak gerekiyor."
+    - "Cemaat aşkta edilgenliği anlatır: biri adım atmadıkça bir şey olmayacak, herkes bekliyor."
+    - "Kalp meselesinde Cemaat: duygular var ama yön yok; karşı taraf aynadır, ne verirsen onu yansıtır."
+  is:
+    - "İş sorusunda Cemaat hâkimi, sonucun bir ekibe, bir kurula ya da kalabalık bir ortama bağlı olduğunu söyler."
+    - "Kariyerde kalabalık hâkim olmuş: tek başına parlamak zor, ama toplulukla yürümek mümkün."
+    - "Cemaat iş konusunda şirketleri, büyük kurumları ve ortak kararları anlatır; iş bireysel olmayacak."
+    - "İşte Cemaat: bekleme süreci, başkalarının onayı, toplu hareket. Sabır ve ilişki yönetimi gerekir."
+  para:
+    - "Para sorusunda Cemaat hâkimi, maddiyatın ortak bir havuzda olduğunu söyler: birikim toplu, karar toplu."
+    - "Maddi konuda kalabalık hâkimse, kazanç insanlardan gelir: müşteri, kalabalık, pazar."
+    - "Cemaat parayı tek başına büyütmez; başkalarıyla birleştiğinde büyür."
+    - "Kazanç için Cemaat: geniş kitleye hitap eden işler, ortak girişimler, küçük ama çok sayıda gelir."
+  yolculuk:
+    - "Yolculuk sorusunda Cemaat hâkimi, gidişin toplulukla ya da kalabalığa doğru olduğunu söyler; yalnız bir yol değil."
+    - "Cemaat yolculukta beklemeyi anlatır: kalabalık, kuyruk, ertelenen hareket. Yol kapalı değil ama yavaş."
+    - "Seyahat için kalabalık hâkimse, grupla gitmek yalnız gitmekten iyidir."
+    - "Yol sorusunda Cemaat: hareket başkalarının takvimine bağlı; sen tek başına belirleyemezsin."
+  sinav:
+    - "Sınav sorusunda Cemaat hâkimi, sonucun ortalamaya ve kalabalığa bağlı olduğunu söyler: sıralama, kontenjan, rekabet."
+    - "Cemaat sınavda 'herkesle birlikte' demektir; öne çıkmak için kalabalıktan ayrışan bir şey gerekir."
+    - "İlim sorusunda kalabalık hâkimse, toplu çalışma ve çevre desteği fayda sağlar."
+    - "Sınav için Cemaat: sonuç net değil, ama topluluğun içinde kaybolmayan bir çalışma kazandırır."
+  saglik:
+    - "Sağlık sorusunda Cemaat hâkimi, durumun yaygın ve geçici olduğunu söyler; mevsimsel ya da ortak bir hâl."
+    - "Cemaat sağlıkta beden sularını, şişlik ve ağırlığı anlatır; dinlenme ve denge ister. Kesin söz hekimindir."
+    - "Beden sorusunda kalabalık hâkimse, çok görüş var; tek bir doğru kaynağa bağlanmak gerekir."
+    - "Sağlık için Cemaat: durağan bir dönem, belirgin bir yön yok; takip ve sabır."
+  aile:
+    - "Aile sorusunda Cemaat hâkimi, evin kalabalık ve herkesin birbirine bağlı olduğunu söyler; karar ortak alınır."
+    - "Cemaat aile konusunda toplanmayı anlatır: bir araya geliş, kalabalık sofra, ortak mesele."
+    - "Ev için kalabalık hâkimse, mesele tek kişinin değil herkesin; konuşmadan çözülmez."
+    - "Aile sorusunda Cemaat: bağlar güçlü ama yön belirsiz; herkes diğerine bakıyor."
+  kayip:
+    - "Kayıp eşya sorusunda Cemaat hâkimi, şeyin kalabalık bir yerde olduğunu söyler: toplu alan, ortak kullanılan mekân, başkalarının yanı."
+    - "Cemaat kayıpta 'birinde' demektir; eşya alınmış ya da yanlışlıkla başkasının eşyalarına karışmış olabilir."
+    - "Kaybolan şey için kalabalık hâkimse, soruşturmak bulmaktan daha hızlı sonuç verir."
+    - "Kayıp için Cemaat: su kenarı, kalabalık, ortak alan; bir başkasına sorulmalı."
+tanik_sag:
+  - "Sağ tanık Cemaat: bu soruya kalabalığın içinden, başkalarının etkisiyle gelinmiş."
+  - "Geçmişi anlatan tanıkta Cemaat var; sorunun kaynağı ortak bir mesele, çevrenin baskısı ya da bekleyiş."
+  - "Sağ tanıkta kalabalık: soranın tarafı edilgen, yönü başkaları belirlemiş."
+  - "Sağ tanık olarak Cemaat, geride bir topluluk, bir aile ya da bir ekip bırakıldığını söyler."
+tanik_sol:
+  - "Sol tanık Cemaat: sonuç başkalarının eline bakıyor; kalabalık onaylarsa olur."
+  - "Geleceği anlatan tanıkta Cemaat var; iş bir topluluk içinde, ortak bir kararla sonuçlanacak."
+  - "Sol tanıkta kalabalık: önünde bekleme ve çok sesli bir dönem var."
+  - "Sol tanık olarak Cemaat, sonun yalnız yaşanmayacağını, çevrenin de içinde olacağını söyler."
+uzlastirici:
+  - "Uzlaştırıcı Cemaat: uzun vadede mesele toplulukla çözülür; yalnız değilsin."
+  - "Son söz olarak kalabalık: iş bir ortak kaderin parçası olur, kişisel bir zafer ya da yenilgi değil."
+  - "Uzlaştırıcıda Cemaat, zamanla herkesin aynı tarafa dönüşeceğini söyler."
+  - "Uzun vadede Cemaat: durulma, yerleşme, bir topluluğa karışma."
+ogut:
+  - "Kalabalığın içinde kendi sesini ayır; herkesin dediği her zaman senin doğrun değildir."
+  - "Çevrenin desteğini al, ama kararı başkalarına bırakma."
+  - "Bekleyiş döneminde ilişkileri besle; sonuç insanlarla gelecek."
+  - "Suya atılan taşın halkaları gibi: küçük bir eylem kalabalığı harekete geçirebilir."

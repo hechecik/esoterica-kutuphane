@@ -1,0 +1,87 @@
+kaynak: ilm-i remil geleneği ve kamu malı klasikler; metin özgün
+lang: tr
+key: conjunctio
+ad: İçtimâ
+latin: Conjunctio
+anlam: Birleşme
+temalar: { birlesme: 3, iletisim: 3, kesisme: 2, esneklik: 2, aracilik: 2, belirsizlik: 1, uyum: 2 }
+portre:
+  - "İçtimâ, çift, tek, tek, çift: ortada birleşen iki çizgi, bir kavşak, bir buluşma."
+  - "Bu şekil Merkür'ün başak burcundaki yüzüdür: bağlantı, aracılık, düzen."
+  - "İçtimâ birleştirir: insanları, fikirleri, yolları. Tek başına yönü yoktur; yanındakileri bağlar."
+  - "Gelenekte nötr sayılır; iyiyle iyi, kötüyle kötü olur."
+  - "Birleşme şekli buluşmayı, anlaşmayı, sözleşmeyi ve karşılaşmayı anlatır."
+  - "İçtimâ'nın esnekliği hem gücü hem zaafıdır: her şeye uyum sağlar, hiçbir şeye bağlanmaz."
+  - "Bu şekil haberciler, aracılar, tüccarlar ve köprü kuranların işaretidir."
+  - "İçtimâ bir kavşaktır; nereye gidileceği yol arkadaşına bağlıdır."
+  - "Birleşme şekli kayıp bir şeyin bulunmasını, ayrı düşenlerin kavuşmasını da anlatır."
+  - "İçtimâ'da zekâ var: durumu okur, parçaları birleştirir, çözümü görür."
+  - "Bu şekil 'buluş' der: biriyle, bir fikirle, bir fırsatla."
+  - "Kavşak, el sıkışma, düğüm, bağlantı: İçtimâ."
+hakim:
+  genel:
+    - "Hâkim İçtimâ: Sonuç bir buluşma, bir anlaşma ya da bir bağlantıyla gelir. Mesele tek başına değil, birleşerek çözülür."
+    - "Birleşme şekli hâkim olmuş; iş yolunda, ama yönü ortaklarına ve tanıklara bağlı."
+    - "Hâkim olarak İçtimâ, bağlantı hükmüdür: doğru kişiyle buluşmak her şeyi değiştirir."
+    - "Bu hükümde kesinlik yok, birleşim var; sonuç tanıkların niteliğiyle belirlenir."
+    - "İçtimâ hükmü karşılaşma anlatır: aranan kişi, kayıp parça, eksik bilgi yakında."
+  ask:
+    - "Gönül sorusunda İçtimâ hâkimi kavuşma anlatır; iki kişi buluşur, ayrılar birleşir."
+    - "Aşkta birleşme şekli hâkimse, ilişki bir karşılaşmayla ya da bir anlaşmayla ilerler; nişan, evlilik, barışma."
+    - "Kalp meselesinde İçtimâ: zihinsel uyum, iyi iletişim, belki bir aracıyla gelen yakınlık."
+    - "Aşk sorusunda bu hüküm olumludur; derinliği yanındaki şekiller belirler."
+  is:
+    - "İş sorusunda İçtimâ hâkimi anlaşma, ortaklık ve sözleşme anlatır; iş bir birleşmeyle ilerler."
+    - "Kariyerde birleşme şekli hâkimse, doğru bağlantı kapıyı açar; ağ kurmak kazandırır."
+    - "İşte İçtimâ: toplantı, görüşme, iş birliği, aracılık."
+    - "İş için bu hüküm olumludur; tek uyarı, her anlaşmanın yazılı olması."
+  para:
+    - "Para sorusunda İçtimâ hâkimi ortak kazanç ve ticaret anlatır; para alışverişle, aracılıkla gelir."
+    - "Maddi konuda birleşme şekli hâkimse, kazanç bir ortaklıktan ya da bir anlaşmadan doğar."
+    - "İçtimâ para için 'birleştir' der: kaynakları, bilgileri, insanları."
+    - "Kazanç sorusunda bu hüküm nötrdür; ortağın niteliği sonucu belirler."
+  yolculuk:
+    - "Yolculuk sorusunda İçtimâ hâkimi bir buluşma yolculuğu anlatır; gidilen yerde biriyle karşılaşılır."
+    - "Birleşme şekli yolculukta 'git, karşılaşacaksın' der; yol bir bağlantıya götürür."
+    - "Seyahat sorusunda bu hüküm olumludur; kavşaklar, aktarmalar, kısa görüşmeler."
+    - "Yol için İçtimâ: yolculuk bir ilişki ya da anlaşma getirir."
+  sinav:
+    - "Sınav sorusunda İçtimâ hâkimi, bilgilerin birbirine bağlandığını anlatır; parçalar yerine oturuyor."
+    - "Birleşme şekli sınavda 'birlikte çalış' der; toparlama ve bağlantı kurma kazandırır."
+    - "İlim sorusunda bu hüküm Merkür'ün desteğini gösterir: anlayış, bağlantı, hızlı kavrayış."
+    - "Sınav için İçtimâ: sonuç olumlu; eksik parçayı bulmak yeter."
+  saglik:
+    - "Sağlık sorusunda İçtimâ hâkimi doğru hekimle buluşmayı anlatır; teşhis ve tedavi birleşir. Kesin söz hekimindir."
+    - "Birleşme şekli sağlıkta sinirler, bağırsaklar ve dolaşımı öne çıkarır; düzen ve denge gerekir."
+    - "Beden sorusunda bu hüküm nötrdür; sonuç bakımın niteliğine bağlı."
+    - "Sağlık için İçtimâ: doğru bilgiyle doğru kişi buluşursa düzelme hızlı."
+  aile:
+    - "Aile sorusunda İçtimâ hâkimi bir araya gelmeyi anlatır; ayrı düşenler buluşur, konuşulur."
+    - "Birleşme şekli aile konusunda barışma ve kavuşma gösterir; belki bir düğün ya da bir dönüş."
+    - "Ev için bu hüküm olumludur: iletişim açılır, bağlar yenilenir."
+    - "Aile sorusunda İçtimâ: bir aracı, bir toplantı, bir ortak karar."
+  kayip:
+    - "Kayıp eşya sorusunda İçtimâ hâkimi kavuşmayı anlatır: eşya bulunur, başka eşyaların arasına karışmıştır."
+    - "Birleşme şekli kayıpta 'başka bir şeyle birlikte' der: ciltler, dosyalar, çantalar, birbirine bağlanan eşyalar."
+    - "Kaybolan şey için bu hüküm olumludur; birine sormak bulmayı hızlandırır."
+    - "Kayıp için İçtimâ: kavşak noktalar, koridor, iki odanın arası, bağlantı yerleri."
+tanik_sag:
+  - "Sağ tanık İçtimâ: bu soruya bir buluşmayla, bir anlaşmayla ya da bir bağlantıyla gelinmiş."
+  - "Geçmişi anlatan tanıkta birleşme şekli var; soranın arkasında bir iş birliği ya da bir karşılaşma duruyor."
+  - "Sağ tanıkta İçtimâ: soranın tarafı esnek, iletişimci ve bağlantılı."
+  - "Sağ tanık olarak birleşme şekli, geçmişte kurulan bağların bugünkü soruyu şekillendirdiğini söyler."
+tanik_sol:
+  - "Sol tanık İçtimâ: önünde bir buluşma ya da bir anlaşma var; sonuç birleşerek gelecek."
+  - "Geleceği anlatan tanıkta birleşme şekli var; iş bir bağlantıyla sonuçlanır."
+  - "Sol tanıkta İçtimâ: doğru kişi ya da eksik parça yakında."
+  - "Sol tanık olarak birleşme şekli, meselenin bir kavşakta kapanacağını söyler."
+uzlastirici:
+  - "Uzlaştırıcı İçtimâ: uzun vadede bağlar kalır; mesele yeni bağlantılara açılır."
+  - "Son söz olarak birleşme şekli: bu iş bir ilişkiyle ya da bir ağla devam eder."
+  - "Uzlaştırıcıda İçtimâ, zamanla parçaların bir bütün oluşturacağını söyler."
+  - "Uzun vadede birleşme şekli: köprüler, ortaklıklar, kesişen yollar."
+ogut:
+  - "Doğru kişiyi bul; mesele birinin yardımıyla çözülecek."
+  - "Anlaşmayı yazıya dök; sözlü bağ bu şekilde kolay çözülür."
+  - "Parçaları birleştir; cevap zaten elinde, dağınık."
+  - "Esnek ol, ama her rüzgâra bükülme."

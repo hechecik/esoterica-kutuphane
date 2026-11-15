@@ -1,0 +1,87 @@
+kaynak: ilm-i remil geleneği ve kamu malı klasikler; metin özgün
+lang: tr
+key: via
+ad: Tarîk
+latin: Via
+anlam: Yol
+temalar: { degisim: 3, hareket: 3, gecis: 2, yalnizlik: 1, akis: 2, belirsizlik: 1 }
+portre:
+  - "Tarîk tek bir çizgidir: dört tek nokta üst üste, hiç durmayan bir yol gibi."
+  - "Bu şekil yolculuğun kendisidir; varılacak yeri değil, yürümeyi anlatır."
+  - "Tarîk akan sudur, geçen zamandır, bir yerden bir yere taşınan her şeydir."
+  - "Dört noktayla çizilen bu ince hat, gelenekte hem gidişi hem de dönüşü temsil eder."
+  - "Tarîk'in gücü hareketinde; durduğunda anlamını yitirir."
+  - "Bu şekil 'değişecek' der, 'nasıl' demez. Yön, yanındaki şekillerden okunur."
+  - "Tek başına yürüyen bir yolcu gibidir Tarîk: hafif, yüksüz ve yönü belirsiz."
+  - "Tarîk bir eşik şeklidir; eskiyle yeninin arasındaki koridoru gösterir."
+  - "Ay'ın şeklidir Tarîk, bu yüzden hızlı değişir ve kolay kolay aynı yerde kalmaz."
+  - "Bu şekil olayların akışını anlatır: ne iyi ne kötü, sadece 'devam ediyor'."
+  - "Tarîk'te bir yalnızlık da vardır; yolu herkes kendi adımıyla yürür."
+  - "Dört tek noktanın dikey hattı, başlanan işin bir yere doğru aktığını söyler."
+hakim:
+  genel:
+    - "Hâkim Tarîk: Durum değişecek. Nereye varacağı tanıklara ve haneye bağlı, ama yerinde saymayacağı kesin."
+    - "Yol hâkim olmuş; soru bir geçiş sürecini anlatıyor. Bu, bir cevaptan çok bir 'henüz yoldasın' işareti."
+    - "Tarîk hükmü hareket hükmüdür: beklediğin sabit bir sonuç değil, bir akış ve dönüşüm var."
+    - "Hâkim olarak Tarîk, her şeyin akış hâlinde olduğunu söyler. Karar vermek için acele etme; ama yürümeyi de bırakma."
+    - "Bu hükümde kesinlik yok, yön var: şeyler yerinden oynuyor ve seninle birlikte ilerliyor."
+  ask:
+    - "Gönül işlerinde Tarîk hâkimi bir geçiş anlatır: ilişki ya bir evreden diğerine geçiyor ya da biri yolculuğa çıkıyor."
+    - "Aşkta Tarîk, mesafe ve hareket demektir. Yakınlaşma da uzaklaşma da bu yolun üzerinde; yönü tanıklar söyler."
+    - "Kalp meselesinde yol hâkim olmuş: durumu sabitleyen bir cevap yok, ama bir kıpırdanma kesin."
+    - "Aşk sorusunda Tarîk, iki kişinin aynı yolda mı yoksa ayrı yollarda mı yürüdüğünü sorar; cevap haneye bakar."
+  is:
+    - "İş ve kariyerde Tarîk hâkimi değişiklik getirir: görev yeri, proje ya da iş değişir, akış başka bir mecraya kayar."
+    - "Kariyer sorusunda yol hâkimse, mevcut düzen uzun sürmez. Bu kötü değil, ama yerleşik olanı sevenler için yorucu."
+    - "İşte Tarîk: taşınma, seyahat, görevde geçiş. Durağan bir sonuç bekleyen hayal kırıklığına uğrar; hareket isteyen sevinir."
+    - "Tarîk iş sorusunda 'gidilecek yol' demektir; bazen yeni bir sözleşme, bazen bir şehir değişikliği."
+  para:
+    - "Para konusunda Tarîk hâkimi, paranın akışta olduğunu söyler: girer ve çıkar, birikmekten çok dolaşır."
+    - "Maddi soruda yol hâkimse, gelir sabit değil hareketlidir. Yolla, seyahatle, taşımayla ilgili kazanç mümkündür."
+    - "Tarîk parayı tutmaz, taşır. Birikim arayan bu hükümde sabit bir liman bulamaz."
+    - "Kazanç sorusunda Tarîk: değişen koşullar, hareketli gelir, ve belki bir yolculuğun getirdiği fırsat."
+  yolculuk:
+    - "Yolculuk sorusunda Tarîk hâkimi en açık cevaptır: yol var, gidiş var. Şekil, adıyla konuşuyor."
+    - "Tarîk yolculuğun şeklidir; hâkim olduğunda yolun açık ve hareketin kaçınılmaz olduğunu söyler."
+    - "Gidiş sorusuna yol hâkimi cevap vermiş: hareket olacak. Kolaylığı ya da zorluğu tanıklardan okunur."
+    - "Seyahat ve taşınma konusunda Tarîk, yola çıkılacağının en kuvvetli işaretidir."
+  sinav:
+    - "Sınav sorusunda Tarîk hâkimi bir geçiş anlatır: sınav bir basamaktır, ardından yeni bir yol başlar."
+    - "Tarîk sınavda tek başına 'kesin geçer' demez; 'bu bir eşik, yürümeye devam edeceksin' der. Başarı işareti hanelerde aranır."
+    - "İlimde yol hâkimse, öğrenme süreci devam ediyor demektir; sınav bir durak, son değil."
+    - "Sınav için Tarîk: bir aşamadan diğerine geçiş, belki yer ya da program değişikliği."
+  saglik:
+    - "Sağlık sorusunda Tarîk hâkimi hareketi anlatır: durum değişiyor, iyileşme ya da geçiş süreci işliyor."
+    - "Tarîk sağlıkta 'akış' demektir; sabitlenmiş bir tablo yok, geçici ve değişken bir dönem var."
+    - "Beden sorusunda yol hâkim olmuş: dinlenmek kadar hareket de iyi gelir, ama yönü hekim belirler."
+    - "Sağlıkla ilgili Tarîk, bir evreden çıkışı gösterir; tanıklar bunun hangi yöne olduğunu söyler."
+  aile:
+    - "Aile sorusunda Tarîk hâkimi bir hareket getirir: taşınma, bir yakının yolculuğu ya da evdeki düzenin değişmesi."
+    - "Ev ve aile için yol hâkimse, yuva bir geçiş yaşıyor; kimse aynı yerde durmuyor."
+    - "Tarîk aile konusunda ayrılık değil, mesafe anlatır: herkes kendi yoluna, ama bağ kopmadan."
+    - "Aile sorusunda Tarîk: evde bir değişim, belki bir gidiş ya da geliş."
+  kayip:
+    - "Kayıp eşya sorusunda Tarîk hâkimi, şeyin yerinden oynadığını söyler: yolda, taşınırken ya da bir araçta kalmış olabilir."
+    - "Kaybolan şey için yol hâkimse, nesne hareket hâlindedir; aranacak yer bir güzergâhtır, bir dolap değil."
+    - "Tarîk kayıpta 'geçit' anlatır: kapı önleri, koridorlar, yol kenarları, araç içleri."
+    - "Kayıp sorusunda Tarîk: eşya hâlâ dolaşımda; bulunması hareketle, sorup soruşturmakla mümkün."
+tanik_sag:
+  - "Sağ tanık Tarîk: geçmiş bir yolculuk, bir geçiş ya da süregelen bir değişim bu soruyu doğurmuş."
+  - "Sağ tanıkta yol var; bu işe bir hareketle, bir taşınmayla ya da bir ayrılışla gelinmiş."
+  - "Geçmişi anlatan tanıkta Tarîk: soranın tarafı hareketli, köksüz ve değişken."
+  - "Sağ tanık olarak Tarîk, arkada bırakılan bir yolu gösterir; sorunun kaynağı bir gidiş."
+tanik_sol:
+  - "Sol tanık Tarîk: önünde bir yol var; sonuç bir hareketle, bir gidişle ya da bir taşınmayla gelecek."
+  - "Geleceği anlatan tanıkta yol var; iş yerinde durmayacak, akacak."
+  - "Sol tanıkta Tarîk, sonucun bir yolculukla ya da bir değişimle şekilleneceğini söyler."
+  - "Sol tanık olarak Tarîk: ilerisi hareketli; sabit kalmak isteyen için yorucu, yenilik isteyen için ferah."
+uzlastirici:
+  - "Uzlaştırıcı Tarîk: uzun vadede her şey akışta kalır; bu iş kalıcı bir durak değil, bir yol olur."
+  - "Son söz olarak yol: mesele kapanmaz, dönüşerek devam eder."
+  - "Uzlaştırıcıda Tarîk, hikâyenin sonunun yeni bir başlangıca açıldığını söyler."
+  - "Uzun vadede yol: bugün verilen karar yarın başka bir yola bağlanır."
+ogut:
+  - "Yürümeye devam et, ama her durakta yönü kontrol et."
+  - "Bu dönemde köklenmeye çalışma; hafif seyahat et."
+  - "Değişimi durdurmaya çalışmak yerine ona eşlik et."
+  - "Yol uzunsa adımı küçük tut; varmak değil yürümek önemli."
