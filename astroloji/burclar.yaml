@@ -1,0 +1,244 @@
+kaynak: "Esoterica astroloji kütüphanesi; metin özgün"
+lang: tr
+# Her burç için: portre (genel), gunes (öz), ay (duygu), yukselen (görünüş, yaklaşım), mc (meslek yönü), temalar
+burclar:
+  koc:
+    temalar: { cesaret: 3, baslangic: 3, hiz: 2, bagimsizlik: 2, ofke: 1 }
+    portre:
+      - "Koç, zodyakın ilk kıvılcımıdır: düşünmeden önce davranan, ilk adımı atan, kapıyı ilk çalan."
+      - "Koç enerjisi saf başlangıçtır; sabırdan çok cesaret, plandan çok hamle."
+    gunes:
+      - "Güneş'in Koç'ta: özün bir öncünün özü. Kendini en çok bir şeyi başlatırken, bir engeli göğüslerken canlı hissedersin. Beklemek sana ağır gelir; harekete geçmek nefes almak gibidir."
+      - "Koç Güneşi, hayatı bir meydan okuma olarak yaşar. Rekabet seni korkutmaz, uyandırır. En büyük gücün dürüst ve dolaysız olman; en büyük dersin, başladığın şeyi bitirmeyi öğrenmek."
+      - "Koç'taki Güneş, kimliğini cesaret üzerine kurar. Başkalarının izninden çok kendi sezgine güvenirsin. Öfken çabuk parlar ama kin tutmaz; fırtına geçer, gökyüzü açılır."
+    ay:
+      - "Ay'ın Koç'ta: duyguların ani ve yoğun. Bir şey canını sıktığında hemen gösterirsin, sonra çabucak unutursun. İçsel huzurun hareketle gelir; durgunluk seni huzursuz eder."
+      - "Koç Ayı, duygusal ihtiyacını bağımsızlıkta bulur. Korunmaktan çok güvenilmek istersin. Sabırsızlık, duygusal hayatının hem motoru hem de tuzağı."
+      - "Ay Koç'taysa üzüntüyü bile öfke kılığında yaşayabilirsin. Kendini rahatlatmanın en iyi yolu bedeni çalıştırmak: yürümek, koşmak, bir şeyi yapıp bitirmek."
+    yukselen:
+      - "Yükselenin Koç: dünyaya doğrudan, hızlı ve enerjik bir yüzle çıkıyorsun. İlk izlenimde cesur ve açık sözlü görünürsün; insanlar seni bir şeyi başlatacak kişi olarak görür."
+      - "Koç yükseleni, hayata bir sprint gibi yaklaşır. Yeni durumlara atlamaktan çekinmezsin. Bedenin hareket ister; enerjini harcamadığında huzursuzlanırsın."
+      - "Yükselen Koç olan kişi bir odaya girdiğinde fark edilir: hızlı adımlar, net bir bakış. Bu doğallık güven verir; ama sabırsızlık zaman zaman kaba algılanabilir."
+    mc:
+      - "MC Koç'ta: kariyerde öncü olmak, kendi işini kurmak, ilk olmak istersin. Rekabetli, hızlı ve bağımsız alanlar sana iyi gelir."
+      - "Tepe noktan Koç'ta; toplum içinde cesaretinle tanınmak istersin. Liderlik, girişimcilik, spor ya da acil müdahale gerektiren işler bu enerjiye uyar."
+  boga:
+    temalar: { istikrar: 3, bereket: 3, sabir: 2, haz: 2, inat: 1 }
+    portre:
+      - "Boğa, toprağın sabrıdır: yavaş, sağlam ve kalıcı. Ne ekerse onu biçer, aceleyi sevmez."
+      - "Boğa enerjisi bedenin, duyuların ve sahip olunan şeylerin değerini bilir."
+    gunes:
+      - "Güneş'in Boğa'da: özün sağlam ve kararlı. Bir şeye başladığında acele etmez ama bırakmazsın. Güzel olanı, lezzetli olanı, kalıcı olanı seversin."
+      - "Boğa Güneşi, güvenlik üzerine kurulur. Kendini en iyi, emek verip sonuç aldığında hissedersin. Seni yerinden oynatmak zordur; bu bazen inat, çoğu zaman dayanıklılıktır."
+      - "Boğa'daki Güneş, hayatın tadını çıkarmayı bilir. Doğa, müzik, iyi yemek, dokunulan şeyler senin dilin. Değişime yavaş uyum sağlarsın ama uyum sağladığında köklü olur."
+    ay:
+      - "Ay'ın Boğa'da: Ay burada yüceltilir. Duyguların sakin ve sabit; ani dalgalanmalar seni pek sallamaz. Huzurunu tanıdık yerlerde, rahat bir yatakta, sevdiğin bir yemekte bulursun."
+      - "Boğa Ayı, duygusal güvenliği somut şeylerle kurar: düzenli bir ev, birikim, sadık insanlar. Sevdiğin şeyi kolay bırakmazsın."
+      - "Ay Boğa'daysa üzüntünü bedeninle yaşarsın; sarılmak, dinlenmek, doğada vakit geçirmek seni toparlar. Kıskançlık ve sahiplenme, gözden kaçmaması gereken gölgeler."
+    yukselen:
+      - "Yükselenin Boğa: dünyaya sakin, güven veren ve sıcak bir yüzle çıkıyorsun. Acele etmeyen tavrın insanlara huzur verir."
+      - "Boğa yükseleni, yeni bir duruma önce bakarak, tartarak girer. Kararını verdiğinde ise sarsılmaz. Bedenin ve görünüşün senin için önemlidir; kendine iyi bakarsın."
+      - "Yükselen Boğa olan kişi kalıcı bir izlenim bırakır: sesi, duruşu, sakinliği. Değişime direnç gösterebilirsin, ama bu direnç çoğu zaman seni korur."
+    mc:
+      - "MC Boğa'da: kariyerde istikrar, somut sonuç ve maddi güvence istersin. Finans, tasarım, gıda, toprak, sanat ve el emeği alanları uyar."
+      - "Tepe noktan Boğa'da; toplum içinde güvenilirliğinle tanınmak istersin. Yavaş yükselirsin ama düşmezsin."
+  ikizler:
+    temalar: { iletisim: 3, merak: 3, hareket: 2, coklu: 2, daginiklik: 1 }
+    portre:
+      - "İkizler, havanın merakıdır: soran, bağlayan, konuşan, hep bir sonraki fikre koşan."
+      - "İkizler enerjisi bilgiyi dolaştırır; kelimeler, haberler ve insanlar arasında köprü kurar."
+    gunes:
+      - "Güneş'in İkizler'de: özün meraklı ve hareketli. Öğrenmek, konuşmak, yeni insanlarla tanışmak seni canlandırır. Tek bir şeye uzun süre odaklanmak zor gelebilir; çünkü dünya çok ilginç."
+      - "İkizler Güneşi, zekâsıyla parlar. Hızlı düşünür, hızlı uyum sağlarsın. Esprin keskin, sohbetin canlıdır. En büyük dersin, dağılmadan derinleşmek."
+      - "İkizler'deki Güneş iki yönlüdür: bir yanın sosyal, öteki yanın gözlemci. Bu çelişki değil zenginlik; aynı anda birçok dünyada yaşayabilirsin."
+    ay:
+      - "Ay'ın İkizler'de: duygularını konuşarak anlarsın. Bir şey canını sıktığında önce onu adlandırman gerekir. Zihin sustuğunda kalp de rahatlar."
+      - "İkizler Ayı, duygusal ihtiyacını iletişimde bulur. Seni dinleyen, seninle konuşan biri olduğunda güvende hissedersin. Ruh hâlin hızlı değişebilir."
+      - "Ay İkizler'deyse duygularını bazen mantıkla örtersin. Yazmak, konuşmak, okumak senin için bir tür terapidir; ama hissetmeye de alan bırakmak gerekir."
+    yukselen:
+      - "Yükselenin İkizler: dünyaya meraklı, konuşkan ve genç ruhlu bir yüzle çıkıyorsun. İnsanlar seni zeki ve eğlenceli bulur."
+      - "İkizler yükseleni, yeni durumlara soru sorarak girer. Bilgi toplar, bağlantı kurar, çabuk uyum sağlarsın. Ellerin ve sesin ifadeli olur."
+      - "Yükselen İkizler olan kişi aynı anda birkaç şeyle ilgilenir. Bu canlılık çekicidir; ama bazen yüzeysel algılanma riski taşır."
+    mc:
+      - "MC İkizler'de: kariyerde iletişim, yazı, öğretim, satış, medya ya da ulaşım alanları uyar. Tek bir işten çok birden fazla rolü seversin."
+      - "Tepe noktan İkizler'de; toplum içinde sözünle, fikirlerinle tanınmak istersin. Değişken bir kariyer yolu sana yabancı değil."
+  yengec:
+    temalar: { koruma: 3, aile: 3, duygu: 3, hafiza: 2, alinganlik: 1 }
+    portre:
+      - "Yengeç, suyun şefkatidir: koruyan, besleyen, hatırlayan. Dışı sert, içi yumuşak."
+      - "Yengeç enerjisi yuvayı, aileyi ve geçmişi kucaklar."
+    gunes:
+      - "Güneş'in Yengeç'te: özün koruyucu ve sezgisel. Sevdiklerini beslemek, onlara bir yuva sunmak sana anlam verir. Hassassın, ama bu hassasiyet aynı zamanda gücün."
+      - "Yengeç Güneşi, kimliğini aidiyet üzerine kurar. Geçmişine, ailene, köklerine bağlısın. İncindiğinde kabuğuna çekilirsin; güvendiğinde ise sonsuz bir sadakat gösterirsin."
+      - "Yengeç'teki Güneş, duygusal zekâsıyla parlar. İnsanların ne hissettiğini söylemeden anlarsın. En büyük dersin, başkalarını korurken kendini ihmal etmemek."
+    ay:
+      - "Ay'ın Yengeç'te: Ay burada kendi evinde. Duyguların derin, sezgilerin güçlü. Evin, ailen ve yakın çevren duygusal dengenin temeli."
+      - "Yengeç Ayı, sevgisini bakım yoluyla gösterir: yemek yapmak, dinlemek, yanında olmak. Kendi ihtiyaçlarını söylemekte zorlanabilirsin."
+      - "Ay Yengeç'teyse ruh hâlin Ay gibi dolup boşalır. Bu bir zayıflık değil, ritim. Kendine güvenli bir köşe yarattığında her şey yerine oturur."
+    yukselen:
+      - "Yükselenin Yengeç: dünyaya sıcak, nazik ve biraz çekingen bir yüzle çıkıyorsun. İnsanlar sana kolayca açılır."
+      - "Yengeç yükseleni, yeni bir ortama önce kenardan bakarak girer. Güvendiğinde açılır. Yüzün duygularını kolayca ele verir."
+      - "Yükselen Yengeç olan kişi koruyucu bir hava taşır; insanlar seni anne ya da baba figürü gibi görebilir. Kendi sınırlarını korumayı öğrenmek önemli."
+    mc:
+      - "MC Yengeç'te: kariyerde insanlara bakım veren, besleyen ya da koruyan işler uyar: sağlık, eğitim, gıda, emlak, aile işletmeleri."
+      - "Tepe noktan Yengeç'te; toplum içinde güven veren, sahiplenen biri olarak tanınmak istersin. İş yerin bir aile gibi olabilir."
+  aslan:
+    temalar: { yaraticilik: 3, ozguven: 3, comertlik: 2, sahne: 2, gurur: 1 }
+    portre:
+      - "Aslan, ateşin kalbidir: parlayan, ısıtan, cömertçe veren. Görülmek ister, çünkü ışığı paylaşmak ister."
+      - "Aslan enerjisi yaratıcılık, oyun ve onurdur."
+    gunes:
+      - "Güneş'in Aslan'da: Güneş burada kendi evinde. Özün sıcak, cömert ve yaratıcı. Bir sahnede, bir projede, sevdiklerinin gözünde parladığında kendini tam hissedersin."
+      - "Aslan Güneşi, kalpten yaşar. Sevgin büyük, sadakatin güçlü. Takdir görmek senin için yakıttır; görülmediğinde solgunlaşırsın."
+      - "Aslan'daki Güneş, liderliğini cömertlikle gösterir. Gurur hem tacın hem yükün; en büyük dersin, alkış olmadan da değerli olduğunu bilmek."
+    ay:
+      - "Ay'ın Aslan'da: duygularını büyük ve sıcak yaşarsın. Sevildiğini hissetmek, takdir edilmek duygusal güvenliğin temeli."
+      - "Aslan Ayı, kırıldığında bile başını dik tutar. Sevdiklerine cömertsin; karşılığında sadakat ve ilgi beklersin."
+      - "Ay Aslan'daysa yaratıcı bir uğraş ruhunu besler: sahne, sanat, oyun, çocuklarla vakit. İçindeki çocuğu ihmal etme."
+    yukselen:
+      - "Yükselenin Aslan: dünyaya parlak, kendinden emin ve sıcak bir yüzle çıkıyorsun. Bir odaya girdiğinde fark edilirsin."
+      - "Aslan yükseleni, yeni durumlara özgüvenle girer. Saçın, duruşun, gülüşün dikkat çeker. İnsanlar seni doğal bir lider olarak görür."
+      - "Yükselen Aslan olan kişi sahneyi sever ama içten içe onay arar. Gerçek gücün, gösterişten değil kalbinin sıcaklığından gelir."
+    mc:
+      - "MC Aslan'da: kariyerde görünür olmak, yaratıcılığını sergilemek istersin. Sanat, eğlence, yöneticilik, çocuklarla çalışma ve kendi markanı kurmak uyar."
+      - "Tepe noktan Aslan'da; toplum içinde parlamak, iz bırakmak istersin. Takdir edilmediğin bir işte uzun süre kalamazsın."
+  basak:
+    temalar: { duzen: 3, hizmet: 3, analiz: 2, saglik: 2, elestiri: 1 }
+    portre:
+      - "Başak, toprağın özenidir: ayıklayan, düzenleyen, iyileştiren. Ayrıntıda tanrıyı görür."
+      - "Başak enerjisi işe yarar olmak, düzeltmek ve hizmet etmektir."
+    gunes:
+      - "Güneş'in Başak'ta: özün özenli ve çalışkan. Bir şeyi daha iyi, daha düzgün, daha işe yarar hâle getirmek sana anlam verir. Ayrıntıları başkalarından önce görürsün."
+      - "Başak Güneşi, alçakgönüllü bir güçtür. Göze çarpmadan çok iş yaparsın. Mükemmeliyetçilik hem ustalığın hem de kendine karşı sertliğin kaynağı."
+      - "Başak'taki Güneş, sağlığa, düzene ve günlük rutine önem verir. Faydalı olduğunda huzurlusun; en büyük dersin, kusurlu olanı da sevmeyi öğrenmek."
+    ay:
+      - "Ay'ın Başak'ta: duygularını düzenle yönetirsin. Ortalık toparlanınca içi de toparlanır. Endişe, duygusal hayatının tanıdık misafiri olabilir."
+      - "Başak Ayı, sevgisini hizmetle gösterir: bir işi halletmek, birine yardım etmek. Kendi duygularını analiz etmek yerine bazen sadece hissetmen gerekir."
+      - "Ay Başak'taysa beden ve ruh birbirine sıkı bağlı. Düzenli uyku, sade yemek ve küçük rutinler duygusal dengenin ilacı."
+    yukselen:
+      - "Yükselenin Başak: dünyaya düzenli, dikkatli ve ölçülü bir yüzle çıkıyorsun. İnsanlar seni güvenilir ve yetenekli bulur."
+      - "Başak yükseleni, yeni bir durumu önce inceler, sonra katılır. Temiz ve sade bir görünüşü seversin."
+      - "Yükselen Başak olan kişi yardımsever görünür; ama sınırsız yardım seni tüketebilir. Hayır demeyi öğrenmek önemli."
+    mc:
+      - "MC Başak'ta: kariyerde ustalık, titizlik ve hizmet ön planda. Sağlık, araştırma, editörlük, muhasebe, zanaat ve analiz alanları uyar."
+      - "Tepe noktan Başak'ta; toplum içinde işini iyi yapan biri olarak tanınmak istersin. Yavaş ama sağlam bir itibar kurarsın."
+  terazi:
+    temalar: { uyum: 3, iliski: 3, estetik: 2, adalet: 2, kararsizlik: 1 }
+    portre:
+      - "Terazi, havanın dengesidir: tartan, uzlaştıran, güzelleştiren. Hayatı ilişkiler üzerinden anlar."
+      - "Terazi enerjisi adaleti, zarafeti ve ortaklığı arar."
+    gunes:
+      - "Güneş'in Terazi'de: özün uyum arayan ve zarif. İnsanlar arasında köprü kurmak, adil olmak, güzel bir ortam yaratmak sana anlam verir."
+      - "Terazi Güneşi, kendini ilişkiler aracılığıyla tanır. Bir ortakla, bir dostla, bir karşı tarafla düşünmek sana iyi gelir. Kararsızlık, her tarafı görebilmenin bedeli."
+      - "Terazi'deki Güneş diplomatik ve zariftir. Çatışmayı sevmezsin; ama gerektiğinde adalet için sesini yükseltebilirsin. En büyük dersin, başkalarını memnun ederken kendini kaybetmemek."
+    ay:
+      - "Ay'ın Terazi'de: duygusal dengeni ilişkilerde bulursun. Yalnızlık sana ağır gelebilir; huzurlu bir ilişki ruhunu dinlendirir."
+      - "Terazi Ayı, çatışmadan kaçınmak için duygularını yumuşatabilir. Güzel bir ortam, müzik ve sanat seni sakinleştirir."
+      - "Ay Terazi'deyse kendi ihtiyacını söylemek yerine karşındakinin ihtiyacını tahmin edersin. Gerçek uyum, iki tarafın da konuşabildiği yerde başlar."
+    yukselen:
+      - "Yükselenin Terazi: dünyaya zarif, nazik ve çekici bir yüzle çıkıyorsun. İnsanlar seninle kolay iletişim kurar."
+      - "Terazi yükseleni, yeni bir ortama gülümseyerek girer. Uyum sağlamakta ustasın; görünüşüne ve çevrenin estetiğine özen gösterirsin."
+      - "Yükselen Terazi olan kişi herkesle iyi geçinir gibi görünür; ama bu bazen kendi fikrini saklamak anlamına gelebilir."
+    mc:
+      - "MC Terazi'de: kariyerde ortaklık, hukuk, diplomasi, tasarım, moda, danışmanlık ve arabuluculuk alanları uyar."
+      - "Tepe noktan Terazi'de; toplum içinde adil ve zarif biri olarak tanınmak istersin. İş birliğiyle yükselirsin."
+  akrep:
+    temalar: { derinlik: 3, donusum: 3, tutku: 2, gizem: 2, kiskanclik: 1 }
+    portre:
+      - "Akrep, suyun derinliğidir: yüzeyde durgun, dipte yoğun. Saklı olanı görür, dönüştürür."
+      - "Akrep enerjisi tutku, sadakat ve yeniden doğuşla ilgilidir."
+    gunes:
+      - "Güneş'in Akrep'te: özün yoğun ve derin. Yüzeysellik seni sıkar; gerçeğin altına inmek istersin. Bir şeye bağlandığında tüm varlığınla bağlanırsın."
+      - "Akrep Güneşi, krizlerden güçlenerek çıkar. Kaybetmenin, bırakmanın, yeniden başlamanın ne demek olduğunu bilirsin. Sezgin keskin, sadakatin derindir."
+      - "Akrep'teki Güneş kontrolü sever; çünkü incinmenin bedelini bilir. En büyük dersin, güvenmeyi ve bırakmayı aynı anda öğrenmek."
+    ay:
+      - "Ay'ın Akrep'te: Ay burada düşüşte sayılır; duygular yoğun, derin ve saklıdır. Kolay açılmazsın; açıldığında ise tamamen açılırsın."
+      - "Akrep Ayı, duygusal hayatında yarım şeyleri sevmez. Ya hep ya hiç. Kırıldığında unutmakta zorlanabilirsin."
+      - "Ay Akrep'teyse duygularını dönüştürme gücün büyük. Derin sohbetler, yalnız kalma, terapi ya da yaratıcı bir uğraş içindeki fırtınayı anlama dönüştürür."
+    yukselen:
+      - "Yükselenin Akrep: dünyaya yoğun, gizemli ve etkileyici bir yüzle çıkıyorsun. Bakışın derin; insanlar seni kolay okuyamaz."
+      - "Akrep yükseleni, yeni bir ortama dikkatle girer; önce gözlemler, kimin ne olduğunu anlar. Güvenini kazanmak zaman alır."
+      - "Yükselen Akrep olan kişi manyetik bir çekim taşır. Mahremiyetini korursun; bu, insanlara gizemli gelir."
+    mc:
+      - "MC Akrep'te: kariyerde araştırma, psikoloji, finans, kriz yönetimi, tıp ve dönüşüm gerektiren işler uyar."
+      - "Tepe noktan Akrep'te; toplum içinde güçlü, derin ve dönüştürücü biri olarak tanınmak istersin."
+  yay:
+    temalar: { ozgurluk: 3, anlam: 3, iyimserlik: 2, yolculuk: 2, abartma: 1 }
+    portre:
+      - "Yay, ateşin ufkudur: uzağa bakan, anlam arayan, sınırları aşan."
+      - "Yay enerjisi felsefe, yolculuk ve inançla ilgilidir."
+    gunes:
+      - "Güneş'in Yay'da: özün özgür ve iyimser. Yeni yerler, yeni fikirler, büyük sorular seni canlandırır. Kapalı alanlarda uzun süre kalamazsın."
+      - "Yay Güneşi, hayatı bir yolculuk olarak görür. Dürüstlüğün bazen fazla doğrudan olabilir; ama niyetin hep iyi. Öğrenmek ve öğretmek doğanda var."
+      - "Yay'daki Güneş, anlam bulduğunda parlar. İnanç, felsefe ya da bir dava seni ayağa kaldırır. En büyük dersin, vaat ettiğin kadarını yapmak."
+    ay:
+      - "Ay'ın Yay'da: duygusal ihtiyacın özgürlük ve hareket. Sıkıştığını hissettiğinde huzursuzlanırsın; yol, doğa ve geniş alanlar seni rahatlatır."
+      - "Yay Ayı, üzüntüyü bile felsefeyle karşılar. İyimserliğin seni ayakta tutar; ama bazen hissetmek yerine kaçmak da olabilir."
+      - "Ay Yay'daysa kahkaha, macera ve yeni deneyimler ruhunu besler. Seni kısıtlamadan seven insanlarla huzur bulursun."
+    yukselen:
+      - "Yükselenin Yay: dünyaya neşeli, açık ve maceracı bir yüzle çıkıyorsun. İnsanlar seninle zaman geçirmekten keyif alır."
+      - "Yay yükseleni, yeni durumlara merak ve coşkuyla girer. Sınırlar ve kurallar seni sıkar."
+      - "Yükselen Yay olan kişi gerçekleri olduğu gibi söyler; bu dürüstlük çoğu zaman sevilir, bazen de kırıcı olabilir."
+    mc:
+      - "MC Yay'da: kariyerde eğitim, yayıncılık, hukuk, turizm, yurt dışı bağlantılı işler ve inanç alanları uyar."
+      - "Tepe noktan Yay'da; toplum içinde bilge, ilham veren biri olarak tanınmak istersin. Uzak yerler kariyerinde rol oynayabilir."
+  oglak:
+    temalar: { sorumluluk: 3, hedef: 3, disiplin: 2, sabir: 2, katilik: 1 }
+    portre:
+      - "Oğlak, toprağın dağıdır: yavaş ama zirveye tırmanan, sabırlı, hesaplı, kararlı."
+      - "Oğlak enerjisi sorumluluk, yapı ve uzun vadeli başarıdır."
+    gunes:
+      - "Güneş'in Oğlak'ta: özün sorumlu ve hedef odaklı. Bir yapı kurmak, bir zirveye tırmanmak sana anlam verir. Zamanla yükselen bir yıldızsın."
+      - "Oğlak Güneşi, ciddiyetiyle güven verir. Gençken yaşlı, yaşlandıkça genç olur derler. Başarıyı emekle kazanırsın ve kazandığını korursun."
+      - "Oğlak'taki Güneş disiplinlidir; ama bu disiplin bazen duygularını bastırmana yol açar. En büyük dersin, dinlenmenin de bir başarı olduğunu bilmek."
+    ay:
+      - "Ay'ın Oğlak'ta: Ay burada zararda sayılır; duygularını kontrol altında tutarsın. İçin sıcak olsa da dışın soğuk görünebilir."
+      - "Oğlak Ayı, güvenliği başarıyla ve düzenle kurar. Bir işi halletmek seni rahatlatır; ama duygular her zaman 'halledilecek' bir iş değildir."
+      - "Ay Oğlak'taysa erken yaşta sorumluluk almış olabilirsin. Kendine şefkat göstermeyi, yardım istemeyi öğrenmek önemli."
+    yukselen:
+      - "Yükselenin Oğlak: dünyaya ciddi, güvenilir ve olgun bir yüzle çıkıyorsun. İnsanlar sana sorumluluk vermekte tereddüt etmez."
+      - "Oğlak yükseleni, yeni bir duruma temkinle girer; önce kurallara, yapıya bakar. Yaşla birlikte rahatlarsın."
+      - "Yükselen Oğlak olan kişi mesafeli görünebilir; ama bu mesafe çoğu zaman bir koruma. Güven kazandığında sadık bir dostsun."
+    mc:
+      - "MC Oğlak'ta: kariyerde yönetim, devlet, mühendislik, inşaat, finans ve kurumsal liderlik uyar. Uzun vadede yüksek bir konuma tırmanırsın."
+      - "Tepe noktan Oğlak'ta; toplum içinde saygın ve otorite sahibi biri olarak tanınmak istersin."
+  kova:
+    temalar: { ozgunluk: 3, toplum: 3, yenilik: 2, bagimsizlik: 2, mesafe: 1 }
+    portre:
+      - "Kova, havanın geleceğidir: farklı düşünen, kuralları sorgulayan, topluluk için çalışan."
+      - "Kova enerjisi özgünlük, dostluk ve yeniliktir."
+    gunes:
+      - "Güneş'in Kova'da: özün özgün ve bağımsız. Kalabalığın düşündüğünü düşünmezsin. Bir dava, bir topluluk, bir yenilik seni canlandırır."
+      - "Kova Güneşi, insanlığı sever ama tek tek insanlara mesafeli olabilir. Dostluk senin için aşk kadar önemli."
+      - "Kova'daki Güneş geleceği görür; bu bazen yalnız hissettirir. En büyük dersin, farklılığını savunurken bağ kurmaktan vazgeçmemek."
+    ay:
+      - "Ay'ın Kova'da: duygularına biraz uzaktan bakarsın. Mantık ve dostluk duygusal hayatının temeli."
+      - "Kova Ayı, özgürlüğüne düşkündür; boğucu ilgi seni uzaklaştırır. Kendi tuhaflıklarınla kabul edildiğinde huzur bulursun."
+      - "Ay Kova'daysa duyguları anlamak için onları düşünceye çevirirsin. Bazen sadece hissetmeye izin vermek gerekir."
+    yukselen:
+      - "Yükselenin Kova: dünyaya farklı, arkadaş canlısı ve biraz sıra dışı bir yüzle çıkıyorsun. İnsanlar seni ilginç bulur."
+      - "Kova yükseleni, yeni bir ortama kendi kurallarıyla girer. Kalıplara uymayan tarzın dikkat çeker."
+      - "Yükselen Kova olan kişi herkesle dost olur ama kolay yakınlaşmaz. Bu mesafe, özgürlüğünü korumanın yolu."
+    mc:
+      - "MC Kova'da: kariyerde teknoloji, bilim, sivil toplum, sosyal girişim, yenilikçi ve alışılmadık alanlar uyar."
+      - "Tepe noktan Kova'da; toplum içinde yenilikçi ve özgün biri olarak tanınmak istersin. Kariyer yolun beklenmedik dönemeçler yapabilir."
+  balik:
+    temalar: { sezgi: 3, merhamet: 3, hayal: 2, sanat: 2, kacis: 1 }
+    portre:
+      - "Balık, suyun okyanusudur: sınırsız, sezgisel, şefkatli. Her şeyin birbirine bağlı olduğunu hisseder."
+      - "Balık enerjisi rüya, sanat, merhamet ve teslimiyettir."
+    gunes:
+      - "Güneş'in Balık'ta: özün sezgisel ve şefkatli. Başkalarının acısını kendi acın gibi hissedersin. Sanat, müzik ve maneviyat sana evini hatırlatır."
+      - "Balık Güneşi, hayal gücüyle parlar. Sınırların bulanık; bu hem yaratıcılığın hem de kırılganlığın kaynağı."
+      - "Balık'taki Güneş akışa güvenir. En büyük dersin, kendini kaybetmeden başkalarına açılabilmek; sınır koymak sevgisizlik değildir."
+    ay:
+      - "Ay'ın Balık'ta: duyguların okyanus gibi; derin, değişken ve sınırsız. Ortamın havasını sünger gibi emersin."
+      - "Balık Ayı, merhametiyle sever. Yalnız kalma, müzik, su kenarı, uyku ve rüya ruhunu besler."
+      - "Ay Balık'taysa başkalarının duygularını kendininkinden ayırmak zor olabilir. Kendine 'bu benim mi, onun mu?' diye sormak iyi gelir."
+    yukselen:
+      - "Yükselenin Balık: dünyaya yumuşak, rüya gibi ve şefkatli bir yüzle çıkıyorsun. Gözlerin çok şey anlatır."
+      - "Balık yükseleni, yeni bir ortama sezgisiyle girer; havayı hemen hisseder. İnsanlar sana kolayca güvenir."
+      - "Yükselen Balık olan kişi bukalemun gibidir; çevresine uyum sağlar. Bu bazen kim olduğunu unutturabilir."
+    mc:
+      - "MC Balık'ta: kariyerde sanat, müzik, film, şifa, maneviyat, yardım kuruluşları ve deniz bağlantılı işler uyar."
+      - "Tepe noktan Balık'ta; toplum içinde ilham veren, iyileştiren biri olarak tanınmak istersin. Kariyer yolun zaman zaman bulanık görünebilir; sezgine güven."

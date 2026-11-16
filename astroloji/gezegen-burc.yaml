@@ -1,0 +1,254 @@
+kaynak: "Esoterica astroloji kütüphanesi; metin özgün"
+lang: tr
+# Güneş, Ay, Yükselen ve MC burclar.yaml'da. Burada diğer noktaların burçlardaki hâli.
+gezegenler:
+  merkur:
+    koc:
+      - "Merkür Koç'ta: hızlı düşünür, hızlı konuşursun. Fikrini dolandırmadan söylersin; tartışmadan kaçmazsın."
+      - "Zihnin bir kıvılcım gibi; kararını çabuk verir, sonra gerekçesini bulursun. Sabırla dinlemek geliştirilecek bir beceri."
+    boga:
+      - "Merkür Boğa'da: düşüncelerin yavaş ama sağlam. Bir fikri benimsediğinde kolay vazgeçmezsin."
+      - "Pratik ve somut düşünürsün; soyut tartışmalar yerine işe yarayan bilgiyi seçersin. Sesin ve sözlerin sakinleştirici."
+    ikizler:
+      - "Merkür İkizler'de, kendi evinde: zihnin parlak, meraklı ve çevik. Birkaç konuyu aynı anda takip edebilirsin."
+      - "Kelimelerle aran iyi; yazı, konuşma, dil öğrenme sana kolay gelir. Dağılmamak için not almak iyi bir dost."
+    yengec:
+      - "Merkür Yengeç'te: düşüncelerin duygularla yoğrulur. Hafızan güçlü; özellikle duygusal anıları unutmazsın."
+      - "Sezgiyle düşünürsün; mantığın bile kalbinden geçer. Sert eleştiri seni kolay incitebilir."
+    aslan:
+      - "Merkür Aslan'da: konuşman etkileyici ve kendinden emin. Hikâye anlatmayı, sahnede söz almayı seversin."
+      - "Fikirlerine sahip çıkarsın; bazen eleştiriyi kişisel algılayabilirsin. Yaratıcı yazıya yatkınsın."
+    basak:
+      - "Merkür Başak'ta, hem evinde hem yücelimde: analitik, titiz ve ayrıntıcı bir zihin. Hataları herkesten önce görürsün."
+      - "Düzenli düşünür, sistem kurarsın. Kendine karşı eleştirel sesin bazen fazla yüksek; ona da şefkat göster."
+    terazi:
+      - "Merkür Terazi'de: dengeli ve diplomatik düşünürsün. Her iki tarafı da görebilmek senin yeteneğin."
+      - "Konuşmanda zarafet var; kırıcı olmaktan kaçınırsın. Karar vermek, seçenekleri tartmak kadar kolay değil."
+    akrep:
+      - "Merkür Akrep'te: zihnin bir dedektif gibi; yüzeyin altını kazır, sırları sezersin."
+      - "Az konuşur, çok gözlemlersin. Sözlerin keskin olabilir; ama gerçeği söylemekten korkmazsın."
+    yay:
+      - "Merkür Yay'da, zararda: büyük resmi görürsün ama ayrıntı seni sıkar. Felsefe, inanç ve yabancı diller ilgini çeker."
+      - "Dürüst ve açık konuşursun; bazen fazla doğrudan. Söz verirken iyimserliğini dizginlemek iyi olur."
+    oglak:
+      - "Merkür Oğlak'ta: düşüncelerin yapılandırılmış ve hedef odaklı. Boş konuşmayı sevmezsin."
+      - "Planlı ve stratejik bir zihin; sözün güvenilir. Mizahın kuru ama yerinde."
+    kova:
+      - "Merkür Kova'da: özgün ve yenilikçi düşünürsün. Herkesin kabul ettiği fikirleri sorgularsın."
+      - "Zihnin geleceğe dönük; teknoloji, bilim ve toplumsal fikirler ilgini çeker. İnatçı olabileceğini unutma."
+    balik:
+      - "Merkür Balık'ta, zararda ve düşüşte: sezgisel ve hayal gücü kuvvetli bir zihin. Mantıktan çok imgelerle düşünürsün."
+      - "Şiirsel bir dilin var; ama ayrıntıları kaçırabilirsin. Önemli kararları yazıya dökmek sana iyi gelir."
+  venus:
+    koc:
+      - "Venüs Koç'ta, zararda: aşkta atak ve doğrudansın. Hoşlandığın kişiye ilk adımı sen atarsın."
+      - "Tutkun hızlı alevlenir; sıkıldığında da çabuk söner. Kovalamak, kavuşmaktan daha heyecanlı gelebilir."
+    boga:
+      - "Venüs Boğa'da, kendi evinde: aşkta sadık, duyusal ve sabırlısın. Dokunuş, güzel yemek ve konfor senin aşk dilin."
+      - "İlişkide güven ararsın; aceleyle bağlanmaz, bağlandığında kolay bırakmazsın. Güzel şeylere karşı zaafın var."
+    ikizler:
+      - "Venüs İkizler'de: aşkta zihinsel çekim her şeyden önce gelir. Seni güldüren, seninle konuşan birine çekilirsin."
+      - "Flörtöz ve oyuncusun; ilişkide çeşitlilik istersin. Sıkıcılık, aşkın en büyük düşmanı."
+    yengec:
+      - "Venüs Yengeç'te: aşkta koruyucu, şefkatli ve bağlısın. Sevdiğin kişiye bir yuva sunmak istersin."
+      - "Güvende hissettiğinde açılırsın; kırıldığında kabuğuna çekilirsin. Aile kurmak aşk hayatında önemli bir tema."
+    aslan:
+      - "Venüs Aslan'da: aşkta cömert, romantik ve gösterişlisin. Sevdiğini dünyaya göstermekten çekinmezsin."
+      - "Takdir edilmek ve hayranlık görmek istersin. Sadakatin güçlü; gururunu kırmamak gerek."
+    basak:
+      - "Venüs Başak'ta, düşüşte: aşkı küçük hizmetlerle gösterirsin; bir çay demlemek, bir işi halletmek."
+      - "İlişkide seçicisin; mükemmeli ararken gerçeği kaçırma. Sevgin sessiz ama güvenilir."
+    terazi:
+      - "Venüs Terazi'de, kendi evinde: aşkta zarif, romantik ve uyum arayansın. Ortaklık senin için hayati."
+      - "Güzellik, sanat ve nezaket aşk dilin. Çatışmadan kaçarken kendi isteklerini söylemeyi unutma."
+    akrep:
+      - "Venüs Akrep'te, zararda: aşkta yoğun, tutkulu ve derin. Yarım ilişkiler sana göre değil."
+      - "Güven senin için her şey; ihanete tahammülün yok. Kıskançlığı tutkudan ayırmak önemli bir ders."
+    yay:
+      - "Venüs Yay'da: aşkta özgürlük ve macera ararsın. Birlikte yolculuk eden, birlikte öğrenen bir ilişki seni mutlu eder."
+      - "Neşeli ve açık sözlüsün; ama bağlanma korkusu zaman zaman kapıyı aralık bırakmana yol açabilir."
+    oglak:
+      - "Venüs Oğlak'ta: aşkta ciddi, sadık ve uzun vadeli düşünürsün. Güven zamanla kurulur."
+      - "Duygularını göstermekte çekingen olabilirsin; ama sevgin sağlam bir yapı gibidir. Statü ve istikrar ilişkide önemli."
+    kova:
+      - "Venüs Kova'da: aşkta özgür ve sıra dışısın. Önce dostluk, sonra aşk."
+      - "Seni olduğun gibi kabul eden, alanına saygı duyan birine bağlanırsın. Fazla ilgi seni boğabilir."
+    balik:
+      - "Venüs Balık'ta, yücelimde: aşkta romantik, fedakâr ve sınırsız bir şefkat. Ruh eşi fikrine inanırsın."
+      - "Sevdiğin kişiyi idealleştirme eğilimin var; gerçeği görmek hayal kırıklığını önler. Sanatla aşk iç içe."
+  mars:
+    koc:
+      - "Mars Koç'ta, kendi evinde: enerjin yüksek, cesaretin büyük. Hızlı başlarsın; rekabet seni ateşler."
+      - "Öfken çabuk parlar, çabuk söner. Bedenini hareket ettirmek enerjini dengeler."
+    boga:
+      - "Mars Boğa'da, zararda: yavaş başlarsın ama durdurulamazsın. Dayanıklılığın büyük."
+      - "Öfken geç gelir ama geldiğinde sarsıcı olur. Somut hedefler için çalışırken en iyi hâlindesin."
+    ikizler:
+      - "Mars İkizler'de: enerjin zihinsel; tartışma, yazı, hareketli işler seni canlandırır."
+      - "Birkaç işi aynı anda yürütmeyi seversin; ama enerjin dağılabilir. Sözlerin silahın olabilir."
+    yengec:
+      - "Mars Yengeç'te, düşüşte: enerjin duygulara bağlı. Sevdiklerini korurken bir aslan kadar cesursun."
+      - "Öfkeni doğrudan göstermek yerine içine atabilirsin; bu, pasif tepkilere dönüşebilir. Duygunu adlandırmak ilk adım."
+    aslan:
+      - "Mars Aslan'da: enerjin gösterişli ve cömert. Yaratıcı projelerde ve liderlikte parlarsın."
+      - "Gururun incindiğinde öfken büyür. Sahnede, sporda ya da sanatta enerjini yönlendirebilirsin."
+    basak:
+      - "Mars Başak'ta: enerjin titiz ve verimli. Ayrıntılı, el becerisi isteyen işlerde ustasın."
+      - "Öfkeni eleştiri olarak gösterebilirsin. Çalışmak seni sakinleştirir; ama aşırı çalışma da yorar."
+    terazi:
+      - "Mars Terazi'de, zararda: enerjin ilişkiler üzerinden akar. Başkalarıyla birlikte hareket ettiğinde daha güçlüsün."
+      - "Doğrudan çatışmadan kaçınırsın; ama adaletsizlik karşısında sesini yükseltirsin. Kararsızlık eylemi geciktirebilir."
+    akrep:
+      - "Mars Akrep'te, kendi evinde: enerjin yoğun, odaklı ve dayanıklı. Bir hedefe kilitlendiğinde vazgeçmezsin."
+      - "Stratejik düşünürsün; gücünü göstermezsin, kullanırsın. Kin tutmak, enerjinin ağır yükü olabilir."
+    yay:
+      - "Mars Yay'da: enerjin macera ve anlam peşinde. Bir dava için savaşabilirsin."
+      - "Yolculuk, spor ve açık hava enerjini besler. Sabırsızlık ve abartı, dikkat edilecek iki nokta."
+    oglak:
+      - "Mars Oğlak'ta, yücelimde: enerjin disiplinli ve hedef odaklı. Uzun vadeli planlarda ustasın."
+      - "Çalışkanlığın ve dayanıklılığın büyük; zirveye adım adım tırmanırsın. Duygusal öfkeyi soğukkanlılıkla yönetirsin."
+    kova:
+      - "Mars Kova'da: enerjin özgün ve bağımsız. Toplumsal davalar, yenilikler ve grup çalışmaları seni harekete geçirir."
+      - "Kurallara karşı çıkmaktan çekinmezsin. Öfken soğuk ve mesafeli olabilir."
+    balik:
+      - "Mars Balık'ta: enerjin akışkan ve sezgisel. Sanatta, yardımda ve ilhamla hareket ettiğinde güçlüsün."
+      - "Doğrudan çatışma sana göre değil; enerjin bazen dağılır. Bedenini suyla, müzikle, dansla canlandırabilirsin."
+  jupiter:
+    koc:
+      - "Jüpiter Koç'ta: şansın cesaretten gelir. Yeni başlangıçlarda ve ilk adımlarda bereket var."
+      - "İnancın girişimci; kendine güvenmek kapıları açar. Aşırı özgüven ise bazen düşünmeden atılmana yol açar."
+    boga:
+      - "Jüpiter Boğa'da: bolluğun sabır ve emekle gelir. Maddi güvenlik ve keyif büyüme alanların."
+      - "İyi yaşamayı bilirsin; ama aşırılık bedeninde ve bütçende iz bırakabilir."
+    ikizler:
+      - "Jüpiter İkizler'de, zararda: şansın bilgiden, iletişimden ve bağlantılardan gelir."
+      - "Merakın sınırsız; ama her şeyi bilmek isterken derinlik kaybolabilir. Öğretme yeteneğin var."
+    yengec:
+      - "Jüpiter Yengeç'te, yücelimde: şansın aile, yuva ve duygusal bağlardan gelir. Cömert ve koruyucusun."
+      - "Ev, aile ve köklerle ilgili konularda bereket var. Şefkatin insanları sana çeker."
+    aslan:
+      - "Jüpiter Aslan'da: şansın yaratıcılık ve özgüvenden gelir. Cömert, sıcak ve parlaksın."
+      - "Sahnede, sanatta ve çocuklarla ilgili alanlarda büyürsün. Gösteriş ise dikkat edilmesi gereken bir gölge."
+    basak:
+      - "Jüpiter Başak'ta, zararda: şansın titiz çalışmadan ve hizmetten gelir. Küçük işler büyük kapılar açar."
+      - "Ayrıntıya fazla takılmak büyük resmi kaçırtabilir. Sağlık ve iş düzeni büyüme alanların."
+    terazi:
+      - "Jüpiter Terazi'de: şansın ortaklıklardan, ilişkilerden ve diplomasiden gelir."
+      - "Adalet duygun güçlü; insanları bir araya getirmekte ustasın. Kararsızlık fırsatları geciktirebilir."
+    akrep:
+      - "Jüpiter Akrep'te: şansın derinlikten ve dönüşümden gelir. Kriz anlarında beklenmedik bir güç bulursun."
+      - "Ortak kaynaklar, araştırma ve psikoloji büyüme alanların. Güç ve kontrol konularında ölçülü ol."
+    yay:
+      - "Jüpiter Yay'da, kendi evinde: şansın yolculuktan, felsefeden ve öğrenmeden gelir. İyimserliğin bulaşıcı."
+      - "Yabancı kültürler, yüksek eğitim ve inanç seni büyütür. Vaatlerde ölçüyü kaçırmamak gerek."
+    oglak:
+      - "Jüpiter Oğlak'ta, düşüşte: şansın disiplinden ve sabırdan gelir. Başarıyı adım adım kurarsın."
+      - "Büyüme yavaş ama sağlam. Aşırı temkin bazen fırsatları kaçırtabilir."
+    kova:
+      - "Jüpiter Kova'da: şansın dostluklardan, gruplardan ve yeniliklerden gelir."
+      - "İnsanlık için büyük düşünürsün; toplumsal projelerde bereket var. Özgürlük senin için şanstan önemli."
+    balik:
+      - "Jüpiter Balık'ta, kendi evinde: şansın sezgiden, merhametten ve maneviyattan gelir."
+      - "Yardımseverliğin seni korur; ama sınırsız vermek seni tüketebilir. Sanat ve şifa büyüme alanların."
+  saturn:
+    koc:
+      - "Satürn Koç'ta, düşüşte: dersin sabırlı cesaret. Hızlı başlamak yerine sağlam başlamayı öğrenirsin."
+      - "Kendine güven zamanla gelir; erken yaşta engellenmişlik hissi olgunlukta güce dönüşür."
+    boga:
+      - "Satürn Boğa'da: dersin maddi güvenlik ve öz değer. Kaybetme korkusu seni tutumlu yapabilir."
+      - "Sağlam ve kalıcı yapılar kurarsın; değişime direnç ise esnekliği öğrenmeni gerektirir."
+    ikizler:
+      - "Satürn İkizler'de: dersin düşünceyi derinleştirmek ve sözünün arkasında durmak."
+      - "Konuşmada ve öğrenmede ciddisin; disiplinli bir zihin zamanla ustalığa dönüşür."
+    yengec:
+      - "Satürn Yengeç'te, zararda: dersin duygusal güvenliği kendi içinde kurmak."
+      - "Aile ve geçmişle ilgili ağırlıklar taşıyabilirsin; olgunlukla birlikte kendi yuvanı inşa edersin."
+    aslan:
+      - "Satürn Aslan'da, zararda: dersin kendini ifade etmekten korkmamak."
+      - "Görülme ihtiyacı ile reddedilme korkusu arasında gidip gelebilirsin. Yaratıcılığın disiplinle olgunlaşır."
+    basak:
+      - "Satürn Başak'ta: dersin mükemmeliyetçilikle barışmak. Çalışkanlığın ve titizliğin büyük."
+      - "Sağlık ve iş düzeni konusunda sorumluluk alırsın; endişeyi plana dönüştürmeyi öğrenirsin."
+    terazi:
+      - "Satürn Terazi'de, yücelimde: dersin adil ve kalıcı ilişkiler kurmak. Ortaklıkta sorumluluk sende."
+      - "İlişkiler geç ama sağlam olgunlaşır. Adalet duygun olgun ve dengeli."
+    akrep:
+      - "Satürn Akrep'te: dersin kontrolü bırakmak ve güvenmek. Derin dönüşümler seni olgunlaştırır."
+      - "Ortak kaynaklar, mahremiyet ve güç konularında ciddiyet var. Krizler senin öğretmenin."
+    yay:
+      - "Satürn Yay'da: dersin inancını sınamak ve kendi felsefeni kurmak."
+      - "Öğrenmede ciddisin; hazır cevaplardan çok kendi bulduğun anlamlara güvenirsin."
+    oglak:
+      - "Satürn Oğlak'ta, kendi evinde: disiplin ve hedef odaklılık doğanda var. Uzun vadede yüksek bir yere ulaşırsın."
+      - "Sorumluluk erken gelir; ama bu yük seni sağlam bir yapıya dönüştürür. Dinlenmeyi unutma."
+    kova:
+      - "Satürn Kova'da, kendi evinde: toplum için kalıcı yapılar kurma gücün var. Yenilikle geleneği birleştirirsin."
+      - "Dersin, ait olmak ile özgür olmak arasında denge bulmak."
+    balik:
+      - "Satürn Balık'ta: dersin hayalleri gerçeğe dönüştürmek ve sınır koymak."
+      - "Maneviyat ve şefkat konusunda sorumluluk taşırsın. Belirsizlik korkusunu yapı kurarak yenersin."
+  uranus:
+    koc: ["Uranüs Koç'ta: kuşağın cesur yenilikçilerden oluşuyor; sende ani başlangıçlar ve bağımsızlık dürtüsü güçlü."]
+    boga: ["Uranüs Boğa'da: kuşağın para, değer ve doğayla ilişkiyi yeniden tanımlıyor. Sende maddi konularda beklenmedik değişimler olabilir."]
+    ikizler: ["Uranüs İkizler'de: kuşağın iletişimi ve bilgiyi dönüştürüyor. Zihnin ani ilhamlara açık."]
+    yengec: ["Uranüs Yengeç'te: kuşağın aile ve yuva kavramını yeniden kuruyor. Ev hayatında alışılmadık düzenler sana yabancı değil."]
+    aslan: ["Uranüs Aslan'da: kuşağın kendini ifade etmede özgürlük arıyor. Yaratıcılığın sıra dışı."]
+    basak: ["Uranüs Başak'ta: kuşağın iş, sağlık ve teknolojiyi dönüştürüyor. Çalışma biçimlerinde yenilikçisin."]
+    terazi: ["Uranüs Terazi'de: kuşağın ilişki ve evlilik kalıplarını sorguluyor. İlişkide özgürlük senin için önemli."]
+    akrep: ["Uranüs Akrep'te: kuşağın tabuları ve gizli olanı ortaya çıkarıyor. Ani dönüşümler hayatında rol oynayabilir."]
+    yay: ["Uranüs Yay'da: kuşağın inanç ve eğitimde özgürlük arıyor. Yolculuk ve yabancı kültürler seni değiştirir."]
+    oglak: ["Uranüs Oğlak'ta: kuşağın kurumları ve yapıları yeniden kuruyor. Gelenekle yeniliği birleştirme gücün var."]
+    kova: ["Uranüs Kova'da, kendi evinde: kuşağın teknoloji ve toplulukla geleceği kuruyor. Özgünlüğün belirgin."]
+    balik: ["Uranüs Balık'ta: kuşağın maneviyat, sanat ve hayal gücünde devrim yapıyor. Sezgin ani ve keskin."]
+  neptun:
+    koc: ["Neptün Koç'ta: kuşağın yeni idealler peşinde; sende cesaretle birleşen bir hayal gücü var."]
+    boga: ["Neptün Boğa'da: kuşağın doğa ve güzellikle ilgili bir özlem taşıyor. Sanat ve duyular ilham kaynağın."]
+    ikizler: ["Neptün İkizler'de: kuşağın kelimelerle büyü yapıyor. Hayal gücün dil ve iletişimle ifade bulur."]
+    yengec: ["Neptün Yengeç'te: kuşağın ev ve vatan idealiyle şekillendi. Aile romantizmi güçlü."]
+    aslan: ["Neptün Aslan'da: kuşağın sahne ve yaratıcılıkta ilham arıyor. Romantik ve dramatik bir hayal gücün var."]
+    basak: ["Neptün Başak'ta: kuşağın hizmet ve şifa idealleriyle şekillendi. Mükemmellik hayali sende güçlü."]
+    terazi: ["Neptün Terazi'de: kuşağın aşk ve barış idealleriyle büyüdü. İlişkilerde ideal arayışın belirgin."]
+    akrep: ["Neptün Akrep'te: kuşağın derinlik, gizem ve dönüşüme yöneldi. Sezgin karanlıkta bile yol bulur."]
+    yay: ["Neptün Yay'da: kuşağın inanç ve uzak ufuklarla ilgili hayaller taşıyor. Maneviyat arayışın güçlü."]
+    oglak: ["Neptün Oğlak'ta: kuşağın yapıları ve otoriteyi sorgulayarak büyüdü. Hayallerini somut hedeflere dönüştürme gücün var."]
+    kova: ["Neptün Kova'da: kuşağın teknoloji ve ortak idealler üzerine hayal kuruyor. İnsanlık için büyük düşünürsün."]
+    balik: ["Neptün Balık'ta, kendi evinde: kuşağın son derece sezgisel ve sanatsal. Sınırlar sende akışkan."]
+  pluton:
+    koc: ["Plüton Koç'ta: kuşağın varoluş için yeniden doğuyor; sende güçlü bir bireysel irade var."]
+    boga: ["Plüton Boğa'da: kuşağın değerleri ve maddi dünyayı kökten dönüştürüyor."]
+    ikizler: ["Plüton İkizler'de: kuşağın bilginin gücünü dönüştürüyor; sözün derin etki bırakır."]
+    yengec: ["Plüton Yengeç'te: kuşağın aile ve vatan kavramlarında derin dönüşümler yaşadı."]
+    aslan: ["Plüton Aslan'da: kuşağın bireysel ifade ve güç konusunda dönüşüm yaşadı. Yaratıcı gücün yoğun."]
+    basak: ["Plüton Başak'ta: kuşağın iş, sağlık ve hizmet alanlarında köklü değişimleri getirdi. Analitik gücün derin."]
+    terazi: ["Plüton Terazi'de: kuşağın ilişki ve evlilik kurumlarını dönüştürdü. İlişkiler seni derinden değiştirir."]
+    akrep: ["Plüton Akrep'te, kendi evinde: kuşağın tabular, cinsellik, güç ve ölüm gibi derin konularla yüzleşiyor. Dönüştürme gücün büyük."]
+    yay: ["Plüton Yay'da: kuşağın inançları ve sınırları dönüştürüyor; küresel bakış doğal."]
+    oglak: ["Plüton Oğlak'ta: kuşağın kurumların ve otoritenin dönüşümüne tanıklık ediyor. Yapıları yeniden kurma gücün var."]
+    kova: ["Plüton Kova'da: kuşağın topluluk ve teknolojinin gücünü yeniden tanımlıyor."]
+    balik: ["Plüton Balık'ta: kuşağın maneviyat ve kolektif bilinçte dönüşüm getiriyor."]
+  dugum:
+    koc: ["Kuzey Ay Düğümü Koç'ta: bu hayatta yönün bağımsızlık ve cesaret. Başkalarını memnun etmek yerine kendi yolunu çizmek seni büyütür."]
+    boga: ["Kuzey Ay Düğümü Boğa'da: yönün sadelik, istikrar ve öz değer. Krizlerden beslenmek yerine sakin bir zemin kurmak seni büyütür."]
+    ikizler: ["Kuzey Ay Düğümü İkizler'de: yönün merak, dinlemek ve öğrenmek. Büyük doğrular yerine küçük sorular seni büyütür."]
+    yengec: ["Kuzey Ay Düğümü Yengeç'te: yönün duygusal açıklık ve yuva. Başarı kadar aidiyet de seni büyütür."]
+    aslan: ["Kuzey Ay Düğümü Aslan'da: yönün kendini ifade etmek ve kalpten yaşamak. Kalabalıkta kaybolmak yerine sahneye çıkmak seni büyütür."]
+    basak: ["Kuzey Ay Düğümü Başak'ta: yönün düzen, hizmet ve somut emek. Hayallerin içinde kaybolmak yerine küçük adımlar seni büyütür."]
+    terazi: ["Kuzey Ay Düğümü Terazi'de: yönün ortaklık ve uzlaşma. Tek başına savaşmak yerine birlikte yürümek seni büyütür."]
+    akrep: ["Kuzey Ay Düğümü Akrep'te: yönün derinlik ve dönüşüm. Konforu korumak yerine değişime izin vermek seni büyütür."]
+    yay: ["Kuzey Ay Düğümü Yay'da: yönün anlam, inanç ve ufuk. Ayrıntılarda boğulmak yerine büyük resme bakmak seni büyütür."]
+    oglak: ["Kuzey Ay Düğümü Oğlak'ta: yönün sorumluluk ve olgunluk. Korunmak yerine kendi yapını kurmak seni büyütür."]
+    kova: ["Kuzey Ay Düğümü Kova'da: yönün topluluk ve özgünlük. Alkış beklemek yerine ortak bir amaca katılmak seni büyütür."]
+    balik: ["Kuzey Ay Düğümü Balık'ta: yönün teslimiyet ve şefkat. Her şeyi kontrol etmek yerine akışa güvenmek seni büyütür."]
+  lilith:
+    koc: ["Kara Ay Koç'ta: bastırılmış öfke ve bağımsızlık isteği. Kendini savunma hakkın, gölgende saklı bir güç."]
+    boga: ["Kara Ay Boğa'da: haz ve sahip olma arzusuyla ilgili gizli bir yara. Bedeninin isteklerine utanmadan yer açmak şifa verir."]
+    ikizler: ["Kara Ay İkizler'de: söylenmemiş sözler ve susturulmuş merak. Sesini bulmak gölgeni aydınlatır."]
+    yengec: ["Kara Ay Yengeç'te: bakım ve annelikle ilgili karmaşık duygular. Kendine ebeveynlik yapmak şifa verir."]
+    aslan: ["Kara Ay Aslan'da: görülme arzusu ve reddedilme korkusu. Işığını küçültmemek gölgeni dönüştürür."]
+    basak: ["Kara Ay Başak'ta: mükemmel olma baskısı ve bedenle ilgili kaygılar. Kusurlu olanı kabul etmek özgürleştirir."]
+    terazi: ["Kara Ay Terazi'de: ilişkide kendini kaybetme ve uyum uğruna susma. Hayır diyebilmek gölgeni aydınlatır."]
+    akrep: ["Kara Ay Akrep'te: yoğun tutku ve kontrol temaları. Güç ve mahremiyetle barışmak dönüştürür."]
+    yay: ["Kara Ay Yay'da: inanç ve özgürlükle ilgili isyan. Kendi doğrunu bulmak gölgeni aydınlatır."]
+    oglak: ["Kara Ay Oğlak'ta: otorite ve başarıyla ilgili gizli bir öfke. Kendi kurallarını koymak şifa verir."]
+    kova: ["Kara Ay Kova'da: dışlanma ve farklı olma yarası. Tuhaflığını sahiplenmek gölgeni dönüştürür."]
+    balik: ["Kara Ay Balık'ta: kaçış ve kurban olma temaları. Hayal ile gerçeği ayırmak şifa verir."]

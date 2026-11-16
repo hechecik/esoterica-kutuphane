@@ -1,0 +1,213 @@
+kaynak: "Esoterica astroloji kütüphanesi; metin özgün"
+lang: tr
+# Her çift için: kavusum, uyumlu (üçgen/altıgen), gergin (kare/karşıt).
+# Anahtar sırası sabitler.js'teki gezegen sırasıdır (gunes, ay, merkur, venus, mars, jupiter, saturn, uranus, neptun, pluton).
+genel:
+  quincunx: "Bu iki enerji birbirini tam anlamıyor; aralarında sürekli küçük ayarlar yapman gerekiyor. Bu açı rahatsız eder ama esneklik öğretir."
+  yaklasan: "Açı yaklaşıyor: bu tema hayatında giderek belirginleşen, olgunlaşan bir konu."
+  ayrilan: "Açı ayrılıyor: bu tema zaten yaşanmış, öğrenilmiş bir konu; artık kullanabileceğin bir beceri."
+ciftler:
+  gunes-ay:
+    kavusum: "Güneş ve Ay kavuşumda: yeni ay doğumu. İradenle duyguların aynı yöne bakar; tek fikirli, odaklı ve bazen kendine fazla dönük olabilirsin."
+    uyumlu: "Güneş ve Ay uyumlu: ne istediğinle ne hissettiğin barışık. İç huzurun insanlara da güven verir."
+    gergin: "Güneş ve Ay gergin: aklınla kalbin farklı yönlere çekebilir. Bu iç gerilim seni yaratıcı kılar; ama karar anlarında zorlanabilirsin."
+  gunes-merkur:
+    kavusum: "Güneş ve Merkür kavuşumda: düşüncelerin kimliğinin parçası. Söylediklerin seni tanımlar; fikirlerine sıkı sahip çıkarsın."
+    uyumlu: "Güneş ve Merkür yakın; zihnin ve kimliğin birlikte çalışıyor."
+    gergin: "Güneş ve Merkür yakın; zihnin ve kimliğin birlikte çalışıyor."
+  gunes-venus:
+    kavusum: "Güneş ve Venüs kavuşumda: çekiciliğin ve zarafetin kimliğinin parçası. Sevilmek ve güzellik senin için önemli."
+    uyumlu: "Güneş ve Venüs yakın; sevgi ve estetik kimliğine sıcaklık katıyor."
+    gergin: "Güneş ve Venüs yakın; sevgi ve estetik kimliğine sıcaklık katıyor."
+  gunes-mars:
+    kavusum: "Güneş ve Mars kavuşumda: iradenle enerjin tek vücut. Cesur, rekabetçi ve hızlısın; öfkeni yönetmek önemli bir ders."
+    uyumlu: "Güneş ve Mars uyumlu: enerjin kimliğini destekliyor. İstediğin şey için harekete geçmekte zorlanmazsın."
+    gergin: "Güneş ve Mars gergin: içinde sürekli bir savaşçı var. Çatışmalar seni büyütür; ama her savaşa girmek zorunda değilsin."
+  gunes-jupiter:
+    kavusum: "Güneş ve Jüpiter kavuşumda: iyimser, cömert ve şanslı bir kimlik. Büyük düşünürsün; abartıdan kaçınmak gerek."
+    uyumlu: "Güneş ve Jüpiter uyumlu: hayat sana kapı açar. İnancın ve iyimserliğin seni korur."
+    gergin: "Güneş ve Jüpiter gergin: büyük hedefler, büyük vaatler. Ölçüyü bulduğunda bu enerji seni ileri taşır."
+  gunes-saturn:
+    kavusum: "Güneş ve Satürn kavuşumda: ciddi, sorumlu ve olgun bir kimlik. Kendini zamanla, emekle kurarsın."
+    uyumlu: "Güneş ve Satürn uyumlu: disiplinin kimliğini destekliyor. Uzun vadeli hedeflerde başarılısın."
+    gergin: "Güneş ve Satürn gergin: içinde eleştirel bir otorite sesi var. Engeller seni olgunlaştırır; kendine yumuşak davranmayı öğrenmek önemli."
+  gunes-uranus:
+    kavusum: "Güneş ve Uranüs kavuşumda: özgün, sıra dışı ve bağımsız bir kimlik. Kalıplara sığmazsın."
+    uyumlu: "Güneş ve Uranüs uyumlu: yeniliğe açıksın; değişim sana kolay gelir."
+    gergin: "Güneş ve Uranüs gergin: hayatında ani dönüşler ve isyan temaları var. Özgürlük ile istikrar arasında denge kurmak dersin."
+  gunes-neptun:
+    kavusum: "Güneş ve Neptün kavuşumda: sezgisel, sanatçı ve şefkatli bir kimlik. Sınırların bulanık olabilir."
+    uyumlu: "Güneş ve Neptün uyumlu: hayal gücün ve sezgin kimliğini besliyor."
+    gergin: "Güneş ve Neptün gergin: kim olduğun konusunda zaman zaman belirsizlik. Hayal ile gerçeği ayırmak önemli."
+  gunes-pluton:
+    kavusum: "Güneş ve Plüton kavuşumda: yoğun, güçlü ve dönüştürücü bir kimlik. Hayatın boyunca birkaç kez yeniden doğarsın."
+    uyumlu: "Güneş ve Plüton uyumlu: derin bir iç güç; krizlerden güçlenerek çıkarsın."
+    gergin: "Güneş ve Plüton gergin: güç ve kontrol temaları hayatında belirgin. Dönüşüme direnmek yerine onu kucaklamak dersin."
+  ay-merkur:
+    kavusum: "Ay ve Merkür kavuşumda: düşüncelerin ve duyguların iç içe. Duygularını kelimelere dökmekte yeteneklisin."
+    uyumlu: "Ay ve Merkür uyumlu: aklın ve kalbin aynı dili konuşuyor."
+    gergin: "Ay ve Merkür gergin: mantık ile duygu arasında gidip gelebilirsin. Hissettiğini anlatmak bazen zor."
+  ay-venus:
+    kavusum: "Ay ve Venüs kavuşumda: sevgi dolu, şefkatli ve uyumlu bir duygusal doğa. Güzellik seni sakinleştirir."
+    uyumlu: "Ay ve Venüs uyumlu: duygusal hayatın tatlı ve dengeli; sevgi vermek ve almak kolay."
+    gergin: "Ay ve Venüs gergin: duygusal ihtiyaçlarınla ilişki beklentilerin farklı olabilir. Kendini sevmek, başkalarının sevgisinden önce gelir."
+  ay-mars:
+    kavusum: "Ay ve Mars kavuşumda: duyguların ateşli ve hızlı. Tepkilerin anlık; koruyucu bir savaşçısın."
+    uyumlu: "Ay ve Mars uyumlu: duygularını eyleme dökmekte cesursun."
+    gergin: "Ay ve Mars gergin: duygusal tepkilerin sert olabilir. Öfkeni fark edip yönlendirmek huzurunu korur."
+  ay-jupiter:
+    kavusum: "Ay ve Jüpiter kavuşumda: cömert, iyimser ve geniş bir kalp. Duygusal olarak şanslısın; sevgi seni bulur."
+    uyumlu: "Ay ve Jüpiter uyumlu: duygusal hayatında bereket ve iyimserlik."
+    gergin: "Ay ve Jüpiter gergin: duygularını abartma eğilimi; aşırılık ve sınırsızlıkla ilgili bir ders."
+  ay-saturn:
+    kavusum: "Ay ve Satürn kavuşumda: duygularını kontrol altında tutarsın. Erken olgunlaşmış bir kalp; şefkati kendine de göstermek önemli."
+    uyumlu: "Ay ve Satürn uyumlu: duygusal olarak istikrarlı ve güvenilirsin."
+    gergin: "Ay ve Satürn gergin: duygusal soğukluk ya da yalnızlık hissi. Kendine izin vermek ve yardım istemek dersin."
+  ay-uranus:
+    kavusum: "Ay ve Uranüs kavuşumda: duyguların ani ve beklenmedik. Özgürlük senin için duygusal bir ihtiyaç."
+    uyumlu: "Ay ve Uranüs uyumlu: duygusal olarak esnek ve yeniliğe açıksın."
+    gergin: "Ay ve Uranüs gergin: ruh hâlin hızla değişebilir. Bağlılık ile özgürlük arasında gerilim."
+  ay-neptun:
+    kavusum: "Ay ve Neptün kavuşumda: son derece sezgisel ve empatik bir ruh. Başkalarının duygularını süngersin."
+    uyumlu: "Ay ve Neptün uyumlu: hayal gücün ve şefkatin duygusal hayatını zenginleştiriyor."
+    gergin: "Ay ve Neptün gergin: duygusal sınırların bulanık olabilir. Kaçış yerine yaratıcılık iyi bir kanal."
+  ay-pluton:
+    kavusum: "Ay ve Plüton kavuşumda: duyguların okyanus kadar derin. Yoğun bağlar kurarsın; bırakmak zor gelir."
+    uyumlu: "Ay ve Plüton uyumlu: duygusal krizlerden güçlenerek çıkarsın."
+    gergin: "Ay ve Plüton gergin: duygusal güç mücadeleleri ve kontrol temaları. Kırgınlığı bırakmak şifa verir."
+  merkur-venus:
+    kavusum: "Merkür ve Venüs kavuşumda: tatlı dil, zarif düşünce. Sanatsal yazı ve diplomasi yeteneğin var."
+    uyumlu: "Merkür ve Venüs yakın; konuşman zarif ve uyumlu."
+    gergin: "Merkür ve Venüs yakın; konuşman zarif ve uyumlu."
+  merkur-mars:
+    kavusum: "Merkür ve Mars kavuşumda: keskin zekâ, hızlı dil. Tartışmada güçlüsün; sözlerin bazen fazla sert."
+    uyumlu: "Merkür ve Mars uyumlu: düşüncelerini eyleme dönüştürmekte hızlısın."
+    gergin: "Merkür ve Mars gergin: sözlü çatışmalara yatkınsın. Konuşmadan önce bir nefes almak iyi gelir."
+  merkur-jupiter:
+    kavusum: "Merkür ve Jüpiter kavuşumda: geniş bir zihin; öğrenmeyi ve öğretmeyi seversin."
+    uyumlu: "Merkür ve Jüpiter uyumlu: iyimser düşünce ve büyük fikirler."
+    gergin: "Merkür ve Jüpiter gergin: çok şey vaat edip ayrıntıyı kaçırabilirsin."
+  merkur-saturn:
+    kavusum: "Merkür ve Satürn kavuşumda: ciddi, derin ve planlı bir zihin. Sözün senettir."
+    uyumlu: "Merkür ve Satürn uyumlu: disiplinli düşünce; odaklanma yeteneğin güçlü."
+    gergin: "Merkür ve Satürn gergin: kendini ifade etmekte çekingenlik ya da karamsar düşünce. Zamanla ustalaşırsın."
+  merkur-uranus:
+    kavusum: "Merkür ve Uranüs kavuşumda: dahiyane ani fikirler; zihnin hızlı ve sıra dışı."
+    uyumlu: "Merkür ve Uranüs uyumlu: yenilikçi düşünce ve teknolojiye yatkınlık."
+    gergin: "Merkür ve Uranüs gergin: zihnin sinirli ve huzursuz olabilir. Fikirlerini ani kararlarla değil sabırla hayata geçir."
+  merkur-neptun:
+    kavusum: "Merkür ve Neptün kavuşumda: şiirsel ve sezgisel bir zihin; hayal gücün dilinde."
+    uyumlu: "Merkür ve Neptün uyumlu: sanatsal ifade ve sezgiyle düşünme."
+    gergin: "Merkür ve Neptün gergin: dağınıklık ya da yanlış anlaşılma. Önemli şeyleri yazılı netleştir."
+  merkur-pluton:
+    kavusum: "Merkür ve Plüton kavuşumda: araştırmacı ve derin bir zihin; sırları çözersin."
+    uyumlu: "Merkür ve Plüton uyumlu: etkili ve ikna edici konuşma."
+    gergin: "Merkür ve Plüton gergin: düşüncelerinde takıntı eğilimi; sözlerin güçlü ama yaralayıcı olabilir."
+  venus-mars:
+    kavusum: "Venüs ve Mars kavuşumda: tutku ve sevgi birleşmiş; çekiciliğin güçlü."
+    uyumlu: "Venüs ve Mars uyumlu: aşkta denge; vermek ve almak arasında uyum."
+    gergin: "Venüs ve Mars gergin: aşkta tutku ve çatışma birlikte gelir. İstek ile sevgi arasında denge kurmak dersin."
+  venus-jupiter:
+    kavusum: "Venüs ve Jüpiter kavuşumda: aşkta ve parada şans; cömert ve sevilen birisin."
+    uyumlu: "Venüs ve Jüpiter uyumlu: ilişkilerde bereket ve mutluluk."
+    gergin: "Venüs ve Jüpiter gergin: aşırılık ve savurganlık eğilimi; ölçülü keyif bereketi korur."
+  venus-saturn:
+    kavusum: "Venüs ve Satürn kavuşumda: aşkta ciddi ve sadık; sevgi zamanla derinleşir."
+    uyumlu: "Venüs ve Satürn uyumlu: kalıcı ve güvenilir ilişkiler."
+    gergin: "Venüs ve Satürn gergin: sevilmeye değer olup olmadığın konusunda kuşkular. Sevgiyi hak etmek zorunda değilsin."
+  venus-uranus:
+    kavusum: "Venüs ve Uranüs kavuşumda: aşkta ani başlangıçlar ve sıra dışı ilişkiler; özgürlük şart."
+    uyumlu: "Venüs ve Uranüs uyumlu: ilişkide heyecan ve yenilik."
+    gergin: "Venüs ve Uranüs gergin: ilişkilerde ani kopuşlar; yakınlık ile özgürlük arasında gerilim."
+  venus-neptun:
+    kavusum: "Venüs ve Neptün kavuşumda: romantik, idealist ve sanatsal. Ruh eşi arayışı güçlü."
+    uyumlu: "Venüs ve Neptün uyumlu: şefkatli sevgi ve sanatsal ilham."
+    gergin: "Venüs ve Neptün gergin: aşkta idealleştirme ve hayal kırıklığı riski. Sevdiğini olduğu gibi görmek önemli."
+  venus-pluton:
+    kavusum: "Venüs ve Plüton kavuşumda: yoğun, tutkulu ve dönüştürücü aşklar."
+    uyumlu: "Venüs ve Plüton uyumlu: derin ve kalıcı bağlar."
+    gergin: "Venüs ve Plüton gergin: aşkta kıskançlık ve güç mücadelesi. Sahip olmak ile sevmek arasındaki farkı öğrenmek dersin."
+  mars-jupiter:
+    kavusum: "Mars ve Jüpiter kavuşumda: büyük enerji ve büyük hedefler; cesaretin seni ileri taşır."
+    uyumlu: "Mars ve Jüpiter uyumlu: girişimlerde şans; enerjin doğru yöne akar."
+    gergin: "Mars ve Jüpiter gergin: aşırı güven ve aşırı risk; ölçüyü bulmak önemli."
+  mars-saturn:
+    kavusum: "Mars ve Satürn kavuşumda: kontrollü güç; dayanıklılık ve disiplin."
+    uyumlu: "Mars ve Satürn uyumlu: azim ve kararlılık; uzun vadeli projelerde başarı."
+    gergin: "Mars ve Satürn gergin: enerjin engellenmiş gibi hissedebilirsin. Sabır, öfkeyi güce dönüştürür."
+  mars-uranus:
+    kavusum: "Mars ve Uranüs kavuşumda: ani eylem, cesur hamleler; risk sevgisi."
+    uyumlu: "Mars ve Uranüs uyumlu: yenilikçi girişimler ve cesur değişimler."
+    gergin: "Mars ve Uranüs gergin: ani öfke patlamaları ve kazaya yatkın acele. Yavaşlamak korur."
+  mars-neptun:
+    kavusum: "Mars ve Neptün kavuşumda: ilham dolu eylem; sanat ve şifada güç."
+    uyumlu: "Mars ve Neptün uyumlu: idealler için harekete geçmek."
+    gergin: "Mars ve Neptün gergin: enerjin dağılabilir; motivasyon dalgalı. Net hedefler iyi gelir."
+  mars-pluton:
+    kavusum: "Mars ve Plüton kavuşumda: muazzam bir iç güç ve dayanıklılık."
+    uyumlu: "Mars ve Plüton uyumlu: krizlerde liderlik ve dönüştürücü enerji."
+    gergin: "Mars ve Plüton gergin: güç mücadeleleri ve yoğun öfke. Enerjini yapıcı bir hedefe yönlendirmek şart."
+  jupiter-saturn:
+    kavusum: "Jüpiter ve Satürn kavuşumda: büyüme ile sınır arasında denge; iyimser ama gerçekçi."
+    uyumlu: "Jüpiter ve Satürn uyumlu: fırsatları sağlam yapılara dönüştürme yeteneği."
+    gergin: "Jüpiter ve Satürn gergin: genişleme ile kısıtlama arasında gidip gelme; zamanlama önemli."
+  jupiter-uranus:
+    kavusum: "Jüpiter ve Uranüs kavuşumda: beklenmedik şans ve ani fırsatlar."
+    uyumlu: "Jüpiter ve Uranüs uyumlu: yeniliklerle gelen büyüme."
+    gergin: "Jüpiter ve Uranüs gergin: ani fırsatlar ani risklerle gelir."
+  jupiter-neptun:
+    kavusum: "Jüpiter ve Neptün kavuşumda: büyük idealler ve derin maneviyat."
+    uyumlu: "Jüpiter ve Neptün uyumlu: şefkat ve inançla gelen bereket."
+    gergin: "Jüpiter ve Neptün gergin: gerçekçi olmayan beklentiler; hayalleri sınamak gerek."
+  jupiter-pluton:
+    kavusum: "Jüpiter ve Plüton kavuşumda: büyük güç ve etki potansiyeli."
+    uyumlu: "Jüpiter ve Plüton uyumlu: dönüşümle gelen büyüme ve başarı."
+    gergin: "Jüpiter ve Plüton gergin: güç ve büyüme hırsı; etik çizgiyi korumak önemli."
+  saturn-uranus:
+    kavusum: "Satürn ve Uranüs kavuşumda: kuşak teması; gelenek ile yenilik arasında köprü."
+    uyumlu: "Satürn ve Uranüs uyumlu: yenilikleri kalıcı yapılara dönüştürme yeteneği."
+    gergin: "Satürn ve Uranüs gergin: eski ile yeni arasında gerilim; kuşağının ortak teması."
+  saturn-neptun:
+    kavusum: "Satürn ve Neptün kavuşumda: kuşak teması; hayalleri gerçeğe dökme çabası."
+    uyumlu: "Satürn ve Neptün uyumlu: idealleri somutlaştırma yeteneği."
+    gergin: "Satürn ve Neptün gergin: gerçek ile hayal arasında bulanıklık; kuşağının ortak teması."
+  saturn-pluton:
+    kavusum: "Satürn ve Plüton kavuşumda: kuşak teması; yapıların kökten dönüşümü."
+    uyumlu: "Satürn ve Plüton uyumlu: dayanıklılık ve derin yapılar kurma gücü."
+    gergin: "Satürn ve Plüton gergin: baskı ve dönüşüm; kuşağının ortak sınavı."
+  uranus-neptun:
+    kavusum: "Uranüs ve Neptün kavuşumda: kuşak teması; yeni bir maneviyat ve teknoloji çağı."
+    uyumlu: "Uranüs ve Neptün uyumlu: kuşağına yayılmış bir yaratıcı ilham."
+    gergin: "Uranüs ve Neptün gergin: kuşak düzeyinde idealler ile yenilik arasında gerilim."
+  uranus-pluton:
+    kavusum: "Uranüs ve Plüton kavuşumda: kuşak teması; köklü toplumsal dönüşüm."
+    uyumlu: "Uranüs ve Plüton uyumlu: kuşağına yayılmış bir değişim gücü."
+    gergin: "Uranüs ve Plüton gergin: kuşak düzeyinde devrim ve kriz teması."
+  neptun-pluton:
+    kavusum: "Neptün ve Plüton kavuşumda: yüzyıllık bir kuşak teması."
+    uyumlu: "Neptün ve Plüton altıgeni: bu yüzyılda doğan herkesin ortak, arka plandaki açısı."
+    gergin: "Neptün ve Plüton gergin: yüzyıllık bir kuşak teması."
+# Gezegen yükselen ya da MC'ye 5° yakınsa (kavuşum)
+koseler:
+  asc:
+    gunes: "Güneş yükselenin üzerinde: kişiliğin parlak ve görünür; insanlar seni kolayca fark eder."
+    ay: "Ay yükselenin üzerinde: duyguların yüzünde; sezgisel ve hassas bir ilk izlenim."
+    merkur: "Merkür yükselenin üzerinde: konuşkan, meraklı ve zeki görünürsün."
+    venus: "Venüs yükselenin üzerinde: çekicilik ve zarafet ilk izlenimin."
+    mars: "Mars yükselenin üzerinde: enerjik, cesur ve atak bir duruş."
+    jupiter: "Jüpiter yükselenin üzerinde: iyimser, cömert ve güven veren bir aura."
+    saturn: "Satürn yükselenin üzerinde: ciddi, olgun ve mesafeli bir ilk izlenim."
+    uranus: "Uranüs yükselenin üzerinde: sıra dışı ve özgün bir görünüm."
+    neptun: "Neptün yükselenin üzerinde: rüya gibi, gizemli bir aura."
+    pluton: "Plüton yükselenin üzerinde: yoğun, manyetik ve etkileyici bir varlık."
+  mc:
+    gunes: "Güneş MC'de: kariyerde görünür olmak, parlamak kaderinin parçası."
+    ay: "Ay MC'de: kamusal hayatın duygularla ve insanlara bakımla bağlantılı."
+    merkur: "Merkür MC'de: kariyerin iletişim ve fikirler üzerinden yükselir."
+    venus: "Venüs MC'de: kariyerde sevilen, beğenilen biri; sanat ya da diplomasi."
+    mars: "Mars MC'de: hırslı ve rekabetçi bir kariyer; liderlik."
+    jupiter: "Jüpiter MC'de: kariyerde şans ve tanınma."
+    saturn: "Satürn MC'de: kariyerde yavaş ama yüksek bir yükseliş; otorite."
+    uranus: "Uranüs MC'de: kariyerde ani dönüşler ve yenilikçi yollar."
+    neptun: "Neptün MC'de: kariyerde ilham, sanat ya da şifa; bazen belirsizlik."
+    pluton: "Plüton MC'de: kariyerde güç ve dönüştürücü etki."
