@@ -1,0 +1,64 @@
+kaynak: "Esoterica tarot kütüphanesi; küçük arkana konu yorumları; metin özgün"
+lang: tr
+# Her küçük arkana kartı için aşk ve iş yorumu ile kısa bir öğüt.
+kucuk_ek:
+  asa:
+    1: { ask: "Yeni bir kıvılcım: biri ilgini çekiyor ya da ilişkine yeniden heyecan geliyor.", is: "Yeni bir proje fikri ya da girişim; ilk adımı at.", ogut: "Kıvılcımı beklemeye bırakma." }
+    2: { ask: "İlişkide geleceği planlama: birlikte mi, ayrı yollarda mı?", is: "Genişleme planı; seçenekleri tart, haritanı çiz.", ogut: "Ufka bak ama ayağını yere bas." }
+    3: { ask: "Uzaktan gelen bir ilgi ya da ilişkinin yeni bir aşamaya genişlemesi.", is: "Yatırımlar geri dönmeye başlıyor; dış bağlantılar güçleniyor.", ogut: "Beklerken hazırlığı sürdür." }
+    4: { ask: "Kutlanacak bir an: tanışma, söz, birlikte bir yuva.", is: "Bir aşama tamamlandı; ekibinle kutla.", ogut: "Sevinci paylaş, çoğalsın." }
+    5: { ask: "Küçük tartışmalar, rekabet; enerjiniz çatışıyor ama bağ kopmuyor.", is: "Fikir çatışması ya da rekabetçi ortam; kendi alanını koru.", ogut: "Tartışmayı kazanmak değil, çözmek önemli." }
+    6: { ask: "Kalbinin takdir edilmesi; ilişkide gururlu bir dönem.", is: "Başarın görülüyor; terfi ya da takdir yakın.", ogut: "Alkışı al, ama başını döndürmesin." }
+    7: { ask: "İlişkini dış etkilere karşı savunuyorsun; sınır koy.", is: "Pozisyonunu korumak için direnmen gerekiyor; geri adım atma.", ogut: "Haklıysan yerinde dur." }
+    8: { ask: "Hızlı gelişen bir ilişki ya da beklenen mesaj geliyor.", is: "İşler hızlanıyor; e-postalar, kararlar, yolculuklar.", ogut: "Hızın içinde yönünü kaybetme." }
+    9: { ask: "Kırgınlıklardan sonra temkinlisin; kalbini korurken kapatma.", is: "Yorgunsun ama bitişe az kaldı; dayan.", ogut: "Son adım en zoru; bırakma." }
+    10: { ask: "İlişkinin yükünü tek başına taşıyorsun; paylaş.", is: "Fazla sorumluluk; görev dağıt, hayır demeyi öğren.", ogut: "Her şeyi sen taşımak zorunda değilsin." }
+    11: { ask: "Heyecanlı bir mesaj, yeni bir flört; merak dolu bir başlangıç.", is: "Yeni bir fikir ya da öğrenme fırsatı; keşfet.", ogut: "Merakın kapı açar." }
+    12: { ask: "Tutkulu ama aceleci biri; heyecan yüksek, istikrar düşük.", is: "Cesur bir atılım; planı da yanına al.", ogut: "Hız güzel, yön daha güzel." }
+    13: { ask: "Özgüvenli, sıcak ve çekici bir enerji; kendini göster.", is: "Karizman işine yarıyor; liderlik et, ilham ver.", ogut: "Işığını kısma." }
+    14: { ask: "Güçlü, vizyoner bir partner; ilişkiye yön veren biri.", is: "Büyük resmi gören lider; vizyonunu paylaş.", ogut: "Vizyon, ancak eylemle değer kazanır." }
+  kupa:
+    1: { ask: "Yeni bir aşk ya da kalbin yeniden açılması; sevgi taşıyor.", is: "İşte duygusal tatmin; sevdiğin bir işe başlangıç.", ogut: "Kalbini açmaktan korkma." }
+    2: { ask: "Karşılıklı çekim, ruh eşi hissi; bağ güçleniyor.", is: "Uyumlu bir ortaklık ya da iş birliği.", ogut: "Karşılıklılık her şeydir." }
+    3: { ask: "Arkadaş çevresinde neşe; belki bir kutlamada tanışma.", is: "Ekip ruhu yüksek; birlikte kutlanacak başarı.", ogut: "Sevincini dostlarınla çoğalt." }
+    4: { ask: "İlişkide sıkılma ya da sunulan sevgiyi görmeme.", is: "Motivasyon düşük; masadaki fırsatı kaçırıyor olabilirsin.", ogut: "Gözünü kaldır, önünde bir kupa var." }
+    5: { ask: "Bir kayıp ya da kırgınlığın yası; ama hâlâ sevgi var.", is: "Bir hayal kırıklığı; kalanı değerlendir.", ogut: "Dökülene değil, kalana bak." }
+    6: { ask: "Eski bir aşkın dönüşü ya da nostaljik, tatlı bir bağ.", is: "Eski bir bağlantı ya da çocukluk hayaline dönüş.", ogut: "Geçmişten ders al, orada yaşama." }
+    7: { ask: "Çok seçenek ya da hayallere dayalı bir ilişki; gerçeği ayıkla.", is: "Çok fazla fikir, az odak; birini seç.", ogut: "Hayal kur, ama birini gerçekleştir." }
+    8: { ask: "Tatmin etmeyen bir ilişkiden uzaklaşma; daha derin bir şey arayışı.", is: "Anlam vermeyen bir işi bırakma isteği.", ogut: "Gitmek bazen en cesur kalıştır." }
+    9: { ask: "Dileklerin gerçekleşiyor; duygusal doyum.", is: "Hedefine ulaşma, kişisel tatmin.", ogut: "Dileğini net söyle." }
+    10: { ask: "Mutlu bir aile, uzun vadeli uyum, gökkuşağı altında bir yuva.", is: "İşte aile gibi bir ortam; uzun vadeli tatmin.", ogut: "Sevdiklerinle zamanın kıymetini bil." }
+    11: { ask: "Tatlı bir mesaj, utangaç bir itiraf, yeni bir sevgi.", is: "Yaratıcı bir fikir; sezgine kulak ver.", ogut: "Kalbinin çocuksu sesini dinle." }
+    12: { ask: "Romantik bir teklif, çiçekler ve şiir; kalpten gelen davet.", is: "Hayalini izle ama gerçekliği de kontrol et.", ogut: "Romantizm güzel, sadakat daha güzel." }
+    13: { ask: "Şefkatli, anlayışlı ve sezgisel bir sevgi.", is: "Empati gücün işine yarar; insanlarla çalış.", ogut: "Başkasına verdiğin şefkati kendine de ver." }
+    14: { ask: "Olgun, sakin ve güvenilir bir partner.", is: "Duygusal zekâyla yöneten lider.", ogut: "Sakin kalan kazanır." }
+  kilic:
+    1: { ask: "Açık bir konuşma, ilişkide netlik ya da bir gerçeğin ortaya çıkması.", is: "Net bir karar, yeni bir fikir; keskin düşün.", ogut: "Doğruyu söyle, nazikçe." }
+    2: { ask: "Kararsızlık; kalbin ile aklın arasında sıkışmışsın.", is: "Bir karar erteleniyor; bilgi topla ve seç.", ogut: "Gözündeki bağı çöz." }
+    3: { ask: "Kalp kırıklığı ya da acı bir söz; iyileşme zaman alır.", is: "Bir hayal kırıklığı; duygusal tepki verme.", ogut: "Acı geçer, ders kalır." }
+    4: { ask: "İlişkide bir ara verme ya da dinlenme ihtiyacı.", is: "Tükenmişliği önle; kısa bir mola.", ogut: "Dinlenmek de bir eylemdir." }
+    5: { ask: "Kazanılan ama kalbi incitilen bir kavga; gurur mu, ilişki mi?", is: "Rekabetin bedeli; herkesi karşına alma.", ogut: "Haklı olmak her zaman kazanmak değil." }
+    6: { ask: "Zor bir dönemden sakin sulara geçiş; birlikte iyileşme.", is: "Taşınma ya da daha sakin bir işe geçiş.", ogut: "Geride bıraktığın şey seni taşımasın." }
+    7: { ask: "Gizli bir şey ya da güven sorunu; dikkatli ol.", is: "Strateji gerekli; ama dürüstlükten ödün verme.", ogut: "Saklanan bir gün açığa çıkar." }
+    8: { ask: "Kendi korkuların ilişkini kısıtlıyor; çıkış kapısı açık.", is: "Kendini sıkışmış hissediyorsun; seçeneklerin sandığından çok.", ogut: "Bağları sen düğümledin, sen çözebilirsin." }
+    9: { ask: "Kaygı ve gece düşünceleri; kafanda büyüttüğün korkular.", is: "İş stresi uykunu kaçırıyor; birine anlat.", ogut: "Gece büyüyen korku sabah küçülür." }
+    10: { ask: "Bir ilişkinin kesin sonu; ama ardından şafak.", is: "Bir dönemin en dip noktası; buradan sadece yukarı.", ogut: "Dipten sonra yükseliş gelir." }
+    11: { ask: "Meraklı biri, ya da ilişkide soruların zamanı.", is: "Araştır, öğren; ama dedikoduya karışma.", ogut: "Sözlerinin keskinliğine dikkat." }
+    12: { ask: "Doğrudan, hızlı ve bazen sert bir yaklaşım; acele etme.", is: "Kararlı bir atılım; ama kimseyi ezme.", ogut: "Hız, düşünceyi geçmesin." }
+    13: { ask: "Bağımsız ve dürüst; açık konuşan bir sevgi.", is: "Net sınırlar, objektif değerlendirme.", ogut: "Netlik soğukluk değildir." }
+    14: { ask: "Akılcı, adil ama mesafeli bir partner.", is: "Mantıkla yöneten otorite; hukuk ya da strateji.", ogut: "Kararlarını adaletle ver." }
+  tilsim:
+    1: { ask: "Somut bir başlangıç: güven veren, ayağı yere basan bir ilişki.", is: "Yeni bir iş teklifi ya da maddi fırsat.", ogut: "Tohumu ek, sabırla bekle." }
+    2: { ask: "Hayatın yoğunluğunda ilişkiyi dengelemeye çalışmak.", is: "Birden çok işi idare etme; esnek ol.", ogut: "Dengede kalmak sürekli küçük ayarlardır." }
+    3: { ask: "Birlikte bir şey inşa etmek; ortak emek bağı güçlendirir.", is: "Ekip çalışması takdir görüyor.", ogut: "Ustalık birlikte çalışmakla gelir." }
+    4: { ask: "Sahiplenme ya da kıskançlık; sevgiyi sıkı tutma.", is: "Birikim ve güvenlik; ama aşırı temkin büyümeyi durdurur.", ogut: "Avucunu biraz aç." }
+    5: { ask: "Zor bir dönemde dışlanmışlık hissi; destek iste.", is: "Maddi sıkışıklık; yardım yakında, kapıyı çal.", ogut: "Işık yanan pencere hemen yanında." }
+    6: { ask: "Verip alma dengesi; cömert bir sevgi.", is: "Destek, burs, yatırım ya da adil bir paylaşım.", ogut: "Verdiğin kadar alırsın." }
+    7: { ask: "İlişkine yaptığın yatırımın meyvesini bekliyorsun.", is: "Sabırla değerlendirme zamanı; emek karşılığını bulacak.", ogut: "Hasat zamanını zorlama." }
+    8: { ask: "İlişki üzerinde emekle çalışmak; küçük jestler büyür.", is: "Ustalaşma ve dikkatli çalışma; yeni bir beceri.", ogut: "Her gün biraz daha iyi." }
+    9: { ask: "Kendine yeten, bağımsız bir sevgi; önce kendini sev.", is: "Kendi emeğinle kurduğun bolluk; bağımsızlık.", ogut: "Kendi bahçeni sula." }
+    10: { ask: "Kalıcı bir bağ, aile ve gelecek planları.", is: "Uzun vadeli güvenlik, aile işi ya da miras.", ogut: "Kalıcı olan sabırla kurulur." }
+    11: { ask: "Ciddi ve sadık bir başlangıç; acele etmeyen bir ilgi.", is: "Yeni bir eğitim ya da maddi fırsat.", ogut: "Öğrenciliğin değerini bil." }
+    12: { ask: "Güvenilir, istikrarlı ama yavaş ilerleyen bir ilişki.", is: "Sorumlu ve tutarlı çalışma; adım adım ilerle.", ogut: "Yavaş ama emin." }
+    13: { ask: "Besleyici, pratik ve sıcak bir sevgi.", is: "Hem evi hem işi çekip çeviren güç.", ogut: "Kendine de bakmayı unutma." }
+    14: { ask: "Güven veren, cömert ve istikrarlı bir partner.", is: "Maddi başarı, güvenilir yönetici.", ogut: "Bolluğu paylaşmak onu büyütür." }
