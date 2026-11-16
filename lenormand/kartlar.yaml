@@ -1,0 +1,52 @@
+kaynak: "Lenormand geleneği (19. yüzyıl destesi, kamu malı); metin özgün"
+lang: tr
+# konu: "… konusunda" diye okunur; nitelik: ikinci kart olarak geldiğinde birinci kartın konusuna eklenir.
+kartlar:
+  - { no: 1, key: atli, ad: "Atlı", ton: 1, konu: "haberler ve gelişmeler", nitelik: "hızla yaklaşan bir gelişme var", anlam: ["Atlı bir haberci: yolda bir mesaj, hızlı bir gelişme, kapına gelen biri.", "Hareket başlıyor; beklediğin haber yakın."] }
+  - { no: 2, key: yonca, ad: "Yonca", ton: 1, konu: "küçük şanslar", nitelik: "kısa süreli bir şans ve hafiflik var", anlam: ["Yonca küçük ve tatlı bir şanstır: beklenmedik bir fırsat, kısa bir neşe.", "Uzun sürmez ama iyi gelir; yakala."] }
+  - { no: 3, key: gemi, ad: "Gemi", ton: 0, konu: "yolculuk ve uzak yerler", nitelik: "uzaklarla bağlantılı bir hareket var", anlam: ["Gemi yolculuğu, uzakları, ticareti ve özlemi anlatır.", "Bir değişim yolda; ufkun genişliyor."] }
+  - { no: 4, key: ev, ad: "Ev", ton: 1, konu: "ev ve aile", nitelik: "güvenli ve kalıcı bir zemin var", anlam: ["Ev güvenlik, aile ve aidiyettir.", "Sağlam bir temel; özel hayat ve yuva ön planda."] }
+  - { no: 5, key: agac, ad: "Ağaç", ton: 1, konu: "sağlık ve kökler", nitelik: "yavaş ama derin bir büyüme var", anlam: ["Ağaç sağlığı, kökleri ve yavaş büyümeyi anlatır.", "Zaman ve sabır isteyen ama kalıcı olan bir gelişme."] }
+  - { no: 6, key: bulutlar, ad: "Bulutlar", ton: -1, konu: "belirsizlikler", nitelik: "kafa karışıklığı ve belirsizlik var", anlam: ["Bulutlar belirsizlik ve karışıklıktır; net görmek zor.", "Geçici bir sis; karar vermeden önce dağılmasını bekle."] }
+  - { no: 7, key: yilan, ad: "Yılan", ton: -1, konu: "dolambaçlı durumlar", nitelik: "dolambaçlı ya da kıskanç bir etki var", anlam: ["Yılan dolambaçlı yolları, karmaşık durumları ya da kıskanç birini anlatır.", "Düz yol yok; dikkatli ve akıllı hareket et."] }
+  - { no: 8, key: tabut, ad: "Tabut", ton: -1, konu: "bitişler", nitelik: "bir şey sona eriyor", anlam: ["Tabut bir bitişi, kapanışı, dinlenmeyi anlatır; ölüm değil, dönemin sonu.", "Bitmesi gereken bitiyor; yeni şey için yer açılıyor."] }
+  - { no: 9, key: buket, ad: "Buket", ton: 1, konu: "hediyeler ve takdir", nitelik: "güzel bir sürpriz ve takdir var", anlam: ["Buket bir hediye, bir davet, takdir ve güzelliktir.", "Hoş bir sürpriz kapıda; nezaket karşılık buluyor."] }
+  - { no: 10, key: tirpan, ad: "Tırpan", ton: -1, konu: "ani kararlar", nitelik: "ani ve keskin bir kesinti var", anlam: ["Tırpan ani bir kararı, keskin bir kesintiyi anlatır.", "Hızlı bir değişim; dikkatli ol, ama gereksizi biçmek de iyidir."] }
+  - { no: 11, key: kamci, ad: "Kamçı", ton: -1, konu: "tartışmalar ve tekrarlar", nitelik: "tekrar eden bir gerilim var", anlam: ["Kamçı tartışmaları, tekrar eden kalıpları ya da yoğun fiziksel enerjiyi anlatır.", "Aynı konu yeniden açılıyor; döngüyü kırmanın yolunu bul."] }
+  - { no: 12, key: kuslar, ad: "Kuşlar", ton: 0, konu: "konuşmalar ve görüşmeler", nitelik: "konuşmalar ve hafif bir huzursuzluk var", anlam: ["Kuşlar sohbetleri, telefonları, dedikoduyu ve hafif bir sinirliliği anlatır.", "Çok şey konuşuluyor; hangisinin önemli olduğunu ayıkla."] }
+  - { no: 13, key: cocuk, ad: "Çocuk", ton: 1, konu: "yeni başlangıçlar", nitelik: "taze ve küçük bir başlangıç var", anlam: ["Çocuk yeni, küçük ve masum bir başlangıçtır; bazen gerçek bir çocuk.", "Saf bir merakla başla; büyümesi zaman alacak."] }
+  - { no: 14, key: tilki, ad: "Tilki", ton: -1, konu: "iş ve strateji", nitelik: "kurnazca ya da dikkat isteyen bir yön var", anlam: ["Tilki kurnazlığı, iş zekâsını ya da güvenilmez birini anlatır.", "Gözünü açık tut; herkes göründüğü gibi değil."] }
+  - { no: 15, key: ayi, ad: "Ayı", ton: 0, konu: "güç ve kaynaklar", nitelik: "güçlü ve koruyucu bir etki var", anlam: ["Ayı gücü, otoriteyi, parayı ve koruyucu bir figürü anlatır.", "Güçlü biri ya da güçlü bir kaynak devrede."] }
+  - { no: 16, key: yildizlar, ad: "Yıldızlar", ton: 1, konu: "umutlar ve hedefler", nitelik: "umut verici ve ilham dolu bir gidiş var", anlam: ["Yıldızlar umut, netlik ve ilhamdır.", "Yolun açık; hedefine bak ve güvenle ilerle."] }
+  - { no: 17, key: leylek, ad: "Leylek", ton: 1, konu: "değişim ve taşınma", nitelik: "olumlu bir değişim var", anlam: ["Leylek değişimi, taşınmayı ve yeni bir döneme geçişi anlatır.", "Bir şey yer değiştiriyor; iyi yönde."] }
+  - { no: 18, key: kopek, ad: "Köpek", ton: 1, konu: "dostluklar", nitelik: "sadık ve güvenilir bir destek var", anlam: ["Köpek sadık dosttur; güven, destek ve vefa.", "Yanında duran biri var; ona güvenebilirsin."] }
+  - { no: 19, key: kule, ad: "Kule", ton: 0, konu: "kurumlar ve yalnızlık", nitelik: "resmi ya da mesafeli bir yapı var", anlam: ["Kule kurumları, resmiyeti, yalnızlığı ve uzun vadeyi anlatır.", "Bürokrasi ya da tek başına durmak; sağlam ama soğuk."] }
+  - { no: 20, key: bahce, ad: "Bahçe", ton: 1, konu: "sosyal çevre", nitelik: "toplumsal ve açık bir ortam var", anlam: ["Bahçe toplulukları, etkinlikleri ve kamusal alanı anlatır.", "İnsanlar arasında olman gereken bir dönem; görün."] }
+  - { no: 21, key: dag, ad: "Dağ", ton: -1, konu: "engeller", nitelik: "bir engel ve gecikme var", anlam: ["Dağ bir engeldir; gecikme, zorluk, aşılması gereken bir yükselti.", "Sabırla tırman; dolaşmak da bir seçenek."] }
+  - { no: 22, key: yollar, ad: "Yollar", ton: 0, konu: "seçimler", nitelik: "bir seçim ve yol ayrımı var", anlam: ["Yollar bir seçimi, ayrımı ve alternatifleri anlatır.", "Birden çok yol var; karar senin."] }
+  - { no: 23, key: fareler, ad: "Fareler", ton: -1, konu: "kayıplar ve stres", nitelik: "yavaş yavaş aşınan bir şey var", anlam: ["Fareler kayıp, aşınma ve kaygıdır; bir şey yavaşça eksiliyor.", "Küçük sızıntıları erken fark et, büyümesin."] }
+  - { no: 24, key: kalp, ad: "Kalp", ton: 1, konu: "aşk ve sevgi", nitelik: "sevgi dolu ve sıcak bir duygu var", anlam: ["Kalp aşkı, sevgiyi ve şefkati anlatır.", "Duygular açık; sev ve sevilmeye izin ver."] }
+  - { no: 25, key: yuzuk, ad: "Yüzük", ton: 1, konu: "bağlılıklar ve sözleşmeler", nitelik: "bağlayıcı ve kalıcı bir anlaşma var", anlam: ["Yüzük bağlılık, söz, sözleşme ve evliliktir.", "Bir bağ resmileşiyor ya da döngü tamamlanıyor."] }
+  - { no: 26, key: kitap, ad: "Kitap", ton: 0, konu: "bilgi ve sırlar", nitelik: "gizli ya da öğrenilecek bir bilgi var", anlam: ["Kitap sırları, bilgiyi, eğitimi ve henüz açılmamış konuları anlatır.", "Bilmediğin bir şey var; öğrenmeye açık ol."] }
+  - { no: 27, key: mektup, ad: "Mektup", ton: 0, konu: "yazışmalar ve belgeler", nitelik: "yazılı bir mesaj ya da belge var", anlam: ["Mektup yazılı iletişimi, belgeleri ve resmi bildirimleri anlatır.", "Bir mesaj geliyor; satır aralarına dikkat."] }
+  - { no: 28, key: erkek, ad: "Erkek", ton: 0, konu: "önemli bir erkek ya da soran kişi", nitelik: "eril ve doğrudan bir enerji var", anlam: ["Erkek kartı soranı (erkekse) ya da hayatındaki önemli bir erkeği temsil eder.", "Kartın çevresindeki kartlar onun durumunu anlatır."] }
+  - { no: 29, key: kadin, ad: "Kadın", ton: 0, konu: "önemli bir kadın ya da soran kişi", nitelik: "dişil ve sezgisel bir enerji var", anlam: ["Kadın kartı soranı (kadınsa) ya da hayatındaki önemli bir kadını temsil eder.", "Kartın çevresindeki kartlar onun durumunu anlatır."] }
+  - { no: 30, key: zambak, ad: "Zambak", ton: 1, konu: "huzur ve olgunluk", nitelik: "huzurlu ve olgun bir hava var", anlam: ["Zambak huzuru, olgunluğu, ahlakı ve uyumu anlatır.", "Sakin, bilgece bir dönem; acele etmeye gerek yok."] }
+  - { no: 31, key: gunes, ad: "Güneş", ton: 1, konu: "başarı ve enerji", nitelik: "parlak ve başarılı bir sonuç var", anlam: ["Güneş başarıyı, enerjiyi ve iyimserliği anlatır; destenin en güçlü olumlu kartı.", "Işık senden yana; ilerle."] }
+  - { no: 32, key: ay, ad: "Ay", ton: 1, konu: "duygular ve tanınma", nitelik: "duygusal ve görünür bir yan var", anlam: ["Ay duyguları, sezgiyi, yaratıcılığı ve şöhreti anlatır.", "Emeğin görülüyor; duygularını dinle."] }
+  - { no: 33, key: anahtar, ad: "Anahtar", ton: 1, konu: "çözümler", nitelik: "kesin bir çözüm var", anlam: ["Anahtar çözümü, kesinliği ve açılan kapıyı anlatır.", "Aradığın cevap bulunuyor; kapı açılıyor."] }
+  - { no: 34, key: baliklar, ad: "Balıklar", ton: 1, konu: "para ve ticaret", nitelik: "bereketli ve akışkan bir kazanç var", anlam: ["Balıklar parayı, ticareti ve bolluğu anlatır.", "Kaynaklar akıyor; değerlendir."] }
+  - { no: 35, key: capa, ad: "Çapa", ton: 1, konu: "istikrar ve iş", nitelik: "sağlam ve kalıcı bir dayanak var", anlam: ["Çapa istikrarı, kalıcılığı ve sağlam işi anlatır.", "Bir yere demir atıyorsun; güvenli bir liman."] }
+  - { no: 36, key: hac, ad: "Haç", ton: -1, konu: "yükler ve inanç", nitelik: "taşınması gereken bir yük var", anlam: ["Haç bir yükü, sınavı ve kaderle ilgili bir meseleyi anlatır.", "Ağır ama anlamlı; inanç seni taşır."] }
+acilimlar:
+  uc: { ad: "Üç kart", pozisyonlar: ["Başlangıç", "Merkez", "Sonuç"] }
+  bes: { ad: "Beş kart", pozisyonlar: ["Geçmiş", "Yakın geçmiş", "Merkez", "Yakın gelecek", "Gelecek"] }
+  dokuz: { ad: "Dokuz kart (3×3)", pozisyonlar: ["Geçmiş", "Şimdi", "Gelecek", "Geçmiş", "Merkez", "Gelecek", "Geçmiş", "Şimdi", "Gelecek"] }
+cift_sablon:
+  - "{a} ile {b} yan yana: {aKonu} konusunda {bNitelik}."
+  - "{a} ve {b} birlikte okunur: {aKonu} konusunda {bNitelik}."
+  - "Önce {a}, sonra {b}: {aKonu} konusunda {bNitelik}."
+genel:
+  olumlu: "Açılımın genel havası olumlu: kartların çoğu destekleyici."
+  olumsuz: "Açılımda zorlayıcı kartlar ağır basıyor: dikkatli ve sabırlı ilerlemek gerekiyor."
+  karisik: "Açılım karışık: hem destek hem engel var; denge senin elinde."

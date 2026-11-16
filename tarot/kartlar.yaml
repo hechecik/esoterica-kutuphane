@@ -1,0 +1,220 @@
+kaynak: "Esoterica tarot kütüphanesi; Rider-Waite-Smith geleneği (1909, kamu malı) temel alınarak özgün Türkçe metin"
+lang: tr
+buyuk:
+  - { no: 0, key: deli, ad: "Deli", anahtar: "başlangıç, saflık, sıçrama",
+      duz: ["Deli uçurumun kenarında, gözü gökyüzünde: yeni bir yolculuğun ilk adımı. Bilmemek burada bir eksiklik değil, bir özgürlük.", "Hesapsız bir cesaret zamanı. Her şeyi bilmeden de başlayabilirsin; yol yürüdükçe açılır."],
+      ters: ["Deli ters: düşünmeden atılan adım ya da korkudan atılamayan adım. Ya fren ya gaz eksik.", "Saflık burada dikkatsizliğe dönüşebilir; heyecanına bir harita ekle."],
+      ask: "Aşkta Deli: yeni, hafif ve kuralsız bir başlangıç; etiket koymadan yaşanan bir heyecan.",
+      is: "İşte Deli: yeni bir alan, deneme, risk; deneyim eksikliğini cesaretle kapatacaksın.",
+      ogut: "Atla, ama nereye bastığına da bak." }
+  - { no: 1, key: buyucu, ad: "Büyücü", anahtar: "irade, beceri, yaratma",
+      duz: ["Büyücü'nün masasında dört element hazır: elindeki araçlar yeterli. Niyetini eyleme dökme zamanı.", "Becerin, sözün ve iraden aynı hizada. Ne istediğini bil; o zaman yapabilirsin."],
+      ters: ["Büyücü ters: yetenek var ama dağınık; ya da araçlar başkasını kandırmak için kullanılıyor.", "Kendini küçümseme ya da başkasının oyununa gelme; ikisi de enerjini çalar."],
+      ask: "Aşkta Büyücü: çekim güçlü, ilk adımı atma yeteneği sende. Sözlerin büyüleyici; dürüst kal.",
+      is: "İşte Büyücü: yeni bir proje, bir sunum, bir girişim; becerilerini göstermenin tam zamanı.",
+      ogut: "Elindekiyle başla; eksik olan, yolda tamamlanır." }
+  - { no: 2, key: basrahibe, ad: "Başrahibe", anahtar: "sezgi, sır, sessizlik",
+      duz: ["Başrahibe perdenin önünde oturuyor: cevap dışarıda değil, içeride. Sessizlik şu an en iyi danışman.", "Söylenmeyen bir şey var; sezgin onu zaten biliyor. Acele etmeden dinle."],
+      ters: ["Başrahibe ters: iç sesi bastırmak ya da sırların ağırlığı. Sezgini görmezden geliyorsun.", "Gizlenen bir bilgi açığa çıkmak üzere olabilir; hazırlıklı ol."],
+      ask: "Aşkta Başrahibe: sessiz bir çekim, henüz dile gelmemiş duygular; sabır ve sezgi.",
+      is: "İşte Başrahibe: bilgi topla, kartlarını açma; zamanı gelince konuşursun.",
+      ogut: "Cevabı soruda değil, sessizlikte ara." }
+  - { no: 3, key: imparatorice, ad: "İmparatoriçe", anahtar: "bereket, şefkat, yaratıcılık",
+      duz: ["İmparatoriçe bahçesinde: ekilen yeşeriyor. Bereket, güzellik ve büyüme zamanı.", "Yaratıcılığın ve şefkatin bolluk getiriyor; kendine ve sevdiklerine bakım ver."],
+      ters: ["İmparatoriçe ters: verirken kendini tüketmek ya da büyümenin tıkanması.", "Fazla bağımlılık ya da yaratıcı kuraklık; önce kendini besle."],
+      ask: "Aşkta İmparatoriçe: sıcak, besleyici, bereketli bir bağ; aile ya da çocuk teması olabilir.",
+      is: "İşte İmparatoriçe: yaratıcı projeler meyve veriyor; bolluk ve keyifle çalışma.",
+      ogut: "Büyümek için bakım gerekir; sulamayı unutma." }
+  - { no: 4, key: imparator, ad: "İmparator", anahtar: "düzen, otorite, yapı",
+      duz: ["İmparator tahtında: kurallar, sınırlar ve sağlam bir yapı. Düzen kurma zamanı.", "Liderlik ve sorumluluk sende; kararlı ol, planına sadık kal."],
+      ters: ["İmparator ters: katılık, aşırı kontrol ya da otoriteyle çatışma.", "Ya fazla sert ya fazla dağınık; yapının seni boğmadan taşıması gerek."],
+      ask: "Aşkta İmparator: güven veren, koruyucu ama kontrolcü olabilen bir partner; istikrar.",
+      is: "İşte İmparator: yöneticilik, yapılandırma, resmi süreçler; otoriteyle iyi ilişki kur.",
+      ogut: "Sınır koymak sevgisizlik değil, sağlamlıktır." }
+  - { no: 5, key: basrahip, ad: "Başrahip", anahtar: "gelenek, öğreti, rehber",
+      duz: ["Başrahip öğretiyi temsil eder: denenmiş yollar, bir öğretmen, bir topluluk. Bilgeliği bilenden öğren.", "Gelenek ve kurumlar şu an destekleyici; kuralların içinde güvenli bir yol var."],
+      ters: ["Başrahip ters: dayatılan kurallara isyan ya da kendi yolunu bulma ihtiyacı.", "Hazır cevaplar sana yetmiyor; kendi inancını sorgulama zamanı."],
+      ask: "Aşkta Başrahip: geleneksel bir bağ, resmiyet, evlilik ya da ailelerin onayı.",
+      is: "İşte Başrahip: eğitim, sertifika, kurumsal yapı; bir akıl hocası işine yarar.",
+      ogut: "Bir öğretmen bul ya da bir öğretmen ol." }
+  - { no: 6, key: asiklar, ad: "Âşıklar", anahtar: "seçim, birleşme, değerler",
+      duz: ["Âşıklar kalbin seçimidir: değerlerinle uyumlu bir birleşme, derin bir bağ.", "Bir yol ayrımındasın; doğru seçim, kalbinle aklının aynı yeri gösterdiği yerdedir."],
+      ters: ["Âşıklar ters: kararsızlık, uyumsuz değerler ya da bir ilişkide dengesizlik.", "Seçimini başkasının yerine yaşamaya çalışıyorsun; kendi değerine dön."],
+      ask: "Aşkta Âşıklar: güçlü bir çekim, karşılıklı bağlılık; ciddi bir ilişki kararı.",
+      is: "İşte Âşıklar: önemli bir ortaklık ya da değerlerine göre verilecek bir karar.",
+      ogut: "Seçerken kendine sor: bu, benim gerçekten değer verdiğim şey mi?" }
+  - { no: 7, key: araba, ad: "Savaş Arabası", anahtar: "irade, zafer, ilerleme",
+      duz: ["Savaş Arabası iki zıt atı tek yöne sürer: irade ve odakla zafer.", "Engeller var ama kontrol sende; kararlılık seni ileri taşıyor."],
+      ters: ["Savaş Arabası ters: yön kaybı, çatışan istekler, kontrolün elden gitmesi.", "Hızlanmadan önce dizginleri topla; hangi yöne gittiğini netleştir."],
+      ask: "Aşkta Savaş Arabası: ilişkide ilerleme, bir hedefe birlikte yürümek; ya da birinin dizginleri tutması.",
+      is: "İşte Savaş Arabası: rekabette başarı, bir projeyi sona kadar götürmek, iş için yolculuk.",
+      ogut: "Odaklan; dağınık güç zafer getirmez." }
+  - { no: 8, key: guc, ad: "Güç", anahtar: "sabır, iç güç, şefkat",
+      duz: ["Güç kartında kadın aslanı şefkatle yatıştırır: gerçek güç kaba kuvvet değil, sakin cesarettir.", "İçindeki vahşi tarafı bastırmadan yönetebiliyorsun; sabır seni kazandıracak."],
+      ters: ["Güç ters: kendinden şüphe, öfke ya da korkuya teslim olmak.", "İçindeki aslan ya kükrüyor ya saklanıyor; ikisi de dengeyi bozuyor."],
+      ask: "Aşkta Güç: sabırla güçlenen bir bağ; yumuşaklık sertlikten daha etkili.",
+      is: "İşte Güç: zor bir kişiyi ya da durumu sakinlikle yönetmek; dayanıklılık.",
+      ogut: "Yumuşaklıkla tutulan, kuvvetle tutulandan uzun kalır." }
+  - { no: 9, key: ermis, ad: "Ermiş", anahtar: "iç yolculuk, yalnızlık, bilgelik",
+      duz: ["Ermiş elinde fenerle dağda: içe dönme, düşünme ve kendi ışığını bulma zamanı.", "Kalabalıktan uzaklaşmak sana cevap verecek; yalnızlık burada bir arınma."],
+      ters: ["Ermiş ters: yalnızlığın yalıtılmışlığa dönüşmesi ya da içe bakmaktan kaçmak.", "Ya fazla çekildin ya hiç durmadın; denge bul."],
+      ask: "Aşkta Ermiş: bir ara verme, kendini tanıma dönemi; ya da derin ama sessiz bir bağ.",
+      is: "İşte Ermiş: araştırma, uzmanlık, tek başına derin çalışma; acele kararlardan kaçın.",
+      ogut: "Fenerini önce kendi yoluna tut." }
+  - { no: 10, key: cark, ad: "Kader Çarkı", anahtar: "döngü, şans, dönüm noktası",
+      duz: ["Kader Çarkı dönüyor: değişim kapıda, şans yön değiştiriyor. Akışla birlikte hareket et.", "Bir döngü kapanıyor, yenisi açılıyor; fırsatı gördüğünde yakala."],
+      ters: ["Kader Çarkı ters: istenmeyen bir değişim ya da tekrar eden bir kalıp.", "Aynı noktaya dönüp duruyorsan, çarkı değil kendi tepkini değiştir."],
+      ask: "Aşkta Kader Çarkı: beklenmedik bir karşılaşma ya da ilişkide bir dönüm noktası.",
+      is: "İşte Kader Çarkı: şanslı bir fırsat, bir değişim; esnek olan kazanır.",
+      ogut: "Çark döner; tepede kibirlenme, dipte umutsuzlanma." }
+  - { no: 11, key: adalet, ad: "Adalet", anahtar: "denge, hakikat, sonuç",
+      duz: ["Adalet terazisi dengede: ne ekersen onu biçersin. Dürüstlük ve netlik zamanı.", "Hukuki, resmi ya da ahlaki bir karar adil biçimde sonuçlanıyor."],
+      ters: ["Adalet ters: dengesizlik, haksızlık ya da sorumluluktan kaçmak.", "Gerçeği görmezden gelmek sonucu değiştirmez; yüzleşmek gerekiyor."],
+      ask: "Aşkta Adalet: eşit ve dürüst bir ilişki; ya da bir ilişkinin hakkaniyetle değerlendirilmesi.",
+      is: "İşte Adalet: sözleşmeler, hukuki işler, adil bir karar; belgeleri dikkatle oku.",
+      ogut: "Dürüst ol; önce kendine." }
+  - { no: 12, key: asilan, ad: "Asılan Adam", anahtar: "bekleyiş, teslimiyet, yeni bakış",
+      duz: ["Asılan Adam baş aşağı ama huzurlu: dünyaya ters taraftan bakınca yeni bir şey görüyor.", "Şimdi eylem değil bekleyiş zamanı; bırakınca anlayacaksın."],
+      ters: ["Asılan Adam ters: anlamsız bir bekleyiş, fedakârlığın sömürüye dönüşmesi.", "Askıda kalmaya alıştın; karar verme vakti geldi."],
+      ask: "Aşkta Asılan Adam: belirsizlik, bekleme, bir fedakârlık; ilişkiye farklı bir açıdan bak.",
+      is: "İşte Asılan Adam: projelerde duraklama; bu arayı stratejini gözden geçirmek için kullan.",
+      ogut: "Bazen ilerlemek için durmak gerekir." }
+  - { no: 13, key: olum, ad: "Ölüm", anahtar: "bitiş, dönüşüm, yeniden doğuş",
+      duz: ["Ölüm kartı fiziksel bir son değil, bir dönemin kapanışıdır: eski deri dökülüyor, yenisi geliyor.", "Bir şey bitiyor ki başka bir şey başlayabilsin; bırakmak bu kartın armağanı."],
+      ters: ["Ölüm ters: bitmesi gerekeni tutmaya çalışmak; değişime direnç.", "Kapıyı aralık bırakmak acıyı uzatır; kapatmak özgürleştirir."],
+      ask: "Aşkta Ölüm: bir ilişkinin ya da ilişkideki eski hâlin sonu; yeni bir sayfa.",
+      is: "İşte Ölüm: bir işin ya da dönemin kapanışı, köklü bir değişim, yeni bir başlangıca hazırlık.",
+      ogut: "Biten için yas tut, gelen için kapıyı aç." }
+  - { no: 14, key: denge, ad: "Denge", anahtar: "ölçü, uyum, sabır",
+      duz: ["Denge kartında melek iki kap arasında suyu aktarıyor: ölçü, uyum ve sabırlı bir karışım.", "Aşırılıklardan uzak, orta yolda bir iyileşme; acele yok, akış var."],
+      ters: ["Denge ters: aşırılık, sabırsızlık ya da uyumsuz parçaları zorla birleştirmek.", "Ölçü kaçmış; bir adım geri çekil ve yeniden dengele."],
+      ask: "Aşkta Denge: uyumlu, sakin ve iyileştirici bir ilişki; karşılıklı anlayış.",
+      is: "İşte Denge: iş birliği, sabırlı ilerleme, farklı unsurları uyumla birleştirme.",
+      ogut: "Ne fazla ne eksik; tam kıvamında." }
+  - { no: 15, key: seytan, ad: "Şeytan", anahtar: "bağımlılık, arzu, gölge",
+      duz: ["Şeytan kartındaki zincirler gevşektir: bağlı olduğun şeyi bırakmak sandığından kolay.", "Arzular, alışkanlıklar ya da bir bağımlılık seni yönetiyor olabilir; gölgeni gör."],
+      ters: ["Şeytan ters: zincirleri çıkarma, bir bağımlılıktan kurtuluş, farkındalık.", "Seni bağlayan şeyi gördün; şimdi özgürleşme zamanı."],
+      ask: "Aşkta Şeytan: yoğun tutku, ama kontrol ya da bağımlılık riski; sağlıklı mı, sorgula.",
+      is: "İşte Şeytan: para ya da güç için kendinden ödün verme riski; seni tutan şeye bak.",
+      ogut: "Zinciri sen taşıyorsan, açacak olan da sensin." }
+  - { no: 16, key: kule, ad: "Kule", anahtar: "sarsıntı, ani değişim, uyanış",
+      duz: ["Kule'ye yıldırım düşüyor: sağlam sanılan bir yapı çöküyor. Sarsıcı, ama gerçeği ortaya çıkarıyor.", "Ani bir değişim ya da açığa çıkan bir gerçek; yıkılan şey zaten çürüktü."],
+      ters: ["Kule ters: kaçınılan bir yüzleşme ya da kontrollü bir çöküş.", "Değişimi ertelemek onu durdurmaz; küçük adımlarla kendin başlat."],
+      ask: "Aşkta Kule: ilişkide ani bir sarsıntı, bir itiraf ya da gerçeğin ortaya çıkması.",
+      is: "İşte Kule: beklenmedik bir değişiklik, yapının yeniden kurulması; esnek ol.",
+      ogut: "Yıkılan yerde daha sağlam bir şey kurabilirsin." }
+  - { no: 17, key: yildiz, ad: "Yıldız", anahtar: "umut, şifa, ilham",
+      duz: ["Yıldız fırtınadan sonra gelir: umut, şifa ve sakin bir ilham. Kendine yeniden inanma zamanı.", "Ruhun dinleniyor, yaralar kapanıyor; geleceğe güvenle bakabilirsin."],
+      ters: ["Yıldız ters: umutsuzluk ya da kendine inancı kaybetmek.", "Işık hâlâ orada; bulutların arkasına bakmayı dene."],
+      ask: "Aşkta Yıldız: iyileştirici, umut veren bir bağ; ya da kalbin yeniden açılması.",
+      is: "İşte Yıldız: ilham dolu bir dönem, yaratıcı fikirler, uzun vadeli umutlu planlar.",
+      ogut: "Umut bir yön değil, bir yakıt; yürümeye devam et." }
+  - { no: 18, key: ay, ad: "Ay", anahtar: "belirsizlik, sezgi, rüya",
+      duz: ["Ay kartında yol puslu: her şey göründüğü gibi değil. Sezgin rehberin, korkuların ise yanıltıcı.", "Bilinçaltından gelen rüyalar ve işaretler önemli; ama acele karar verme."],
+      ters: ["Ay ters: pus dağılıyor, kafa karışıklığı netleşiyor; bir yanılsama çözülüyor.", "Korktuğun şey sandığın kadar büyük değilmiş."],
+      ask: "Aşkta Ay: belirsizlik, söylenmeyenler, hayal ile gerçeğin karışması; netlik bekle.",
+      is: "İşte Ay: belirsiz koşullar, eksik bilgi; sözleşmeleri imzalamadan önce iyice araştır.",
+      ogut: "Gece yürüyorsan adımlarını yavaşlat." }
+  - { no: 19, key: gunes, ad: "Güneş", anahtar: "neşe, başarı, açıklık",
+      duz: ["Güneş kartı tarotun en parlak kartıdır: neşe, başarı, sağlık ve açıklık.", "Her şey aydınlanıyor; içindeki çocuk gibi sevin, kendini göster."],
+      ters: ["Güneş ters: neşe gecikiyor ya da bulutlu; ama yine de güneş orada.", "Fazla iyimserlik ya da kendini abartma; ışığı paylaş."],
+      ask: "Aşkta Güneş: mutlu, açık ve sıcak bir ilişki; birlikte parlamak.",
+      is: "İşte Güneş: başarı, takdir, görünürlük; emeklerinin karşılığını alıyorsun.",
+      ogut: "Işığını saklama; ısıtırsın." }
+  - { no: 20, key: mahkeme, ad: "Mahkeme", anahtar: "uyanış, çağrı, yeniden doğuş",
+      duz: ["Mahkeme kartında borazan çalıyor: bir çağrı, bir uyanış, geçmişin hesaplaşması ve yeni bir başlangıç.", "Kendini affet, geçmişi topla ve yükselmeye hazır ol."],
+      ters: ["Mahkeme ters: çağrıyı duymazdan gelmek, kendini yargılamak.", "Geçmişin seni tutuyor; ders alıp bırakmak gerekiyor."],
+      ask: "Aşkta Mahkeme: eski bir ilişkinin yeniden gündeme gelmesi ya da ilişkide büyük bir karar.",
+      is: "İşte Mahkeme: kariyerinde bir çağrı, yeni bir aşama; hayalini kurduğun işe adım.",
+      ogut: "Çağrıyı duyduysan cevap ver." }
+  - { no: 21, key: dunya, ad: "Dünya", anahtar: "tamamlanma, bütünlük, başarı",
+      duz: ["Dünya kartı bir döngünün tamamlanmasıdır: hedefe ulaşıldı, parça bütün oldu.", "Başarı, kutlama ve yeni bir döngünün eşiği; dünyaya açılma zamanı."],
+      ters: ["Dünya ters: tamamlanamayan bir iş, son adımda tökezlemek.", "Bitirmediğin bir şey var; onu tamamlarsan özgürleşirsin."],
+      ask: "Aşkta Dünya: tamamlanmış, olgun ve bütünlüklü bir ilişki; belki uzaklarla ilgili bir bağ.",
+      is: "İşte Dünya: büyük bir projenin başarıyla bitişi, uluslararası fırsatlar.",
+      ogut: "Kutla, sonra yeni yolculuğa çık." }
+seriler:
+  asa: { ad: "Asalar", element: "ateş", tema: "tutku, eylem, yaratıcılık, kariyer enerjisi",
+         ask: "Asa serisi aşkta tutkuyu ve heyecanı anlatır.", is: "Asa serisi işte girişimi, hırsı ve yaratıcı projeleri anlatır." }
+  kupa: { ad: "Kupalar", element: "su", tema: "duygular, ilişkiler, sezgi",
+          ask: "Kupa serisi aşkın doğal dilidir: duygular, bağlar ve kalp.", is: "Kupa serisi işte ekip ruhunu, tatmini ve duygusal yatırımı anlatır." }
+  kilic: { ad: "Kılıçlar", element: "hava", tema: "düşünce, çatışma, gerçek, karar",
+           ask: "Kılıç serisi aşkta iletişimi, tartışmayı ve zihinsel mesafeyi anlatır.", is: "Kılıç serisi işte kararları, stratejiyi ve rekabeti anlatır." }
+  tilsim: { ad: "Tılsımlar", element: "toprak", tema: "para, beden, emek, somut sonuç",
+            ask: "Tılsım serisi aşkta istikrarı, güveni ve somut bağlılığı anlatır.", is: "Tılsım serisi işte parayı, emeği ve kalıcı sonuçları anlatır." }
+rutbeler:
+  1: { ad: "As", tema: "tohum, saf başlangıç" }
+  2: { ad: "İkili", tema: "denge, seçim, ortaklık" }
+  3: { ad: "Üçlü", tema: "büyüme, ilk sonuç" }
+  4: { ad: "Dörtlü", tema: "istikrar, duraklama" }
+  5: { ad: "Beşli", tema: "çatışma, kayıp, sınav" }
+  6: { ad: "Altılı", tema: "uyum, geçiş, iyileşme" }
+  7: { ad: "Yedili", tema: "sınama, değerlendirme" }
+  8: { ad: "Sekizli", tema: "hareket, ustalık" }
+  9: { ad: "Dokuzlu", tema: "doruk öncesi, yoğunlaşma" }
+  10: { ad: "Onlu", tema: "döngünün sonu, tamamlanma" }
+  11: { ad: "Uşak", tema: "haber, öğrenci, merak" }
+  12: { ad: "Şövalye", tema: "hareket, arayış, aşırılık" }
+  13: { ad: "Kraliçe", tema: "olgunluk, iç ustalık" }
+  14: { ad: "Kral", tema: "otorite, dış ustalık" }
+kucuk:
+  asa:
+    1: { duz: "Asa ası: yeni bir tutku kıvılcımı, bir fikir, bir başlangıç enerjisi.", ters: "Asa ası ters: gecikmiş bir başlangıç, sönen heves." }
+    2: { duz: "Asa ikilisi: dünyayı elinde tutarken ufka bakmak; plan yapma ve karar zamanı.", ters: "Asa ikilisi ters: korkudan konfor alanında kalmak." }
+    3: { duz: "Asa üçlüsü: gemiler yolda; genişleme, uzaklarla bağlantı, ilk sonuçlar.", ters: "Asa üçlüsü ters: gecikmeler, beklenen geri dönüşün gelmemesi." }
+    4: { duz: "Asa dörtlüsü: kutlama, eve dönüş, sağlam bir temel üzerinde sevinç.", ters: "Asa dörtlüsü ters: ev içinde huzursuzluk ya da ertelenen kutlama." }
+    5: { duz: "Asa beşlisi: rekabet, fikir çatışması, enerjilerin çarpışması.", ters: "Asa beşlisi ters: çatışmadan kaçmak ya da tartışmanın bitmesi." }
+    6: { duz: "Asa altılısı: zafer alayı, takdir, başarının görünür olması.", ters: "Asa altılısı ters: alkış beklerken hayal kırıklığı, gururun incinmesi." }
+    7: { duz: "Asa yedilisi: yüksek yerde savunma; görüşünü korumak için direniyorsun.", ters: "Asa yedilisi ters: bunalmak, savunmayı bırakmak." }
+    8: { duz: "Asa sekizlisi: hızlı haber, hızlı gelişme, havada uçan oklar.", ters: "Asa sekizlisi ters: gecikmeler, aceleden doğan karışıklık." }
+    9: { duz: "Asa dokuzlusu: yorgun ama ayakta; son bir direniş, dayanıklılık.", ters: "Asa dokuzlusu ters: tükenmişlik, güvensizlik." }
+    10: { duz: "Asa onlusu: fazla yük; her şeyi tek başına taşımaya çalışıyorsun.", ters: "Asa onlusu ters: yükü bırakmak, görev paylaşmak." }
+    11: { duz: "Asaların uşağı: heyecan verici bir haber, yeni bir merak, keşif ruhu.", ters: "Asaların uşağı ters: odaksız heves, yarım kalan fikirler." }
+    12: { duz: "Asaların şövalyesi: macera, hızlı hareket, tutkulu bir atılım.", ters: "Asaların şövalyesi ters: düşüncesizlik, sabırsızlık." }
+    13: { duz: "Asaların kraliçesi: özgüvenli, sıcak, karizmatik; enerjisiyle ilham veren biri.", ters: "Asaların kraliçesi ters: kıskançlık ya da özgüven eksikliği." }
+    14: { duz: "Asaların kralı: vizyoner lider; büyük düşünen ve harekete geçiren.", ters: "Asaların kralı ters: zorbalık ya da aşırı beklenti." }
+  kupa:
+    1: { duz: "Kupa ası: taşan bir kalp; yeni bir sevgi, duygusal başlangıç, şefkat.", ters: "Kupa ası ters: duyguları tutmak, kalbin kapanması." }
+    2: { duz: "Kupa ikilisi: karşılıklı çekim, ortaklık, kadeh kaldıran iki kalp.", ters: "Kupa ikilisi ters: uyumsuzluk, kopukluk." }
+    3: { duz: "Kupa üçlüsü: dostluk, kutlama, birlikte sevinmek.", ters: "Kupa üçlüsü ters: dedikodu, aşırılık ya da dostluklarda gerginlik." }
+    4: { duz: "Kupa dörtlüsü: ilgisizlik, sunulana bakmamak; içe kapanma.", ters: "Kupa dörtlüsü ters: yeni bir fırsatı fark etmek, uyanış." }
+    5: { duz: "Kupa beşlisi: dökülen kupalara yas; ama arkada iki kupa hâlâ dolu.", ters: "Kupa beşlisi ters: kabullenme, ileriye bakma." }
+    6: { duz: "Kupa altılısı: nostalji, çocukluk anıları, eski bir dostun dönüşü.", ters: "Kupa altılısı ters: geçmişe takılı kalmak." }
+    7: { duz: "Kupa yedilisi: çok fazla seçenek, hayaller, yanılsamalar; gerçek olanı seç.", ters: "Kupa yedilisi ters: netlik, hayalden gerçeğe dönüş." }
+    8: { duz: "Kupa sekizlisi: tatmin etmeyeni geride bırakıp daha derin bir anlam aramaya gitmek.", ters: "Kupa sekizlisi ters: gitmekten korkmak ya da amaçsız dolaşmak." }
+    9: { duz: "Kupa dokuzlusu: dilek kartı; tatmin, keyif, dileğin gerçekleşmesi.", ters: "Kupa dokuzlusu ters: yüzeysel tatmin, kibir." }
+    10: { duz: "Kupa onlusu: gökkuşağı altında mutlu bir aile; duygusal doyum.", ters: "Kupa onlusu ters: aile içi uyumsuzluk." }
+    11: { duz: "Kupaların uşağı: tatlı bir haber, bir aşk mesajı, yaratıcı bir sezgi.", ters: "Kupaların uşağı ters: duygusal olgunlaşmamışlık." }
+    12: { duz: "Kupaların şövalyesi: romantik bir teklif, kalpten gelen bir davet.", ters: "Kupaların şövalyesi ters: hayalperestlik, tutulmayan sözler." }
+    13: { duz: "Kupaların kraliçesi: şefkatli, sezgisel, duygusal olarak olgun biri.", ters: "Kupaların kraliçesi ters: aşırı hassasiyet, duygusal bağımlılık." }
+    14: { duz: "Kupaların kralı: duygularına hâkim, sakin ve bilge biri.", ters: "Kupaların kralı ters: duygusal manipülasyon ya da bastırılmış duygular." }
+  kilic:
+    1: { duz: "Kılıç ası: berrak bir fikir, gerçeğin ortaya çıkması, keskin bir karar.", ters: "Kılıç ası ters: kafa karışıklığı, yanlış karar." }
+    2: { duz: "Kılıç ikilisi: gözler bağlı bir kararsızlık; seçmekten kaçınmak.", ters: "Kılıç ikilisi ters: bilgi açığa çıkıyor, karar zamanı." }
+    3: { duz: "Kılıç üçlüsü: kalp kırıklığı, acı bir gerçek; ama yağmur geçer.", ters: "Kılıç üçlüsü ters: iyileşme, acının hafiflemesi." }
+    4: { duz: "Kılıç dörtlüsü: dinlenme, ara verme, iyileşme için çekilme.", ters: "Kılıç dörtlüsü ters: huzursuzluk, dinlenememe." }
+    5: { duz: "Kılıç beşlisi: kazanılan ama tadı kaçan bir zafer; çatışmanın bedeli.", ters: "Kılıç beşlisi ters: barışma, geçmişi geride bırakma." }
+    6: { duz: "Kılıç altılısı: sakin sulara geçiş; zor bir dönemden uzaklaşmak.", ters: "Kılıç altılısı ters: geçişte zorluk, geride kalanın ağırlığı." }
+    7: { duz: "Kılıç yedilisi: strateji, gizlilik ya da birinin sinsice davranması; dikkat.", ters: "Kılıç yedilisi ters: gerçeğin ortaya çıkması, itiraf." }
+    8: { duz: "Kılıç sekizlisi: kendi korkularınla bağlanmışsın; çıkış sandığından yakın.", ters: "Kılıç sekizlisi ters: özgürleşme, yeni bakış." }
+    9: { duz: "Kılıç dokuzlusu: gece endişeleri, uykusuzluk; korkular gerçekten büyük görünüyor.", ters: "Kılıç dokuzlusu ters: endişenin azalması, umut." }
+    10: { duz: "Kılıç onlusu: dibe vurmak; daha kötüsü yok, artık yükseliş başlar.", ters: "Kılıç onlusu ters: toparlanma, ayağa kalkma." }
+    11: { duz: "Kılıçların uşağı: meraklı, gözlemci; bir haber ya da yeni bir fikir.", ters: "Kılıçların uşağı ters: dedikodu, düşüncesiz söz." }
+    12: { duz: "Kılıçların şövalyesi: hızlı, kararlı, doğrudan; fikir için atılım.", ters: "Kılıçların şövalyesi ters: saldırganlık, acele." }
+    13: { duz: "Kılıçların kraliçesi: net, dürüst, bağımsız; gerçeği söyleyen biri.", ters: "Kılıçların kraliçesi ters: soğukluk, sert eleştiri." }
+    14: { duz: "Kılıçların kralı: mantık ve adaletle karar veren otorite.", ters: "Kılıçların kralı ters: gücün kötüye kullanılması, katılık." }
+  tilsim:
+    1: { duz: "Tılsım ası: maddi bir fırsat, sağlam bir başlangıç, bereket tohumu.", ters: "Tılsım ası ters: kaçan fırsat, kötü planlama." }
+    2: { duz: "Tılsım ikilisi: dengede tutulan işler; esnek bütçe, birden çok sorumluluk.", ters: "Tılsım ikilisi ters: dengeyi kaybetmek, aşırı yük." }
+    3: { duz: "Tılsım üçlüsü: ekip çalışması, ustalık, takdir edilen emek.", ters: "Tılsım üçlüsü ters: uyumsuz ekip, özensiz iş." }
+    4: { duz: "Tılsım dörtlüsü: sıkı tutmak; güvenlik isteği, biriktirme.", ters: "Tılsım dörtlüsü ters: cimrilik ya da kontrolsüz harcama." }
+    5: { duz: "Tılsım beşlisi: maddi zorluk, dışarıda kalmışlık; ama yardım yakında.", ters: "Tılsım beşlisi ters: toparlanma, desteğin gelmesi." }
+    6: { duz: "Tılsım altılısı: vermek ve almak; cömertlik, destek, adil paylaşım.", ters: "Tılsım altılısı ters: borç, dengesiz alışveriş." }
+    7: { duz: "Tılsım yedilisi: emeğin meyvesini bekleme; sabırlı değerlendirme.", ters: "Tılsım yedilisi ters: sabırsızlık, karşılıksız emek." }
+    8: { duz: "Tılsım sekizlisi: ustalaşma, dikkatli çalışma, bir zanaatı öğrenmek.", ters: "Tılsım sekizlisi ters: aceleye getirilmiş iş, mükemmeliyetçilik." }
+    9: { duz: "Tılsım dokuzlusu: bağımsız bolluk; kendi emeğinle kurduğun bahçe.", ters: "Tılsım dokuzlusu ters: aşırı çalışma, bağımlılık." }
+    10: { duz: "Tılsım onlusu: kalıcı servet, aile mirası, köklü güvenlik.", ters: "Tılsım onlusu ters: aile içi para anlaşmazlıkları." }
+    11: { duz: "Tılsımların uşağı: öğrenme, yeni bir maddi fırsat, ciddi bir öğrenci.", ters: "Tılsımların uşağı ters: odaksızlık, erteleme." }
+    12: { duz: "Tılsımların şövalyesi: yavaş ama emin adımlar, sorumluluk, güvenilirlik.", ters: "Tılsımların şövalyesi ters: durgunluk, aşırı temkin." }
+    13: { duz: "Tılsımların kraliçesi: pratik, besleyici, bereketli; evi ve işi bir arada çeviren.", ters: "Tılsımların kraliçesi ters: kendini ihmal, aşırı endişe." }
+    14: { duz: "Tılsımların kralı: maddi başarı, güvenilir otorite, cömert bir patron.", ters: "Tılsımların kralı ters: hırs, materyalizm." }

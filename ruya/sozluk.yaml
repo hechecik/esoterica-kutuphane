@@ -1,0 +1,140 @@
+kaynak: "Türk-İslam halk rüya tabiri geleneği ve modern rüya psikolojisi genel kavramları; metin özgün, kitaptan kopya değildir"
+lang: tr
+# gelenek: halk tabiri; ic: rüyanın sana dair olası psikolojik okuması
+giris:
+  - "Rüyalar gün içinde işlediğin duyguların gece dili. Burada iki okuma var: geleneğin tabiri ve rüyanın sana içeriden ne söylüyor olabileceği."
+  - "Geleneğe göre rüya bir işaret; psikolojiye göre bir ayna. İkisini de okuyalım, sana hangisi dokunuyorsa onu tut."
+kapanis:
+  - "Rüyayı en iyi yorumlayan, onu gören kişidir: hangi his kaldıysa, asıl mesaj odur."
+  - "Bir rüya kehanet değildir; seni neyin meşgul ettiğini gösterir."
+duygu:
+  korku: "Rüyada korku hissettiysen, uyanıkken kaçındığın bir mesele seni bekliyor olabilir."
+  mutluluk: "Rüyada mutluysan, içinde bir şey yerine oturuyor; o hissi gün içine taşı."
+  huzun: "Rüyada hüzün varsa, yasını tutmadığın bir kayıp ya da değişim olabilir."
+  ofke: "Rüyada öfke varsa, dile getirmediğin bir sınır ihlali olabilir."
+  saskinlik: "Rüyada şaşkınlık varsa, bir değişimin henüz adını koymadın."
+  notr: "Rüyanın duygusu belirsizse, sembollere bak; onlar anlatıyor."
+semboller:
+  - { key: su, ad: "Su", es: [deniz, nehir, göl], gelenek: "Berrak su ferahlık, helal kazanç ve huzurdur; bulanık su sıkıntı.", ic: "Su duyguların akışıdır: suyun hâli, duygularının hâli." }
+  - { key: deniz, ad: "Deniz", es: [okyanus, dalga], gelenek: "Durgun deniz devlet ve bereket, dalgalı deniz karmaşık işler.", ic: "Uçsuz bucaksız bir duygu ya da bilinçaltının derinliği; dalgalar içindeki çalkantı." }
+  - { key: yagmur, ad: "Yağmur", gelenek: "Rahmet, bereket ve kısmet; derdin yıkanması.", ic: "Arınma ve rahatlama ihtiyacı; tutulan gözyaşları da olabilir." }
+  - { key: sel, ad: "Sel", gelenek: "Ani bir değişim ya da kontrol edilemeyen bir olay.", ic: "Seni bastıran yoğun duygular; taşmak üzere olan bir yük." }
+  - { key: kar, ad: "Kar", gelenek: "Kışta görülürse bereket, mevsimsizse soğuk bir haber.", ic: "Donmuş duygular, sessizlik ya da temiz bir sayfa." }
+  - { key: ates, ad: "Ateş", es: [alev, yangın], gelenek: "Kontrollü ateş ısınma ve bereket; yangın fitne.", ic: "Tutku, öfke ya da dönüşüm; neyin yandığına bak." }
+  - { key: ruzgar, ad: "Rüzgâr", es: [fırtına], gelenek: "Hafif rüzgâr müjde, fırtına telaş.", ic: "Değişim hissi; kontrol edemediğin şeyler." }
+  - { key: gunes, ad: "Güneş", gelenek: "Devlet, makam, büyük bir şahıs ya da baba.", ic: "Bilinç, netlik ve kendini göstermek." }
+  - { key: ay, ad: "Ay", es: [dolunay, hilal], gelenek: "Güzel bir eş, iyi bir dost ya da şöhret.", ic: "Sezgi, dişil yan ve gizli duygular." }
+  - { key: yildiz, ad: "Yıldız", gelenek: "Değerli insanlar, ilim ve şeref.", ic: "Umut, hedef ve ilham." }
+  - { key: gokyuzu, ad: "Gökyüzü", gelenek: "Yükseklik, dileklerin kabulü.", ic: "Özgürlük ve sınırsız olasılık hissi." }
+  - { key: dag, ad: "Dağ", gelenek: "Büyük bir hedef, güçlü bir kişi; tırmanmak murada ermek.", ic: "Aşmaya çalıştığın engel ya da ulaşmak istediğin hedef." }
+  - { key: orman, ad: "Orman", gelenek: "Kalabalık bir topluluk ya da bereket.", ic: "Bilinmeyen, keşfedilmemiş iç dünya." }
+  - { key: agac, ad: "Ağaç", gelenek: "Ömür, aile ve nesil; meyveli ağaç hayırlı bir insan.", ic: "Büyüme, köklenme ve kimlik." }
+  - { key: cicek, ad: "Çiçek", es: [gül], gelenek: "Sevinç, iyi söz ve güzel bir haber.", ic: "Açılma, güzellik ve kendini ifade etme." }
+  - { key: meyve, ad: "Meyve", gelenek: "Mevsiminde helal kazanç, emeğin karşılığı.", ic: "Bir çabanın sonucunu görme isteği." }
+  - { key: toprak, ad: "Toprak", es: [çamur], gelenek: "Mal ve rızık; çamur sıkıntı.", ic: "Topraklanma ihtiyacı ya da saplanıp kalma hissi." }
+  - { key: yol, ad: "Yol", gelenek: "Düz yol doğru iş, dolambaçlı yol zahmetli iş.", ic: "Hayattaki yönün ve seçimlerin." }
+  - { key: kopru, ad: "Köprü", gelenek: "Bir geçiş, bir ihtiyacın giderilmesi.", ic: "Bir dönemden diğerine geçiş." }
+  - { key: ev, ad: "Ev", gelenek: "Kişinin kendisi, ailesi ve hâli; yeni ev yeni dönem.", ic: "Ev senin benliğindir; odalar zihninin bölümleri." }
+  - { key: oda, ad: "Gizli oda", gelenek: "Keşfedilecek bir nimet.", ic: "Kendinin henüz tanımadığın bir yanı, keşfedilmemiş bir potansiyel." }
+  - { key: kapi, ad: "Kapı", gelenek: "Açık kapı kısmet, kapalı kapı engel.", ic: "Fırsatlar ve geçişler; kapıyı açıp açmaman." }
+  - { key: merdiven, ad: "Merdiven", gelenek: "Çıkmak yükselmek, inmek alçalmak.", ic: "Statü ve ilerleme kaygısı." }
+  - { key: asansor, ad: "Asansör", gelenek: "Hızlı yükseliş ya da düşüş.", ic: "Kontrolün sende olmadığı bir değişim." }
+  - { key: okul, ad: "Okul", es: [sınıf, sınav], gelenek: "İlim, öğrenme ve bir imtihan.", ic: "Yeterli olup olmadığın kaygısı; değerlendirilme hissi." }
+  - { key: sinav, ad: "Sınav", gelenek: "Bir imtihan, başarıyla verilirse kurtuluş.", ic: "Performans kaygısı; kendini kanıtlama baskısı. Özellikle sınav dönemlerinde çok görülür." }
+  - { key: hastane, ad: "Hastane", gelenek: "Bir sıkıntıdan kurtuluşa geçiş.", ic: "İyileşme ihtiyacı; kendine bakım." }
+  - { key: dugun, ad: "Düğün", gelenek: "Bazen sevinç, bazen tersine tabir edilir; rüyadaki havaya bak.", ic: "Birleşme, yeni bir bağlılık ya da büyük bir değişim." }
+  - { key: gelinlik, ad: "Gelinlik", gelenek: "Murada ermek, yeni bir hayat.", ic: "Bir role ya da bağlılığa hazırlık." }
+  - { key: bebek, ad: "Bebek", gelenek: "Yeni bir iş, bir müjde ya da sorumluluk.", ic: "Yeni bir fikir, proje ya da kendi kırılgan yanın." }
+  - { key: hamilelik, ad: "Hamilelik", gelenek: "Mal, bereket, gelişen bir iş.", ic: "İçinde büyüyen bir fikir ya da dönüşüm." }
+  - { key: anne, ad: "Anne", gelenek: "Dua, bereket ve hayırlı haber.", ic: "Şefkat, bakım ihtiyacı ya da annenle ilişkin." }
+  - { key: baba, ad: "Baba", gelenek: "Destek, akıl ve koruma.", ic: "Otorite, kurallar ya da babanla ilişkin." }
+  - { key: kardes, ad: "Kardeş", gelenek: "Yardım, destek, ortaklık.", ic: "Rekabet ya da dayanışma; kendinin bir yansıması." }
+  - { key: eski_sevgili, ad: "Eski sevgili", gelenek: "Geçmişten gelen bir haber.", ic: "Geri dönmek değil, o dönemde yaşadığın bir duygu yeniden canlanıyor olabilir." }
+  - { key: sevgili, ad: "Sevgili / eş", gelenek: "Eşin hâli kişinin kendi hâlidir.", ic: "İlişkideki güven ya da kaygı; çoğu zaman gün içindeki düşüncelerin yansıması." }
+  - { key: yabanci, ad: "Yabancı biri", gelenek: "Düşman ya da dost, tavrına göre.", ic: "Tanımadığın, kabul etmediğin bir yanın." }
+  - { key: unlu, ad: "Ünlü biri", gelenek: "Şeref ve itibar.", ic: "Onda gördüğün bir özelliğe özlem." }
+  - { key: olu, ad: "Ölmüş bir yakın", gelenek: "Ölünün güler yüzü hayır, dilek ise dua ve sadaka ister.", ic: "Özlem, tamamlanmamış bir veda ya da onun sana bıraktığı bir değer." }
+  - { key: olum, ad: "Ölüm", gelenek: "Uzun ömür ya da bir hâlin sona ermesi diye tabir edilir.", ic: "Gerçek ölüm değil; bir dönemin, bir alışkanlığın, bir rolün sonu." }
+  - { key: cenaze, ad: "Cenaze", gelenek: "Çoğunlukla bir derdin sona ermesi.", ic: "Bir şeyi uğurlama, kapanış." }
+  - { key: mezar, ad: "Mezar", gelenek: "Ahiret düşüncesi, ibret.", ic: "Gömdüğün, bastırdığın bir duygu ya da geçmiş." }
+  - { key: dusmek, ad: "Düşmek", gelenek: "Yüksekten düşmek mevki kaybı, ama kalkmak toparlanma.", ic: "Kontrolü kaybetme korkusu; güvensizlik." }
+  - { key: ucmak, ad: "Uçmak", gelenek: "Yolculuk, yükseliş, murada ermek.", ic: "Özgürlük, bir şeyin üstesinden gelmek." }
+  - { key: kovalanmak, ad: "Kovalanmak", gelenek: "Bir sıkıntıdan kaçış.", ic: "Yüzleşmekten kaçtığın bir duygu, sorun ya da sorumluluk." }
+  - { key: kacmak, ad: "Kaçmak", gelenek: "Korkudan emin olmak.", ic: "Bir durumdan uzaklaşma isteği." }
+  - { key: kaybolmak, ad: "Kaybolmak", gelenek: "Doğru yolu aramak.", ic: "Yön kaybı, kararsızlık ya da kimlik sorgusu." }
+  - { key: gec_kalmak, ad: "Geç kalmak", es: [yetişememek, kaçırmak], gelenek: "Bir fırsatı kaçırma kaygısı.", ic: "Zaman baskısı, yetişememe stresi; yoğun dönemlerde sık görülür." }
+  - { key: ciplak, ad: "Çıplak olmak", gelenek: "Bir sırrın açığa çıkması.", ic: "Savunmasızlık, açık edilme ya da yargılanma korkusu." }
+  - { key: dis, ad: "Diş dökülmesi", gelenek: "Diş akrabadır; tabiri gelenekte çeşitlidir.", ic: "Kontrol kaybı, görünüm kaygısı, söylenemeyen sözler. Çok yaygın bir stres rüyasıdır." }
+  - { key: sac, ad: "Saç", gelenek: "Uzun saç ömür ve mal; kesmek bir yükten kurtulmak.", ic: "Kimlik, çekicilik ve güç." }
+  - { key: kan, ad: "Kan", gelenek: "Haram ya da bir zahmet; tabiri bağlama göre değişir.", ic: "Yaşam enerjisi, yara ya da yoğun bir duygu." }
+  - { key: yara, ad: "Yara", gelenek: "Mal ya da derdin geçmesi.", ic: "İyileşmemiş bir kırgınlık." }
+  - { key: hastalik, ad: "Hastalık", gelenek: "Rüyada hastalık çoğu zaman sağlık diye tabir edilir.", ic: "Yorgunluk, tükenmişlik; dinlenme ihtiyacı." }
+  - { key: aglamak, ad: "Ağlamak", gelenek: "Sessiz ağlamak ferahlık ve sevinç.", ic: "Bastırılmış duyguların boşalması." }
+  - { key: gulmek, ad: "Gülmek", gelenek: "Kahkaha bazen tersine tabir edilir; tebessüm hayırdır.", ic: "Rahatlama ya da gerginliği örten bir maske." }
+  - { key: kavga, ad: "Kavga", gelenek: "Tartışma, ama çoğu zaman barışla biter.", ic: "İç çatışma ya da dile getirilmemiş bir öfke." }
+  - { key: para, ad: "Para", gelenek: "Kâğıt para kısmet; madeni para dedikodu diye de yorumlanır.", ic: "Değer, öz değer ve güvenlik." }
+  - { key: altin, ad: "Altın", gelenek: "Kadın için süs ve sevinç; erkek için bazen sıkıntı.", ic: "Değerli gördüğün bir şey; kendi değerin." }
+  - { key: yuzuk, ad: "Yüzük", gelenek: "Nişan, söz ya da makam.", ic: "Bağlılık ve bir sözün ağırlığı." }
+  - { key: anahtar, ad: "Anahtar", gelenek: "Bir işin çözülmesi, bir kapının açılması.", ic: "Çözüm aradığın bir mesele; elindeki imkân." }
+  - { key: canta, ad: "Çanta", gelenek: "Sır ya da birikim.", ic: "Taşıdığın yükler, kimliğin." }
+  - { key: kaybetmek, ad: "Bir şey kaybetmek", gelenek: "Bir dertten kurtulmak diye de tabir edilir.", ic: "Kayıp korkusu ya da bir şeyin sana artık ait olmadığı hissi." }
+  - { key: telefon, ad: "Telefon", gelenek: "Haber ve iletişim.", ic: "Ulaşamama ya da duyulma isteği." }
+  - { key: mektup, ad: "Mektup", gelenek: "Haber; mühürlü mektup sır.", ic: "Söylemek istediğin ya da beklediğin bir mesaj." }
+  - { key: ayna, ad: "Ayna", gelenek: "Kendini görmek, eş ya da itibar.", ic: "Öz imaj ve kendinle yüzleşme." }
+  - { key: araba, ad: "Araba", gelenek: "Makam, imkân ve yolculuk.", ic: "Hayatının kontrolü: direksiyonda kim var?" }
+  - { key: ucak, ad: "Uçak", gelenek: "Yükseliş ve uzak yolculuk.", ic: "Büyük bir hedef ya da kaçma isteği." }
+  - { key: tren, ad: "Tren", gelenek: "Yolculuk ve bir süreç.", ic: "Hayatın planlı akışı; treni kaçırmak fırsat kaygısı." }
+  - { key: gemi, ad: "Gemi", gelenek: "Kurtuluş, devlet ya da yolculuk.", ic: "Duygusal bir yolculuk; birlikte olduğun insanlar." }
+  - { key: yilan, ad: "Yılan", gelenek: "Düşman; öldürmek düşmana galip gelmek.", ic: "Korku, dönüşüm ya da şifa; derisini değiştiren bir yanın." }
+  - { key: kopek, ad: "Köpek", gelenek: "Vefalı dost; saldıran köpek ise kötü niyetli biri.", ic: "Sadakat ve içgüdü." }
+  - { key: kedi, ad: "Kedi", gelenek: "Hizmetçi, ev ahalisi ya da hırsız diye tabir edilir.", ic: "Bağımsızlık ve sezgi; dişil enerji." }
+  - { key: at, ad: "At", gelenek: "Murat, izzet ve şeref.", ic: "Güç, enerji ve özgürlük." }
+  - { key: kus, ad: "Kuş", gelenek: "Haber ve kısmet.", ic: "Özgürlük isteği, umut." }
+  - { key: balik, ad: "Balık", gelenek: "Helal rızık; büyük balık büyük kısmet.", ic: "Bilinçaltından yükselen bir fikir." }
+  - { key: ari, ad: "Arı", gelenek: "Bereket ve çalışkanlık.", ic: "Yoğunluk, iş temposu." }
+  - { key: orumcek, ad: "Örümcek", gelenek: "Zayıf bir düşman.", ic: "Bir ağa takılmışlık hissi ya da yaratıcılık." }
+  - { key: bocek, ad: "Böcek", gelenek: "Ufak sıkıntılar.", ic: "Seni rahatsız eden küçük ama sürekli şeyler." }
+  - { key: fare, ad: "Fare", gelenek: "Gizli bir kayıp.", ic: "Seni kemiren bir kaygı." }
+  - { key: aslan, ad: "Aslan", gelenek: "Güçlü bir yönetici.", ic: "Güç, öfke ve cesaret." }
+  - { key: kurt, ad: "Kurt", gelenek: "Zalim biri ya da tehlike.", ic: "Yabani yanın, içgüdülerin." }
+  - { key: ayi, ad: "Ayı", gelenek: "Kaba biri ya da düşman.", ic: "Ağır bir güç ya da korumacı bir figür." }
+  - { key: bebek_hayvan, ad: "Yavru hayvan", gelenek: "Sevinç ve bereket.", ic: "Şefkat ve koruma ihtiyacı." }
+  - { key: ekmek, ad: "Ekmek", gelenek: "Rızık ve bereket.", ic: "Temel ihtiyaçlar ve güvence." }
+  - { key: yemek, ad: "Yemek yemek", gelenek: "Tatlı yemek iyi, acı yemek sıkıntı.", ic: "Neye açsın? Duygusal ya da zihinsel beslenme ihtiyacı." }
+  - { key: et, ad: "Et", gelenek: "Pişmiş et mal, çiğ et dedikodu diye tabir edilir.", ic: "İhtiyaç ve arzu." }
+  - { key: sut, ad: "Süt", gelenek: "Helal kazanç ve fıtrat.", ic: "Bakım ve saflık." }
+  - { key: bal, ad: "Bal", gelenek: "Helal mal ve şifa.", ic: "Tatlı bir ödül." }
+  - { key: cay_kahve, ad: "Çay / kahve", gelenek: "Sohbet ve misafir.", ic: "Paylaşma, bağlantı kurma ihtiyacı." }
+  - { key: elbise, ad: "Elbise", gelenek: "Yeni elbise yeni bir hâl, temiz elbise itibar.", ic: "Toplum içinde nasıl göründüğün." }
+  - { key: ayakkabi, ad: "Ayakkabı", gelenek: "Eş ya da yolculuk; kaybetmek bir ayrılık.", ic: "Yolundaki dayanak; hazır olup olmadığın." }
+  - { key: bavul, ad: "Bavul", gelenek: "Yolculuk.", ic: "Taşıdığın geçmiş yükler ya da hazırlık." }
+  - { key: tasinmak, ad: "Taşınmak", gelenek: "Hâlin değişmesi.", ic: "Yeni bir döneme geçiş isteği ya da hazırlığı." }
+  - { key: sehir, ad: "Yabancı şehir", gelenek: "Gurbet ya da yeni bir çevre.", ic: "Bilinmeyene merak ya da kaygı." }
+  - { key: cami, ad: "Cami / mabet", gelenek: "Dua, huzur ve ibadet.", ic: "Anlam arayışı ve iç huzur." }
+  - { key: namaz, ad: "Dua etmek", gelenek: "Dileğin kabulü, sıkıntının gitmesi.", ic: "Destek ve umut ihtiyacı." }
+  - { key: kitap, ad: "Kitap", gelenek: "İlim ve hikmet.", ic: "Öğrenme ve anlam arayışı." }
+  - { key: kalem, ad: "Kalem", gelenek: "İlim ve resmi iş.", ic: "Kendini ifade etme isteği." }
+  - { key: silah, ad: "Silah", gelenek: "Güç ve korunma.", ic: "Savunma ihtiyacı ya da bastırılmış öfke." }
+  - { key: polis, ad: "Polis / asker", gelenek: "Düzen ve koruma.", ic: "Kurallar, vicdan ve suçluluk hissi." }
+  - { key: hirsiz, ad: "Hırsız", gelenek: "Bir kayıp ya da misafir.", ic: "Enerjini ya da zamanını çalan bir şey." }
+  - { key: hapis, ad: "Hapis", gelenek: "Sıkıntı, ama çıkış kurtuluş.", ic: "Sıkışmışlık ve kısıtlanma hissi." }
+  - { key: deprem, ad: "Deprem", gelenek: "Büyük bir değişim haberi.", ic: "Hayatındaki temel bir şeyin sarsılması ya da sarsılma korkusu." }
+  - { key: savas, ad: "Savaş", gelenek: "Fitne ve çekişme.", ic: "Büyük bir iç ya da dış çatışma." }
+  - { key: kar_yagisi, ad: "Kar yağması", gelenek: "Bereket.", ic: "Dinginlik ve sessizlik." }
+  - { key: gokkusagi, ad: "Gökkuşağı", gelenek: "Müjde ve bolluk.", ic: "Zor bir dönemden sonra umut." }
+  - { key: karanlik, ad: "Karanlık", gelenek: "Şüphe ve gaflet; aydınlığa çıkmak kurtuluş.", ic: "Bilinmeyen ya da görmek istemediğin bir şey." }
+  - { key: isik, ad: "Işık", gelenek: "Hidayet ve hayır.", ic: "Anlayış, farkındalık." }
+  - { key: renk_beyaz, ad: "Beyaz", gelenek: "Temizlik ve hayır.", ic: "Saflık ve yeni başlangıç." }
+  - { key: renk_siyah, ad: "Siyah", gelenek: "Bazı tabirlerde itibar, bazılarında keder.", ic: "Gizem, bilinmeyen ya da yas." }
+  - { key: renk_kirmizi, ad: "Kırmızı", gelenek: "Sevinç ya da tutku.", ic: "Yoğun duygu: aşk ya da öfke." }
+  - { key: renk_yesil, ad: "Yeşil", gelenek: "Bereket, cennet, hayır.", ic: "Büyüme ve iyileşme." }
+  - { key: sayi, ad: "Belirgin bir sayı", gelenek: "Bir zaman ya da miktar işareti.", ic: "Zihnini meşgul eden bir tarih ya da hesap." }
+  - { key: bebek_oyuncak, ad: "Oyuncak", gelenek: "Çocukluk ve masum sevinç.", ic: "Oyun ihtiyacı ya da çocukluk anıları." }
+  - { key: yuzmek, ad: "Yüzmek", gelenek: "İşlerde başarı.", ic: "Duygularla başa çıkabilmek." }
+  - { key: bogulmak, ad: "Boğulmak", gelenek: "Bir dertten çıkış ararken zorlanmak.", ic: "Bunalmışlık, yükün altında kalma hissi." }
+  - { key: kosmak, ad: "Koşmak", gelenek: "Bir işe yetişmek.", ic: "Acele, bir hedefe yetişme baskısı." }
+  - { key: felc, ad: "Kıpırdayamamak", gelenek: "İşlerde duraklama.", ic: "Çaresizlik hissi; uyku felci de bu şekilde yaşanır ve zararsızdır." }
+  - { key: sarki, ad: "Şarkı / müzik", gelenek: "Sevinç ya da gaflet; sesine göre.", ic: "Duygularını ifade etme isteği." }
+  - { key: dans, ad: "Dans", gelenek: "Sevinç ya da hafiflik.", ic: "Özgür hissetmek, bedeninle barışmak." }
+  - { key: opmek, ad: "Öpmek / sarılmak", gelenek: "Muhabbet ve yakınlık.", ic: "Yakınlık, onay ve sevgi ihtiyacı." }
+  - { key: ayrilik, ad: "Ayrılık", gelenek: "Bazen tersine, kavuşma diye tabir edilir.", ic: "Kaybetme korkusu ya da bir şeyden uzaklaşma ihtiyacı." }

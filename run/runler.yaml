@@ -1,0 +1,33 @@
+kaynak: "Yaşlı Futhark; Eski İngilizce, Norveç ve İzlanda rün şiirleri (kamu malı) geleneğinden; metin özgün"
+lang: tr
+# ters: false olanlar simetrik rünlerdir, ters okunmaz.
+runler:
+  - { key: fehu, ad: "Fehu", harf: "ᚠ", anlam: "sığır, servet", ters_olur: true, duz: "Fehu kazanılmış servettir: emeğin karşılığı, akan bolluk. Paylaşılan zenginlik çoğalır.", ters: "Fehu ters: kayıp, israf ya da elden kayan bir kazanç; kaynaklarını gözden geçir." }
+  - { key: uruz, ad: "Uruz", harf: "ᚢ", anlam: "yaban öküzü, güç", ters_olur: true, duz: "Uruz ham güç ve canlılıktır: bedenin, iraden, dayanıklılığın. Zor bir şeyi göğüsleyecek gücün var.", ters: "Uruz ters: güç kaybı, yorgunluk ya da kontrolsüz kuvvet." }
+  - { key: thurisaz, ad: "Thurisaz", harf: "ᚦ", anlam: "dev, diken", ters_olur: true, duz: "Thurisaz bir dikendir: koruyucu ama acıtan bir güç. Harekete geçmeden önce düşün; kapı bir eşik.", ters: "Thurisaz ters: aceleci bir karar, kötü niyetli bir etki ya da kendine zarar veren inat." }
+  - { key: ansuz, ad: "Ansuz", harf: "ᚨ", anlam: "tanrısal ağız, söz", ters_olur: true, duz: "Ansuz söz ve ilhamdır: bir mesaj, bir öğüt, bilgece bir ses. Dinle.", ters: "Ansuz ters: yanlış anlaşılma, aldatıcı söz ya da duyulmayan öğüt." }
+  - { key: raidho, ad: "Raidho", harf: "ᚱ", anlam: "yolculuk, ritim", ters_olur: true, duz: "Raidho yolculuktur: hem dışarıda hem içeride doğru ritmi bulmak. Yol açık.", ters: "Raidho ters: aksayan bir yolculuk, gecikme ya da yanlış yön." }
+  - { key: kenaz, ad: "Kenaz", harf: "ᚲ", anlam: "meşale, bilgi", ters_olur: true, duz: "Kenaz meşaledir: aydınlanma, yaratıcılık, ustalık. Karanlıkta bir ışık yanıyor.", ters: "Kenaz ters: sönen ilham, bir şeyi kaybetme ya da bir dönemin sonu." }
+  - { key: gebo, ad: "Gebo", harf: "ᚷ", anlam: "armağan, ortaklık", ters_olur: false, duz: "Gebo armağandır: vermek ve almak arasındaki denge, ortaklık, karşılıklılık." }
+  - { key: wunjo, ad: "Wunjo", harf: "ᚹ", anlam: "sevinç", ters_olur: true, duz: "Wunjo sevinç ve uyumdur: ait olmak, mutluluk, dileğin gerçekleşmesi.", ters: "Wunjo ters: hüzün, yabancılaşma ya da gecikmiş mutluluk." }
+  - { key: hagalaz, ad: "Hagalaz", harf: "ᚺ", anlam: "dolu", ters_olur: false, duz: "Hagalaz doludur: kontrol edilemeyen bir sarsıntı, ama ardından toprağı sulayan su. Yıkım dönüşümün başıdır." }
+  - { key: nauthiz, ad: "Nauthiz", harf: "ᚾ", anlam: "ihtiyaç, zorunluluk", ters_olur: true, duz: "Nauthiz ihtiyaçtır: kısıt, sabır, zorunluluk. Eksiklik seni yaratıcı kılıyor.", ters: "Nauthiz ters: sabırsızlık, yanlış arzular ya da kendini mahrum bırakmak." }
+  - { key: isa, ad: "Isa", harf: "ᛁ", anlam: "buz", ters_olur: false, duz: "Isa buzdur: durgunluk, bekleme, içe dönüş. Şu an ilerlemek yerine dur ve netleş." }
+  - { key: jera, ad: "Jera", harf: "ᛃ", anlam: "yıl, hasat", ters_olur: false, duz: "Jera hasattır: ekilenin zamanı gelince biçilmesi. Sabrın karşılığı yolda." }
+  - { key: eihwaz, ad: "Eihwaz", harf: "ᛇ", anlam: "porsuk ağacı", ters_olur: false, duz: "Eihwaz porsuk ağacıdır: dayanıklılık, dönüşüm, yaşam ile ölüm arasındaki köprü. Sağlam dur." }
+  - { key: perthro, ad: "Perthro", harf: "ᛈ", anlam: "kader kabı, sır", ters_olur: true, duz: "Perthro gizemdir: kader, şans, henüz açığa çıkmamış olan. Bilinmeyene güven.", ters: "Perthro ters: hayal kırıklığı, açığa çıkan bir sır ya da durgunluk." }
+  - { key: algiz, ad: "Algiz", harf: "ᛉ", anlam: "koruma", ters_olur: true, duz: "Algiz korumadır: yukarıdan uzanan eller, sezgi, güvenlik. Koruma altındasın.", ters: "Algiz ters: savunmasızlık, sınırların zayıflaması; kendini koru." }
+  - { key: sowilo, ad: "Sowilo", harf: "ᛊ", anlam: "güneş", ters_olur: false, duz: "Sowilo güneştir: başarı, enerji, zafer, yön. Işık senden yana." }
+  - { key: tiwaz, ad: "Tiwaz", harf: "ᛏ", anlam: "adalet, savaşçı", ters_olur: true, duz: "Tiwaz adil savaşçıdır: cesaret, onur, doğru olan için fedakârlık.", ters: "Tiwaz ters: haksızlık, enerji kaybı ya da yanlış bir savaş." }
+  - { key: berkano, ad: "Berkano", harf: "ᛒ", anlam: "huş ağacı, doğuş", ters_olur: true, duz: "Berkano doğuştur: büyüme, şefkat, yeni bir başlangıç, aile.", ters: "Berkano ters: büyümede tıkanma, aile içi kaygılar." }
+  - { key: ehwaz, ad: "Ehwaz", harf: "ᛖ", anlam: "at, ortaklık", ters_olur: true, duz: "Ehwaz attır: hareket, ilerleme, güvenilir bir ortaklık.", ters: "Ehwaz ters: ilerleyememe, güvensizlik ya da uyumsuz bir ortak." }
+  - { key: mannaz, ad: "Mannaz", harf: "ᛗ", anlam: "insan", ters_olur: true, duz: "Mannaz insandır: benlik, toplum, insanlığın ortak bilgeliği. Kendini başkalarında gör.", ters: "Mannaz ters: yalnızlık, kendini kandırma ya da başkalarından kopuş." }
+  - { key: laguz, ad: "Laguz", harf: "ᛚ", anlam: "su, akış", ters_olur: true, duz: "Laguz sudur: sezgi, duygular, bilinçaltı ve akış. Akıntıya güven.", ters: "Laguz ters: duygusal karmaşa, yanlış sezgi, boğulma hissi." }
+  - { key: ingwaz, ad: "Ingwaz", harf: "ᛜ", anlam: "tohum", ters_olur: false, duz: "Ingwaz tohumdur: içsel büyüme, tamamlanma ve yeni bir başlangıca hazırlık." }
+  - { key: dagaz, ad: "Dagaz", harf: "ᛞ", anlam: "şafak", ters_olur: false, duz: "Dagaz şafaktır: uyanış, dönüşüm, karanlıktan aydınlığa geçiş." }
+  - { key: othala, ad: "Othala", harf: "ᛟ", anlam: "miras, yurt", ters_olur: true, duz: "Othala mirastır: aile, kökler, toprak, kalıcı değerler.", ters: "Othala ters: köklerden kopma, miras ya da aile anlaşmazlığı." }
+  - { key: bos, ad: "Boş rün", harf: "◯", anlam: "bilinmeyen", ters_olur: false, duz: "Boş rün bilinmeyendir: cevap henüz yazılmadı. Kader açık; ne yazacağın sana bağlı." }
+acilimlar:
+  tek: { ad: "Tek rün", pozisyonlar: ["Rehber"] }
+  uc: { ad: "Nornlar (üç rün)", pozisyonlar: ["Urd (geçmiş)", "Verdandi (şimdi)", "Skuld (olacak)"] }
+  bes: { ad: "Haç (beş rün)", pozisyonlar: ["Geçmiş", "Sorun", "Gelecek", "Kök", "Sonuç"] }

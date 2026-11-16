@@ -1,0 +1,27 @@
+kaynak: "Çin zodyağı geleneği; metin özgün"
+lang: tr
+yontem: "Çin burcu miladi yıla değil Çin ay takvimine göre hesaplanır: yıl, Çin Yeni Yılı'nda (ocak sonu ile şubat ortası arası) değişir. Ocak ya da şubat başında doğanların hayvanı bir önceki yılın hayvanı olabilir. Element yılın son hanesine göre belirlenir (0–1 metal, 2–3 su, 4–5 ağaç, 6–7 ateş, 8–9 toprak)."
+hayvanlar:
+  fare: { ad: "Fare", metin: "Zeki, uyanık ve becerikli; fırsatı herkesten önce görürsün. Tutumlusun ve çevrene uyum sağlamakta ustasın.", golge: "Kaygı ve fazla hesapçılık." }
+  okuz: { ad: "Öküz", metin: "Sabırlı, güvenilir ve çalışkan; yavaş ama durmadan ilerlersin. Sözüne sadıksın.", golge: "İnatçılık ve değişime direnç." }
+  kaplan: { ad: "Kaplan", metin: "Cesur, tutkulu ve karizmatik; risk almaktan çekinmezsin. Doğal bir lider havan var.", golge: "Fevrilik ve sabırsızlık." }
+  tavsan: { ad: "Tavşan", metin: "Nazik, zarif ve diplomatik; huzur ve güzellik seversin. İnsanların seni sevmesi kolaydır.", golge: "Çatışmadan kaçmak ve aşırı temkin." }
+  ejderha: { ad: "Ejderha", metin: "Güçlü, enerjik ve özgüvenli; büyük düşünür, büyük yaşarsın. Çin geleneğinde en şanslı işaretlerden biri.", golge: "Kibir ve sabırsızlık." }
+  yilan: { ad: "Yılan", metin: "Bilge, sezgili ve gizemli; derin düşünür, sessizce hareket edersin. Zevk sahibi birisin.", golge: "Şüphecilik ve kıskançlık." }
+  at: { ad: "At", metin: "Özgür, enerjik ve neşeli; hareket ve macera seni besler. Sosyal ve konuşkansın.", golge: "Sabırsızlık ve dağınıklık." }
+  keci: { ad: "Keçi", metin: "Yumuşak, yaratıcı ve şefkatli; sanata ve güzelliğe yatkınsın. Barışçıl bir ruhun var.", golge: "Kararsızlık ve kaygı." }
+  maymun: { ad: "Maymun", metin: "Zeki, esprili ve yaratıcı; problemleri çözmekte ustasın. Merakın hiç bitmez.", golge: "Kurnazlık ve istikrarsızlık." }
+  horoz: { ad: "Horoz", metin: "Dürüst, çalışkan ve özenli; düzeni ve doğruyu seversin. Gözlemcisin.", golge: "Eleştirellik ve kibir." }
+  kopek: { ad: "Köpek", metin: "Sadık, dürüst ve adaletli; sevdiklerini korursun. Güvenilir bir dostsun.", golge: "Kaygı ve kötümserlik." }
+  domuz: { ad: "Domuz", metin: "Cömert, iyi kalpli ve keyifli; hayatın tadını çıkarmayı bilirsin. İçtenliğin insanları rahatlatır.", golge: "Saflık ve aşırılık." }
+elementler:
+  metal: { ad: "Metal", metin: "Metal elementi kararlılık, disiplin ve netlik katar." }
+  su: { ad: "Su", metin: "Su elementi sezgi, esneklik ve iletişim katar." }
+  agac: { ad: "Ağaç", metin: "Ağaç elementi büyüme, cömertlik ve yaratıcılık katar." }
+  ates: { ad: "Ateş", metin: "Ateş elementi tutku, enerji ve liderlik katar." }
+  toprak: { ad: "Toprak", metin: "Toprak elementi istikrar, sabır ve güvenilirlik katar." }
+uyum:
+  ayni: "Aynı hayvan: birbirinizi çok iyi anlarsınız; ama aynı zayıflıkları da paylaşırsınız."
+  uyumlu: "Aynı üçlü gruptasınız: geleneğe göre en uyumlu eşleşmelerden biri. Birbirinizi doğal olarak tamamlarsınız."
+  zit: "Karşıt işaretler: geleneğe göre en zor eşleşme. Çekim güçlü olabilir ama farklılıklara sabır gerekir."
+  notr: "Nötr eşleşme: ne kolay ne zor; ilişkiyi siz şekillendirirsiniz."
