@@ -1,0 +1,152 @@
+kaynak: "Türk kahvesi falı halk geleneği ve kamu malı tasseografi kaynakları; metin özgün"
+lang: tr
+semboller:
+  # Hayvanlar (ek)
+  - { key: leylek, ad: "Leylek", kat: hayvan, ton: 1, anlam: "Uzaktan gelen bir haber, yuvaya bereket; bazen bir doğum müjdesi." }
+  - { key: marti, ad: "Martı", kat: hayvan, ton: 0, anlam: "Deniz aşırı bir haber ya da huzursuz bir bekleyiş." }
+  - { key: papagan, ad: "Papağan", kat: hayvan, ton: -1, anlam: "Söz taşıyan biri; sırlarını herkesle paylaşma." }
+  - { key: serce, ad: "Serçe", kat: hayvan, ton: 1, anlam: "Küçük ama sevindirici bir haber, gündelik bir şans." }
+  - { key: sahin, ad: "Şahin", kat: hayvan, ton: 1, anlam: "Keskin bir fırsat; hedefe hızla ulaşma." }
+  - { key: yarasa, ad: "Yarasa", kat: hayvan, ton: -1, anlam: "Gece düşünceleri, gizli kaygılar; güneşe çıkınca dağılır." }
+  - { key: kirlangic, ad: "Kırlangıç", kat: hayvan, ton: 1, anlam: "Bahar ve dönüş: uzaktaki biri ya da güzel günler geri geliyor." }
+  - { key: bulbul, ad: "Bülbül", kat: hayvan, ton: 1, anlam: "Aşk sözleri, gönül alan bir ses." }
+  - { key: ordek, ad: "Ördek", kat: hayvan, ton: 1, anlam: "Rahatlık ve bolluk; su üstünde kalmak." }
+  - { key: kaz, ad: "Kaz", kat: hayvan, ton: 0, anlam: "Davet ya da kalabalık bir sofra; biraz gürültü." }
+  - { key: civciv, ad: "Civciv", kat: hayvan, ton: 1, anlam: "Yeni başlayan küçük bir iş, tatlı bir bereket." }
+  - { key: ceylan, ad: "Ceylan", kat: hayvan, ton: 1, anlam: "Zarif bir güzellik, ürkek ama değerli bir sevgi." }
+  - { key: geyik, ad: "Geyik", kat: hayvan, ton: 1, anlam: "Asalet ve sabır; yükselen bir itibar." }
+  - { key: sincap, ad: "Sincap", kat: hayvan, ton: 1, anlam: "Birikim; kenara koyduğun şey işine yarayacak." }
+  - { key: kirpi, ad: "Kirpi", kat: hayvan, ton: 0, anlam: "Kendini koruyan biri; dikenlerin arkasında yumuşak bir kalp." }
+  - { key: koyun, ad: "Koyun", kat: hayvan, ton: 1, anlam: "Huzur ve bereket; sürüye uymak kolaylık getirir." }
+  - { key: kuzu, ad: "Kuzu", kat: hayvan, ton: 1, anlam: "Masumiyet, temiz bir niyet; adak ya da dilek." }
+  - { key: keci, ad: "Keçi", kat: hayvan, ton: 0, anlam: "İnatçı bir tırmanış; azimle yükselmek." }
+  - { key: esek, ad: "Eşek", kat: hayvan, ton: 0, anlam: "Sabır ve yük; emek karşılıksız kalmaz." }
+  - { key: domuz, ad: "Domuz", kat: hayvan, ton: 0, anlam: "Bolluk ama açgözlülük uyarısı; ölçülü ol." }
+  - { key: maymun, ad: "Maymun", kat: hayvan, ton: -1, anlam: "Taklitçi ya da alaycı biri; ciddiyetini koru." }
+  - { key: zurafa, ad: "Zürafa", kat: hayvan, ton: 1, anlam: "Uzağı görmek, yüksek hedefler." }
+  - { key: timsah, ad: "Timsah", kat: hayvan, ton: -1, anlam: "Sakin görünen ama tehlikeli bir durum; acele etme." }
+  - { key: kertenkele, ad: "Kertenkele", kat: hayvan, ton: 0, anlam: "Kaçış ve yenilenme; kaybettiğin yeniden büyür." }
+  - { key: salyangoz, ad: "Salyangoz", kat: hayvan, ton: 0, anlam: "Yavaş ilerleyen bir iş; acele etme, evin sırtında." }
+  - { key: denizanasi, ad: "Deniz anası", kat: hayvan, ton: -1, anlam: "Göze görünmeyen küçük bir rahatsızlık; dikkatli ol." }
+  - { key: yengec, ad: "Yengeç", kat: hayvan, ton: 0, anlam: "Dolambaçlı bir yol; doğrudan gitmeyen bir mesele." }
+  - { key: ahtapot, ad: "Ahtapot", kat: hayvan, ton: -1, anlam: "Çok yöne çekilmek; kendini dağıtma." }
+  - { key: karinca, ad: "Karınca", kat: hayvan, ton: 1, anlam: "Çalışkanlık ve birlik; küçük adımlarla büyük iş." }
+  - { key: ugur_bocegi, ad: "Uğur böceği", kat: hayvan, ton: 1, anlam: "Şans ve küçük bir dilek." }
+  - { key: sinek, ad: "Sinek", kat: hayvan, ton: -1, anlam: "Can sıkan küçük meseleler; önemseme." }
+  - { key: solucan, ad: "Solucan", kat: hayvan, ton: 0, anlam: "Görünmeyen ama toprağı besleyen emek." }
+  - { key: pegasus, ad: "Kanatlı at", kat: hayvan, ton: 1, anlam: "İlham ve yükseliş; hayalin kanatlanıyor." }
+  - { key: anka, ad: "Anka kuşu", kat: hayvan, ton: 1, anlam: "Küllerden doğuş; zor bir dönemden güçlü çıkış." }
+  - { key: tek_boynuz, ad: "Tek boynuzlu at", kat: hayvan, ton: 1, anlam: "Saf bir dilek, nadir bir fırsat." }
+  # İnsanlar ve beden (ek)
+  - { key: yasli, ad: "Yaşlı biri", kat: insan, ton: 1, anlam: "Bilge bir öğüt, büyüklerden gelen dua." }
+  - { key: asker, ad: "Asker", kat: insan, ton: 0, anlam: "Disiplin ya da bir görev çağrısı." }
+  - { key: dansci, ad: "Dans eden figür", kat: insan, ton: 1, anlam: "Eğlence, kutlama, rahatlama." }
+  - { key: kosan, ad: "Koşan figür", kat: insan, ton: 0, anlam: "Acele bir iş ya da birine yetişme telaşı." }
+  - { key: oturan, ad: "Oturan figür", kat: insan, ton: 0, anlam: "Bekleyiş, düşünme, karar öncesi bir duraklama." }
+  - { key: ikiz, ad: "İkiz figürler", kat: insan, ton: 1, anlam: "Çifte sevinç ya da bir ortaklık." }
+  - { key: kalp_el, ad: "Kalp tutan el", kat: insan, ton: 1, anlam: "Sevgi teklifi, içten bir yaklaşım." }
+  - { key: bas, ad: "Baş / profil", kat: insan, ton: 0, anlam: "Seni düşünen biri; baktığı yön niyetini gösterir." }
+  - { key: dudak, ad: "Dudak", kat: insan, ton: 1, anlam: "Öpücük ya da tatlı bir söz." }
+  - { key: kulak, ad: "Kulak", kat: insan, ton: 0, anlam: "Duyacağın bir haber; dedikoduya kulak verme." }
+  - { key: kanat, ad: "Kanat", kat: insan, ton: 1, anlam: "Koruma ve özgürlük; yükseliş." }
+  # Nesneler (ek)
+  - { key: tac_mahal, ad: "Saray", kat: ev, ton: 1, anlam: "Yüksek bir çevre, itibarlı bir davet." }
+  - { key: mutfak, ad: "Tencere / kazan", kat: nesne, ton: 1, anlam: "Pişen bir iş; yakında olgunlaşacak." }
+  - { key: tabak_n, ad: "Tabak", kat: nesne, ton: 1, anlam: "Sofra ve misafir; paylaşılan bereket." }
+  - { key: sandalye, ad: "Sandalye", kat: nesne, ton: 1, anlam: "Bir makam ya da gelecek bir misafir." }
+  - { key: masa, ad: "Masa", kat: nesne, ton: 0, anlam: "Görüşme, pazarlık, bir araya gelme." }
+  - { key: yatak, ad: "Yatak", kat: nesne, ton: 0, anlam: "Dinlenme ihtiyacı ya da özel hayat." }
+  - { key: kutu, ad: "Kutu / sandık", kat: nesne, ton: 0, anlam: "Saklanan bir şey; yakında açılacak bir sır." }
+  - { key: sepet, ad: "Sepet", kat: nesne, ton: 1, anlam: "Dolu sepet bolluk, boş sepet bir eksik." }
+  - { key: testi, ad: "Testi", kat: nesne, ton: 1, anlam: "Bereket ve sabır; dolmaya başlayan bir kap." }
+  - { key: kova, ad: "Kova", kat: nesne, ton: 0, anlam: "Emekle elde edilen kaynak." }
+  - { key: halat, ad: "İp / halat", kat: nesne, ton: 0, anlam: "Bağ; düğümlü ip çözülmesi gereken mesele." }
+  - { key: dugum, ad: "Düğüm", kat: sekil, ton: -1, anlam: "Çözülmeyi bekleyen bir iş; sabırla aç." }
+  - { key: ok_yay, ad: "Ok ve yay", kat: nesne, ton: 1, anlam: "Hedef ve niyet; doğru nişan alınmış bir istek." }
+  - { key: kalkan, ad: "Kalkan", kat: nesne, ton: 1, anlam: "Korunma; bir dertten sıyrılacaksın." }
+  - { key: balta, ad: "Balta", kat: nesne, ton: -1, anlam: "Bir bağın kopması ya da sert bir karar." }
+  - { key: cekic, ad: "Çekiç", kat: nesne, ton: 0, anlam: "Emek ve inşa; zorlayarak çözülen bir iş." }
+  - { key: civi, ad: "Çivi", kat: nesne, ton: 0, anlam: "Sabitlenmiş bir karar; ya da canını sıkan küçük bir şey." }
+  - { key: igne, ad: "İğne", kat: nesne, ton: 0, anlam: "İnce bir iş, küçük bir sitem; dikkat isteyen detay." }
+  - { key: makara, ad: "İplik / makara", kat: nesne, ton: 1, anlam: "Örülen bir ilişki, sabırla dokunan bir gelecek." }
+  - { key: tarak, ad: "Tarak", kat: nesne, ton: 0, anlam: "Düzene sokma; karışık işleri ayıklama." }
+  - { key: kolye, ad: "Kolye", kat: nesne, ton: 1, anlam: "Hediye, sevgi bağı ya da bir onur." }
+  - { key: kupe, ad: "Küpe", kat: nesne, ton: 1, anlam: "Kulağa gelecek tatlı bir haber." }
+  - { key: elmas, ad: "Elmas / mücevher", kat: nesne, ton: 1, anlam: "Değerli bir kazanç, kalıcı bir değer." }
+  - { key: cuzdan, ad: "Cüzdan", kat: nesne, ton: 1, anlam: "Para kısmeti; harcamalarına dikkat." }
+  - { key: kartvizit, ad: "Kart / bilet", kat: nesne, ton: 1, anlam: "Bir davet ya da yolculuk bileti." }
+  - { key: zarf_muhur, ad: "Mühür", kat: nesne, ton: 1, anlam: "Resmi bir onay, imzalanacak bir iş." }
+  - { key: harita, ad: "Harita", kat: nesne, ton: 1, anlam: "Plan ve yön; yolun çizildi." }
+  - { key: pusula, ad: "Pusula", kat: nesne, ton: 1, anlam: "Doğru yön; kararsızlık bitiyor." }
+  - { key: durbun, ad: "Dürbün", kat: nesne, ton: 0, anlam: "Uzağı görmek; ya da birinin seni izlemesi." }
+  - { key: kum_saati, ad: "Kum saati", kat: nesne, ton: 0, anlam: "Zaman daralıyor; ertelemeyi bırak." }
+  - { key: takvim, ad: "Takvim", kat: nesne, ton: 0, anlam: "Belirli bir gün; bir tarih yaklaşıyor." }
+  - { key: gozluk, ad: "Gözlük", kat: nesne, ton: 0, anlam: "Daha dikkatli bakman gereken bir mesele." }
+  - { key: pasta, ad: "Pasta", kat: nesne, ton: 1, anlam: "Kutlama, doğum günü ya da bir başarı." }
+  - { key: kadeh, ad: "Kadeh", kat: nesne, ton: 1, anlam: "Şerefe kalkacak kadehler; bir kutlama." }
+  - { key: gitar, ad: "Saz / gitar", kat: nesne, ton: 1, anlam: "Neşe, müzik, gönül eğlendiren bir buluşma." }
+  - { key: maske_cift, ad: "İki yüz", kat: nesne, ton: -1, anlam: "Çifte standart; birinin iki yüzlülüğü." }
+  - { key: top, ad: "Top", kat: nesne, ton: 1, anlam: "Oyun ve hafiflik; işler yuvarlanıp gidiyor." }
+  - { key: ucurtma, ad: "Uçurtma", kat: nesne, ton: 1, anlam: "Hayaller yükseliyor; ipi elinde tut." }
+  - { key: balon, ad: "Balon", kat: nesne, ton: 0, anlam: "Geçici bir sevinç; şişirilmiş bir beklenti." }
+  - { key: bayrak, ad: "Bayrak", kat: nesne, ton: 1, anlam: "Zafer, ilan edilen bir başarı." }
+  - { key: kurdele, ad: "Kurdele / fiyonk", kat: nesne, ton: 1, anlam: "Hediye ya da tamamlanmış güzel bir iş." }
+  - { key: mendil, ad: "Mendil", kat: nesne, ton: 0, anlam: "Veda ya da silinecek bir gözyaşı; ardından ferahlık." }
+  - { key: tesbih, ad: "Tespih", kat: nesne, ton: 1, anlam: "Sabır ve dua; dileğin kabul olacak." }
+  - { key: nazarlik, ad: "Nazar boncuğu", kat: nesne, ton: 1, anlam: "Korunma; kötü gözden uzak." }
+  - { key: el_fener, ad: "Fener", kat: nesne, ton: 1, anlam: "Yolunu aydınlatacak bir yardım." }
+  # Ulaşım (ek)
+  - { key: bisiklet, ad: "Bisiklet", kat: ulasim, ton: 1, anlam: "Kendi çabanla ilerleme; denge önemli." }
+  - { key: otobus, ad: "Otobüs", kat: ulasim, ton: 0, anlam: "Toplu bir yolculuk ya da kalabalıkla bir iş." }
+  - { key: kayik, ad: "Kayık", kat: ulasim, ton: 1, anlam: "Küçük ama huzurlu bir yolculuk; kürek sende." }
+  - { key: helikopter, ad: "Pervane", kat: ulasim, ton: 0, anlam: "Ani bir kalkış, beklenmedik bir yükseliş." }
+  - { key: at_arabasi, ad: "At arabası", kat: ulasim, ton: 1, anlam: "Gelin alayı ya da geleneksel bir kutlama." }
+  - { key: yol_ayrimi, ad: "Yol ayrımı", kat: ulasim, ton: 0, anlam: "Bir seçim anı; iki yol da açık." }
+  - { key: tunel, ad: "Tünel", kat: ulasim, ton: 0, anlam: "Zor bir geçiş; sonunda ışık var." }
+  - { key: merdiven_yol, ad: "Patika", kat: ulasim, ton: 1, anlam: "Dar ama senin yolun; kendi izini sür." }
+  # Doğa (ek)
+  - { key: palmiye, ad: "Palmiye", kat: doga, ton: 1, anlam: "Tatil, sıcak bir yolculuk ya da zafer." }
+  - { key: cam, ad: "Çam", kat: doga, ton: 1, anlam: "Dayanıklılık ve uzun ömür." }
+  - { key: sogut, ad: "Söğüt", kat: doga, ton: 0, anlam: "Hüzünlü bir esneklik; eğilir ama kırılmaz." }
+  - { key: zeytin, ad: "Zeytin dalı", kat: doga, ton: 1, anlam: "Barış ve uzlaşma." }
+  - { key: lale, ad: "Lale", kat: doga, ton: 1, anlam: "Zarif bir aşk, bahar sevinci." }
+  - { key: papatya, ad: "Papatya", kat: doga, ton: 1, anlam: "Seviyor, sevmiyor: tatlı bir merak, saf bir duygu." }
+  - { key: dikenli, ad: "Diken", kat: doga, ton: -1, anlam: "Küçük bir acı; güzelliğin bedeli." }
+  - { key: tohum, ad: "Tohum", kat: doga, ton: 1, anlam: "Yeni bir başlangıç; ektiğin büyüyecek." }
+  - { key: mantar, ad: "Mantar", kat: doga, ton: 0, anlam: "Ani ortaya çıkan bir şey; dikkatli seç." }
+  - { key: armut, ad: "Armut", kat: doga, ton: 1, anlam: "Rahat bir dönem, tatlı bir kazanç." }
+  - { key: kiraz, ad: "Kiraz", kat: doga, ton: 1, anlam: "Çifte mutluluk, flört ve tatlılık." }
+  - { key: nar, ad: "Nar", kat: doga, ton: 1, anlam: "Bereket ve çoğalma; kalabalık bir aile ya da çok kazanç." }
+  - { key: bugday, ad: "Başak / buğday", kat: doga, ton: 1, anlam: "Hasat ve rızık; emeğinin karşılığı." }
+  - { key: selale, ad: "Şelale", kat: doga, ton: 1, anlam: "Bolluk akıyor; duyguların taşıyor." }
+  - { key: volkan, ad: "Yanardağ", kat: doga, ton: -1, anlam: "Bastırılmış bir öfke; patlamadan önce konuş." }
+  - { key: kum, ad: "Kum / çöl", kat: doga, ton: -1, anlam: "Kurak bir dönem; sabır suya ulaştırır." }
+  - { key: kar_tanesi, ad: "Kar tanesi", kat: doga, ton: 0, anlam: "Eşsiz ama kırılgan bir an; değerini bil." }
+  - { key: kayalar, ad: "Kayalar", kat: doga, ton: -1, anlam: "Sert bir zemin; adımlarını dikkatli at." }
+  - { key: dalga, ad: "Dalga", kat: doga, ton: 0, anlam: "Duygusal iniş çıkışlar; sakinleşecek." }
+  - { key: kuyruklu, ad: "Kuyruklu yıldız", kat: doga, ton: 1, anlam: "Nadir bir fırsat; beklenmedik bir şans." }
+  - { key: hilal, ad: "Hilal", kat: doga, ton: 1, anlam: "Yeni bir başlangıç, büyüyen bir umut." }
+  - { key: gokkusagi_k, ad: "Gökkuşağı", kat: doga, ton: 1, anlam: "Fırtınadan sonra güzel günler." }
+  # Yapılar (ek)
+  - { key: deniz_feneri, ad: "Deniz feneri", kat: ev, ton: 1, anlam: "Yol gösteren biri; karanlıkta rehber." }
+  - { key: cesme, ad: "Çeşme", kat: ev, ton: 1, anlam: "Akan bereket, temiz bir kaynak." }
+  - { key: kuyu, ad: "Kuyu", kat: ev, ton: 0, anlam: "Derin bir sır ya da dipte bekleyen kaynak." }
+  - { key: duvar, ad: "Duvar", kat: ev, ton: -1, anlam: "Bir engel ya da kendini kapatmak." }
+  - { key: cit, ad: "Çit", kat: ev, ton: 0, anlam: "Sınırlar; neyi içeri alacağını sen seç." }
+  - { key: kemer, ad: "Kemer / kapı kemeri", kat: ev, ton: 1, anlam: "Bir eşikten geçiş; yeni dönem." }
+  - { key: minare, ad: "Minare", kat: ev, ton: 1, anlam: "Yükselen bir dua, duyulacak bir dilek." }
+  - { key: kilise, ad: "Çan kulesi", kat: ev, ton: 1, anlam: "Bir tören ya da duyurulacak haber." }
+  - { key: degirmen, ad: "Değirmen", kat: ev, ton: 1, anlam: "Dönen işler, sürekli kazanç." }
+  - { key: koprualti, ad: "Baraj / bent", kat: ev, ton: 0, anlam: "Tutulan duygular; zamanında bırak." }
+  - { key: hapis_k, ad: "Kafes", kat: ev, ton: -1, anlam: "Kısıtlanmışlık; kapısı sandığından açık." }
+  - { key: yuva, ad: "Kuş yuvası", kat: ev, ton: 1, anlam: "Yuva kurmak, aile ya da yeni bir ev." }
+  - { key: piramit, ad: "Piramit", kat: ev, ton: 1, anlam: "Sağlam bir temel, kalıcı bir başarı." }
+  # Şekiller (ek)
+  - { key: yildiz_alti, ad: "Altı köşeli yıldız", kat: sekil, ton: 1, anlam: "Denge ve koruma." }
+  - { key: sonsuzluk, ad: "Sekiz / sonsuzluk", kat: sekil, ton: 1, anlam: "Süreklilik; bitmeyen bir bağ." }
+  - { key: zigzag, ad: "Zikzak", kat: sekil, ton: -1, anlam: "Kararsız bir dönem; yön değiştirmeler." }
+  - { key: halkalar, ad: "İç içe halkalar", kat: sekil, ton: 1, anlam: "Birleşme, evlilik, ortaklık." }
+  - { key: kesik_cizgi, ad: "Kesik çizgi", kat: sekil, ton: -1, anlam: "Yarım kalan bir iş; tamamlanmayı bekliyor." }
+  - { key: leke, ad: "Büyük leke", kat: sekil, ton: 0, anlam: "Kafanı kurcalayan bir mesele; adını koyunca hafifler." }
+  - { key: bos_alan, ad: "Temiz, boş alan", kat: sekil, ton: 1, anlam: "Ferahlık; o bölgede dert yok." }
+  - { key: damla, ad: "Damla", kat: sekil, ton: 0, anlam: "Gözyaşı ya da yağmur; ardından arınma." }
