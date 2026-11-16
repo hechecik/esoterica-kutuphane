@@ -1,0 +1,109 @@
+kaynak: "Esoterica astroloji kütüphanesi; metin özgün"
+lang: tr
+# Günlük ve dönemsel transitler. Transit gezegen -> doğum noktası, doğası: kavusum, uyumlu, gergin.
+ay_burcta:
+  koc: ["Ay bugün Koç'ta: enerji hızlı, sabır kısa. Yeni bir şeye başlamak için iyi; tartışmalara dikkat.", "Ay Koç'ta: içgüdüyle hareket etmek kolay. Bedeni çalıştırmak ruh hâlini toparlar."]
+  boga: ["Ay bugün Boğa'da: sakinlik, keyif ve istikrar günü. Acele etmeden, tadını çıkararak ilerle.", "Ay Boğa'da: güzel bir yemek, doğada yürüyüş ya da müzik ruhunu besler."]
+  ikizler: ["Ay bugün İkizler'de: haberler, mesajlar ve sohbetler günü. Merakın yüksek, odak dağınık.", "Ay İkizler'de: kısa görüşmeler, yazışmalar ve öğrenme için verimli."]
+  yengec: ["Ay bugün Yengeç'te, kendi evinde: duygular derin, ev ve aile ön planda.", "Ay Yengeç'te: kendine ve sevdiklerine bakım vermek için ideal. Hassasiyet yüksek."]
+  aslan: ["Ay bugün Aslan'da: kendini ifade etme, eğlence ve yaratıcılık günü.", "Ay Aslan'da: görülmek ve takdir edilmek istersin; cömertlik geri döner."]
+  basak: ["Ay bugün Başak'ta: düzen, iş ve sağlık günü. Küçük işleri halletmek iyi gelir.", "Ay Başak'ta: ayrıntılara dikkat; ama kendini eleştirmeyi abartma."]
+  terazi: ["Ay bugün Terazi'de: ilişkiler, uyum ve güzellik günü. İş birliği kolay.", "Ay Terazi'de: bir arkadaşla buluşmak ya da evi güzelleştirmek ruhunu dinlendirir."]
+  akrep: ["Ay bugün Akrep'te: duygular yoğun, sezgiler keskin. Derin sohbetler için uygun.", "Ay Akrep'te: kıskançlık ve şüpheye kapılmamaya çalış; dönüşüm için güçlü bir gün."]
+  yay: ["Ay bugün Yay'da: iyimserlik, macera ve öğrenme günü. Ufkunu genişlet.", "Ay Yay'da: plan yapmak, yola çıkmak ya da yeni bir şey öğrenmek için iyi."]
+  oglak: ["Ay bugün Oğlak'ta: ciddiyet, sorumluluk ve hedefler günü. Verimli ama yorucu.", "Ay Oğlak'ta: duyguları bir kenara bırakıp işe odaklanmak kolay; kendine şefkati unutma."]
+  kova: ["Ay bugün Kova'da: dostlar, gruplar ve yeni fikirler günü. Alışılmışın dışına çık.", "Ay Kova'da: biraz mesafe ve özgürlük iyi gelir; sıra dışı fikirlere açık ol."]
+  balik: ["Ay bugün Balık'ta: sezgi, hayal ve şefkat günü. Sanat ve dinlenme için ideal.", "Ay Balık'ta: sınırlar bulanık; kendini başkalarının duygularından korumayı unutma."]
+evreler:
+  yeni: ["Yeni Ay: niyet zamanı. Tohum ekmek, yeni bir şeye başlamak için gökyüzü seni destekliyor."]
+  hilal: ["Büyüyen hilal: başladığın şeyi büyütme zamanı. Küçük adımlar birikiyor."]
+  ilk_dordun: ["İlk dördün: engeller ve kararlar. Harekete geçmek gerekiyor; geri adım atma."]
+  siskin: ["Şişkin Ay: düzeltme ve ince ayar. Sonuca yaklaşırken ayrıntıları gözden geçir."]
+  dolunay: ["Dolunay: doruk ve aydınlanma. Duygular yüksek, gerçekler görünür. Bir şeyler tamamlanıyor."]
+  azalan: ["Azalan Ay: paylaşma ve şükran. Öğrendiklerini aktar, fazlalıkları bırak."]
+  son_dordun: ["Son dördün: bırakma ve temizlik. Artık işe yaramayanı geride bırakma zamanı."]
+  balzamik: ["Balzamik Ay: dinlenme ve iç dönüş. Yeni döngü öncesi sessizlik."]
+retro_gok:
+  merkur: "Merkür geri hareketinde: iletişimde, teknolojide ve yolculuklarda aksaklıklara açık bir dönem. Yeni sözleşmeler yerine eski işleri gözden geçirmek için uygun."
+  venus: "Venüs geri hareketinde: eski aşklar, eski değerler gündeme gelebilir. Büyük estetik değişiklikler ve yeni ilişkiler için temkinli ol."
+  mars: "Mars geri hareketinde: enerji içe döner; yeni savaşlara girmek yerine stratejiyi gözden geçir."
+  jupiter: "Jüpiter geri hareketinde: büyüme içsel; inançlarını ve planlarını yeniden değerlendir."
+  saturn: "Satürn geri hareketinde: sorumluluklarını ve yapılarını gözden geçirme zamanı."
+transitler:
+  # Hızlı transitler (günlük): gunes, merkur, venus, mars -> doğum noktası
+  gunes:
+    kavusum: ["Güneş bugün doğum haritandaki {hedef} üzerinden geçiyor: {hedefAlan} konusu aydınlanıyor; enerji ve görünürlük artıyor."]
+    uyumlu: ["Güneş doğum haritandaki {hedef} ile uyumlu: {hedefAlan} konusunda kolaylık ve destek var."]
+    gergin: ["Güneş doğum haritandaki {hedef} ile gergin: {hedefAlan} konusunda bir zorlanma, bir karar anı."]
+  merkur:
+    kavusum: ["Merkür doğum haritandaki {hedef} üzerinde: {hedefAlan} hakkında düşünmek, konuşmak ve yazmak için ideal."]
+    uyumlu: ["Merkür doğum haritandaki {hedef} ile uyumlu: {hedefAlan} konusunda net iletişim ve iyi fikirler."]
+    gergin: ["Merkür doğum haritandaki {hedef} ile gergin: {hedefAlan} konusunda yanlış anlaşılmalara dikkat; söylemeden önce düşün."]
+  venus:
+    kavusum: ["Venüs doğum haritandaki {hedef} üzerinde: {hedefAlan} konusuna sevgi, uyum ve güzellik geliyor."]
+    uyumlu: ["Venüs doğum haritandaki {hedef} ile uyumlu: {hedefAlan} konusunda tatlı bir kolaylık; ilişkiler destekleyici."]
+    gergin: ["Venüs doğum haritandaki {hedef} ile gergin: {hedefAlan} konusunda istekler ile gerçekler çatışabilir; harcamaya dikkat."]
+  mars:
+    kavusum: ["Mars doğum haritandaki {hedef} üzerinde: {hedefAlan} konusunda enerji yüksek; harekete geç ama öfkeni izle."]
+    uyumlu: ["Mars doğum haritandaki {hedef} ile uyumlu: {hedefAlan} konusunda cesaret ve enerji var; harekete geçmek için iyi."]
+    gergin: ["Mars doğum haritandaki {hedef} ile gergin: {hedefAlan} konusunda sürtüşme olabilir; acele kararlardan kaçın."]
+  ay:
+    kavusum: ["Ay doğum haritandaki {hedef} üzerinden geçiyor: {hedefAlan} bugün duygusal olarak ön planda."]
+    uyumlu: ["Ay doğum haritandaki {hedef} ile uyumlu: {hedefAlan} konusunda içsel bir rahatlık."]
+    gergin: ["Ay doğum haritandaki {hedef} ile gergin: {hedefAlan} konusunda ruh hâli dalgalı olabilir."]
+  # Yavaş transitler (dönemsel): jupiter, saturn, uranus, neptun, pluton
+  jupiter:
+    kavusum: ["Jüpiter doğum haritandaki {hedef} üzerinde (dönemsel): {hedefAlan} konusunda büyüme ve fırsat yılı."]
+    uyumlu: ["Jüpiter doğum haritandaki {hedef} ile uyumlu (dönemsel): {hedefAlan} konusunda kapılar açılıyor."]
+    gergin: ["Jüpiter doğum haritandaki {hedef} ile gergin (dönemsel): {hedefAlan} konusunda aşırılık ve fazla vaat riski; ölçüyü koru."]
+  saturn:
+    kavusum: ["Satürn doğum haritandaki {hedef} üzerinde (dönemsel): {hedefAlan} konusunda sorumluluk, sınav ve olgunlaşma dönemi."]
+    uyumlu: ["Satürn doğum haritandaki {hedef} ile uyumlu (dönemsel): {hedefAlan} konusunda sağlam temeller kurma zamanı."]
+    gergin: ["Satürn doğum haritandaki {hedef} ile gergin (dönemsel): {hedefAlan} konusunda engeller ve gecikmeler; sabır seni olgunlaştırıyor."]
+  uranus:
+    kavusum: ["Uranüs doğum haritandaki {hedef} üzerinde (dönemsel): {hedefAlan} konusunda ani değişim ve özgürleşme."]
+    uyumlu: ["Uranüs doğum haritandaki {hedef} ile uyumlu (dönemsel): {hedefAlan} konusunda yenilik ve heyecan verici fırsatlar."]
+    gergin: ["Uranüs doğum haritandaki {hedef} ile gergin (dönemsel): {hedefAlan} konusunda beklenmedik sarsıntılar; esnek kal."]
+  neptun:
+    kavusum: ["Neptün doğum haritandaki {hedef} üzerinde (dönemsel): {hedefAlan} konusunda ilham ve belirsizlik bir arada."]
+    uyumlu: ["Neptün doğum haritandaki {hedef} ile uyumlu (dönemsel): {hedefAlan} konusunda sezgi ve yaratıcılık güçleniyor."]
+    gergin: ["Neptün doğum haritandaki {hedef} ile gergin (dönemsel): {hedefAlan} konusunda bulanıklık; önemli kararları netleştirmeden verme."]
+  pluton:
+    kavusum: ["Plüton doğum haritandaki {hedef} üzerinde (dönemsel): {hedefAlan} konusunda derin, kalıcı dönüşüm."]
+    uyumlu: ["Plüton doğum haritandaki {hedef} ile uyumlu (dönemsel): {hedefAlan} konusunda güçlenme ve yeniden doğuş."]
+    gergin: ["Plüton doğum haritandaki {hedef} ile gergin (dönemsel): {hedefAlan} konusunda güç mücadelesi ve köklü değişim baskısı."]
+# Doğum noktasının yaşam alanı (transit metinlerindeki {hedefAlan})
+hedef_alan:
+  gunes: "kimliğin ve yaşam enerjin"
+  ay: "duyguların ve ev hayatın"
+  merkur: "düşüncelerin ve iletişimin"
+  venus: "ilişkilerin ve keyiflerin"
+  mars: "enerjin ve hırsın"
+  jupiter: "inancın ve fırsatların"
+  saturn: "sorumlulukların ve yapıların"
+  uranus: "özgürlüğün"
+  neptun: "hayallerin"
+  pluton: "derin dönüşümlerin"
+  asc: "kendini ortaya koyuşun"
+  mc: "kariyerin ve hedeflerin"
+gunluk_alanlar:
+  kariyer:
+    - "Kariyer: {ozet}"
+  ask:
+    - "Aşk ve ilişkiler: {ozet}"
+  ruh:
+    - "Ruh hâli: {ozet}"
+  para:
+    - "Para: {ozet}"
+alan_bos:
+  kariyer: ["Kariyerde bugün gökyüzü sessiz; rutin işler için uygun bir gün.", "İş tarafında belirgin bir transit yok; plan yapmak ve küçük işleri bitirmek için iyi."]
+  ask: ["İlişkilerde bugün sakin bir hava var; küçük jestler yeterli.", "Aşk tarafında büyük bir hareket yok; olanın tadını çıkar."]
+  ruh: ["Ruh hâlin için bugün Ay'ın burcuna bak; gün genel olarak dengeli.", "İç dünyanda sessiz bir gün; kendine biraz zaman ayır."]
+  para: ["Para tarafında sakin bir gün; büyük kararlar için acele etme.", "Maddi konularda belirgin bir transit yok; bütçeni gözden geçirmek iyi olur."]
+gunun_ogudu:
+  - "Bugünün öğüdü: {ogut}"
+  - "Göğün bugün sana söylediği: {ogut}"
+ogutler:
+  akici: ["akışa güven, kapılar açık.", "fırsatı gördüğünde harekete geç.", "iyi niyetle attığın adım karşılık bulur."]
+  gergin: ["acele etme, önce nefes al.", "çatışmayı büyütme, sınır koy.", "zor görünen şey seni güçlendiriyor."]
+  notr: ["küçük işleri bitir, zihnin rahatlasın.", "kendine ve sevdiklerine zaman ayır.", "gözlemle, sonra karar ver."]

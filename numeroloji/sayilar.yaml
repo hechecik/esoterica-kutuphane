@@ -1,0 +1,61 @@
+kaynak: "Pisagor numerolojisi geleneği; metin özgün"
+lang: tr
+yontem: "Pisagor sistemi: harfler 1–9 arası değer alır (A=1, B=2 … I=9, J=1 …); Türkçe harfler okunuşuna en yakın Latin harfin değerini alır (Ç=C, Ğ=G, I/İ=I, Ö=O, Ş=S, Ü=U). Doğum tarihindeki gün, ay ve yıl ayrı ayrı indirgenip toplanır. 11, 22 ve 33 usta sayı olarak korunur."
+konumlar:
+  yasamYolu: { ad: "Yaşam yolu", aciklama: "Doğum tarihinden. Bu hayatta yürüdüğün ana yol ve öğrenmeye geldiğin ders." }
+  ifade: { ad: "İfade (kader)", aciklama: "Tam adının tüm harflerinden. Yeteneklerin ve dünyaya kendini nasıl ifade ettiğin." }
+  ruh: { ad: "Ruh güdüsü", aciklama: "Adındaki sesli harflerden. İçten içe en çok istediğin şey." }
+  kisilik: { ad: "Kişilik", aciklama: "Adındaki sessiz harflerden. Dışarıdan nasıl göründüğün." }
+  dogumGunu: { ad: "Doğum günü", aciklama: "Doğduğun günden. Yanında taşıdığın özel bir yetenek." }
+  kisiselYil: { ad: "Kişisel yıl", aciklama: "Bu yılın sana özel teması (dokuz yıllık döngüde neredesin)." }
+  kisiselAy: { ad: "Kişisel ay", aciklama: "Bu ayın teması." }
+  kisiselGun: { ad: "Kişisel gün", aciklama: "Bugünün teması." }
+sayilar:
+  1: { ad: "Bir", anahtar: "öncü, bağımsız, başlatan",
+       portre: "Bir, başlatan sayıdır: kendi yolunu çizen, ilk adımı atan, önde olmayı seven.", golge: "Gölgesi bencillik ve sabırsızlık; her şeyi tek başına yapmaya çalışmak.",
+       ask: "Aşkta bağımsızlığını korumak istersin; seni boğmayan, kendi ayakları üstünde duran biri iyi gelir.", is: "İşte liderlik, girişimcilik ve kendi projelerin parlar.",
+       yil: "Yeni bir dokuz yıllık döngünün başı: tohum ekme, yeni başlangıçlar, cesur adımlar zamanı.", gun: "Bugün bir şeye başla; ilk adımı sen at." }
+  2: { ad: "İki", anahtar: "uyum, ortaklık, duyarlılık",
+       portre: "İki, birleştiren sayıdır: diplomatik, sezgili, ilişkilerde ustalaşan.", golge: "Gölgesi aşırı hassasiyet ve kendini başkasına göre ayarlamak.",
+       ask: "Aşk senin için merkezdir; karşılıklılık ve incelik istersin.", is: "İş birliği, arabuluculuk, destek rolleri ve ekip çalışmasında güçlüsün.",
+       yil: "Sabır ve ilişkiler yılı: ekilen tohum yavaşça filizleniyor; acele etme, ortaklık kur.", gun: "Bugün dinle, uzlaş, birine destek ol." }
+  3: { ad: "Üç", anahtar: "ifade, yaratıcılık, neşe",
+       portre: "Üç, ifade eden sayıdır: konuşkan, yaratıcı, neşe saçan.", golge: "Gölgesi dağınıklık ve yüzeysellik; enerjiyi her yere saçmak.",
+       ask: "Aşkta eğlence, sohbet ve hafiflik istersin.", is: "Yazı, sanat, iletişim ve sahne işlerinde parlarsın.",
+       yil: "Kendini ifade etme yılı: sosyal hayat canlanıyor, yaratıcılık akıyor.", gun: "Bugün bir şey yarat, birine güzel bir söz söyle." }
+  4: { ad: "Dört", anahtar: "düzen, emek, temel",
+       portre: "Dört, inşa eden sayıdır: çalışkan, güvenilir, sistemli.", golge: "Gölgesi katılık ve değişime direnç.",
+       ask: "Aşkta güven ve istikrar ararsın; sözüne sadık birisin.", is: "Planlama, mühendislik, yönetim ve sabır isteyen işlerde ustasın.",
+       yil: "Temel atma yılı: emek, düzen ve disiplin. Yorucu ama kalıcı.", gun: "Bugün ertelediğin bir işi bitir; düzen kur." }
+  5: { ad: "Beş", anahtar: "özgürlük, değişim, macera",
+       portre: "Beş, hareket eden sayıdır: meraklı, esnek, değişimi seven.", golge: "Gölgesi huzursuzluk ve aşırılık; hiçbir yerde kalamamak.",
+       ask: "Aşkta heyecan ve özgürlük istersin; rutinden sıkılırsın.", is: "Satış, seyahat, medya ve çeşitlilik isteyen işlerde iyisin.",
+       yil: "Değişim yılı: yolculuk, yenilik ve beklenmedik fırsatlar.", gun: "Bugün alışkanlığını değiştir, yeni bir şey dene." }
+  6: { ad: "Altı", anahtar: "sorumluluk, şefkat, yuva",
+       portre: "Altı, koruyan sayıdır: şefkatli, sorumlu, ev ve aile odaklı.", golge: "Gölgesi aşırı fedakârlık ve kontrol.",
+       ask: "Aşkta sadakat ve sıcak bir yuva istersin; çok verirsin.", is: "Bakım, eğitim, danışmanlık, tasarım ve hizmet alanlarında güçlüsün.",
+       yil: "Ev, aile ve sorumluluk yılı: ilişkiler derinleşiyor, yükler de artabilir.", gun: "Bugün sevdiklerine zaman ayır." }
+  7: { ad: "Yedi", anahtar: "derinlik, araştırma, iç ses",
+       portre: "Yedi, arayan sayıdır: düşünceli, sezgili, derin bilgiye meraklı.", golge: "Gölgesi içe kapanma ve şüphecilik.",
+       ask: "Aşkta zihinsel bağ ve yalnız kalabileceğin alan istersin.", is: "Araştırma, bilim, analiz, maneviyat ve uzmanlık işlerinde derinsin.",
+       yil: "İçe dönüş yılı: öğrenme, düşünme, ruhsal derinleşme. Dış başarıdan çok iç büyüme.", gun: "Bugün yalnız kalıp düşün; sezgini dinle." }
+  8: { ad: "Sekiz", anahtar: "güç, başarı, maddi dünya",
+       portre: "Sekiz, yöneten sayıdır: hırslı, güçlü, maddi dünyada başarılı.", golge: "Gölgesi aşırı kontrol ve işkoliklik.",
+       ask: "Aşkta güçlü ve saygı duyduğun bir partner istersin.", is: "Yönetim, finans, iş kurma ve otorite gerektiren işlerde başarılısın.",
+       yil: "Hasat ve güç yılı: kariyer ve para konularında sonuç alma zamanı.", gun: "Bugün para ve iş konularında net kararlar ver." }
+  9: { ad: "Dokuz", anahtar: "tamamlanma, şefkat, evrensellik",
+       portre: "Dokuz, tamamlayan sayıdır: cömert, idealist, insanlığa dönük.", golge: "Gölgesi geçmişe takılmak ve kendini feda etmek.",
+       ask: "Aşkta derin, anlamlı ve bağışlayıcı bir bağ ararsın.", is: "Sanat, sosyal çalışma, eğitim ve insanlara hizmet eden işlerde anlam bulursun.",
+       yil: "Kapanış yılı: dokuz yıllık döngü bitiyor. Bırak, temizle, affet; yeni döngüye yer aç.", gun: "Bugün bir şeyi bitir, bir şeyi bırak." }
+  11: { ad: "On bir (usta)", anahtar: "ilham, sezgi, aydınlatma",
+        portre: "On bir usta sayıdır: güçlü sezgi, ilham verme yeteneği ve yüksek hassasiyet. İkinin derin hâli.", golge: "Gölgesi sinirsel gerginlik ve kendinden şüphe.",
+        ask: "Aşkta ruhsal bir bağ ararsın; yüzeysellik seni yorar.", is: "İlham veren, öğreten, rehberlik eden işlerde parlarsın.",
+        yil: "", gun: "" }
+  22: { ad: "Yirmi iki (usta)", anahtar: "usta inşaatçı, büyük vizyon",
+        portre: "Yirmi iki usta inşaatçıdır: büyük hayalleri somut yapılara dönüştürme gücü. Dördün derin hâli.", golge: "Gölgesi baskı altında ezilmek ve mükemmeliyetçilik.",
+        ask: "Aşkta birlikte bir şey inşa edebileceğin bir partner istersin.", is: "Büyük projeler, kurumlar, kalıcı eserler kurma gücün var.",
+        yil: "", gun: "" }
+  33: { ad: "Otuz üç (usta)", anahtar: "usta öğretmen, şefkat",
+        portre: "Otuz üç usta öğretmendir: koşulsuz şefkat ve iyileştirme gücü. Altının derin hâli.", golge: "Gölgesi kendini unutacak kadar başkalarına vermek.",
+        ask: "Aşkta derin bir bağlılık ve şefkat taşırsın.", is: "Şifa, eğitim ve insanlara hizmette olağanüstü bir etkin olabilir.",
+        yil: "", gun: "" }

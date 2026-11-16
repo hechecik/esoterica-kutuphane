@@ -1,0 +1,91 @@
+kaynak: "I Ching (Yijing), King Wen sırası; klasik metin kamu malı; yorumlar özgün Türkçe, çeviri değildir"
+lang: tr
+ucluler:
+  qian: { ad: "Gök", nitelik: "yaratıcı, güçlü, durmaksızın ilerleyen", aile: "baba" }
+  kun: { ad: "Yer", nitelik: "alıcı, besleyen, sabırlı", aile: "anne" }
+  zhen: { ad: "Gök gürültüsü", nitelik: "harekete geçiren, sarsan, uyandıran", aile: "büyük oğul" }
+  kan: { ad: "Su", nitelik: "derin, tehlikeli, akıp giden", aile: "ortanca oğul" }
+  gen: { ad: "Dağ", nitelik: "duran, dinginleşen, sınır koyan", aile: "küçük oğul" }
+  xun: { ad: "Rüzgâr", nitelik: "yumuşakça sızan, nüfuz eden", aile: "büyük kız" }
+  li: { ad: "Ateş", nitelik: "aydınlatan, tutunan, berraklık veren", aile: "ortanca kız" }
+  dui: { ad: "Göl", nitelik: "sevinçli, açık, paylaşan", aile: "küçük kız" }
+cizgi_konumu:
+  1: "Birinci çizgi (en alt): işin başı, henüz görünmeyen kök. Burada acele etmek de, hiç kıpırdamamak da sonucu belirler."
+  2: "İkinci çizgi: iç dünyada merkez. Sessiz, sağlam ve uygun bir tutum; dışarıdan değil içeriden güç."
+  3: "Üçüncü çizgi: iç ile dış arasındaki eşik. Gerilim burada en yüksek; aşırılığa kaçmamak gerekir."
+  4: "Dördüncü çizgi: dış dünyaya ilk adım, yetkiye yakınlık. Dikkat, uyum ve doğru kişiye yaklaşmak önemli."
+  5: "Beşinci çizgi: hükmün yeri, durumun efendisi. En güçlü konum; sorumluluğu taşımak burada."
+  6: "Altıncı çizgi (en üst): işin sonu, aşırıya varış. Doruk geçildi; bırakmayı bilmek gerekiyor."
+degisen_sayisi:
+  0: "Değişen çizgi yok: durum sabit. Heksagramın bütün anlamı olduğu gibi geçerli."
+  1: "Tek değişen çizgi var: mesajın odağı o çizgide."
+  2: "İki değişen çizgi var: ikisini de oku, üstteki daha ağır basar."
+  3: "Üç değişen çizgi var: durum bir dönüşümün tam ortasında; iki heksagramı birlikte düşün."
+  4: "Dört değişen çizgi var: dönüşen heksagram ağırlık kazanıyor; eski durum çözülmekte."
+  5: "Beş değişen çizgi var: neredeyse her şey değişiyor; dönüşen heksagram asıl mesajdır."
+  6: "Altı çizginin hepsi değişiyor: durum tümüyle zıttına dönüyor; dönüşen heksagram yeni başlangıçtır."
+heksagramlar:
+  - { no: 1, ad: "Yaratıcı", cin: "Qián", anlam: "Saf yaratıcı güç: başlatma, ilerleme ve kararlılık zamanı. Gök durmaz; sen de durma, ama gücünü doğru yöne ver.", ogut: "Güçlüsün; bu gücü sabırla ve dürüstçe kullan." }
+  - { no: 2, ad: "Alıcı", cin: "Kūn", anlam: "Toprak gibi kabul eden, taşıyan ve besleyen güç. Şimdi önde olmak değil, destek olmak ve izlemek verimli.", ogut: "Öncülük etme; doğru öncüyü bul ve sadakatle eşlik et." }
+  - { no: 3, ad: "Başlangıçtaki zorluk", cin: "Zhūn", anlam: "Filizin toprağı yarması gibi: her başlangıç karmaşıktır. Kaos, büyümenin işareti.", ogut: "Yardım iste, düzeni adım adım kur; aceleyle büyük işe girişme." }
+  - { no: 4, ad: "Toyluk", cin: "Méng", anlam: "Gençliğin bilgisizliği: öğrenme zamanı. Soru sormak utanç değil, ama aynı soruyu tekrar tekrar sormak dinlememektir.", ogut: "Bir öğretmen bul ve öğrenmeye açık ol." }
+  - { no: 5, ad: "Bekleme", cin: "Xū", anlam: "Bulutlar toplandı ama yağmur henüz yağmadı. Beklemek pasiflik değil, hazırlıktır.", ogut: "Kendini besle, sabırla bekle; zamanı gelince yağmur yağar." }
+  - { no: 6, ad: "Çekişme", cin: "Sòng", anlam: "Gök yukarı, su aşağı akar: yönler ayrışıyor, bir anlaşmazlık var. Sonuna kadar kavga etmek kimseye kazandırmaz.", ogut: "Yarı yolda uzlaş; davayı sonuna götürme." }
+  - { no: 7, ad: "Ordu", cin: "Shī", anlam: "Toplu bir güç, disiplin ve iyi bir liderlik gerektiren durum. Örgütlenme zamanı.", ogut: "Güçlerini düzene sok, deneyimli birinin rehberliğine güven." }
+  - { no: 8, ad: "Birlik", cin: "Bǐ", anlam: "Su toprağın üstünde birleşir: dayanışma, ortaklık, bir merkez etrafında toplanmak.", ogut: "Doğru insanlarla birleş; geç kalma." }
+  - { no: 9, ad: "Küçük birikim", cin: "Xiǎo Chù", anlam: "Rüzgâr gökte bulutları toplar ama yağmur yağdırmaz: küçük engeller, yumuşak bir dizginleme.", ogut: "Büyük adım zamanı değil; küçük ama sürekli ilerle." }
+  - { no: 10, ad: "Yürüyüş", cin: "Lǚ", anlam: "Kaplanın kuyruğuna basıp ısırılmamak: incelik ve doğru davranışla tehlikeli bir durumdan geçmek.", ogut: "Saygılı ve dikkatli ol; nezaket seni korur." }
+  - { no: 11, ad: "Barış", cin: "Tài", anlam: "Gök ile yer buluşuyor: uyum, bolluk, iyi giden işler. Akışın en verimli dönemi.", ogut: "Bu iyi dönemi değerlendir ama sürekli olacağını sanma." }
+  - { no: 12, ad: "Durgunluk", cin: "Pǐ", anlam: "Gök ile yer birbirinden uzaklaşıyor: iletişim kopuk, işler tıkalı.", ogut: "Kendini koru, ilkelerinden ödün verme; durgunluk da geçer." }
+  - { no: 13, ad: "İnsanlarla dostluk", cin: "Tóng Rén", anlam: "Ortak bir amaç etrafında açık bir topluluk. Gizli gruplar değil, herkesin göreceği birlik.", ogut: "Ortak hedefi öne koy; kliklerden kaçın." }
+  - { no: 14, ad: "Büyük sahiplik", cin: "Dà Yǒu", anlam: "Gökte parlayan güneş: bolluk, başarı ve elde edilen büyük değer.", ogut: "Varlığını alçakgönüllülükle taşı ve paylaş." }
+  - { no: 15, ad: "Alçakgönüllülük", cin: "Qiān", anlam: "Dağ toprağın altında: büyük olan kendini küçük gösterir. Ölçülü olan kalıcı olur.", ogut: "Fazlayı eksik olana ver; dengeyi koru." }
+  - { no: 16, ad: "Coşku", cin: "Yù", anlam: "Gök gürültüsü topraktan yükselir: heves, ilham, insanları harekete geçiren enerji.", ogut: "Coşkunu paylaş ama hazırlığı ihmal etme." }
+  - { no: 17, ad: "İzleme", cin: "Suí", anlam: "Zamanın akışına uymak: doğru olanı izlemek ve kendini uyarlamak.", ogut: "Uyum sağla, ama ilkelerini bırakmadan." }
+  - { no: 18, ad: "Bozulanı onarmak", cin: "Gǔ", anlam: "Kapalı kapta çürüyen şey: ihmal edilmiş bir mesele, geçmişten kalan bir yük. Onarma zamanı.", ogut: "Kökü bul, önceden düşün, sonra cesaretle düzelt." }
+  - { no: 19, ad: "Yaklaşma", cin: "Lín", anlam: "Bahar yaklaşıyor: büyüme, ilerleme ve iyi niyetli bir yakınlaşma.", ogut: "Fırsatı değerlendir; ama her baharın bir sonbaharı olduğunu bil." }
+  - { no: 20, ad: "Seyretme", cin: "Guān", anlam: "Yüksek bir kuleden bakmak: gözlemlemek ve aynı zamanda görülmek.", ogut: "Önce dikkatle bak, sonra örnek ol." }
+  - { no: 21, ad: "Isırıp geçmek", cin: "Shì Kè", anlam: "Ağızdaki bir engeli ısırarak kırmak: kararlı ve adil müdahale gerekiyor.", ogut: "Engeli görmezden gelme; net ve adil davran." }
+  - { no: 22, ad: "Zarafet", cin: "Bì", anlam: "Dağın eteğinde yanan ateş: güzellik, biçim, süs. Öz değil ama özü gösterir.", ogut: "Görüntüye önem ver ama asıl meseleyi süsle örtme." }
+  - { no: 23, ad: "Dağılma", cin: "Bō", anlam: "Dağın toprağı aşınıyor: bir yapı içten çözülüyor. Şimdi hamle zamanı değil.", ogut: "Dayan, bekle; kökleri koru, yeni dönem gelecek." }
+  - { no: 24, ad: "Dönüş", cin: "Fù", anlam: "Kış gündönümünde ışık geri döner: bir yeniden başlangıç, iyileşme, doğru yola dönüş.", ogut: "Yeni başlangıcı acele etmeden, yavaşça besle." }
+  - { no: 25, ad: "Masumiyet", cin: "Wú Wàng", anlam: "Beklentisiz, hesapsız, içten davranış. Beklenmedik olaylar da gelebilir.", ogut: "Saf niyetle davran; plan yapmadan doğruyu yap." }
+  - { no: 26, ad: "Büyük birikim", cin: "Dà Chù", anlam: "Dağın içinde gök: büyük güç biriktirilip tutuluyor. Bilgi ve kaynak toplama zamanı.", ogut: "Gücünü biriktir, geçmişten öğren; sonra büyük işe giriş." }
+  - { no: 27, ad: "Beslenme", cin: "Yí", anlam: "Açık ağız: neyle beslendiğin, neyi söylediğin ve kimi beslediğin.", ogut: "Bedenini ve zihnini neyle beslediğine dikkat et." }
+  - { no: 28, ad: "Büyüğün ağırlığı", cin: "Dà Guò", anlam: "Kiriş ortasından eğiliyor: yük taşınamayacak kadar ağır. Olağanüstü bir durum.", ogut: "Bir şeyleri değiştirmek şart; cesurca ama dikkatle hareket et." }
+  - { no: 29, ad: "Uçurum", cin: "Kǎn", anlam: "Su üstüne su: art arda tehlike. Ama su akmaya devam eder, yolunu bulur.", ogut: "İçten samimiyetini koru ve akmaya devam et." }
+  - { no: 30, ad: "Yapışan ateş", cin: "Lí", anlam: "Ateş bir şeye tutunarak yanar: berraklık, aydınlık ve doğru bağlılık.", ogut: "Neye tutunduğunu seç; doğru olana bağlan." }
+  - { no: 31, ad: "Etki", cin: "Xián", anlam: "Dağın üstünde göl: karşılıklı çekim, kur yapma, kalpten kalbe etki.", ogut: "Açık ve alıcı ol; zorlamadan etkile." }
+  - { no: 32, ad: "Süreklilik", cin: "Héng", anlam: "Gök gürültüsü ve rüzgâr birlikte: kalıcılık, süreklilik, uzun soluklu bağ.", ogut: "Yönünü değiştirmeden yolunda kal." }
+  - { no: 33, ad: "Geri çekilme", cin: "Dùn", anlam: "Gök dağın üstünden uzaklaşır: stratejik çekilme zamanı. Kaçış değil, akıllıca mesafe.", ogut: "Zamanında ve onurla geri çekil." }
+  - { no: 34, ad: "Büyüğün gücü", cin: "Dà Zhuàng", anlam: "Gökte gök gürültüsü: büyük güç ve atılım. Ama güç doğru kullanılmazsa zarar verir.", ogut: "Gücünü göstermek için değil, doğruyu yapmak için kullan." }
+  - { no: 35, ad: "İlerleme", cin: "Jìn", anlam: "Güneş yerin üstünde yükselir: hızlı ilerleme, tanınma, parlak bir dönem.", ogut: "Işığını göster, ama erdeminden ödün verme." }
+  - { no: 36, ad: "Işığın kararması", cin: "Míng Yí", anlam: "Güneş yerin altına iniyor: zor ve karanlık bir dönem. Işığını gizle ama söndürme.", ogut: "İçten ışığını koru, dışarıda dikkatli ol." }
+  - { no: 37, ad: "Aile", cin: "Jiā Rén", anlam: "Evin içi: herkesin yerini bildiği, sevgi ve düzenle işleyen bir yapı.", ogut: "Önce evini, yakınlarını düzene sok." }
+  - { no: 38, ad: "Karşıtlık", cin: "Kuí", anlam: "Ateş yukarı, göl aşağı: zıtlıklar, anlaşmazlık. Küçük işlerde yine de uzlaşma mümkün.", ogut: "Büyük birlik bekleme; küçük ortak noktaları bul." }
+  - { no: 39, ad: "Engel", cin: "Jiǎn", anlam: "Dağın üstünde su: önün kesik. Engel dışarıdan çok içeride çözülür.", ogut: "Dur, kendine dön, yardım iste; dolanmak bazen ileri gitmektir." }
+  - { no: 40, ad: "Kurtuluş", cin: "Xiè", anlam: "Gök gürültüsü ve yağmur: gerilim çözülüyor, düğüm açılıyor.", ogut: "Rahatla, affet, geride kalanı bırak; hızla toparlan." }
+  - { no: 41, ad: "Azalma", cin: "Sǔn", anlam: "Fazlayı azaltmak: sadeleşme, fedakârlık, gereksizi bırakmak.", ogut: "Az olan bazen çoktur; sadeleş." }
+  - { no: 42, ad: "Artma", cin: "Yì", anlam: "Rüzgâr ve gök gürültüsü birbirini güçlendirir: artış, bereket, ilerleme fırsatı.", ogut: "Fırsat varken harekete geç ve kazancını paylaş." }
+  - { no: 43, ad: "Atılım", cin: "Guài", anlam: "Göl göğe yükselmiş, taşmak üzere: kararlı bir kopuş, gerçeği açıkça söylemek.", ogut: "Kararlı ol ama öfkeyle değil, açıklıkla davran." }
+  - { no: 44, ad: "Karşılaşma", cin: "Gòu", anlam: "Göğün altında rüzgâr: beklenmedik bir karşılaşma, cazip ama dikkat isteyen bir etki.", ogut: "Çekici olana hemen teslim olma; niyetini anla." }
+  - { no: 45, ad: "Toplanma", cin: "Cuì", anlam: "Toprağın üstünde göl: insanlar bir araya geliyor, bir merkez etrafında toplanma.", ogut: "Topluluğu güçlendir, ama beklenmedik olaya hazırlıklı ol." }
+  - { no: 46, ad: "Yükselme", cin: "Shēng", anlam: "Toprağın içinden ağaç büyüyor: adım adım, emekle yükselme.", ogut: "Sabırla ve sürekli çalış; yükseliş kendiliğinden gelir." }
+  - { no: 47, ad: "Bunalım", cin: "Kùn", anlam: "Gölün suyu çekilmiş: tükenmişlik, sıkışmışlık, sözlerin dinlenmediği bir dönem.", ogut: "Az konuş, içten güçlü kal; bu sınav seni olgunlaştırır." }
+  - { no: 48, ad: "Kuyu", cin: "Jǐng", anlam: "Kuyu yer değiştirmez, herkesi besler: kalıcı kaynak, derin değerler.", ogut: "İpini uzat; kaynağa kadar in, yarıda bırakma." }
+  - { no: 49, ad: "Devrim", cin: "Gé", anlam: "Gölün içinde ateş: köklü değişim, eski deriyi atmak. Zamanı doğru seçilmeli.", ogut: "Değişim gerekliyse zamanında ve gerekçeli yap." }
+  - { no: 50, ad: "Kazan", cin: "Dǐng", anlam: "Odun üstünde ateş, kazanda kaynayan yemek: dönüşüm, kültür, beslenen değerler.", ogut: "Neyi pişirdiğine dikkat et; değerlerini olgunlaştır." }
+  - { no: 51, ad: "Sarsıntı", cin: "Zhèn", anlam: "Gök gürültüsü üstüne gök gürültüsü: ani şok, korku, ardından gelen uyanış.", ogut: "Sarsıntıdan sonra gül; dersi al ve sakinleş." }
+  - { no: 52, ad: "Dinginlik", cin: "Gèn", anlam: "Dağ üstüne dağ: durmak, sakinleşmek, düşünceleri dindirmek.", ogut: "Durman gereken yerde dur; zihnini sustur." }
+  - { no: 53, ad: "Aşamalı gelişme", cin: "Jiàn", anlam: "Dağın üstünde ağaç yavaşça büyür: adım adım, doğru sırayla ilerlemek.", ogut: "Aşamaları atlama; yavaş ve sağlam ilerle." }
+  - { no: 54, ad: "Gelin giden kız", cin: "Guī Mèi", anlam: "Göl üstünde gök gürültüsü: eşit olmayan bir ilişki, kendi yerini bilmenin önemi.", ogut: "Beklentini gerçekçi tut; konumunu zorlamadan kabul et." }
+  - { no: 55, ad: "Bolluk", cin: "Fēng", anlam: "Gök gürültüsü ve şimşek birlikte: doruk, bolluk, parlak bir an.", ogut: "Öğle güneşi gibi parla; her doruğun bir inişi olduğunu bil." }
+  - { no: 56, ad: "Gezgin", cin: "Lǚ", anlam: "Dağın üstünde ateş: yolda olmak, yabancılık, geçicilik.", ogut: "Yabancı yerde ölçülü ve nazik ol; kalıcı sanma." }
+  - { no: 57, ad: "Nüfuz", cin: "Xùn", anlam: "Rüzgâr üstüne rüzgâr: yumuşakça ama sürekli etki etmek.", ogut: "Zorla değil, sürekli ve yumuşak etkiyle ilerle." }
+  - { no: 58, ad: "Neşe", cin: "Duì", anlam: "Göl üstüne göl: sevinç, paylaşım, açık iletişim.", ogut: "Neşeni paylaş; ama yüzeysel keyiflere kapılma." }
+  - { no: 59, ad: "Çözülme", cin: "Huàn", anlam: "Suyun üstünde rüzgâr: donmuş olan çözülüyor, ayrılık dağılıyor.", ogut: "Katılığı bırak, insanları ortak bir değer etrafında birleştir." }
+  - { no: 60, ad: "Sınırlama", cin: "Jié", anlam: "Göl üstünde su: sınırlar ve ölçü. Doğru sınır özgürlük verir, aşırı sınır boğar.", ogut: "Kendine makul sınırlar koy; aşırıya kaçma." }
+  - { no: 61, ad: "İç hakikat", cin: "Zhōng Fú", anlam: "Göl üstünde rüzgâr: içten gelen dürüstlük, en zor olanı bile etkiler.", ogut: "İçten ve samimi ol; gerçeklik her şeyi aşar." }
+  - { no: 62, ad: "Küçüğün ağırlığı", cin: "Xiǎo Guò", anlam: "Dağın üstünde gök gürültüsü: küçük işlerde dikkat, büyük işlerde temkin.", ogut: "Alçaktan uç; küçük işleri iyi yap, büyük atılımı ertele." }
+  - { no: 63, ad: "Tamamlandıktan sonra", cin: "Jì Jì", anlam: "Ateşin üstünde su: her şey yerine oturmuş. Ama düzen kolayca bozulabilir.", ogut: "Başarıdan sonra gevşeme; özeni sürdür." }
+  - { no: 64, ad: "Tamamlanmadan önce", cin: "Wèi Jì", anlam: "Suyun üstünde ateş: geçiş henüz tamamlanmadı. Son adım en dikkat isteyen adımdır.", ogut: "Neredeyse vardın; son adımda acele etme." }

@@ -1,0 +1,86 @@
+kaynak: "Esoterica astroloji kütüphanesi; metin özgün"
+lang: tr
+element_baskin:
+  ates:
+    - "Haritanda ateş baskın: hayatı coşkuyla, cesaretle ve hızla yaşarsın. İlham senin yakıtın; sabır ise öğrenilecek bir beceri."
+    - "Ateş elementi öne çıkıyor: harekete geçmek, başlatmak ve parlamak senin doğan. Tükenmemek için dinlenmeyi de plana koy."
+  toprak:
+    - "Haritanda toprak baskın: pratik, sabırlı ve somut sonuç odaklısın. Hayaller senin elinde yapıya dönüşür."
+    - "Toprak elementi öne çıkıyor: güvenilir, çalışkan ve gerçekçisin. Esneklik ve oyun, hayatına renk katacak eksik parça olabilir."
+  hava:
+    - "Haritanda hava baskın: fikirler, iletişim ve insanlar arasında yaşarsın. Zihnin hep hareket hâlinde."
+    - "Hava elementi öne çıkıyor: düşünür, konuşur, bağlantı kurarsın. Bedene ve duyguya inmek dengeyi tamamlar."
+  su:
+    - "Haritanda su baskın: duygular, sezgiler ve bağlar hayatının merkezinde. Başkalarının hissettiğini söylemeden anlarsın."
+    - "Su elementi öne çıkıyor: derin, empatik ve sezgiselsin. Sınır koymak bu hassasiyeti korur."
+element_eksik:
+  ates: "Haritanda ateş az: harekete geçmek için dışarıdan bir kıvılcıma ihtiyaç duyabilirsin. Spor, heyecan verici hedefler ve cesur insanlar bu eksikliği dengeler."
+  toprak: "Haritanda toprak az: fikirlerini somutlaştırmak, düzen kurmak zor gelebilir. Rutinler, listeler ve bedenle ilgilenmek seni topraklar."
+  hava: "Haritanda hava az: duygularına ve eylemlerine mesafeyle bakmak zor olabilir. Yazmak, konuşmak ve farklı bakış açıları dinlemek dengeler."
+  su: "Haritanda su az: duygularını tanımak ve ifade etmek zaman alabilir. Müzik, sanat ve yakın ilişkiler kalbin kapısını aralar."
+nitelik_baskin:
+  oncu: "Öncü nitelik baskın: başlatıcısın. Yeni projeler, yeni yönler seni canlandırır; bitirmek ise ayrı bir çaba ister."
+  sabit: "Sabit nitelik baskın: kararlı, sadık ve dayanıklısın. Bir şeye başladığında bırakmazsın; değişime ise yavaş uyum sağlarsın."
+  degisken: "Değişken nitelik baskın: uyumlu, esnek ve çok yönlüsün. Değişime kolay ayak uydurursun; odaklanmak dersin olabilir."
+baskin_gezegen:
+  gunes: "Haritanın en güçlü sesi Güneş: kimlik, irade ve kendini ifade etme hayatının merkezinde. Parlamak ve yön vermek istersin."
+  ay: "Haritanın en güçlü sesi Ay: duygular, sezgiler ve aidiyet hayatının pusulası. İnsanlara bakım vermek doğanda var."
+  merkur: "Haritanın en güçlü sesi Merkür: zihin, merak ve iletişim. Öğrenmek, konuşmak ve bağlantı kurmak senin yolun."
+  venus: "Haritanın en güçlü sesi Venüs: sevgi, uyum ve güzellik. İlişkiler ve estetik hayatına anlam verir."
+  mars: "Haritanın en güçlü sesi Mars: enerji, cesaret ve irade. Mücadele etmek ve harekete geçmek senin doğan."
+  jupiter: "Haritanın en güçlü sesi Jüpiter: büyüme, iyimserlik ve anlam. Ufku genişletmek ve inanç senin yolun."
+  saturn: "Haritanın en güçlü sesi Satürn: sorumluluk, yapı ve zaman. Emek ve sabırla kalıcı şeyler kurarsın."
+  uranus: "Haritanın en güçlü sesi Uranüs: özgürlük, yenilik ve farklılık. Kalıpları kırmak senin işin."
+  neptun: "Haritanın en güçlü sesi Neptün: sezgi, sanat ve maneviyat. Görünmeyenle bağın güçlü."
+  pluton: "Haritanın en güçlü sesi Plüton: dönüşüm, derinlik ve güç. Hayatın döngüler hâlinde yeniden doğar."
+yonetici:
+  - "Haritanın yöneticisi {gezegen}, {burc} burcunda ve {ev}. evde. Hayatının ana hikâyesi bu gezegenin temaları etrafında döner."
+  - "Yükselen burcunun yöneticisi {gezegen}; {ev}. evdeki konumu, enerjinin en çok nereye aktığını gösterir: {alan}."
+kalip:
+  stelyum: "{burc} burcunda {sayi} gezegen toplanmış: bu burcun temaları hayatında çok yoğun yaşanıyor. Bu yoğunluk hem bir uzmanlık hem de bir denge ihtiyacı."
+  ev-yigilmasi: "{ev}. evde {sayi} gezegen toplanmış: {alan} hayatının merkezinde. Enerjinin büyük kısmı bu alana akıyor."
+  t-kare: "Haritanda bir T-kare var ({liste}): bu gerilimli üçlü seni sürekli harekete geçirir. Zorluk gibi görünen bu yapı aslında en büyük motorlarından biri."
+  buyuk-ucgen: "Haritanda büyük bir üçgen var ({liste}): bu konuda doğal bir akış ve yetenek taşıyorsun. Kolay gelen şeyleri küçümsemeden geliştirmek önemli."
+  yod: "Haritanda bir yod, 'kaderin parmağı' var ({liste}): hayatında özel bir görev ya da yön hissi olabilir. Uyum sağlaman gereken bir eşik."
+  buyuk-hac: "Haritanda büyük bir haç var ({liste}): dört yönden çekilen güçlü bir yapı. Dayanıklılık ve denge senin uzmanlık alanın olur."
+retro:
+  merkur: "Merkür doğumda geri hareketteydi: düşüncelerini içeride olgunlaştırırsın; önce dinler, sonra konuşursun. Geçmişe dönüp yeniden değerlendirmek senin güçlü yanın."
+  venus: "Venüs doğumda geri hareketteydi: sevgiyi kendi içinde yeniden tanımlarsın. Değerlerin ve aşk anlayışın alışılmışın dışında olabilir."
+  mars: "Mars doğumda geri hareketteydi: enerjini içe yönlendirirsin; öfken sessiz, eylemin düşünülmüş."
+  jupiter: "Jüpiter doğumda geri hareketteydi: anlam arayışın içsel; kendi felsefeni kurarsın."
+  saturn: "Satürn doğumda geri hareketteydi: kurallarını kendin koyarsın; içsel bir otorite sesin var."
+  uranus: "Uranüs geri hareketi kuşak düzeyinde yaygındır; içsel bir özgürlük arayışını vurgular."
+  neptun: "Neptün geri hareketi kuşak düzeyinde yaygındır; sezgilerin iç dünyada derinleşir."
+  pluton: "Plüton geri hareketi kuşak düzeyinde yaygındır; dönüşüm içeriden başlar."
+saat_yok:
+  - "Doğum saatin bilinmediği için yükselen, MC ve evler bu yorumda yok. Saat öğrenirsen harita çok daha kişisel hâle gelir."
+  - "Bu harita öğle saatine göre hesaplandı. Gezegenlerin burçları büyük olasılıkla doğru; ama evler ve yükselen için doğum saati gerekir."
+alanlar:
+  ask:
+    baslik: "Aşk ve ilişkiler"
+    giris:
+      - "Aşk hayatını Venüs, Mars ve yedinci ev anlatır."
+      - "İlişkilerde nasıl sevdiğini Venüs, neyi arzuladığını Mars, kimi aradığını yedinci ev söyler."
+  kariyer:
+    baslik: "Kariyer ve hedefler"
+    giris:
+      - "Kariyer yönünü MC, onuncu ev ve Satürn anlatır."
+      - "Toplumdaki yerini ve meslek yönünü tepe noktan (MC) ve onuncu evin gösterir."
+  para:
+    baslik: "Para ve değerler"
+    giris:
+      - "Parayla ilişkini ikinci ev, Venüs ve Jüpiter anlatır."
+  ruh:
+    baslik: "İç dünya ve ruh hâli"
+    giris:
+      - "Duygusal ihtiyaçlarını Ay, iç dünyanı dördüncü ve on ikinci ev anlatır."
+ozet_baglac:
+  - "Bu üçlü birlikte okunduğunda:"
+  - "Üçünü bir araya koyunca ortaya çıkan portre şu:"
+  - "Güneş, Ay ve yükselen birlikte şunu söylüyor:"
+ucluler:
+  ayni_element: "Güneş, Ay ve yükselenin aynı elementte ({element}): içinle dışın tutarlı. İnsanlar seni nasıl görüyorsa, öylesin."
+  ayni_burc: "Güneş ve Ay aynı burçta: istediğinle hissettiğin aynı yönde. Bu güçlü bir odak verir; diğer bakış açılarına da yer açmak önemli."
+  ates_su: "İçinde ateş ile su bir arada: coşkuyla hassasiyet, cesaretle kırılganlık. Bu çelişki değil, derinliğinin kaynağı."
+  toprak_hava: "İçinde toprak ile hava bir arada: fikirlerle somut gerçeklik. Hayal kurar ve onu hayata geçirirsin."
+  karisik: "Güneşin, Ayın ve yükselenin farklı elementlerde: çok katmanlı bir kişiliksin. İnsanlar seni zamanla tanır."

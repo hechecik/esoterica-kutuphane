@@ -1,0 +1,46 @@
+kaynak: "İskambil falı (katina) geleneği ve kamu malı cartomancy kitapları; metin özgün"
+lang: tr
+# Kart anlamı = renk teması + sayı anlamı + (varsa) özel kart metni.
+renkler:
+  kupa: { ad: "Kupa", sembol: "♥", renk: kirmizi, tema: "aşk, aile, duygular", ton: 1 }
+  karo: { ad: "Karo", sembol: "♦", renk: kirmizi, tema: "para, haber, iş", ton: 1 }
+  sinek: { ad: "Sinek", sembol: "♣", renk: siyah, tema: "emek, dostluk, başarı", ton: 0 }
+  maca: { ad: "Maça", sembol: "♠", renk: siyah, tema: "engeller, sınavlar, uyarılar", ton: -1 }
+sayilar:
+  1: { ad: "As", anlam: "güçlü bir başlangıç ya da önemli bir haber" }
+  2: { ad: "İkili", anlam: "bir buluşma, bir ortaklık ya da bir seçim" }
+  3: { ad: "Üçlü", anlam: "bir gelişme, bir kutlama ya da üçüncü bir kişi" }
+  4: { ad: "Dörtlü", anlam: "istikrar, bir yerleşim ya da bekleyiş" }
+  5: { ad: "Beşli", anlam: "bir değişim, bir sarsıntı ya da bir haber" }
+  6: { ad: "Altılı", anlam: "kısa bir yol, bir geçiş ya da uyum" }
+  7: { ad: "Yedili", anlam: "bir sınav, bir sürpriz ya da beklenmedik bir durum" }
+  8: { ad: "Sekizli", anlam: "hareket, bir davet ya da hızlanan işler" }
+  9: { ad: "Dokuzlu", anlam: "bir dilek, bir doruk ya da yoğun bir dönem" }
+  10: { ad: "Onlu", anlam: "tamamlanma, bolluk ya da büyük bir sonuç" }
+  11: { ad: "Vale", anlam: "genç biri, bir haberci ya da bir düşünce" }
+  12: { ad: "Kız", anlam: "bir kadın ya da dişil bir etki" }
+  13: { ad: "Papaz", anlam: "bir erkek ya da otorite sahibi biri" }
+ozel:
+  kupa-1: "Kupa ası: evde sevinç, aşkta yeni bir sayfa; gönlün açılıyor."
+  kupa-10: "Kupa onlusu: ailede mutluluk, dileğin gerçekleşmesi; katinada en hayırlı kartlardan."
+  kupa-12: "Kupa kızı: sevecen, sıcak bir kadın; soran kadınsa onun kartı da olabilir."
+  kupa-13: "Kupa papazı: iyi niyetli, sevecen bir erkek; soran erkekse onun kartı da olabilir."
+  karo-1: "Karo ası: bir mektup, bir haber, bir para müjdesi."
+  karo-10: "Karo onlusu: para, yolculuk ya da iş için büyük bir değişim."
+  karo-9: "Karo dokuzlusu: yeni bir iş ya da maddi bir sürpriz."
+  sinek-1: "Sinek ası: emeğin karşılığı, başarı ve güçlü bir destek."
+  sinek-9: "Sinek dokuzlusu: beklenmedik bir kazanç ya da bir dostun yardımı."
+  sinek-10: "Sinek onlusu: bir yolculuk, bir taşınma ya da bolluk."
+  maca-1: "Maça ası: kesin bir karar, bir sınav; dikkat isteyen önemli bir dönem."
+  maca-9: "Maça dokuzlusu: kaygı, uykusuz geceler; ama endişenin çoğu gerçekleşmez."
+  maca-10: "Maça onlusu: bir zorluğun sonu; dipten sonra yükseliş."
+  maca-12: "Maça kızı: kıskanç ya da soğuk bir kadın; ya da yalnızlık dönemi."
+  maca-13: "Maça papazı: sert, kuralcı bir erkek; bir otorite ya da hukuk işi."
+genel:
+  kirmizi: "Açılımda kırmızı kartlar ağır basıyor: duygular, haberler ve iyi gelişmeler ön planda."
+  siyah: "Açılımda siyah kartlar ağır basıyor: emek, sınav ve dikkat isteyen konular ön planda."
+  dengeli: "Kırmızı ve siyah kartlar dengede: hem sevinç hem çaba var."
+  ayni_sayi: "Birden fazla {sayi} çıktı: {anlam} teması güçlü."
+acilimlar:
+  uc: { ad: "Üç kart", pozisyonlar: ["Geçmiş", "Şimdi", "Gelecek"] }
+  yedi: { ad: "Katina (yedi kart)", pozisyonlar: ["Kendin", "Evin", "Beklediğin", "Beklemediğin", "Yakın gelecek", "Uzak gelecek", "Kalbin dileği"] }

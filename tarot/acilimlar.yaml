@@ -1,0 +1,68 @@
+kaynak: "Esoterica tarot açılımları; metin özgün"
+lang: tr
+acilimlar:
+  tek:
+    ad: "Tek kart"
+    aciklama: "Günün ya da sorunun özü, tek bir kartla."
+    pozisyonlar: [{ ad: "Mesaj", cerceve: "Kartın sana söylediği:" }]
+  uc:
+    ad: "Geçmiş, şimdi, gelecek"
+    aciklama: "Sorunun zamandaki yolculuğu."
+    pozisyonlar:
+      - { ad: "Geçmiş", cerceve: "Bu durumun kökünde:" }
+      - { ad: "Şimdi", cerceve: "Şu an olan:" }
+      - { ad: "Gelecek", cerceve: "Gidişat:" }
+  karar:
+    ad: "İki yol"
+    aciklama: "Bir karar anında iki seçeneği yan yana koyar."
+    pozisyonlar:
+      - { ad: "Durum", cerceve: "Seçimin özü:" }
+      - { ad: "Birinci yol", cerceve: "İlk seçeneği seçersen:" }
+      - { ad: "İkinci yol", cerceve: "İkinci seçeneği seçersen:" }
+      - { ad: "Öğüt", cerceve: "Karar verirken unutma:" }
+  iliski:
+    ad: "İlişki"
+    aciklama: "İki kişi ve aralarındaki bağ."
+    pozisyonlar:
+      - { ad: "Sen", cerceve: "Senin bu ilişkideki hâlin:" }
+      - { ad: "O", cerceve: "Karşı tarafın hâli:" }
+      - { ad: "Aranızdaki bağ", cerceve: "İkinizin arasında:" }
+      - { ad: "Engel", cerceve: "Önünüzdeki zorluk:" }
+      - { ad: "Gidişat", cerceve: "Bu bağın yönü:" }
+  kariyer:
+    ad: "Kariyer"
+    aciklama: "İş, hedef ve atılacak adım."
+    pozisyonlar:
+      - { ad: "Şu anki konum", cerceve: "İşte bugün durduğun yer:" }
+      - { ad: "Güçlü yanın", cerceve: "Elindeki koz:" }
+      - { ad: "Zorluk", cerceve: "Aşman gereken:" }
+      - { ad: "Fırsat", cerceve: "Önüne çıkacak:" }
+      - { ad: "Sonuç", cerceve: "Bu yoldan gidersen:" }
+  kelt:
+    ad: "Kelt haçı"
+    aciklama: "On kartlık klasik ve derin açılım."
+    pozisyonlar:
+      - { ad: "Durum", cerceve: "Meselenin kalbi:" }
+      - { ad: "Engel", cerceve: "Önüne çıkan (çaprazlayan) güç:" }
+      - { ad: "Kök", cerceve: "Bilinçaltındaki temel:" }
+      - { ad: "Yakın geçmiş", cerceve: "Geride kalmakta olan:" }
+      - { ad: "Olasılık", cerceve: "Bilinçli hedef, ulaşılabilecek en iyi:" }
+      - { ad: "Yakın gelecek", cerceve: "Kapıda olan:" }
+      - { ad: "Sen", cerceve: "Senin tutumun:" }
+      - { ad: "Çevre", cerceve: "Çevrenin etkisi:" }
+      - { ad: "Umut ve korku", cerceve: "İçinde hem istediğin hem çekindiğin:" }
+      - { ad: "Sonuç", cerceve: "Bu gidişle varılacak yer:" }
+genel:
+  buyuk_cok: "Açılımda çok sayıda Büyük Arkana kartı var: bu dönem hayatında büyük, kader düzeyinde dönüşümler yaşanıyor; olayların önemli bir kısmı senin kontrolünün dışında."
+  buyuk_yok: "Açılımda Büyük Arkana kartı yok: mesele günlük hayatın içinde ve büyük ölçüde senin elinde."
+  ters_cok: "Kartların çoğu ters geldi: enerji içe dönük ya da tıkalı; dışarıdaki engellerden çok içerideki dirence bak."
+  seri_baskin: "{seri} serisi baskın ({tema}): bu açılımın ana dili bu."
+  ayni_rutbe: "Birden fazla {rutbe} var: {tema} teması tekrar ediyor; vurgu güçlü."
+acilis:
+  - "Deste karıştırıldı, kartlar seçildi. Bakalım ne söylüyorlar."
+  - "Kartlar masada. Önce tek tek, sonra birlikte okuyacağız."
+  - "Seçtiğin kartlar açıldı."
+kapanis:
+  - "Kartlar bir yol göstermez, bir ayna tutar. Yürüyen sensin."
+  - "Bu açılım bugünün fotoğrafı; yarın aynı soruya başka kartlar gelebilir, çünkü sen de değişiyorsun."
+  - "Kartlar konuştu; kararı kalbinle aklın birlikte versin."
